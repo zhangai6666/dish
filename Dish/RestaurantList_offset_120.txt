@@ -1,0 +1,240 @@
+id = 4ef37ab6b6342877b74a5397
+name = Cafe Malta
+location = lat = 30.21303959487059, lng = -97.83047714376887
+Address = [3421 W William Cannon Dr, Austin, TX 78745]
+tag = Mediterranean Restaurant
+rating = 8.9
+Menu not available
+
+id = 53a100c2498e37cf410b74fc
+name = Veracruz All Natural
+location = lat = 30.231547, lng = -97.78795
+Address = [4204 Manchaca Rd (Fort View), Austin, TX 78704]
+tag = Taco Place
+rating = 8.9
+Menu not available
+
+id = 4c60432213791b8d5e154faf
+name = Maggiano's Little Italy
+location = lat = 30.395130314110585, lng = -97.72724017149385
+Address = [10910 Domain Dr Ste 100, Austin, TX 78758]
+tag = Italian Restaurant
+rating = 8.9
+Cheese Flatbread Pizza  $5.95    Cheese Ravioli  $5.95    Ziti Pasta  $5.95    Mom's Lasagna  $5.95    Spaghetti  $5.95    Breaded Or Grilled Chicken Breast  $5.95    Mac 'N Cheese a La Maggiano's  $5.95    Coca-Cola  $0    Sprite  $0    Diet Coke  $0    Barq's  $0    Dr Pepper  $0    Minute Maid Lemonade  $0    Bruschetta  $9.95    Spinach & Artichoke Al Forno  $10.95    Tomato Caprese  $9.95    Mozzarella Marinara  $10.95    Calamari Fritté  $12.95    Crispy Zucchini Fritté  $10.95    Stuffed Mushrooms  $10.95    Steamed Mussels  $13.50    Sausage & Peppers  $9.50    Margherita Flatbread  $10.95    Italian Sausage Flatbread  $10.95    Chicken Sausage Flatbread  $10.95    Chicken & Roasted Pepper Flatbread  $11.95    Creamy Tomato Basil Soup  $3.95    Tuscan Chicken Sausage Soup  $3.95    Italian Tossed Salad  $5.25    Caesar Salad  $5.25    Spinach Salad*  $6.25    Maggiano's Salad  $5.75    Chopped Salad  $6.25    Grilled Salmon Salad  $15.95    Grilled Chicken Caprese Salad  $14.95    Meatball  $12.25    Italian Grilled Cheese & Ham  $12.25    Chicken Parmesan  $13.25    Honey Mustard Salmon Club  $15.25    Ciabatta Rolls  $0    Choose a Salad  $0    Choose a Pasta  $0    Choose An Entrée  $0    One Dozen Vera's Lemon Cookies  $0    Mom's Lasagna  $13.50    Spaghetti  $11.75    Spaghetti & Meatball  $13.95    Angel Hair Vegetable Primavera  $11.75    Taylor Street Baked Ziti  $14.25    Four-Cheese Ravioli*  $14.25    Baked Eggplant Parmesan  $14.50    Fettuccine Alfredo  $13.95    Mushroom Ravioli Al Forno  $13.95    Braised Beef Pappardelle  $14.50    Our Famous Rigatoni "D"  $16.95    Chef Mann's Country-Style Pasta  $15.95    Gnocchi & Italian Sausage  $15.95    Chicken & Spinach Manicotti  $17.50    Crispy Vesuvio Potatoes  $0    Garlic Mashed Potatoes  $0    Sautéed Spinach  $0    Green Beans with Bacon  $0    Fresh Grilled Asparagus  $0    Sautéed Vegetables  $0    Spaghetti Marinara  $0    Spaghetti Aglio Olio  $0    Hand-Shucked Corn with Bacon  $0    Chicken Parmesan  $17.95    Chicken Piccata  $17.95    Chicken Marsala  $17.95    Chicken Francese  $17.95    Chicken Saltimbocca  $18.50    Chicken Caprese  $17.95    Tuscan Shrimp & Chicken  $18.95    Shrimp Scampi  $22.50    Shrimp Fra Diavolo  $22.50    Chef Kb's Lobster Carbonara  $26.50    Linguine Di Mare  $24.50    Jumbo Lump Crab Cakes  $30.95    Linguine & Clams  $16.95    Parmesan-Crusted Tilapia  $18.95    Grilled Salmon Lemon & Herb  $22.50    Balsamic-Glazed Salmon  $23.50    Salmon Oscar  $27.50    Beef Tenderloin Medallions**  $28.95    Prime New York Steak**  $46.95    Center-Cut Filet Mignon**  $38.95    Veal Parmesan  $26.75    Veal Piccata  $28.25    Veal Marsala  $28.25    Vera's Lemon Cookies  $3.25    Italian Spumoni*  $4.50    Warm Apple Crostada  $7.95    Double Chocolate Brownie  $7.95    Tiramisu  $7.95    Gigi's Butter Cake  $7.95    Chocolate Zuccotto Cake  $7.95    Chocolate Zuccotto Bites  $3.50    New York Style Cheesecake  $7.95    Fresh Roasted Coffee  $0    Cappuccino  $0    Espresso  $0    Harney & Sons Hot Tea  $0    Brandy Alexander  $0    White Russian  $0    Chocolate Martini  $0    Irish Cream Coffee  $0    Nutty Italian Coffee  $0    Sicilian Coffee  $0    Michele Charlo Nivole Moscato D'asti  $0    Fonseca Bin No. 27  $0    Sandeman Founders Reserve  $0    Fonseca 10 Yr Tawny  $0    Taylor Fladgate 20 Yr Tawny  $0    Mini Dessert Sampler  $3.50    Warm Apple Crostada  $7.95    New York Style Cheesecake  $7.95    Nonna's Toasted Pound Cake  $7.95    Crème Brulée  $7.95    Chocolate Zuccotto Cake  $7.95    Zuccotto Bites  $3.50    Tiramisu  $7.95    Vera's Lemon Cookies  $3.25    Vanilla Bean Profiteroles  $2.95    Italian Spumoni  $4.50    Vanilla Bean Ice Cream  $3.75    Bruschetta  $37.00    Spinach & Artichoke Al Forno  $30.95    Tomato Caprese  $38.50    Stuffed Mushrooms  $31.00    Sausage & Peppers  $27.95    Mini Crab Cakes  $30.00    Mini Meatballs  $24.00    Asiago-Crusted Shrimp  $30.00    Italian Tossed Salad  $32.95    Caesar Salad  $32.95    Maggiano's Salad  $35.95    Spinach Salad*  $38.25    Chopped Salad  $38.25    Grilled Chicken Caprese Salad  $40.50    Mom's Lasagna  $74.95    Baked Eggplant Parmesan  $74.95    Four-Cheese Ravioli*  $38.95    Mushroom Ravioli Al Forno  $37.95    Taylor Street Baked Ziti^  $49.95    Tuscan Shrimp & Chicken  $67.95    Chef Mann's Country-Style Pasta  $57.25    Chicken & Spinach Manicotti  $63.00    Spaghetti  $42.50    Spaghetti & Meatballs  $49.50    Angel Hair Vegetable Primavera  $42.50    Fettuccine Alfredo^  $49.95    Our Famous Rigatoni "D"  $60.75    Braised Beef Pappardelle  $74.95    Chicken Parmesan^  $72.75    Chicken Piccata^  $72.75    Chicken Marsala^  $72.75    Chicken Francese^  $72.75    Chicken Saltimbocca^  $74.75    Chicken Caprese  $72.75    Grilled Salmon Lemon & Herb**  $67.95    Veal Parmesan^  $81.25    Veal Piccata^  $87.95    Veal Marsala^  $87.95    Beef Medallions**  $138.00    Sautéed Spinach  $39.50    Garlic Mashed Potatoes  $39.50    Green Beans with Bacon  $39.50    Crispy Vesuvio Potatoes  $39.50    Fresh Grilled Asparagus  $39.50    Sautéed Vegetables  $39.50    Vera's Lemon Cookies  $5.00    Cookies  $18.95    Mini Apple Crostada  $29.95    Mini Cheesecake  $29.95    Mini Crème Brûlée  $29.95    Tiramisu  $46.50    Whole Cheesecake  $63.50    Whole Chocolate Zuccotto Cake  $55.50    Chocolate Zuccotto Bites  $9.95    Iced Tea  $7.00    Flavored Iced Tea  $9.00    Lemonade  $9.00    Raspberry Lemonade  $10.00    Bottled Water Or Canned Sodas  $1.50    Ciabatta Rolls  $0    Choice of Salad  $0    Choice of Pasta  $0    Choice of Entrée  $0    Mini Desserts  $0    Calamari Fritté  $12.95    Stuffed Mushrooms  $10.95    Tomato Caprese  $9.95    Bruschetta  $9.95    Crispy Zucchini Fritté  $10.95    Mozzarella Marinara  $10.95    Margherita Flatbread  $10.95    Chicken Sausage Flatbread  $10.95    Italian Sausage Flatbread  $10.95    Chicken & Roasted Pepper Flatbread  $11.95    Italian Tossed Salad  $11.95    Caesar Salad  $11.95    Spinach Salad*  $14.25    Maggiano's Salad  $13.25    Chopped Salad  $14.25    Grilled Chicken Caprese Salad  $14.95    Grilled Salmon Salad  $15.95    Fresh Made Soups  $3.95    Meatball  $12.25    Italian Grilled Cheese & Ham  $12.25    Chicken Parmesan  $13.25    Honey Mustard Salmon Club  $15.25    Creamy Tomato Basil  $0    Tuscan Chicken Sausage  $0    Caesar  $0    Maggiano's  $0    Chopped  $0    Italian  $0    Spinach*  $0    Meatball  $0    Italian Grilled Cheese & Ham  $0    Chicken Parmesan  $0    Honey Mustard Salmon Club  $0    Our Famous Rigatoni "D"®  $16.95    Chicken & Spinach Manicotti  $17.50    Chef Mann's Country-Style Pasta  $15.95    Gnocchi & Italian Sausage  $15.95    Chicken Parmesan  $15.95    Chicken Scaloppine  $15.95    Chicken Francese  $15.95    Chicken Caprese  $15.95    Shrimp Scampi  $18.50    Shrimp Fra Diavolo  $22.50    Grilled Salmon Lemon & Herb  $20.50    Jumbo Lump Crab Cakes  $20.95    Parmesan-Crusted Tilapia  $15.95    Spaghetti  $13.95    Spaghetti & Meatball  $13.95    Angel Hair Vegetable Primavera  $13.95    Baked Eggplant Parmesan  $13.95    Taylor Street Baked Ziti  $13.95    Fettuccine Alfredo  $13.95    Mom's Lasagna  $15.95    Four-Cheese Ravioli*  $15.95    Mushroom Ravioli Al Forno  $15.95    Braised Beef Pappardelle  $15.95    Choose Any Appetizer Or Flatbread Or Two Side Salads  $0    Choose Two Classic Pastas  $0    Choose One Dessert  $0    Plus Two Classic Pastas to Take Home  $0    Italian Antipasti  $0    Caesar Salad  $0    Italian Tossed Salad  $0    Maggiano's Salad  $0    Chopped Salad  $0    Sausage & Peppers  $0    Mozzarella Marinara  $0    Stuffed Mushrooms  $0    Crispy Zucchini Fritté  $0    Spinach & Artichoke Al Forno  $0    Calamari Fritté  $0    Steamed Mussels  $0    Our Famous Rigatoni "D"®  $0    Fettuccine Alfredo^  $0    Spaghetti & Meatballs  $0    Spaghetti & Marinara Sauce  $0    Spaghetti & Meat Sauce  $0    Angel Hair Vegetable Primavera  $0    Mom's Lasagna  $0    Taylor Street Baked Ziti^  $0    Gnocchi & Italian Sausage  $0    Baked Eggplant Parmesan  $0    Chicken & Spinach Manicotti  $0    Four-Cheese Ravioli*  $0    Braised Beef Pappardelle  $0    Mushroom Ravioli Al Forno  $0    Linguine & Clams  $0    Chef Mann's Country-Style Pasta  $0    Tuscan Shrimp & Chicken  $0    Shrimp Scampi  $0    Shrimp Fra Diavolo  $0    Vera's Lemon Cookies  $0    Chocolate Zuccotto Bites  $0    Chocolate Zuccotto Cake  $0    Apple Crostada  $0    New York Style Cheesecake  $0    Spumoni*  $0    Tiramisu  $0    Gigi's Butter Cake  $0    Double Chocolate Brownie  $0    Crème Brûlée  $0    Italian Antipasti  $0    Caesar Salad  $0    Italian Tossed Salad  $0    Maggiano's Salad  $0    Chopped Salad  $0    Sausage & Peppers  $0    Mozzarella Marinara  $0    Stuffed Mushrooms  $0    Crispy Zucchini Fritté  $0    Spinach & Artichoke Al Forno  $0    Calamari Fritté  $0    Steamed Mussels  $0    Our Famous Rigatoni "D"®  $0    Fettuccine Alfredo^  $0    Spaghetti & Meatballs  $0    Spaghetti & Marinara Sauce  $0    Spaghetti & Meat Sauce  $0    Angel Hair Vegetable Primavera  $0    Mom's Lasagna  $0    Taylor Street Baked Ziti^  $0    Gnocchi & Italian Sausage  $0    Baked Eggplant Parmesan  $0    Chicken & Spinach Manicotti  $0    Four-Cheese Ravioli*  $0    Braised Beef Pappardelle  $0    Mushroom Ravioli Al Forno  $0    Linguine & Clams  $0    Chef Mann's Country-Style Pasta  $0    Tuscan Shrimp & Chicken  $0    Shrimp Scampi  $0    Shrimp Fra Diavolo  $0    Chicken Parmesan^  $0    Chicken Marsala^  $0    Chicken Piccata^  $0    Chicken Saltimbocca^  $0    Chicken Caprese  $0    Veal Parmesan^  $0    Veal Piccata^  $0    Veal Marsala^  $0    Parmesan-Crusted Tilapia  $0    Grilled Salmon Lemon & Herb  $0    Balsamic-Glazed Salmon  $0    Vera's Lemon Cookies  $0    Chocolate Zuccotto Bites  $0    Chocolate Zuccotto Cake  $0    Apple Crostada  $0    New York Style Cheesecake  $0    Spumoni*  $0    Tiramisu  $0    Gigi's Butter Cake  $0    Double Chocolate Brownie  $0    Crème Brûlée  $0    Bruschetta  $9.95    Spinach & Artichoke Al Forno  $10.95    Tomato Caprese  $9.95    Mozzarella Marinara  $10.95    Calamari Fritté  $12.95    Crispy Zucchini Fritté  $10.95    Stuffed Mushrooms  $10.95    Steamed Mussels  $13.50    Sausage & Peppers  $9.50    Margherita Flatbread  $10.95    Italian Sausage Flatbread  $10.95    Chicken Sausage Flatbread  $10.95    Chicken & Roasted Pepper Flatbread  $11.95    Creamy Tomato Basil Soup  $5.95    Tuscan Chicken Sausage Soup  $5.95    Italian Tossed Salad  $5.25    Caesar Salad  $11.95    Spinach Salad*  $14.25    Maggiano's Salad  $13.25    Chopped Salad  $14.25    Grilled Salmon Salad  $15.95    Grilled Chicken Caprese Salad  $14.95    Spaghetti  $13.95    Spaghetti & Meatball  $13.95    Baked Eggplant Parmesan  $13.95    Angel Hair Vegetable Primavera  $13.95    Fettuccine Alfredo  $13.95    Taylor Street Baked Ziti  $13.95    Mushroom Ravioli Al Forno  $15.95    Mom's Lasagna  $15.95    Four-Cheese Ravioli*  $15.95    Braised Beef Pappardelle  $15.95    Choose Any Appetizer Or Flatbread Or Two Side Salads  $0    Choose Two Classic Pastas  $0    Choose One Dessert  $0    Plus Two Classic Pastas to Take Home  $0    Tuscan Shrimp & Chicken  $18.95    Shrimp Scampi  $22.50    Shrimp Fra Diavolo  $22.50    Chef Kb's Lobster Carbonara  $26.50    Linguine Di Mare  $24.50    Jumbo Lump Crab Cakes  $30.95    Linguine & Clams  $16.95    Parmesan-Crusted Tilapia  $18.95    Grilled Salmon Lemon & Herb  $22.50    Balsamic-Glazed Salmon  $23.50    Salmon Oscar  $27.50    Our Famous Rigatoni "D"®  $16.95    Chef Mann's Country-Style Pasta  $15.95    Gnocchi & Italian Sausage  $15.95    Chicken & Spinach Manicotti  $17.50    Chicken Parmesan  $17.95    Chicken Piccata  $17.95    Chicken Marsala  $17.95    Chicken Francese  $17.95    Chicken Saltimbocca  $18.50    Chicken Caprese  $17.95    Beef Tenderloin Medallions**  $28.95    Prime New York Steak**  $46.95    Center-Cut Filet Mignon**  $38.95    Veal Parmesan  $26.75    Veal Piccata  $28.25    Veal Marsala  $28.25    Crispy Vesuvio Potatoes  $0    Garlic Mashed Potatoes  $0    Fresh Grilled Asparagus  $0    Sautéed Spinach  $0    Green Beans with Bacon  $0    Sautéed Vegetables  $0    Spaghetti Marinara  $0    Spaghetti Aglio Olio  $0    Hand-Shucked Corn with Bacon  $0    Premium Draft Beer  $3.00    Flatbreads  $4.00    Coppola Wines By the Glass  $5.00    Select Handcrafted Classic Cocktails  $6.00    Arnold Palmer  $0    Flavored Iced Tea  $0    Raspberry Lemonade  $0    Lemonade  $0    Iced Tea  $0    San Pellegrino  $0    Aqua Panna  $0    Coca-Cola®  $0    Diet Coke®  $0    Coke Zero®  $0    Dr Pepper®  $0    Sprite®  $0    Barq's® Root Beer  $0    Harney & Sons Hot Tea  $0    Fresh Roasted Lavazza Coffee  $0    Lavazza Cappuccino  $0    Lavazza Espresso  $0    Perfect G+t  $0    Lorenzo's Long Island  $0    Negroni  $0    Pomegranate Martini  $0    Manhattan  $0    Old Fashioned  $0    "W" Sour  $0    Mulo Romano  $0    Italian Greyhound  $0    Primo Margarita  $0    The Sicilian  $0    Italian Tea  $0    Moscato Mojito  $0    Dark 'N Stormy  $0    Frozen Peach Bellini  $8.00    Frozen Bellini Swirl  $8.00    Handcrafted Seasonal Sangria  $9.00    Maggiano's Italian Sangria  $8.00    Goose Island Ipa  $0    Peroni  $0    Stella Artois  $0    Bud Light  $0    Birra Moretti  $0    Sam Adams Nitro Coffee Stout  $0    Red Bridge  $0    Coors Light  $0    Miller Lite  $0    Bud Light  $0    Chateau Ste. Michelle, Columbia Valley  $9.00    Robert Mondavi, "Private Selection", California  $8.00    Sonoma-Cutrer, Russian River  $12.50    Nobilo, Marlborough  $9.00    Rodney Strong, "Charlotte's Home", Sonoma  $10.00    Villa Maria, "Private Bin", Marlborough  $12.00    Riesling, Chateau Ste. Michelle, Columbia Valley  $7.50    White Zinfandel, Copper Ridge, California  $6.50    Pinot Grigio, Coppola, California  $8.00    Moscato, Seven Daughters, Doc, Veneto  $9.00    Pinot Grigio, Ecco Domani, Igt, Delle Venezie  $8.00    Pinot Grigio, Kris, Igt, Delle Venezie  $9.00    Pinot Grigio, Mazzoni, Igt, Tuscany  $10.50    Dry Rosé, Castello Monaci, "Kreos," Igt, Puglia  $9.00    Mumm, "Prestige," Brut, Napa Valley  $55.00    Ruffino, Prosecco, Doc, Veneto  $7.50    Italian Red, Toscana Igt  $8.00    Italian White, Umbria Igt  $8.00    Duckhorn, "Decoy", Sonoma  $12.50    J. Lohr, "Seven Oaks", Paso Robles  $10.50    Louis M. Martini, California  $10.00    Rodney Strong, Alexander Valley  $12.00    Hogue Cellars, Washington  $8.00    14 Hands, Washington  $8.50    Swanson, Napa Valley  $50.00    Tangley Oaks, Napa Valley  $10.00    Estancia, Monterey  $9.50    Meiomi, California  $12.50    Cherry Tart, California  $11.00    Red Blend, Apothic, California  $8.00    Syrah, Charles Smith, "Boom Boom", Washington  $10.00    Zinfandel, Cline, "Ancient Vines", California  $11.00    Malbec, Terrazas De Los Andes, Mendoza  $9.00    Barbera, Marchesi Di Barolo, "Maraia," Doc, Piedmont  $9.00    Chianti, Castello Di Gabbiano, Docg, Tuscany  $8.00    Chianti Classico, Villa Nozzole, Docg, Tuscany  $12.00    Rosso, Villa Antinori, Igt, Tuscany  $50.00    Lambrusco, Cavicchioli Dolce, Igt, Emilia-Romagna  $7.00    Red Blend, the Prisoner, Napa Valley  $16.00    Pinot Noir, Belle Glos, "Clark and Telephone", Santa Maria Valley  $65.00    Cabernet Sauvignon, Caymus, Napa Valley  $110.00    Cabernet Sauvignon, Silver Oak, Alexander Valley  $95.00    Cabernet Sauvignon, Hess, "Shirtail Ranches", North Coast  $15.00    Amarone, Zenato, Docg, Veneto  $100.00    Barolo, Pertinace, Docg, Piedmont  $60.00    Chianti Classico, Ruffino, "Riserva Ducale Oro," Gran Selezione Docg, Tuscany  $60.00    Dom Pérignon, Brut, Épernay  $190.00    
+
+id = 4dda8b8a1838b8561d3293fa
+name = French Quarter Grille
+location = lat = 30.412130943531004, lng = -97.67587178762413
+Address = [13000 N Interstate 35 (Parmer), Austin, TX 78753]
+tag = Cajun / Creole Restaurant
+rating = 8.9
+Crawfish Beignets  $8.95    Fried Green Tomatoes  $8.95    Fried Crawfish  $8.95    Cup of Jumbo  $5.95    Bowl of Gumbo  $10.95    Cup of Etouffee  $5.95    Bowl of Etouffee  $10.95    Catfish Etouffee  $13.95    Catfish Gumbo  $13.95    Jumbo Shrimp  $12.95    Blackened Chicken Etouffee  $11.95    Shrimp Creole  $12.95    Red Beans & Rice  $11.95    Red Beans & Rice  $10.95    
+
+id = 52b22a64498ec5b9cc4cbbef
+name = Wu Chow
+location = lat = 30.26853565772465, lng = -97.74798053903727
+Address = [500 W 5th St (5th & San Antonio), Austin, TX 78701]
+tag = Chinese Restaurant
+rating = 8.9
+Menu not available
+
+id = 4a36f17df964a520089e1fe3
+name = Phó Vân
+location = lat = 30.361209755124445, lng = -97.71545112199546
+Address = [8557 Research Blvd (at Fairfield Drive), Austin, TX 78758]
+tag = Vietnamese Restaurant
+rating = 8.9
+Menu not available
+
+id = 4bf2e58794af2d7f14e13872
+name = Bartlett's
+location = lat = 30.356818700786526, lng = -97.73139306027873
+Address = [2408 W Anderson Ln (at Burnet Rd.), Austin, TX 78757]
+tag = Steakhouse
+rating = 8.9
+Menu not available
+
+id = 4c583b1c30d82d7ff28fdb62
+name = Kerbey Lane Cafe
+location = lat = 30.222881805865253, lng = -97.84149169921875
+Address = [4301 W William Cannon Dr (Brush Country), Austin, TX 78749]
+tag = Café
+rating = 8.9
+Jr. Breakfast Platter  $3.50    Oatmeal  $2.75    Pancake  $2.50    French Toast  $2.50    Grilled Cheese  $3.25    A Really Good Burger!  $4.95    Chicken Sandwich  $4.95    Peanut Butter & Jelly  $2.75    Bean & Cheese Taco  $2.75    Soft Chicken Taco  $4.25    Cheese Enchilada  $3.50    Cheese Quesadilla  $3.25    Jr. Milk  $0.99    Jr. Soda  $1.29    Jr. Hot Chocolate  $1.29    Orange, Cranberry Or Apple Juice  $1.29    Kerbey Queso**  $8.50    Cowboy Queso**  $8.50    Classic Or Vegan Queso**  $6.50    Hummus & Pita**  $5.95    Sweet Potato Fries**  $4.95    Nabil's Mid-East Feast**  $9.95    Red Quinoa Salad**  $10.95    Cobb Salad  $10.95    Southwestern Grilled Chicken Salad**  $10.95    Chipotle Chicken Club  $9.50    Buffalo Chicken Sandwich  $10.50    Turkey & Avocado Sandwich  $8.95    Chicken Pesto Panini  $9.50    Black Angus Bacon Cheeseburger  $11.95    Jalapeño Blue Cheese Bison Burger  $12.95    Queso Philly  $11.95    Greek Lamb Burger  $12.95    Good Seed Veggie Burger**  $8.95    Bacon Wrapped Meatloaf  $12.95    Chicken Fried Steak  $12.50    Green Chile Mac  $12.50    Chicken Fried Chicken  $11.95    Greek Chicken**  $11.95    Bacon Pesto Chicken  $12.50    Blackened Fish Tacos  $10.95    Achiote Pulled Pork Tacos  $10.50    Fried Avocado Tacos**  $9.50    David's Enchiladas**  $9.50    Soups**  $3.95    Side Salad**  $3.95    Vegetables  $2.75    Soft Drinks  $2.50    Maine Root Sodas  $2.50    Iced Or Hot Tea  $2.75    Chai Tea  $3.50    Chilaquiles  $9.95    Crispy Chicken Benedict  $12.50    Eggs Francisco  $9.95    Kerbey Scramble**  $8.95    French Toast Platter**  $8.50    Migas**  $8.50    Paris Texas Platter**  $8.95    American Classic**  $8.95    Vegan Breakfast Platter**  $9.50    Homefries  $1.95    Toast  $1.95    English Muffin  $1.95    Scratch Made Biscuit  $1.95    Black Beans  $1.95    Seasonal Fresh Fruit  $1.95    One Egg*  $1.95    Cinnamon Roll  $2.75    All-Natural Ham* Steak  $3.00    All-Natural Turkey* Sausage  $3.00    Substitute Egg* Whites  $0.95    Homefries  $0    Toast  $0    English Muffin  $0    Scratch Made Biscuit  $0    Fruit  $0    Black Beans  $0    Fresh Squeezed Orange Juice  $2.50    Third Coast Fair Trade Coffee  $2.75    Apple Cider, Cranberry Or Grapefruit Juice  $2.50    Hot Cocoa  $2.75    Tea  $2.75    Chai Tea  $3.50    Fresh Squeezed Lemonade  $2.75    Mimosa  $2.00    Milk  $1.95    Baked Potato Omelet  $0    Chicken Verde Omelet  $0    Harvest Omelet**  $0    Denver Omelet  $0    Portobello Omelet**  $0    California Omelet**  $0    The Kerbey Lane Combo  $9.50    Breakfast Quesadilla**  $8.95    Breakfast Platter**  $7.95    Biscuits, Eggs, Gravy & All-Natural Sausage  $8.50    Breakfast Tacos**  $3.95    French Toast**  $6.95    Pancakes**  $3.95    Gluten Free Pancakes** ^  $4.35    Brownie Fudge Sundae  $5.75    Tootie's Apple Pie  $5.95    Seasonal Dessert  $5.75    New York Cheesecake  $5.75    Fresh Baked Cake  $5.75    Espresso  $2.25    Cappuccino  $3.50    Latté  $3.75    Mocha  $3.95    Extra Shot  $0.95    Hot Cocoa  $2.75    Hot Apple Cider  $3.75    Mimosa  $2.00    Chili-Queso Fries  $8.95    Eggplant Tartine  $8.95    Chili & Cornbread  $4.95    Pork Belly Francisco  $12.95    Godfather Benedict  $12.95    Texas Benedict  $12.95    Corned Beef Hash  $9.95    Chicken & Pancakes  $10.95    Kerbey Kick Start  $10.95    Pumpkin Pancakes  $5.95    Pumpkin French Toast Platter  $10.95    Pumpkin Paris Texas Platter  $10.95    Sweet Potato Pie  $5.75    Whole Hog Sliders  $11.95    Trinity Grilled Cheese  $11.95    Lone Star Reuben  $12.95    Pompeii Burger  $12.95    Greek Lamb Burger  $12.95    Vegan Bbq Sandwich  $10.95    Citrus Steak Salad  $11.95    Frito Pie  $10.95    Pork Belly Mac & Cheese  $12.95    Red Quinoa Power Bowl  $11.95    Bacon Wrapped Meatloaf  $12.95    Texas Street Tacos  $10.95    Kerbey Queso  $0    Cowboy Queso  $0    Classic Or Vegan Queso  $0    Sweet Potato Fries  $0    Spicy Chicken Tortilla Soup  $0    Veggie Chili  $0    House Salad  $0    Caesar Salad  $0    Southwestern Chicken Salad  $0    Red Quinoa Salad  $0    Cobb Salad  $0    Nabil's Mid-East Feast  $0    Turkey & Avocado Sandwich  $0    Chicken Pesto Panini  $0    Black Angus Bacon Cheeseburger  $0    Chipotle Chicken Club  $0    Buffalo Chicken Sandwich  $0    Good Seed Burger  $0    Bacon Pesto Chicken  $0    Greek Chicken  $0    David's Enchiladas  $0    Blackened Fish Tacos  $0    Achiote Pulled Pork Tacos  $0    Migas  $0    Chilaquiles  $0    Breakfast Platter  $0    Paris Texas Platter  $0    Breakfast Tacos  $0    French Toast  $0    Gluten Free Pancakes  $0    American Classic  $0    Eggs Francisco  $0    Denver Omelet  $0    Chicken Verde Omelet  $0    California Omelet  $0    Baked Potato Omelet  $0    Harvest Omelet  $0    Portobello Omelet  $0    Kerbey Lane Combo  $0    Breakfast Quesadilla  $0    Kerbey Scramble  $0    American Classic  $0    French Toast Platter  $0    Seasonal Fruit  $0    Homefries  $0    Sweet Or French Fries  $0    Rice  $0    Black Beans  $0    Refried Black Beans  $0    Garlic Mashed Potatoes  $0    Bacon Cheddar Mashed Potatoes  $0    Seasonal Vegetable  $0    Collard Greens  $0    Steamed Spinach  $0    Tortilla Chips  $0    Gluten Free Bread & Buns  $0    Chips & Salsa  $0    Sweet Potato Fries  $0    Hummus & Pita  $0    Vegan Queso  $0    House Salad  $0    Veggie Chili  $0    Good Seed Burger  $0    Southwestern Salad  $0    Nabil's Mid-East Feast  $0    Red Quinoa Salad  $0    Greek Portobello  $0    Vegan Breakfast Tacos  $0    Migas with Tofu Scramble  $0    Vegan Pancakes  $0    Harvest Omelet  $0    Portobello Omelet  $0    California Omelet  $0    Vegan Breakfast Platter  $0    Kerbey Scramble  $0    Seasonal Fruit  $0    Homefries  $0    Sweet Potato Or French Fries  $0    Rice  $0    Black Beans  $0    Refried Black Beans  $0    Steamed Spinach  $0    Tortilla Chips  $0    Seasonal Vegetable  $0    Sourdough Toast  $0    Wheat Toast  $0    English Muffin  $0    Texas Toast  $0    Ranchero  $0    Chipotle  $0    Verde  $0    Salsa  $0    
+
+id = 4c9c05ed9c48236a84a74aee
+name = Kebabalicious
+location = lat = 30.264657548585003, lng = -97.72824787422302
+Address = [1311 E 7th St (Navasota St), Austin, TX 78702]
+tag = Food Truck
+rating = 8.9
+Menu not available
+
+id = 4b0c982ff964a520d83f23e3
+name = Taco More
+location = lat = 30.36802628944589, lng = -97.70643698845771
+Address = [9400 Parkfield Dr (Rundberg Ln), Austin, TX 78758]
+tag = Taco Place
+rating = 8.9
+Menu not available
+
+id = 49c5058bf964a520dc561fe3
+name = Live Oak Market
+location = lat = 30.229198, lng = -97.789183
+Address = [4410 Manchaca Rd (at W Ben White Blvd), Austin, TX 78745]
+tag = Deli / Bodega
+rating = 8.9
+Menu not available
+
+id = 4aa83af3f964a520415020e3
+name = Justine's Brasserie
+location = lat = 30.253191689842996, lng = -97.70063281059265
+Address = [4710 E 5th St, Austin, TX 78702]
+tag = French Restaurant
+rating = 8.9
+Soupe a L'oignon  $8.00    Salad De Crabe  $12.00    Salade D Endives Poire Roquefort  $11.00    Salade Verte  $5.00    Escargots a La Bourguignonne  $7.00    Artichaut  $7.00    Saumon Cru  $12.00    Cheese Plate  $16.00    Charcuterie Plate  $14.00    Steak Frites  $24.00    Steak Tartare  $16.00    Cote De Pore  $16.00    Coquilles St. Jacques Basquaise  $22.00    Moules Frites  $16.00    The Royale with Cheese  $12.00    Ratatouille  $10.00    Bolognaise  $12.00    Frites  $5.00    Ratatouille  $6.00    Haricots Verts  $5.00    Potatoes Au Gratin  $5.00    
+
+id = 4ee446aca69d89905bf085a2
+name = Via 313
+location = lat = 30.26449, lng = -97.73079
+Address = [1111 E 6th St (at Waller St), Austin, TX 78702]
+tag = Pizza Place
+rating = 8.9
+Menu not available
+
+id = 50b96e3ae4b04809bce92d69
+name = Tommy Want Wingy
+location = lat = 30.256059511220638, lng = -97.73466038382722
+Address = [603 W Live Oak St Austin, TX  78704 (South 1st), Austin, TX 78704]
+tag = Food Truck
+rating = 8.9
+Menu not available
+
+id = 5256c1f611d2949f1623a789
+name = Odd Duck
+location = lat = 30.25466116100242, lng = -97.76205669969968
+Address = [1201 S Lamar Blvd (Gibson St W), Austin, TX 78704]
+tag = New American Restaurant
+rating = 8.9
+Menu not available
+
+id = 4c7baea1df08a1cd0117e15d
+name = Papalote Taco House
+location = lat = 30.243576020518006, lng = -97.78187313517661
+Address = [2803 S Lamar Blvd (at Barton Skwy.), Austin, TX 78704]
+tag = Taco Place
+rating = 8.9
+Menu not available
+
+id = 5468ecfe498e87b191079be1
+name = New Fortune Chinese Seafood Restaurant
+location = lat = 30.377819143102627, lng = -97.68806764570917
+Address = [10901 N Lamar Blvd, Austin, TX 78753]
+tag = Cantonese Restaurant
+rating = 8.9
+Menu not available
+
+id = 4ab42d69f964a520447020e3
+name = Texas Chili Parlor
+location = lat = 30.276995301246643, lng = -97.742055
+Address = [1409 Lavaca St (btw West 14th & 15th St.), Austin, TX 78701]
+tag = American Restaurant
+rating = 8.9
+Fajita  $7.99    Texas Caesar Salad  $1.75    Chalupas Plate  $5.95    House Salad  $3.25    Pasta Salad  $1.75    Chesseburger Salad  $4.95    Cheese Nachos  $4.95    Killer Nachos  $5.75    Quesadillas  $4.75    Guacamole Appetizer  $4.95    Texas Sampler Grande  $6.95    Tostadas and Salsa  $2.50    Queso and Chips  $2.95    Classic Burger  $5.50    Cheeseburger  $5.75    Bacon Cheeseburger  $6.25    Gringo Burger  $6.25    Guacamole Burger  $6.95    Chili Cheeseburger  $7.25    Jalapeno Burger  $6.25    Texican Burger  $6.50    Grande Burger  $8.00    Grilled Chicken Sandwich  $5.95    Grilled Chicken Club  $6.95    Chili Dog  $4.95    Hot Dog  $3.50    X  $3.75    Xx  $3.75    Xxx  $3.75    Habanero  $3.75    White Chili  $3.75    Black Bean & Elgin Sausage Chili  $3.75    5 Bean Veggie Chili  $5.95    Frito Pie  $6.45    Chili Potato  $6.25    Chili Taster  $8.95    Freida's Chili Enchiladas  $9.99    Freidas Enchiladas  $6.95    2 Cheesy Enchiladas  $6.25    2 Chicken Enchiladas  $6.95    2 Chili Tamales  $7.45    2 Pork Tamales  $6.95    Single Taco Dinner  $7.99    Grande Burrito  $6.95    One Taco Dinner  $4.95    Two-Taco Dinner  $6.25    Fajita Dinner  $7.95    Texas Chili Parlor Steak  $13.95    Steak & Enchilada Combo  $8.25    Pork Chop Dinner  $8.25    Grilled Chicken Breast Dinner  $6.95    Grilled Chicken Chipotle  $7.25    Chicken Flautas  $6.95    Cheese, Sour Cream, Jalapenos Or Onions  $0.50    Salsa  $0.75    Grilled Mushrooms Or Grilled Onions  $1.00    Rice and Beans Or Potato Salad  $1.50    Pasta Salad Or Sauteed Veggies  $1.95    
+
+id = 4c05c4838f8fa593cb6af20d
+name = Conans Pizza North
+location = lat = 30.357568565907975, lng = -97.73110664628821
+Address = [2438 W Anderson Ln (at Burnet Rd), Austin, TX 78757]
+tag = Pizza Place
+rating = 8.9
+Deep Pan  $1.75    Thin Crust  $1.25    The Savage  $13.50    Armadillo Garden Veggie - New!  $10.40    Don't Choke Art!  $15.95    The Meaters  $18.75    The Veggie Supreme  $18.75    Pesto Pizza  $17.30    Bacon Cheddar Burger  $10.40    The Veggie  $15.95    Conans Salad  $3.75    Salad Dressings  $0    Conans Caesar  $4.75    Chicken Caesar  $6.75    Oven-Roasted Wings  $22.99    Cheese Bread  $3.75    Garlic Bread  $2.50    Salad Dressing  $0.35    
+
+id = 50ad4c22e4b0f6ec2b3f8648
+name = Tiny Pies
+location = lat = 30.322415140388745, lng = -97.73933172225952
+Address = [5035 Burnet Rd (51 St.), Austin, TX 78756]
+tag = Bakery
+rating = 8.9
+Menu not available
+
+id = 4a19dd45f964a520617a1fe3
+name = Sugar Mama's Bakeshop
+location = lat = 30.246179, lng = -97.75643825
+Address = [1905 S 1st St, Austin, TX 78704]
+tag = Bakery
+rating = 8.9
+Menu not available
+
+id = 4e1f95f5922e11c00663c2f2
+name = El Alma Cafe y Cantina
+location = lat = 30.260073836146486, lng = -97.75563418865204
+Address = [1025 Barton Springs Rd (at Dawson Rd.), Austin, TX 78704]
+tag = Mexican Restaurant
+rating = 8.9
+Menu not available
+
+id = 4a5a4d05f964a5201cba1fe3
+name = Zen Japanese Food Fast
+location = lat = 30.360222399999998, lng = -97.73730603999999
+Address = [2900 W Anderson Ln (at Rockwood Ln.), Austin, TX 78757]
+tag = Asian Restaurant
+rating = 8.9
+Miso Soup  $2.00    Spicy Asian Noodle Soup  $3.00    Crunchy Egg Noodles Soup  $2.50    House Salad  $3.50    Seaweed Salad  $5.50    Spicy Tuna Salad  $12.95    Grilled Oriental Salad  $12.95    Sweet and Spicy Chili Bean Salad  $12.95    6 Pc. Sashimi Entree Salad  $14.95    Tuna Harmony & Mango  $9.95    Edamame Bean  $4.00    Yakitori  $6.00    Beef Tataki  $10.50    Satay  $9.95    Spicy Crispy Tuna Tempura  $15.95    Shrimp Tempura  $12.50    Vegetable Tempura  $6.50    Tuna Tataki  $6.95    Shrimp W/chili Bean Sauce  $7.95    Fried Calamari  $8.00    Pork Gyoza  $5.25    Shrimp Shumai  $5.25    Hibachi  $22.95    Hibachi Combinations  $19.95    Fried Rice  $5.00    Sushi Rice  $3.00    Steamed White Rice  $2.50    Brown Rice  $2.50    Side Noodles  $3.50    Hibachi Vegetables  $3.50    Extra Sauces  $0.50    Maguro (Tuna)  $4.95    White Tuna  $4.95    Sake (Salmon)  $4.25    Hamachi (Yellowtail)  $5.25    Saba (Mackerel)  $3.75    Kanikam (Crabstick)  $3.50    Ebi (Shrimp)  $3.75    Ama Ebi (Sweet Shrimp)  $8.50    Tako (Octopus)  $4.25    Ika (Squid)  $3.75    Tai (Red Snapper)  $3.75    Hotate (Scallop)  $4.00    Hokkigai (Surf Clam)  $4.25    Spicy Octopus  $4.25    Unagi (Fresh Water Eel)  $5.25    Tamago (Egg Omelette)  $3.50    Masago (Smelt Roe)  $3.50    Ikura (Salmon Roe)  $3.50    Tobiko (Flying Fish Roe)  $3.75    Wasabi Tobiko  $3.95    Black Tobiko  $3.95    Sweet Tofu Nigiri-Inari  $3.95    Toro (Supreme Tuna Belly Meat)  $0    
+
+id = 4ad75c33f964a520cb0921e3
+name = Tâm Deli and Cafe
+location = lat = 30.351514144842813, lng = -97.70870632020574
+Address = [8222 N Lamar Blvd Ste D33, Austin, TX 78753]
+tag = Vietnamese Restaurant
+rating = 8.8
+Vietnamese Fried Egg Roll  $3.75    Cup of Wonton Soup Or Beef Meat Balls Soup Or Eye of Round Soup  $2.95    Sticky Rice  $3.25    Vietnamese Salad  $7.25    Vietnamese Green Papaya Salad  $4.25    Egg Noodle Soup  $5.99    Wonton and Egg Noodle Soup  $6.45    Wonton Soup  $6.45    "My Tho" Rice Noodle Soup  $6.99    Rice Noodle and Egg Noodle Soup  $5.99    Vegetarian Spring Rolls  $3.75    Vegetarian Jicama Spring Roll  $3.75    Vegetarian Pot Stickers  $4.95    Vegetarian Steamed Bun  $2.75    Vegetarian Vietnamese Egg Roll  $3.75    Grilled Lemongrass Beef Sandwich  $5.25    Liver Pate Sandwich  $3.85    Vietnamese Ham Sandwich  $3.95    Roasted Chicken Sandwich  $3.85    Char-Grilled Pork Sandwich  $4.95    French Cream Puff  $0.65    Caramelized Flan  $2.00    Cake Or Cheese Cake  $2.50    Vietnamese Sweet Dessert  $2.00    Sweet Sticky Rice  $2.00    
+
+id = 5082f8ffe4b0e99d0baea04f
+name = Tous les Jours
+location = lat = 30.33615328489036, lng = -97.72049423866851
+Address = [Austin, TX 78757]
+tag = Bakery
+rating = 8.8
+Menu not available
+
+id = 52b06d4611d2b6f2636eb4f4
+name = Gus's World Famous Fried Chicken
+location = lat = 30.263690858950284, lng = -97.74167291147353
+Address = [117 San Jacinto Blvd (2nd St), Austin, TX 78701]
+tag = Fried Chicken Joint
+rating = 8.8
+Menu not available
+
+id = 5231f8b511d2fd69a9006dcb
+name = Slab BBQ
+location = lat = 30.37133263877633, lng = -97.72472097781154
+Address = [9012 Research Blvd (Burnet), Austin, TX 78758]
+tag = BBQ Joint
+rating = 8.8
+Menu not available
+
+id = 4a99ec2bf964a520143120e3
+name = Thundercloud Subs
+location = lat = 30.278076, lng = -97.77217066
+Address = [2308 Lake Austin Blvd (Deep Eddy), Austin, TX 78703]
+tag = Sandwich Place
+rating = 8.8
+Meatball  $4.49    Pastrami  $4.99    Hot Roast Beef  $5.69    Nada Chicken Parmesan  $5.99    Nada Chicken  $5.79    Garden Salad  $3.89    Austin Club Salad  $6.29    Classic Chef Salad  $5.49    Nada Chicken Salad  $5.99    Combo Salad  $5.59    Extra Salad Dressing  $0.50    Turkey  $4.99    Roast Beef  $4.99    Ham  $4.69    Mesquite Smoked Chicken  $4.99    Chicken Salad  $3.99    Egg Salad  $3.99    Hummus  $4.69    Avocado  $5.59    Capicola  $4.69    Genoa Salami  $4.69    Bologna  $3.79    The Club  $5.59    California Club  $4.99    N.Y. Italian  $4.29    T'bird  $5.49    Roast Beef & Avocado  $5.99    The Office Favorite  $4.59    Veggie Delite  $4.99    Texas Tuna  $6.19    Austin Club  $6.49    
+
+id = 4d6c600ba3916dcb9b758a1e
+name = Truluck's Seafood Steak & Crab
+location = lat = 30.266726, lng = -97.74492681026459
+Address = [400 Colorado St (at 4th St.), Austin, TX 78701]
+tag = Seafood Restaurant
+rating = 8.8
+Superlump Crab Cake  $16.00    Baja Ceviche  $12.00    New Orleans Bbq Shrimp  $13.00    Shrimp Cocktail  $17.00    Goat Cheese Trio  $13.00    Antonellis Monthly Cheese Plate  $14.00    Salt and Pepper Calamari  $13.00    Hot N Crunchy Shrimp  $14.00    Featured Oyster (6)  $18.00    Lobster Bisque  $10.00    Tomato and Watermelon Gazpacho  $11.00    Crab and Shrimp Stacked Salad  $15.00    Hothouse Tomato Salad  $11.00    Sonoma Greens Salad  $9.00    Wedge Salad  $10.00    Knife and Fork Caesar Salad  $9.00    Center-Cut Filet  $34.00    Angus All Natural Prime New York Strip  $50.00    Angus All Natural Ribeye  $45.00    Roasted Free-Range Chicken Breast  $19.00    Angus All Natural Churrasco Steak  $26.00    Oscar Style  $12.00    Petite African Lobster Tail  $29.00    Chimichurri  $6.00    New Orleans Bbq  $9.00    Pontchartrain  $12.00    2 Shrimp, 2 Oysters, 2 Fresh Crab Claws and a Blue Crab Cocktail  $32.00    4 Shrimp, 4 Oysters, 4 Fresh Crab Claws and a Blue Crab Cocktail  $64.00    Fresh Pacific Stone Crab Claws  $23.00    Sauteed Falafel  $19.00    South Georgia Island Chilean Sea Bass  $31.00    Scottish Salmon  $28.00    Alaskan Halibut  $31.00    New England Flounder  $29.00    Viking Village Sea Scallops  $30.00    Norwegian Whitefish  $27.00    Idaho Trout  $22.00    New Orleans Bbq  $9.00    Chimichurri  $6.00    Pontchartrain  $12.00    Summer Crab and Tomato  $9.00    Viking Village Sea Scallops  $31.00    Crab-Crusted Norwegian Whitefish  $29.00    Pan-Seared Halibut  $32.00    Parmesan-Crusted Flounder  $33.00    Scottish Salmon Bearnaise  $35.00    Miso-Glazed Seabass  $35.00    Hot N Crunchy Idaho Trout  $26.00    Jumbo Fried Shrimp Platter  $26.00    Blackened Redfish Pontchartrain  $34.00    Fresh Pacific Stone Crab Claw Platter  $46.00    Sauteed Superlump Crab Cakes  $38.00    South African Lobster Tail  $0    Live Steamed Pacific Northwest Dungeness Crab  $0    Dutch Harbor Alaskan King Crab  $0    Maine Lobster  $0    Green Beans Amandine  $7.00    Parmesan Mashed Potatoes  $7.00    Sweet Potato Fries  $6.00    Sauteed Summer Vegetables  $8.00    Marinated Portabella Mushrooms  $8.00    Rice Pilaf  $6.00    Crab Fried Rice  $14.00    
+
+id = 49ba6a0ff964a52061531fe3
+name = Parkside
+location = lat = 30.267328798363657, lng = -97.74029899516333
+Address = [301 E 6th St (at San Jacinto Blvd), Austin, TX 78701]
+tag = New American Restaurant
+rating = 8.8
+Cool But Rude*  $11.00    Rumtiki  $10.00    Parkside 78*  $12.00    Fight Or Flight  $12.00    Summer Lovin'*  $12.00    Braveheart  $11.00    Strawberry Sunshine*  $10.00    Grüner Veltliner, Szigeti, Burgenland  $12.00    Chardonnay Blend Graham Beck, Robertson  $14.00    Cab Franc, Bouvet-Ladubay, Anjou-Saumur  $13.00    Pineau D'aunis 2015, J.F. Mérieau, Touraine  $10.00    Riesling 2012, Seebrich, Rheinhessen Kabinett  $12.00    Gewürztraminer 2013, Handley, Anderson Valley  $10.00    Sauv Blanc 2014, Twin Islands Marlborough  $11.00    Antão Vaz Blend 2014, Esporão, Alentejo Reserva  $12.00    Chardonnay 2011, Evening Land, Edna Valley  $13.00    Grenache Blend 2014, E. Texier, Côtes Du Rhône  $12.00    Pinot Noir 2012, Becker Family, Pfalz  $13.00    Cinsault Blend 2013, Massaya, Bekaa Valley  $11.00    Malbec 2010, Noir 46, Cahors  $12.00    Syrah Blend 2013, Adega Mãe 'Dory', Lisboa  $10.00    Cab Sauv 2013, Alcance, Central Valley  $14.00    Cab Sauv 2013, Ladera, Napa Valley  $18.00    Pinot Blanc, Lucien Albrecht, Crémant D'alsace  $53.00    Folle Blanche Blend, Dom. De L'ecu 'La Divina', Muscadet  $62.00    Riesling 2013, Hansen-Lauer, Mosel  $67.00    Chardonnay Blend, Louis Roederer, Champagne  $73.00    Chardonnay, Clavelin 'Brut-Comte', Crémant Du Jura  $62.00    Chardonnay, Ruinart 'Blanc De Blancs', Champagne  $155.00    Chardonnay, Gruet Family 'Sauvage', Albuquerque  $43.00    Pinot Noir Blend, Scharffenberger, Mendocino  $62.00    Pinot Noir 2012, Schramsberg 'Blanc De Noirs', North Coast  $83.00    Chardonnay Blend, Aimery, Crémant De Limoux  $43.00    Gamay & Mondeuse, Thierry Tissot, Bugey, Savoie  $62.00    Pinot Noir 2011, Iron Horse 'Wedding Cuvée', Green Valley  $78.00    Pinot Noir Blend, Jansz 'Premium', Pipers River, Tasmania  $75.00    Pinot Noir Blend, Ruinart, Champagne (375Ml)  $115.00    Grüner Veltliner 2013, Laurenz V 'Charming', Kamptal Reserve  $43.00    Riesling 2013, Weingut Malat, Kremstal  $54.00    Riesling 2009, Reinhartshausen 'Schlossberg', Rheingau  $75.00    Pinot Blanc 2011, Josmeyer, Alsace  $48.00    Furmint 2012, Királyudvar, Tokaj-Hegyalja  $53.00    Fiano 2013, Ryme Cellars 'Lago', Sonoma  $56.00    Pinot Gris 2013, Domaine Trimbach, Alsace Reserve  $57.00    Viognier 2015, Yalumba, Barossa, South Australia  $42.00    Chenin Blanc 2013, Domaine Des Baumard, Savennières  $56.00    Chenin Blanc 2014, Demorgenzon, Stellenbosch Reserve  $78.00    Sauv Blanc 2013, Dom. Ciringa 'Fosilni Breg', Štajerska  $57.00    Sauv Blanc 2015, Cloudy Bay, Marlborough, South Island  $72.00    Sauv Blanc 2012, Alphonse Mellot 'Les Herses', Sancerre  $88.00    Chardonnay 2014, Lioco, Sonoma  $54.00    Chardonnay 2014, Patrick Piuze 'Chichée', Chablis  $62.00    Chardonnay 2013, Heggies Eden, Valley, Barossa  $73.00    Chardonnay 2009, Philippe Colin, Chassagne-Montrachet  $88.00    Chardonnay 2013, Jordan, Russian River Valley, Sonoma  $92.00    Chardonnay 2011, Staglin 'Salus', Rutherford, Napa Valley  $110.00    Grenache Blanc 2014, Donkey & Goat, El Dorado  $65.00    Arinto 1995, Poço Do Lobo, Bairrada, Beiras  $74.00    Chardonnay & Sémillon 2005, Château Musar, Bekaa Valley  $98.00    Tibouren 2013, Clos Cibonne, Côtes De Provence  $57.00    Pinot Noir 2015, Lieu Dit, Santa Ynez Valley  $62.00    Pinot Noir 2015, Robert Sinskey 'Vin Gris', Carneros  $68.00    País 2014, Pipeño 'Coronel Del Maule', Maule Valley  $45.00    Gamay 2014, Dom. Du Pavillon De Chavannes, Côte De Brouilly  $54.00    Sangiovese 2014, Stolpman 'Carbonic', Ballard Canyon  $56.00    Pinot Noir 2011, Domaine D'ardhuy, Bourgogne  $57.00    Pinot Noir 2014, Miura, Santa Lucia Highlands, Monterey  $62.00    Pinot Noir 2011, Cashburn, Central Otago, South Island  $65.00    Pinot Noir 2011, Mouton Noir 'Lieu-Dit', Willamette Valley  $72.00    Pinot Noir 2013, Parmeson, Sonoma Coast, Sonoma  $87.00    Cab Franc 2012, Domaine De Pallus 'Les Pensées', Chinon  $56.00    Zweigelt 2013, Umathum, Burgenland  $62.00    Nebbiolo 2009, Clendenon Family, Santa Maria Valley  $75.00    Cinsault 2014, Sadie Family 'Pofadder', Swartland  $115.00    Barbera Blend 2013, Erasmo, Maule Valley, Central Valley  $48.00    Grenache 2013, Petrichor, Sonoma  $78.00    Grenache Blend 2013, Domaine Houchart, Côtes De Provence  $45.00    Grenache Blend 2011, Bastide St. Dominique, Châteauneuf Du Pape  $88.00    Agiorgitiko 2012, Domaine Skouras 'St. George', Nemea  $44.00    Syrah 2013, Jean-Louis Chave 'Offerus', St. Joseph  $67.00    Cab Sauv Blend 2005, Château Cantemerle, Haut Médoc  $64.00    Cab Sauv Blend 1999, Château Musar, Bekaa Valley  $86.00    Cab Sauv Blend 2007, Château Musar, Bekaa Valley  $98.00    Cab Sauv 2013, L'ecole No. 41, Columbia Valley  $65.00    Cab Sauv 2013, Stark-Condé, Jonkershoek Valley, Stellenbosch  $72.00    Cab Sauv 2007, Movia, Goriška Brda  $78.00    Cab Sauv 2013, Faust, Napa Valley  $93.00    Cab Sauv 2012, Jordan, Alexander Valley, Sonoma  $115.00    Cab Sauv 2006, Heitz Cellar 'Trailside', Rutherford  $155.00    Mourvèdre 2008, Domaine De L'olivette, Bandol  $62.00    Carignan 2011, Garage Wine Co., Maule Valley, Central Valley  $64.00    Malbec 2013, Altos Las Hormigas, Uco Valley, Mendoza  $68.00    Merlot Blend 2012, Deerfield Ranch 'Red Rex', Sonom  $72.00    Zinfandel Blend 2013, Ridge 'Three Valleys', Sonoma  $73.00    Petite Sirah 2012, Stag's Leap, Napa Valley  $76.00    Vieux Pontarlier Absinthe, Bourgogne-Franche-Comté  $16.00    Christian Brothers Vs, San Joaquin Valley  $7.50    Metaxa '5 Stars', Samos, Aegean Sea  $8.00    Copper & Kings 'Immature', Louisville  $9.00    Kappa Pisco, Elqui Valley  $10.00    Marie Duffau 'Napoléon', Bas-Armagnac  $10.00    Courvoisier Vsop, Cognac  $14.00    Grand Marnier 'Centenaire', Cognac  $27.00    Hennessy Xo, Cognac  $42.00    Reisetbauer 'Carrot' Eau De Vie, Oberösterreich  $28.00    Jim Beam, Clermont, Kentucky  $7.50    Jameson, Cork, Ireland  $8.00    Tullamore D.E.W., Tullamore, Ireland  $8.00    Bulleit Rye, Lawrenceburg, Kentucky  $9.00    Bulleit, Lawrenceburg, Kentucky  $9.00    Basil Hayden's, Clermont, Kentucky  $10.00    Tx Blended, Ft. Worth, Texas  $11.00    Woodford Reserve, Versailles, Kentucky  $11.00    Maker's 46, Loretto, Kentucky  $12.00    Whistle Pig Straight Rye, Shorham, Vermont  $19.00    Famous Grouse, Blended  $7.50    Johnnie Walker 'Black', Blended  $10.00    Johnnie Walker 'Blue', Blended  $47.00    Glenkinchie 12Yr, Lowlands  $13.00    Glenmorangie 10Yr, Highland  $11.00    Glenlivet 12Yr, Speyside, Highlands  $13.00    Macallan 12Yr, Speyside, Highlands  $15.00    Balvenie 'Doublewood' 12Yr, Speyside, Highlands  $15.00    Glenlivet 15Yr, Speyside, Highlands  $16.00    Glenfiddich 18Yr, Speyside, Highlands  $26.00    Glenlivet 18Yr, Speyside, Highlands  $32.00    Macallan 18Yr, Speyside, Highlands  $45.00    Highland Park 12Yr, Orkney  $14.00    Talisker 10Yr, Isle of Skye  $17.00    Springbank 10Yr, Campbeltown  $14.00    Laphroaig 10Yr, Islay  $14.00    Caol Ila 12Yr, Islay  $16.00    Austin Eastciders, Dry Cider, Austin, Tx (16Oz)  $7.00    Dos Xx, Lager, Monterrey, Mexico  $5.00    Southern Star 'Bombshell', Blonde Ale, Conroe, Tx  $5.00    Austin Beerworks 'Pearl Snap', Pilsner, Austin, Tx  $5.00    Goose Island 'Matilda', Farmhouse Pale Ale, Chicago, Il  $8.00    Prairie 'Standard', Saison, Tulsa, Ok  $9.00    Independence 'Austin', Amber Austin, Tx  $5.00    Victory 'Vital' Ipa, Downington, Pa  $6.00    Blue Owl 'Professor Black', Sour Cherry Stout, Austin, Tx  $8.00    Founders, Porter, Grand Rapids, Mi  $5.00    Jester King, Rotating Selection, Austin, Tx  $0    Classic Ceviche**  $13.00    Smoked Salmon Tartine  $12.00    Crispy Calamari  $10.00    Charcuterie Board  $16.00    House Pretzel  $9.00    Tater Tots  $9.00    Crispy Farm Egg  $9.00    Fried Okra  $9.00    Classic Caesar Salad  $10.00    Fried Egg Sandwich  $10.00    Cheeseburger**  $14.00    Grilled Bar Steak  $20.00    Oyster Platter**  $32.00    1/2 Price Bar Menu  $0    1/2 Price Beer & Cocktails  $0    Pain Perdu  $9.00    Strawberry Shortcake  $9.00    Key Lime Pie  $9.00    Chocolate Terrine  $9.00    Ramos Pinto 'Collector Reserva' Port, Douro  $7.00    Rare Wine Co. 'Savannah' Verdelho, Madeira  $9.00    Dow's 10Yr Tawny Port, Douro  $11.00    Disznókó '5 Puttonyos', Tokaj-Hegyalja 2007  $14.00    Selbach Riesling Eiswein, Mosel 2010  $17.00    Christian Brothers Vs, San Joaquin Valley  $7.50    Copper & Kings 'Immature', Louisville  $9.00    Courvoisier Vsop, Cognac  $14.00    Vieux Pontarlier Absinthe, Bourgogne  $16.00    Reisetbauer 'Carrot', Oberösterreich  $20.00    Grand Marnier 'Cuvée Du Centenaire', Cognac  $27.00    Hennessy Xo, Cognac  $42.00    Bass  $12.00    Fluke  $13.00    Scallop  $13.00    Classic Ceviche  $13.00    Rappahannock, Va  $16.00    Barcat, Va  $15.00    Olde Salts, Va  $16.00    Va Va Voom, Va  $19.00    Blue Point, Ct  $18.00    Beavertail, Ri  $16.00    Umami, Ri  $17.00    Malpeque, Pei  $16.00    Shiny Seas, Pei  $18.00    Pipers Points, Pei  $19.00    Malagash, Pei  $16.00    Fancy Sweet Nb  $18.00    Platter  $32.00    Crispy Calamari  $10.00    Potato Gnocchi  $12.00    Crab Fritters  $13.00    Marrow Bones  $15.00    Shrimp and Grits  $13.00    Steak Tartare  $14.00    Heirloom Tomato Tart  $12.00    Chilled Smoked Tomato Soup  $9.00    Stone Fruit Salad  $12.00    Classic Caesar**  $10.00    Baby Kale Salad  $12.00    Charred Berkshire Pork  $26.00    Dewberry Hills Chicken  $24.00    44 Farms Ny Strip  $33.00    Crispy Salmon  $22.00    Wreckfish  $23.00    Anson Mills Roasted Farro Risotto  $19.00    Parkside Fries  $6.00    Roasted Potatoes  $8.00    Grilled Asparagus  $8.00    Spaghetti Squash  $8.00    Macaroni  $9.00    
+
