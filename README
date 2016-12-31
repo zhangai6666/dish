@@ -4,7 +4,8 @@ DONE <1> Get restaurants and dishes informaion
 <2> Setup ElasticSearch and MySQL
 <3> Web UI search
 <4> Server deploy
-<5> Mobile apps search
+<5> Android app search
+<6> iOS app search
 
 UI improve and additional features:
 * user add fav dish
