@@ -1,0 +1,240 @@
+id = 49be75ccf964a520ad541fe3
+name = Torchy's Tacos
+location = lat = 30.250614338307763, lng = -97.75410303190354
+Address = [1311 S 1st St (btwn Elizabeth St W & Gibson St W), Austin, TX 78704]
+tag = Food Truck
+rating = 9.5
+Menu not available
+
+id = 43d1d4e9f964a520072e1fe3
+name = Home Slice Pizza
+location = lat = 30.249132056056872, lng = -97.7496357879637
+Address = [1415 S Congress Ave (Gibson St. E), Austin, TX 78704]
+tag = Pizza Place
+rating = 9.5
+House  $5.50    Greek  $8.25    Pear Gorgonzola  $8.25    Caesar  $7.50    Italian Chef  $8.75    Spinach  $7.50    House  $10.00    Caesar Or Spinach  $13.50    Pear Gorgonzola Or Greek  $15.00    Italian Chef  $16.25    Antipasto  $12.00    Insalata Caprese  $7.50    Garlic Knots 4 & Marinara  $3.50    Additional Knots  $0.75    Meatball  $11.75    Eggplant Parmesan  $11.75    Chicken Parmesan  $11.75    Italian Assorted  $11.75    Turkey  $11.75    Tuna Salad  $11.75    Veggie  $11.75    Chips  $1.75    Calzone  $6.75    Spinach Calzone  $7.25    Meat Calzone (Pepperoni & Sausage)  $7.95    Slices  $3.50    Large Pizza (16)  $14.00    Medium Pizza (14)  $11.75    White Pizza  $2.00    Medium  $1.75    Large  $2.00    Medium  $2.75    Large  $3.00    Margherita  $18.00    White Pie with Spinach  $15.50    Eggplant Pie  $15.50    Spinach, Roasted Red Pepper, Green Olives, Onions  $18.00    Pepperoni & Mushroom  $18.00    Sausage, Ricotta Cheese and Roasted Red Pepper  $18.00    White Clam Pizza  $22.00    Cannoli  $4.50    Ny Cheesecake  $5.75    Tiramisu  $7.50    Rice Krispy Treat  $2.75    Rice Krispy Treat  $3.75    3 Chocolate Chip Cookies & Milk  $3.00    
+
+id = 4cb5e045e262b60c46cb6ae0
+name = Hopdoddy Burger Bar
+location = lat = 30.249540168503078, lng = -97.74991035461426
+Address = [1400 S Congress Ave (btwn Gibson & Elizabeth), Austin, TX 78704]
+tag = Burger Joint
+rating = 9.5
+The Classic Burger  $0    The Goodnight/ Good Cause  $0    Terlingua  $0    Magic Shroom  $0    Llano Poblano  $0    El Diablo  $0    Primetime  $0    Buffalo Bill  $0    Greek  $0    Thunderbird  $0    Continental Club  $0    Ahi Tuna Burger  $0    La Bandita  $0    Hail Caesar  $0    Spinach & Arugula  $0    Baby Kale  $0    Vanilla Bean  $0    Oreo Cookie  $0    Chocolate Stout  $0    Lemon Olive Oil Biscotti  $0    Red Velvet Cake  $0    Caramel & Sea Salt  $0    Nutella & Chocolate Pretzel  $0    Kennebec Fries  $0    Truffle Fries  $0    Chile Con Queso  $0    Green Chili Queso  $0    Harvest Quinoa  $0    
+
+id = 4d8d295fc1b1721e798b1246
+name = Veracruz All Natural
+location = lat = 30.257706409040974, lng = -97.72564378776447
+Address = [1704 E Cesar Chavez St, Austin, TX 78702]
+tag = Taco Place
+rating = 9.5
+Menu not available
+
+id = 574481f8498e2cd16a0911a6
+name = Snooze
+location = lat = 30.25092225708923, lng = -97.76590385867956
+Address = [1700 S Lamar Blvd (Collier), Austin, TX 78704]
+tag = Breakfast Spot
+rating = 9.5
+Menu not available
+
+id = 4af0dcebf964a520bcdf21e3
+name = Torchy's Tacos
+location = lat = 30.22235905, lng = -97.840366
+Address = [4301 W William Cannon Dr (S Mopac Expressway), Austin, TX 78749]
+tag = Taco Place
+rating = 9.4
+Menu not available
+
+id = 51106513e4b0480d959befc6
+name = Santorini Cafe
+location = lat = 30.38766687331474, lng = -97.68406572866184
+Address = [11800 N Lamar Blvd Bldg 1, Austin, TX 78753]
+tag = Greek Restaurant
+rating = 9.4
+Menu not available
+
+id = 4c16cd03955976b01a29a5f6
+name = Uchiko
+location = lat = 30.310775023080804, lng = -97.73986401566145
+Address = [4200 N Lamar Blvd, Austin, TX 78756]
+tag = Japanese Restaurant
+rating = 9.4
+Koviche*  $6.00    Yokai Berry*  $6.00    Machi Ringo*  $6.00    Gyutan Nigiri (2 Pc.)  $3.00    Avocado Nigiri (2 Pc.)  $3.00    Pork Ribs  $6.00    Bacon  $6.00    Brussels Sprouts  $3.00    Komaki Roll  $6.00    Crunchy Spicy Tuna Hand Roll*  $6.00    P-38 Hand Roll*  $6.00    Okashi  $3.00    Takara Nigori  $3.00    Gekkeikan  $3.00    Asahi Dry (12 Oz. )  $3.00    Boutari "Elios"  $7.00    Atalaya Garnacha  $7.00    Edamame  $5.00    Shishito Yaki  $6.00    Uchi Salad  $8.00    Roasted Golden Beets  $8.00    Branzino*  $18.00    Koviche*  $19.00    Yokai Berry*  $17.00    Maguro Sashimi and Goat Cheese*  $18.50    Hama Chili*  $18.50    Hot Rock*  $17.00    Sakana Mushi  $18.00    Dewbee Chicken  $15.00    Jar Jar Duck  $28.00    Kinoko Nabe  $15.00    Ao Saba  $18.00    Suzuki Yaki  $20.00    Pork Jowl  $22.00    Ninjin Bacon  $18.00    Tempura Nasu  $4.00    Tempura Onion Rings  $4.00    Brussels Sprouts  $6.00    Karaage  $10.00    Shime Saba*  $5.00    Gyutan  $3.00    Gyutan Toro  $3.50    Hotate*  $4.50    Nasu  $2.50    Avocado  $2.50    Boquerones  $4.00    Loup De Mer*  $3.50    Madai*  $4.50    Hamachi*  $5.00    Sake*  $3.50    Sake Toro*  $4.50    Big Eye Tuna*  $4.50    Unagi  $3.00    P-38*  $12.50    Komaki  $9.00    Crunchy Tuna*  $12.00    Tiger Cry  $16.00    Avofry  $10.00    Ham & Eggs  $10.00    Shag  $14.00    Chef's Tasting*  $0    Signature Tasting*  $0    Sweet Corn Sorbet  $9.00    Tobacco Cream  $9.00    Fried Milk  $9.00    Olive Gelato  $9.00    Seasonal Sorbet Selection  $3.00    Marchesi Di Gresy "La Serra" Moscato D'asti 2012 Piedmont  $11.00    Royal Tokaji Late Harvest 2010 Hungary  $11.00    Château D'armajan Des Ormes 2006 Sauternes  $10.00    Rare Wine Co & Barbeito Savannah Verdelho Nv Madeira  $12.00    Fonseca 20 Year Tawny Nv Douro  $13.00    Quinta Do Crasto Lbv Porto 2006 Douro  $11.00    Lustau "San Emilio" Pedro Ximenez Nv Jerez  $12.00    Paulaner Non-Alcoholic  $4.00    Kirin Light  $5.00    Kirin Ichiban  $5.00    Kirin Ichiban Bomber  $8.00    Asahi Dry  $5.00    Sapporo Premium  $5.00    Sapporo Reserve  $6.00    Lagunitas Ipa  $7.00    Asahi Black  $7.00    Brooklyn "Sorachi Ace"  $22.00    Rogue "Dead Guy Ale"  $7.00    Hitachino Rotating Selection  $9.00    Real Ale Devil's Backbone  $6.00    Left Hand Milk Stout Nitro  $8.00    Coke, Diet Coke  $2.00    Iced Tea  $2.00    Ramune  $3.00    Limonata  $3.00    Aranciata  $3.00    Acqua Panna, San Pellegrino  $5.00    Japanese Hot Green Tea  $4.00    French Press Coffee  $4.00    Large French Press Coffee  $12.00    Kiyoshi  $11.00    Kemuri  $9.00    Akirameru  $12.00    Takara Nigori (375Ml)  $4.00    Zero Sen Junmai (720Ml)  $9.00    Yuri Masamune Honjozo (720Ml)  $10.00    Otokoyama Tokubetsu Junmai (720Ml)  $12.00    Yoshi No Gawa "Winter Warrior" Junmai Ginjo (720Ml)  $12.00    Dewatsuru Kimoto Junmai (720Ml)  $14.00    Maboroshi Junmai Ginjo (720Ml)  $15.00    Yuki No Bosha Limited Release Junmai Ginjo (720Ml)  $14.00    Bishonen Junmai Ginjo (720Ml)  $10.00    Rihaku "Dreamy Clouds" Tokubetsu Junmai Nigori (720Ml)  $13.00    Ohyama Tokubetsu Nigori (500Ml)  $60.00    Ichinokura Tokubetsu Junmai Tarusake (500Ml)  $64.00    Wakatake Onikoroshi "Demon Slayer"junmai Daiginjo (720Ml)  $16.00    Chokaisan Junmai Daiginjo (720Ml)  $114.00    Masumi Nanago "Seventh Heaven" Yamahai Junmai Daiginjo (720Ml)  $130.00    Watari Bune Junmai Daiginjo (720Ml)  $205.00    Tentaka Kuni "Hawk in the Heavens" Junmai (300Ml)  $30.00    Konteki "Pearls of Simplicity" Junmai Daiginjo (300Ml)  $43.00    Ginga Shizuku "Divine Droplets" Junmai Daiginjo (300Ml)  $75.00    Tio Pepe Fino En Rama Nv Jerez De La Frontera  $7.00    Lechthaler Pinot Grigio 2012 Trentino  $10.00    Prunotto Arneis 2012 Piedmont  $15.00    Louis Michel Chardonnay 2012 Chablis  $68.00    Hedges Family "Cms White" Sauvignon Blanc 2013 Washington  $12.00    Chanson Viré-Clessé Chardonnay 2012 Macon  $13.00    Four Graces Pinot Gris 2013 Willamette  $12.00    Dog Point Sauvignon Blanc 2013 Marlborough  $52.00    Claude Riffault "Les Boucauds" Sauvignon Blanc 2013 Sancerre  $71.00    Château Bellevue Semillon Sauvignon Blanc 2013 Entre-Deux-Mers  $50.00    Boutari"elios" Mediterranean White 2013 Peloponnese Greece  $9.00    Livio Felluga Friulano 2011 Colli Orientalli Del Friuli  $62.00    Heinrich Mayr Nusserhof "B" Nv Bozen  $65.00    Deinhard Von Winning Riesling 2012 Pfalz  $16.00    Dr. Hermann "Dr. H" Riesling 2012 Mosel  $12.00    Joh. Jos. Christoffel Erben "Ürziger Würzgarten" Riesling Kabinett 2011 Mosel  $67.00    Wirsching "Iphöfer" Scheurebe Kabinett Trocken 2012 Franken  $55.00    Fillaboa Albariño 2012 Rias Baixas  $12.00    Glatzer Grüner Veltliner Kabinett 2013 Carnuntum  $11.00    Louis Guntrum Niersteiner Bergkirche Riesling Kabinett 2011 Rheinhessen  $12.00    Trimbach Pinot Blanc 2012 Alsace  $11.00    Nikolaihof "Hefeabzug" Gruner Veltliner 2012 Wachau  $72.00    J. M. Boillot Montagny 1 Er Cru Chardonnay 2012 Côte Chalonnaise  $76.00    Jean-Michel Gaunoux-Hudelot 1 Er Cru "Les Genèvrieres" Chardonnay 2010 Meursault  $245.00    Domaine Des Baumard "Clos Du Papillon" Chenin Blanc 2009 Savennières  $87.00    Mcpherson Viognier 2013 Texas  $10.00    Trefethen Chardonnay 2012 Oak Knoll District Napa  $16.00    Fel Chardonnay 2012 Alexander Valley  $72.00    Domaine Leflaive "Clavoillon" 1Er Cru 2011Puligny-Montrachet  $385.00    Chappellet Chardonnay 2012 Napa Valley  $72.00    Far Niente Chardonnay 2012 Napa Valley  $98.00    La Stoppa "Ageno" 2008 Emilia  $90.00    Chateau Lamargue "Les Grandes Cabanes" Syrah Grenache 2013 Rhone  $11.00    Robert Sinskey "Vin Gris of Pinot Noir" 2013 Los Carneros  $70.00    Olivares Rosado Monastrell Garnacha 2013Jumilla  $10.00    Cos Frappato 2013 Sicily  $70.00    Planeta Cerasuolo Di Vittoria Nero D'avola Frappato 2012 Sicily  $14.00    Hubert Lamy "La Goujonne" Pinot Noir 2009 Chassagne-Montrachet  $107.00    Mongeard-Mugneret 1 Er Cru "Les Narbantons" Pinot Noir 2011 Savigny-Les-Beaune  $126.00    Felton Road "Calvert" Pinot Noir 2010 Central Otago  $142.00    Domaine Philippe Girard Bourgogne Rouge 2012 Savigny-Les-Beaune  $14.00    Patricia Green Pinot Noir 2011 Ribbon Ridge Willamette Valley  $89.00    Au Bon Climat Pinot Noir 2012 Santa Barbara  $15.00    Siduri Pinot Noir 2012 Sonoma County  $50.00    Patz and Hall Pinot Noir 2012 Sonoma Coast  $95.00    Sea Smoke "Southing" Pinot Noir 2012 Sta Rita Hills  $146.00    Telmo Rodriguez Dehesa Gago Tempranillo 2012 Toro  $12.00    Coto De Imaz Reserva Tempranillo 2008 Rioja  $68.00    Produttori Del Barbaresco Nebbiolo 2010 Barbaresco Piedmont  $76.00    Tommasi Ripasso Corvina Rondinella 2011 Valpolicella Classico Superiore  $62.00    Marcarini "Ciabot Camerano" Barbera D'alba 2011 Piedmont  $13.00    Alain Graillot Syrah 2011 Crozes-Hermitage  $75.00    Domaine "La Garrigue" Cuvee Romaine Grenache Syrah Mourvedre 2011 Vacqueyras  $13.00    Atalaya "Laya" Garnacha Tintorera Monastrell 2013 Almansa Spain  $9.00    Tintonegro Malbec 2012Uco Valley Mendoza  $12.00    Billhook Cabernet Sauvignon 2011 Napa Valley  $19.00    Ladera Cabernet Sauvignon 2011 Napa Valley  $90.00    Finca Decero Remolinos Vineyard Cabernet Sauvignon 2012 Mendoza  $11.00    Casanova Di Neri"cerretalto" Sangiovese2006 Brunello Di Montalcino  $435.00    Ochota "the Green Room" Grenache Syrah 2012 Mclaren Vale  $100.00    Errazuriz "Don Maximiano" Cabernet Blend 2010 Aconcagua Valley  $185.00    Chateau Montelena Cabernet Sauvignon 2011 Napa Valley  $114.00    Staglin Cabernet Sauvignon 2010 Rutherford Napa Valley  $394.00    Shafer "Hillside Select" Cabernet Sauvignon 2009 Stags Leap District  $470.00    Poema Cava Brut Nv Penedès  $9.00    Villa Sandi Prosecco Extra Dry Nv Veneto  $10.00    Bouvet Brut Rosé Nv Loire Valley  $11.00    Schramsberg Blanc De Blancs Brut 2011 North Coast  $15.00    Scarpetta "Timido" Brut Rosé 3Rd Edition Friuli  $14.00    H. Billiot Fils Brut Rosé Nv Ambonnay Champagne  $115.00    Delamotte Brut Nv Les Mesnil-Sur-Oger Champagne  $16.00    Ruinart Blanc De Blancs Brut Nv Champagne  $120.00    Krug Grande Cuvée Brut Mv Reims Champagne  $385.00    
+
+id = 450142e8f964a520bf381fe3
+name = Rudy's Country Store & Bar-B-Q
+location = lat = 30.41414279294669, lng = -97.74679362773895
+Address = [11570 Research Blvd (Duval Rd), Austin, TX 78759]
+tag = BBQ Joint
+rating = 9.4
+Brisket, Moist (1/2 Lb.)  $6.89    Turkey Breast (1/2 Lb.)  $6.14    Spicy Chop (1/2 Lb.)  $4.54    Brisket, Lean (1/2 Lb.)  $6.69    Pork Loin (1/2 Lb.)  $7.29    Pork Spare Ribs (1/2 Lb.)  $5.59    Baby Back Ribs (1/2 Lb.)  $16.35    Half Chicken  $6.09    Regular Sausage (Whole Link)  $4.49    Jalapeño Sausage (Whole Link)  $4.64    Brisket, Cutters (1/2 Lb.)  $6.59    Potato Salad (Small)  $2.09    Spicy Beans (Small)  $2.09    Cream Corn (Small)  $2.39    Cole Slaw (Small)  $2.09    New Potatoes (Small)  $2.09    Banana Pudding  $2.49    Chocolate Pudding  $2.49    
+
+id = 4ac3ac02f964a5204f9c20e3
+name = Rudy's Country Store & Bar-B-Q
+location = lat = 30.26358944099115, lng = -97.81556010246277
+Address = [2451 S Capital of Texas Hwy (at Stoneridge Rd), Austin, TX 78746]
+tag = BBQ Joint
+rating = 9.4
+Potato Salad  $0    Rudy's Beans  $0    Cream Corn  $0    Cole Slaw  $0    Peach Cobbler  $0    
+
+id = 4a402fe5f964a52064a41fe3
+name = Walton's Fancy and Staple
+location = lat = 30.269649654388424, lng = -97.74898767471313
+Address = [609 W 6th St (Nueces St.), Austin, TX 78701]
+tag = Deli / Bodega
+rating = 9.4
+Bibb Salad  $7.00    Spinach, Arugula Salad  $7.50    The Local  $7.00    Seasonal Salad  $0    Soup Du Jour  $2.50    French Onion Soup  $2.50    The Picnic Trio  $8.75    Fruit Salad  $0    Seasonal Salads  $0    Tuna Salad  $0    Tarragon Egg Salad  $0    Veggie Pasta Salad  $0    Spicy Potato Salad  $0    Organic Chicken Salad  $0    Green Chile Chicken Salad  $0    Ham On Pretzel  $8.00    Caprese  $8.25    Turkey Sweet  $8.00    Bft  $8.00    The Gobble  $8.50    Garden  $8.00    Picnic Salad Sandwich  $8.50    Roast Beef Bleu  $9.00    Pastrami  $8.25    Freebird Chicken  $9.00    Reuben  $8.25    Staple Combo  $2.75    The Fancy Lunch  $9.25    Multigrain  $0    Caraway Rye  $0    Pan Au Levain  $0    Baguette  $0    Country French White  $0    Challah  $0    Pretzel Roll  $0    Scones  $0    Croissant  $0    Danish  $0    Muffins  $0    Cinnamon Buns  $0    Coffee Cake  $0    Kolache (Sausage)  $0    Parisian Macarons  $0    Lonestar Whoopie Pies  $0    Coconut Sarahs  $0    Texas Cream Puffs  $0    Chocolate Mousse Tower  $0    Lemon Tart  $0    Fresh Berry Tarts  $0    Tarts  $0    Flourless Chocolate Hearts  $0    Golden Egg  $0    Breakfast Breads  $0    Citrus Pound Cake  $0    Cheesecakes  $0    Honey Bee Cake  $0    Mini Germans Chocolate Cake  $0    Cupcakes  $0    Specialty Cakes  $0    Chocolate Chunk Cookie  $0    Peanut Butter Cookie  $0    Ginger Cookie  $0    Salty Oats Cookie  $0    Iced Lemon Sugar Cookie  $0    Almond Glazed Shortbread Cookie  $0    Seasonal Cookie  $0    Walton’s Brownie  $0    Oat Bar  $0    Lemon Bar  $0    
+
+id = 4aef46a0f964a52025d721e3
+name = Uchi
+location = lat = 30.25756523398937, lng = -97.75984401497084
+Address = [801 S Lamar Blvd, Austin, TX 78704]
+tag = Japanese Restaurant
+rating = 9.4
+Hirame Usuzukuri*  $18.00    Machi Cure*  $18.00    Hama Chili*  $18.50    Akami Te*  $18.50    Uchiviche*  $12.50    Umi Masu*  $16.00    Saba*  $14.50    Walu Walu  $16.50    Hot Rock  $17.00    Hamachi Nabe  $17.50    Kinoko Nabe  $18.50    Bacon Steakie  $18.00    Sasami Yaki  $13.00    Gyutoro Yaki  $22.00    Sakana Mushi  $19.00    Ocha Zuke  $13.50    Edamame  $4.50    Shishito  $6.50    Broccolini  $9.00    Uchi Salad  $8.00    Ebi  $6.00    Kabocha  $2.50    Onion  $5.00    Karaage  $10.50    Brussels Sprouts  $7.50    Tomato Katsu  $6.00    Hana  $5.00    Akami*  $5.00    Sake*  $3.50    Sake Toro*  $4.50    Hamachi*  $5.00    Hirame*  $4.00    Madai*  $4.50    Boquerones  $4.00    Shime Saba*  $5.00    Taraba  $8.00    Avocado  $2.50    Namahotate*  $5.50    Nasu  $3.00    Unagi  $3.50    Gyutoro  $10.00    Foie Gras  $9.50    Chef's Selection Nigiri*  $0    Chef's Selection Sashimi*  $0    Biendo  $13.00    Zero Sen*  $12.50    Shag  $12.50    Avokatsu  $9.50    Ham and Eggs  $9.50    Spicy Crunchy Tuna*  $12.00    Gyumaki  $12.50    Chef's Tasting  $0    Signature Tasting  $0    Vegetarian Tasting  $0    Jizake Creme Caramel  $9.00    Chocolate Cherry  $9.00    Peanut Butter Semifreddo  $9.00    Lemon Gelato  $9.00    Seasonal Sorbets  $9.00    Marchesi Di Gresy, "La Serra" Moscato D'asti 2012 Piedmont  $11.00    Royal Tokaji, "Late Harvest" 2010 Hungary  $11.00    Château D'armajan Des Ormes, 2006 Sauternes  $10.00    Rare Wine Co & Barbeito, Savannah Verdelho Nv Madeira  $12.00    Fonseca, 20-Yeartawny Porto Nv Douro  $13.00    Lustau, "San Emilio" Pedro Ximenez Nv Jerez  $12.00    Paulaner Non-Alcoholic (12 Oz)  $4.00    Kirin Light (12Oz)  $5.00    Kirin Ichiban (12Oz)  $5.00    Kirin Ichiban Bomber (22Oz)  $8.00    Asahi Super Dry (12Oz)  $5.00    Sapporo Premium (12Oz  $5.00    Sapporo Reserve (12Oz)  $5.00    Staropramen (11. 2Oz)  $6.00    Lagunitas Ipa (12Oz)  $7.00    Rogue Dead Guy Ale (12Oz)  $7.00    Asahi Kuronama (11. 3Oz)  $7.00    Brooklyn Sorachi Ace (750Ml)  $22.00    Duchesse De Bourgogne (750Ml)  $30.00    Hitachino Rotating Selection (11. 2Oz)  $9.00    Left Hand Milk Stout Nitro (12Oz)  $8.00    Real Ale Devil's Backbone (12Oz)  $6.00    Coke, Diet Coke  $2.00    Iced Tea  $2.00    Ramune  $3.00    Aranciata  $3.00    Limonata  $3.00    Japanese Hot Green Tea  $4.00    French Press Coffee  $4.00    Large French Press Coffee  $12.00    Takara Nigori  $15.00    Zero Sen, Junmai  $9.00    Eiko Fuji, "Ban Ryu" Honjozo  $10.00    Seikyo, "Takehara" Junmai  $12.00    Otokoyama, Tokubetsu Junma  $12.00    Dewatsuru, Kimoto Junma  $14.00    Yuki No Bosha, "Limited Release" Junmai Ginjo  $14.00    Kanbara, "Bride of the Fox" Junmai Ginjo  $15.00    Bishonen, Junmai Ginjo  $10.00    Hanahato, "Densho"junmai Ginjo  $60.00    Ichinokura, Tokubetsu Junmai Tarusake  $64.00    Rihaku, "Dreamy Clouds" Tokubetsu Junmai Nigori  $74.00    Masumi, "Karakuchi Ki-Ippon" Junmai Ginjo  $88.00    Wakatake Onikoroshi, "Demon Slayer" Junmai Daiginjo  $16.00    Chokaisan, Junmai Daiginjo  $114.00    Watari Bune, Junmai Daiginjo  $205.00    Tentaka Kuni, "Hawk in the Heavens" Junmai  $30.00    Konteki, "Pearls of Simplicity" Junmai Daiginjo  $43.00    Fukucho, "Moon On the Water" Junmai Ginjo  $55.00    Ginga Shizuku, "Divine Droplets" Junmai Daiginjo  $75.00    Lechthaler, Pinot Grigio 2012 Trentino  $10.00    Prunotto, Arneis 2012 Piedmont  $15.00    Louis Michel, Chardonnay 2012 Chablis  $68.00    Hedges Family, "Cms White" Sauvignon Blanc 2013 Washington  $12.00    Château Bellevue, Semillonsauvignon Blanc 2013 Entre-Deux-Mers  $50.00    Chanson, Viré-Clessé Chardonnay 2012 Mâcon  $13.00    Four Graces, Pinot Gris 2013 Willamette Valley  $12.00    Dog Point, Sauvignon Blanc 2013 Marlborough  $52.00    Domaine Claude Riffault, "Les Boucauds" Sauvignon Blanc 2013 Sancerre  $71.00    Paul Blanck, "Classique" Riesling 2012 Alsace  $60.00    Boutari, "Elios" Mediterranean White 2010 Peloponnese  $9.00    Livio Felluga, Friulano 2011 Colli Orientalli Del Friuli  $62.00    Von Winning, Riesling 2012 Pfalz  $16.00    Dr. Hermann, "Dr. H" Riesling 2012 Mosel  $12.00    Joh. Jos. Christoffel Erben, Ürziger Würzgarten Riesling Kabinett 2012 Mosel  $67.00    Fillaboa, Albariño 2012 Rias Baixas  $12.00    Schwarzböck, "Vier Gärten" Grüner Veltliner 2013 Weinvierta  $14.00    Trimbach, Pinot Blanc 2012 Alsace  $11.00    Nikolaihof, "Hefeabzug" Grüner Veltliner 2012 Wachau  $72.00    Bonny Doon, "Le Cigar Blanc" Grenache Blanc Rousanne 2011 Santa Cruz Mountains  $52.00    Domaine Des Baumard, "Clos Du Papillon" Chenin Blanc 2009 Savennières  $76.00    Mcpherson Cellars, Viognier 2013 Texas  $10.00    Domaine Leflaive, Sous Le Dos D'âne 1 Er Cru Chardonnay 2011 Meursault  $325.00    Trefethen, Chardonnay 2012 Napa Valley  $16.00    Jordan, Chardonnay 2012 Russian River Valley  $88.00    Domaine Leflaive, Le Clavoillon 1 Er Cru Chardonnay 2012 Puligny-Montrache  $385.00    Far Niente, Chardonnay 2012 Napa Valley  $98.00    Château Lamargue, "Les Grandes Cabanes" Syrah Grenache 2013 Southern Rhône Valley  $11.00    Antinori, "Scalabrone" Cabernet Blend 2013 Tuscany  $12.00    Poema, Cava Brut Nv Penedès  $9.00    Villa Sandi, Prosecco Extra Dry Nv Veneto  $10.00    Bouvet, Brut Rosé Nv Loire Valley  $11.00    Argyle, Vintage Brut 2010 Willamette Valley  $50.00    Schramsberg, Blanc De Blancs 2011 Napa Valley  $15.00    Scarpetta, "Timido" Brut Rosé 4Th Edition Friuli  $14.00    Delamotte, Brut Nv Les-Mesnil-Sur-Oger Champagne  $16.00    H. Billiot Fils, Brut Rosé Nv Ambonnay Champagne  $115.00    André Jacquart, Brut Blanc De Blancs 1 Er Cru Nv Champagne  $125.00    Stéphane Aviron, Beaujolais-Villages Gamay 2012 Beaujolais  $11.00    Planeta, Cerasuolo Di Vittoria Nero D'avola Frappato 2012 Sicily  $14.00    Domaine Philippe Girard, Bourgogne Rouge Pinot Noir 2012 Burgundy  $14.00    Mongeard-Mugneret, Les Narbantons 1 Er Cru Pinot Noir 2011 Savigny-Lès-Beaune  $126.00    Maison L'envoyé, "Two Messengers" Pinot Noir 2012 Willamette Valley  $80.00    Laetitia, Pinot Noir 2013 Arroyo Grande Valley  $15.00    Siduri, Pinot Noir 2012 Sonoma Valley  $50.00    Patz & Hall, Pinot Noir 2012 Sonoma Valley  $95.00    Telmo Rodriguez, "Dehesa Gago"tempranillo 2012 Toro  $12.00    Coto De Imaz, Tempranillo Reserva 2008 Rioja  $68.00    Marcarini, "Ciabot Camerano" Barbera D'alba 2011 Piedmont  $13.00    Domaine La Garrique, "Cuvée Romaine" Grenache Mourvedre Syrah 2011 Côtes Du Rhône  $13.00    Produttori Del Barbaresco, Nebbiolo 2010 Piedmont  $76.00    Alain Graillot, Syrah 2011 Crozes-Hermitage  $75.00    Atalaya, "Laya" Garnacha Monastrell 2013 Almansa  $9.00    Tintonegro, Malbec 2012 Mendoza  $12.00    Billhook, Cabernet Sauvignon 2011 Napa Valley  $19.00    Ladera, Cabernet Sauvignon 2011 Napa Valley  $90.00    Finca Decero, Remolinos Vineyard Cabernet Sauvignon 2012 Mendoza  $43.00    Marco Abella, "Loidana" Garnacha Carignan 2009 Priorat  $80.00    Casanova Di Neri, "Cerretalto" Sangiovese 2006 Brunello Di Montalcino  $435.00    Château Lasségue, Grand Cru Merlot Blend 2007 Saint-Émilion  $105.00    Errazuriz, "Don Maximiano" Cabernet Blend 2009 Aconcagua Valley  $185.00    Chateau Montelena, Cabernet Sauvignon 2012 Napa Valley  $114.00    Opus One, Cabernet Blend 2011 Napa Valley  $405.00    Staglin, Cabernet Sauvignon 2010 Napa Valley  $394.00    Negihama Roll*  $6.00    Crunchy Tuna Roll*  $6.00    Shag Roll  $6.00    Bond  $4.00    Takara Nigori  $3.00    Gekkeikan  $3.00    Asahi Super Dry  $3.00    Laya  $7.00    Elios  $7.00    Uchiviche*  $6.00    Machi Cure*  $6.00    Hama Chili*  $6.00    Bacon Steakie  $6.00    Kyou No Sakana  $0    Walu Walu  $6.00    Muru Kai  $9.00    Shiki  $4.00    Okashi  $5.00    
+
+id = 5076fd1c498e7be11efe3a80
+name = Clark's Oyster Bar
+location = lat = 30.27284792460546, lng = -97.75713264219752
+Address = [1200 W 6th St (Blanco), Austin, TX 78703]
+tag = Seafood Restaurant
+rating = 9.4
+Menu not available
+
+id = 49cf0653f964a5209c5a1fe3
+name = Little Deli & Pizzeria
+location = lat = 30.34266177476388, lng = -97.72558014531012
+Address = [7101-A Woodrow Ave (at W St Johns Ave), Austin, TX 78757]
+tag = Pizza Place
+rating = 9.4
+Soup of the Day  $3.49    Garden Salad  $2.99    Greek Salad  $3.75    Chef Salad  $7.29    Chicken Salad-Salad  $7.29    Tuna Salad-Salad  $7.29    Blt  $8.49    Club Sandwich  $8.49    Roast Beef & Cheddar  $7.49    Muffalatta  $6.79    Turkey & Mozzarella  $6.99    Harrys Perfect Pastrami  $10.49    Reuben  $8.49    Classic Pastrami Sandwich  $8.29    Little Deli Cheeseburger  $5.25    Gardenburger  $6.49    Grilled Cheese  $3.49    By the Slice  $3.00    Pizza  $11.75    Toppings  $1.75    Meat Combo  $20.60    Vegi  $21.00    Pepperoni & Mushroom  $19.40    Pizza Margherita  $20.75    Italian  $20.60    Bacon Blue  $21.00    The #7  $20.60    Spicy Hawaiian  $20.50    Special White Pizza  $21.00    Mediterranean  $22.00    Bag of Potato Chips  $1.25    Side of Jalapenos  $0.50    Side of Pepperoncini Peppers  $0.50    Side of Anchovies  $2.75    Deviled Eggs (1)  $1.00    Add Bacon  $1.00    Add Avocado  $1.00    Add Cheese  $1.00    Large Side of Dressing  $0.40    Small Side of Dressing  $0.25    Brownies  $2.00    Peanut Butter Cookies  $1.39    Chocolate Chip Cookies  $1.39    Chewy Chocolate Cookies  $1.65    
+
+id = 51c5e288498ef321136d7614
+name = Bufalina
+location = lat = 30.25843392635047, lng = -97.72885250278738
+Address = [1519 E Cesar Chavez St, Austin, TX 78702]
+tag = Pizza Place
+rating = 9.4
+Menu not available
+
+id = 518056c3e4b04bf50f1f5c24
+name = Jeffrey's
+location = lat = 30.28042859263038, lng = -97.75914361124003
+Address = [1204 W Lynn St, Austin, TX 78703]
+tag = American Restaurant
+rating = 9.4
+Menu not available
+
+id = 49ee1e97f964a52025681fe3
+name = Torchy's Tacos
+location = lat = 30.236775274442003, lng = -97.76275182600891
+Address = [2809 S 1st St (at El Paso St), Austin, TX 78704]
+tag = Taco Place
+rating = 9.4
+Monk Special  $2.50    Migas  $2.75    The Wrangler  $3.50    Ranch Hand  $3.50    Breakfast Tacos  $2.25    Green Chile Pork  $3.75    Fried Avocado  $3.75    Trailer Park  $3.75    Dirty Sanchez  $3.50    Baja Shrimp  $4.25    Chicken Fajita  $3.50    Beef Fajita  $3.75    The Democrat  $4.00    The Republican  $3.25    The Independent  $3.50    Brushfire  $3.75    Mr. Pink  $4.75    Mr. Orange  $4.75    Crossroads  $4.25    Grande Burrito  $7.50    Street Corn  $3.95    Love Puppies  $2.50    Lil's Nookies  $2.95    Green Chile Queso & Chips  $5.25    Chips & Guacamole  $4.95    Chips & Salsa  $3.50    Roja  $0    Tomatillo  $0    Poblano  $0    Chipotle  $0    Avocado  $0    Diablo  $0    Guacamole  $4.25    Salsa  $2.50    Pico De Gallo  $2.50    Rice  $1.95    Refried Beans (Pinto Or Black)  $1.95    Fountain Soda  $2.25    Bottled Soda  $2.25    Orange Juice  $2.50    Fresh Ground Coffee  $2.00    Iced Tea  $2.25    
+
+id = 412bd680f964a520b50c1fe3
+name = Tacodeli
+location = lat = 30.258438983922478, lng = -97.78764279251158
+Address = [1500B Spyglass Dr (at Barton Skyway), Austin, TX 78746]
+tag = Taco Place
+rating = 9.4
+Blue Plate Combo  $8.50    Frontera Fundido Sirloin  $3.75    Mexico City Sirloin  $3.50    Cowboy Taco  $3.75    Tacoloco  $3.75    Akaushi Picadillo  $3.95    Carne Asada  $3.95    Frontera Fundido Chicken  $3.75    Mexico City Chicken  $3.50    Adobados  $3.50    Happy Taco  $3.50    El Conquistador  $3.50    Al Pastor  $3.50    Puerco Verde  $3.50    Shrimp Taco  $3.95    Mojo Fish Taco  $3.95    Fish Taco  $3.50    The Heather  $3.50    Frontera Fundido Portobello  $3.50    Florentino  $3.25    Papadulce  $3.25    Freakin’ Vegan  $2.95    Space Cowboy  $3.50    Mole Sirloin (Grilled Steak)  $3.75    Mole Chicken (Grilled Chicken)  $3.75    Mole Pork (Shredded Pork)  $3.75    Mole Portobello (Oven Roasted Portobellos)  $3.75    Ensalada Tacodeli  $6.50    Ensalada Avocado  $8.25    Espinaca  $3.95    Corazon  $3.95    Jardin  $2.95    Sopa Las Mañanitas  $3.95    Chips & Salsa  $2.25    Chips & Guacamole  $3.95    Chips & Queso  $3.50    Roberto's Brazo Fuerte Dip with Chips  $8.50    Mexican Red Rice  $1.50    Steamed Brown Rice  $1.50    Beans  $1.50    50/50 (Rice & Beans)  $1.50    Kid's Quesadilla  $1.95    Sautéed Spinach  $2.25    Mexican Mashed Potatoes  $2.25    Toreados  $0.75    Tacodeli Salsa  $3.75    Cheese / Queso Fresco  $1.50    Guacamole  $1.50    Avocado  $1.50    Sour Cream  $1.50    Diced Jalapeños  $0.75    Pico De Gallo  $1.50    Cilantro / Onion  $0.75    Extra Salad Dressing  $0.50    The Otto  $2.75    The Jess Special  $2.75    Migas Taco  $2.25    The Sirloin, Egg & Cheese  $3.10    Migas Royale Plate  $6.25    El Popeye  $2.75    The Vaquero  $2.75    Taco Blanco  $2.35    Frontera Fundido  $3.75    Build Your Own  $1.85    Locally Roasted Fresh-Brewed Coffee  $2.00    House-Made Aguas Frescas  $2.50    Goodflow Honey Limeade  $2.50    Orange Or Grapefruit Juice  $3.50    Lemonade  $3.50    Topo Chico Sparkling Water  $2.25    Agana Bottled Water  $1.50    Buddha’s Brew Kombucha  $3.75    Mexican Coca-Cola Bottle  $2.25    Maine Root Bottled Sodas  $2.50    Sweet Leaf Bottled Tea  $2.25    Fountain Soda Or Iced Tea  $1.95    
+
+id = 4f985f73e4b07d0a53f8517e
+name = Salty Sow
+location = lat = 30.2838184487371, lng = -97.72131623203063
+Address = [1917 Manor Rd, Austin, TX 78722]
+tag = American Restaurant
+rating = 9.4
+Menu not available
+
+id = 4cb890cb7148f04dacf5d0ab
+name = Pueblo Viejo
+location = lat = 30.2622633994213, lng = -97.72460960501517
+Address = [1001 East 6th St, Austin, TX]
+tag = Food Truck
+rating = 9.3
+Menu not available
+
+id = 49fa19e5f964a520bd6d1fe3
+name = Bouldin Creek Café
+location = lat = 30.24646314668017, lng = -97.75677680969238
+Address = [1900 S 1st St (at W. Mary St.), Austin, TX 78704]
+tag = Vegetarian / Vegan Restaurant
+rating = 9.3
+Menu not available
+
+id = 4d755f73fc766a314d778d1a
+name = Franklin Barbecue
+location = lat = 30.27008515990402, lng = -97.73127436637878
+Address = [900 E 11th St (at Branch St), Austin, TX 78702]
+tag = BBQ Joint
+rating = 9.3
+Menu not available
+
+id = 49da5508f964a520765e1fe3
+name = Eddie V's Prime Seafood
+location = lat = 30.38960921, lng = -97.75304317
+Address = [9400B Arboretum Blvd, Austin, TX 78759]
+tag = Seafood Restaurant
+rating = 9.3
+Dark Chocolate and Crushed Toffee S'mores  $0    Hot "Bananas Foster" Butter Cake  $0    Hot Blackberry Cobbler  $0    Butterscotch Panna Cotta  $0    Hot Chocolate Godiva Cake*  $0    Creme Brulee  $0    Fresh Seasonal Berries  $0    Sorbet and Ice Cream  $0    Espresso  $0    Cappuccino  $0    Latte  $0    Pot Stickers  $0    Tartare of Pacific Ahi Tuna  $0    Jumbo Lump Crab Cake  $0    Point Judith Calamari  $0    Batterfried Oysters  $0    Maine Lobster Tacos  $0    Charred Prime Steak Carpaccio  $0    Maine Lobster and Shrimp Bisque  $0    Crab and Corn Chowder  $0    Wild Mushroom Salad  $0    Fuji Apple Salad  $0    Baby Iceberg Blt  $0    Classic Caesar Salad  $0    Heirloom Tomato Salad  $0    Seafood Chopped Salad  $0    Louisiana Red Fish  $0    Scottish Salmon  $0    Pacific Ahi Tuna  $0    Pacific Swordfish  $0    North Atlantic Lemon Sole  $0    Florida Grouper  $0    Georges Bank Scallops  $0    Jumbo Gulf Shrimp  $0    Chilean Sea Bass  $0    Market Fresh Fish  $0    Cold Water Lobster  $0    8 Oz Center Cut Filet Mignon  $0    22 Oz Usda Prime Bone-in Ribeye  $0    12 Oz Center Cut Filet Mignon  $0    16 Oz Usda Prime New York Strip  $0    16 Oz Prime New York Strip Au Poivre  $0    8 Oz Filet Mignon and Broiled Cold Water Lobster Tail  $0    Roasted Double Breast of Chicken  $0    Oscar Style  $0    Carpet Bag  $0    Hollandaise Or Béarnaise  $0    Louisiana Oysters  $0    Market Oysters  $0    Yellowtai L Sashimi  $0    Chi Lled Gul F Shrimp  $0    Jumbo Lump Crab  $0    Shell Fish Tower  $0    Broccolini with Lemon and Garlic  $0    Brussel Sprouts, Bacon and Shallots  $0    Sautéed Monterrey Style Sweet Corn  $0    Twice Baked Potato  $0    Crab Fried Rice with Mushrooms  $0    Truffled Macaroni and Cheese  $0    Heirloom Tomato Greek Salad  $0    Parmesan and Chive French Fries  $0    Sautéed Spinach  $0    Sugar Snaps with Portabellas  $0    Steamed Asparagus  $0    Au Gratin Potatoes  $0    Roasted Baby Beets and Candied Walnuts  $0    $1 Louisiana Oysters*  $0    Chilled Gulf Shrimp  $0    Pot Stickers  $0    Jumbo Lump Crab Cake  $0    Batterfried Oysters  $0    Steak and Lobster Tartare*  $0    Point Judith Calamari  $0    Tartare of Pacific Ahi Tuna*  $0    Lemon Drop  $0    Cosmopolitan  $0    Green Apple  $0    Classic Martini  $0    The Original Bacardi Mojito  $0    El Jimador Traditional Margarita  $0    La Marca, Prosecco  $0    Indaba, Chardonnay  $0    Lorenza, Rosé  $0    Giacato, Pinot Grigio  $0    Macedon, Pinot Noir  $0    Louis Martini, Cabernet Sauvignon  $0    Francis Ford Coppola, Merlot  $0    Market Oysters*  $0    Hawaiian Yellowtail Sashimi*  $0    Jumbo Lump Crab  $0    Chilled Gulf Shrimp  $0    Tartare of Pacific Ahi Tuna*  $0    Chilled Shellfish Tower*  $0    Maine Lobster Tacos  $0    Point Judith Calamari  $0    Jumbo Lump Crab Cake  $0    Pot Stickers  $0    Batterfried Oysters  $0    Steak and Lobster Tartare*  $0    Cold Water Lobster Tail*  $0    Maine Lobster and Shrimp Bisque  $0    Crab and Corn Chowder  $0    Wild Mushroom Salad  $0    Iceberg Blt  $0    Fuji Apple Salad  $0    Classic Caesar Salad  $0    Heirloom Tomato Salad  $0    Shrimp and Crab Chopped Salad  $0    Halibut Filet  $0    North Atlantic Lemon Sole  $0    Chilean Sea Bass  $0    Scottish Salmon*  $0    Pacific Ahi Tuna*  $0    Swordfish Steak*  $0    Florida Grouper  $0    Georges Bank Scallops*  $0    Jumbo Gulf Shrimp  $0    Sauteed Red Fish  $0    Market Fresh Fish  $0    Cold Water Lobster Tails  $0    Roasted Double Breast of Chicken  $0    Fresh Market Vegetables  $0    8 Oz Center Cut Filet Mignon*  $0    22 Oz Usda Prime Bone-in Ribeye*  $0    12 Oz Center Cut Filet Mignon*  $0    16 Oz Usda Prime New York Strip*  $0    8 Oz Filet Mignon, Roasted and Sliced*  $0    16 Oz Usda Prime New York Strip Au Poivre*  $0    8 Oz Filet Mignon and Broiled Cold Water Lobster Tail*  $0    Au Gratin Potatoes  $0    Broccolini with Lemon and Garlic  $0    Sautéed Monterrey Style Sweet Corn  $0    Twice Baked Potato with Bacon and Chives  $0    Parmesan and Chive French Fries  $0    Truffled Macaroni and Cheese  $0    Sugar Snap Peas with Portobellos  $0    Steamed Asparagus  $0    Roasted Baby Beets and Candied Walnuts  $0    Sautéed Spinach with Garlic and Parmesan  $0    Brussels Sprouts, Bacon and Shallots  $0    Crab Fried Rice with Mushrooms and Scallions  $0    
+
+id = 4e9ddbb461af4feab65a22a0
+name = Fricano's Deli & Catering
+location = lat = 30.288116364967536, lng = -97.74288770921683
+Address = [2405 Nueces St (24th Street), Austin, TX 78705]
+tag = Sandwich Place
+rating = 9.3
+Menu not available
+
+id = 509d6eaae4b083e9a4b268ff
+name = La Barbecue Cuisine Texicana
+location = lat = 30.257158996050464, lng = -97.72390955147556
+Address = [1906 E Cesar Chavez St (Chicon), Austin, TX 78702]
+tag = BBQ Joint
+rating = 9.3
+Menu not available
+
+id = 5047be93e4b0a21d2fa2e79b
+name = Pinthouse Pizza
+location = lat = 30.318644365168996, lng = -97.73914789672304
+Address = [4729 Burnet Rd, Austin, TX 78756]
+tag = Pizza Place
+rating = 9.3
+Menu not available
+
+id = 56a2e11e498e4ab3feb17449
+name = Pho Please
+location = lat = 30.24312668767139, lng = -97.72811528093416
+Address = [1920 E Riverside Dr, Austin, TX 78741]
+tag = Vietnamese Restaurant
+rating = 9.3
+Menu not available
+
+id = 4b328d28f964a520650e25e3
+name = Jack Allen's Kitchen
+location = lat = 30.243571399790277, lng = -97.8826904296875
+Address = [7720 W Highway 71, Austin, TX 78735]
+tag = American Restaurant
+rating = 9.3
+House Made Pimiento Cheese  $6.99    Chicken Nachitos  $8.99    Crunchy Catfish & Slaw  $11.99    Blt Sliders  $10.99    Red Chile Fries  $7.99    Spinach Gorgonzola Ravioli  $11.99    Bacon Wrapped Texas Quail  $15.99    Carl Miller's Layered Chunky Queso  $8.99    Smashed Guacamole  $8.99    Smoked Beef Rib Quesadilla  $8.99    Barbacoa Stackers  $9.99    Blue Crab Gratin  $10.99    Chips & Salsa  $2.99    Today's Soup  $3.99    Country Club Fancy Chicken Salad  $12.99    Buttermilk Fried Chicken Salad  $11.99    Twisted Cobb Salad  $12.99    "Wedgies" Salad  $8.99    Steak Salad  $15.99    Tom's House Salad  $3.99    Caesar Salad  $6.99    Grilled, Then Pickled Jalapeños  $0    Any House Made Salad Dressing  $0    Pimiento Cheese  $0    Pickled Beets  $0    Pumpkin Seed Pesto Marinated Chicken Breast  $13.99    Grilled Ruby Trout  $15.99    Baja Style Fish Tacos  $12.99    5 Cheese Macaroni and Chicken  $14.99    Grilled New York Strip*  $26.99    13 Spiced Chicken Pasta  $14.99    Crispy Salmon*  $18.99    Chorizo Stuffed Pork Tenderloin Medallions  $17.99    New York Strip*  $13.99    Chicken Breast  $11.99    Pork Chop  $13.99    Beef Ribs  $14.99    Green Chile Pork Tacos  $10.99    Premium Steak Tacos*  $15.99    Chile Mango Shrimp Tacos  $12.99    Slow Roasted Chicken Tinga  $10.99    Grilled Farm Fresh Veggies Plus Portobellas  $9.99    Killer Cheese Burger*  $10.99    Fat Jack Burger*  $10.99    Green Chile Cheese Burger*  $10.99    Sloppy Jack  $10.99    Gerald's Hippie Turkey Burger  $10.99    Grilled Veggie Sandwich  $9.99    House Frozen Margarita  $7.00    Jack's Signature House Rocks  $7.00    Flavored Frozen Margarita  $7.50    Ruta Rita  $7.50    Austin Rita  $7.50    Pomegranate Sage Rita  $8.00    Tom's Favorite  $8.50    Agave "Skinny" Cocktail  $9.00    Cucumber Jalapeño Rita  $9.00    Mango-Habanero Rita  $9.00    Ancho in the Morning  $9.50    Jack's Mexican Martini  $9.50    Moscow Mule  $7.50    Tito's Sage & Grapefruit Splash  $7.50    360 Twisted Tea  $7.50    Pomegranate and Basil Martini  $8.00    Round Rock Bee Keeper  $8.00    Deep Eddy Grapefruit Cooler  $8.00    Cruzan Black Cherry Mojito  $7.50    Prickly Pear Mojito  $7.50    Texas Sling  $8.00    Red Handed Smash N' Grab  $8.00    Eagle Rare Manhattan  $10.50    Circle Alibi Blonde  $0    Thirsty Goat Amber  $0    Stash I.P.a.  $0    (512) Pecan Porter  $0    Live Oak Hefeweizen  $0    Seasonal Draft  $0    Austin Beerworks Pearl-Snap  $0    Hops & Grain "Zoe"  $0    Fireman's 4  $0    Lone Star  $0    Shiner Bock  $0    Austin Eastciders Dry Cider  $0    Blue Moon  $0    Bud Light  $0    Coors Light  $0    Michelob Ultra  $0    Miller Lite  $0    Omission Pale Ale  $0    Corona Light  $0    Dos Equis Lager  $0    Stella Artois  $0    St. Pauli Girl N/a  $0    
+
+id = 43598100f964a520eb281fe3
+name = Moonshine Patio Bar & Grill
+location = lat = 30.26393650574683, lng = -97.73804986182492
+Address = [303 Red River St (at E 3rd St), Austin, TX 78701]
+tag = American Restaurant
+rating = 9.3
+Old Fashioned  $6.50    Hard Lemonade  $7.50    Silvermoon Margarita  $7.50    Ruby Slipper Martini  $7.50    The Waterloo  $8.00    White Lightning  $5.00    Moonshine Corn Dog Shrimp  $10.95    Homemade Potato Chips  $6.95    Roasted Garlic Bulbs  $8.95    Beer Battered Asparagus  $9.95    Warm Brie  $9.95    Crispy Calamari  $11.95    Spinach & Artichoke Fondue  $9.95    Chicken Tortilla Soup  $3.50    Cornflake Fried Chicken Salad  $12.95    Fajita Steak Salad  $13.95    Waldorf Salad  $10.95    Berkeley House Salad  $5.95    Seasonal Spinach Salad  $6.95    Classic Caesar Salad  $5.50    Pecan Crusted Catfish  $18.95    Broiled Rainbow Trout  $22.95    Horseradish Crusted Salmon  $20.95    Smoked Half Chicken  $14.95    Pan-Fried Chicken Almondine  $14.95    Buffalo Meatloaf  $15.95    Molasses & Chile Cured Pork Chop  $20.95    Chicken Fried Steak  $16.95    Jalapeno Hanger Steak  $21.95    Texas Flat Iron Steak  $22.95    Green Chile Macaroni  $14.95    Southern Fried Chicken & Waffles  $12.95    Backyard Chicken Sandwich  $12.95    Turkey Melt Sandwich  $10.95    Big Reds Blt  $10.95    Cheeseburger  $11.95    The Bohemian  $10.95    Hand-Cut Steak Fries  $3.95    Mashed Potatoes  $3.95    Baked Macaroni  $3.95    Red Beans & Rice  $3.95    Roasted Sweet Potatoes  $3.95    Green Chile Cheddar Grits  $3.95    White Chocolate Bread Pudding  $9.95    Peanut Butter Mousse Pie  $9.95    Fudge Stout Brownie  $9.95    Signature Skillet Apple Pie  $11.95    
+
+id = 4a06e4cbf964a52009731fe3
+name = FoodHeads
+location = lat = 30.30073176666667, lng = -97.74041533470154
+Address = [616 W 34th St (btwn Guadalupe St. & King St.), Austin, TX 78705]
+tag = Sandwich Place
+rating = 9.3
+Menu not available
+
