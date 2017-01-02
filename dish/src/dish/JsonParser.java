@@ -87,6 +87,9 @@ public class JsonParser {
     
     public static void main(String[] args) throws IOException{
     	List<Restaurant> list = null;
+    	
+    
+    	
     	for(int offset = 0; offset < 241; offset += 30) {
         	JsonParser parser = new JsonParser();
         	StringBuilder jsonString = new StringBuilder();
@@ -96,8 +99,7 @@ public class JsonParser {
         	String link = String.format("https://api.foursquare.com/v2/venues/explore?near=Austin,TX&section=Food&offset=%d&oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", offset);
 //            parser.readFromUrl(link, file, jsonString);
         	parser.readFromFile(file, jsonString);
-            
-            
+                 
             
             file = String.format("RestaurantList_offset_%d.txt", offset);
             list = parser.parse(jsonString.toString());
