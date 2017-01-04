@@ -1,9 +1,9 @@
 
 Things to do
 DONE <1> Get restaurants and dishes informaion
-<2> Setup ElasticSearch and MySQL
+<2> Setup ElasticSearch and Cassandra
 <3> Web UI search
-<4> Server deploy
+<4> Server dploy
 <5> Android app search
 <6> iOS app search
 
