@@ -1,20 +1,18 @@
 package dish;
 
-import com.google.gson.Gson;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.io.Writer;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.Scanner;
-import java.util.List;
+
+import org.apache.log4j.BasicConfigurator;
+
+import com.google.gson.Gson;
 
 /**
  * Created by liyou on 11/24/16.
@@ -88,7 +86,8 @@ public class JsonParser {
     public static void main(String[] args) throws IOException{
     	List<Restaurant> list = null;
     	
-    
+    	//BasicConfigurator.configure();
+
     	
     	for(int offset = 0; offset < 241; offset += 30) {
         	JsonParser parser = new JsonParser();
@@ -96,7 +95,7 @@ public class JsonParser {
         	String file = String.format("RawJsonRestaurants_offset_%d.txt", offset);
         	
         	// Get Restaurant info from FourSquare API
-        	String link = String.format("https://api.foursquare.com/v2/venues/explore?near=Austin,TX&section=Food&offset=%d&oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", offset);
+//      	String link = String.format("https://api.foursquare.com/v2/venues/explore?near=Austin,TX&section=Food&offset=%d&oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", offset);
 //            parser.readFromUrl(link, file, jsonString);
         	parser.readFromFile(file, jsonString);
                  
@@ -113,7 +112,7 @@ public class JsonParser {
             		continue;
             	}            	
             	
-            	String menuLink = String.format("https://api.foursquare.com/v2/venues/%s/menu?oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", r.id);
+//            	String menuLink = String.format("https://api.foursquare.com/v2/venues/%s/menu?oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", r.id);
             	String menuFile = "Menu_" + r.name + ".txt";
             	StringBuilder jsonMenu = new StringBuilder();
 //            	parser.readFromUrl(menuLink, menuFile, jsonMenu);
@@ -123,11 +122,20 @@ public class JsonParser {
             	r.addDishes(menus.flaten());
             	
             	out.println(r);
-            	System.out.println(r);
+            	//System.out.println(r);
             	
             }
             out.close();
+        
             System.out.println(String.format("total %d", count));
     	}
+    	
+    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("dishtest", "127.0.0.1");
+    	conn.InitOrUpdate(list);
+    	
+    	
+    	System.out.println("excution finished" );
+//        final String dir = System.getProperty("user.dir");
+//        System.out.println("current dir = " + dir);
     }
 }
