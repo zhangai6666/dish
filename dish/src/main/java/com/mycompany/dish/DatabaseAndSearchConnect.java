@@ -76,14 +76,15 @@ public class DatabaseAndSearchConnect {
             }
 
             for (Restaurant restaurant : list) {
-                if (restaurant.dishes.isEmpty()) {
-                    continue;
-                }
+  
                 String getRid = "SELECT rid  FROM restaurant  WHERE fsqid = '" + restaurant.id + " ';";
                 ResultSet ridResult = session.execute(getRid);
                 UUID rUuid = null;
                 for (Row r : ridResult) {
                     rUuid = r.getUUID(0);
+                }
+                if (rUuid == null) {
+                    continue;
                 }
 
                 for (Dish d : restaurant.dishes) {
