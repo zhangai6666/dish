@@ -4,7 +4,7 @@ location = lat = 30.357137504434913, lng = -97.73539767423304
 Address = [2525 W Anderson Ln Bldg 1 Ste 300 (Anderson & Northcross), Austin, TX 78757]
 tag = Indian Restaurant
 rating = 8.7
-Menu not available
+
 
 id = 41293380f964a520670c1fe3
 name = Chuy's
@@ -36,7 +36,7 @@ location = lat = 30.271667204966064, lng = -97.75784363789454
 Address = [817 W 5th St (Bowie St), Austin, TX 78703]
 tag = Food Truck
 rating = 8.7
-Menu not available
+
 
 id = 45f45cd3f964a520fa431fe3
 name = El Chilito
@@ -44,7 +44,7 @@ location = lat = 30.284258702890806, lng = -97.71839422184058
 Address = [2219 Manor Rd (Chestnut Ave), Austin, TX 78722]
 tag = Taco Place
 rating = 8.7
-Menu not available
+
 
 id = 4f1344c8e4b03856f23b5e8b
 name = Asiana Indian Cuisine
@@ -52,7 +52,7 @@ location = lat = 30.190516431940306, lng = -97.77243654946393
 Address = [801 E William Cannon Dr #205, Austin, TX 78745]
 tag = Indian Restaurant
 rating = 8.7
-Menu not available
+
 
 id = 4b2e4941f964a520efdd24e3
 name = Dan's Hamburgers
@@ -84,7 +84,7 @@ location = lat = 30.260836988620074, lng = -97.71468752703338
 Address = [2409 E 7th St, Austin, TX 78702]
 tag = South American Restaurant
 rating = 8.7
-Menu not available
+
 
 id = 56170c17498ecd6b0a1e7930
 name = Voodoo Doughnut Austin V
@@ -92,7 +92,7 @@ location = lat = 30.267551119927717, lng = -97.74086128971913
 Address = [212 E 6th St (at Brazos St), Austin, TX 78701]
 tag = Donut Shop
 rating = 8.7
-Menu not available
+
 
 id = 4f3c4f62e4b0fc2b1eb78252
 name = Olive & June
@@ -100,7 +100,7 @@ location = lat = 30.307224827789, lng = -97.75116374454387
 Address = [3411 Glenview Ave (38th Street), Austin, TX 78703]
 tag = Italian Restaurant
 rating = 8.7
-Menu not available
+
 
 id = 49e8a392f964a5205c651fe3
 name = Taqueria Arandas
@@ -116,7 +116,7 @@ location = lat = 30.306533887406456, lng = -97.73564697561324
 Address = [4101 Guadalupe St (btw 41st & 42nd), Austin, TX 78751]
 tag = Deli / Bodega
 rating = 8.7
-Menu not available
+
 
 id = 437a7680f964a5206d2a1fe3
 name = Threadgill's
@@ -124,7 +124,7 @@ location = lat = 30.33238872285426, lng = -97.7225784082827
 Address = [6416 N Lamar Blvd (Brentwood St.), Austin, TX 78752]
 tag = American Restaurant
 rating = 8.7
-Menu not available
+
 
 id = 4a63987ff964a52068c51fe3
 name = P.F. Chang's
@@ -140,7 +140,7 @@ location = lat = 30.244912007684476, lng = -97.75735549082412
 Address = [2101 S 1st St, Austin, TX 78704]
 tag = Food Truck
 rating = 8.7
-Menu not available
+
 
 id = 4a881d02f964a520320520e3
 name = Cypress Grill
@@ -164,7 +164,7 @@ location = lat = 30.26166179653752, lng = -97.721793522908
 Address = [1914 E 6th St, Austin, TX 78702]
 tag = Breakfast Spot
 rating = 8.7
-Menu not available
+
 
 id = 45f1237df964a520c5431fe3
 name = Siena Ristorante Toscana
@@ -180,7 +180,7 @@ location = lat = 30.31905075337714, lng = -97.73907363295349
 Address = [4805 Burnet Rd, Austin, TX 78756]
 tag = Sandwich Place
 rating = 8.7
-Menu not available
+
 
 id = 512fbf18e4b0bb78ce07be5c
 name = Tyson's Tacos
@@ -188,7 +188,7 @@ location = lat = 30.309656, lng = -97.7152
 Address = [4905 Airport Blvd, Austin, TX 78751]
 tag = Taco Place
 rating = 8.7
-Menu not available
+
 
 id = 43a49c90f964a520512c1fe3
 name = Taverna
@@ -212,7 +212,7 @@ location = lat = 30.298509203893076, lng = -97.74131218953943
 Address = [3110 Guadalupe St (31st 1/2), Austin, TX 78705]
 tag = BBQ Joint
 rating = 8.7
-Menu not available
+
 
 id = 4f89c67ee4b00a62623706ea
 name = Taqueria Mi Trailita
@@ -220,7 +220,7 @@ location = lat = 30.30626900646621, lng = -97.67165858820881
 Address = [5301 Manor Rd, Austin, TX 78723]
 tag = Food Truck
 rating = 8.7
-Menu not available
+
 
 id = 42ec1480f964a5209f261fe3
 name = Roaring Fork
@@ -228,5 +228,5 @@ location = lat = 30.269181715457854, lng = -97.74214267730713
 Address = [701 Congress Ave (at 7th St.), Austin, TX 78701]
 tag = Steakhouse
 rating = 8.7
-Menu not available
+
 

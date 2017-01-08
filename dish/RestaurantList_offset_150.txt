@@ -4,7 +4,7 @@ location = lat = 30.18481206013106, lng = -97.8475159406662
 Address = [9901 Brodie Ln (at Slaughter Blvd), Austin, TX 78748]
 tag = Greek Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 53101130498e3fd9c77d4135
 name = Jacoby's Restaurant & Mercantile
@@ -12,7 +12,7 @@ location = lat = 30.251488203413285, lng = -97.70732244329098
 Address = [3235 E Cesar Chavez St (Tillery), Austin, TX 78702]
 tag = New American Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 53406e9d498e4a0797107d03
 name = Picnic Food Trailer Park
@@ -20,7 +20,7 @@ location = lat = 30.263435328090672, lng = -97.76297999873258
 Address = [Austin, TX]
 tag = Food Truck
 rating = 8.8
-Menu not available
+
 
 id = 4f5966a7e4b0a5edcfe28de5
 name = Swift's Attic
@@ -28,7 +28,7 @@ location = lat = 30.265698221180912, lng = -97.74339697563687
 Address = [315 Congress Ave, Austin, TX 78701]
 tag = American Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 51378945e4b00eec88d3fad2
 name = Slake Cafe & Bar
@@ -36,7 +36,7 @@ location = lat = 30.268749340170604, lng = -97.74124853291926
 Address = [120 E 7th St (Brazos), Austin, TX 78701]
 tag = Café
 rating = 8.8
-Menu not available
+
 
 id = 54b4834c498eb7bad65533ab
 name = Lucky's Puccias & Pizzeria
@@ -44,7 +44,7 @@ location = lat = 30.2737403969462, lng = -97.76354778057186
 Address = [1611 W 5th St Ste 175, Austin, TX 78703]
 tag = Italian Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 4cbb7b8bdd41a35d3977eea0
 name = East Side Pies
@@ -52,7 +52,7 @@ location = lat = 30.314926625651953, lng = -97.71533446111715
 Address = [5312 Airport Blvd Ste G, Austin, TX 78751]
 tag = Pizza Place
 rating = 8.8
-Menu not available
+
 
 id = 54d80fd6498ee14c523472f2
 name = Chipotle Mexican Grill
@@ -60,7 +60,7 @@ location = lat = 30.242087407122362, lng = -97.72739928149166
 Address = [1920 E Riverside Dr (E. Riverside Dr. & Shore District Dr.), Austin, TX 78741]
 tag = Mexican Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 52f2671f498e8b61cc7f0ee6
 name = VertsKebap
@@ -68,7 +68,7 @@ location = lat = 30.44554743646855, lng = -97.74412954793499
 Address = [6301 W Parmer Ln (Northwest corner of Parmer Ln. and McNeil Dr.), Austin, TX 78729]
 tag = Mediterranean Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 52bde52c498e0bfc6a8e627a
 name = P. Terry's Burger Stand
@@ -76,7 +76,7 @@ location = lat = 30.424921870908882, lng = -97.75192773525092
 Address = [12018 Research Blvd, Austin, TX 78759]
 tag = Burger Joint
 rating = 8.8
-Menu not available
+
 
 id = 4c8a26ab1797236a94cc5e88
 name = Paco's Tacos
@@ -84,7 +84,7 @@ location = lat = 30.307403709211854, lng = -97.7058484587861
 Address = [1304 E 51st St, Austin, TX 78723]
 tag = Taco Place
 rating = 8.8
-Menu not available
+
 
 id = 52158eae11d2c369416ee7dd
 name = Gourdough's
@@ -92,7 +92,7 @@ location = lat = 30.233877260151864, lng = -97.79690633822
 Address = [6th street and Red River street, Austin, TX 78702]
 tag = Food Truck
 rating = 8.8
-Menu not available
+
 
 id = 49c5891ef964a5200c571fe3
 name = Matt's el Rancho
@@ -100,7 +100,7 @@ location = lat = 30.245234673585443, lng = -97.77926176039797
 Address = [2613 S Lamar Blvd, Austin, TX 78704]
 tag = Mexican Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 4a3fb7a0f964a520d9a31fe3
 name = Tan My Restaurant
@@ -108,7 +108,7 @@ location = lat = 30.363773578015206, lng = -97.71417846833408
 Address = [1601 Ohlen Rd (Payton Gin), Austin, TX 78758]
 tag = Vietnamese Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 4edbef750e61d46ad9e1f6b2
 name = Stiles Switch BBQ & Brew
@@ -116,7 +116,7 @@ location = lat = 30.334530329070258, lng = -97.72134805132167
 Address = [6610 N Lamar Blvd, Austin, TX 78757, Austin, TX 78757]
 tag = BBQ Joint
 rating = 8.8
-Menu not available
+
 
 id = 56d4dfc8498e30f5748db0ed
 name = Via 313
@@ -124,7 +124,7 @@ location = lat = 30.297801450355326, lng = -97.7413334084256
 Address = [3016 Guadalupe St, Austin, TX 78705]
 tag = Pizza Place
 rating = 8.8
-Menu not available
+
 
 id = 4ac947d0f964a52083bf20e3
 name = Steiner Ranch Steakhouse
@@ -148,7 +148,7 @@ location = lat = 30.2947598765605, lng = -97.78441160917282
 Address = [3825 Lake Austin Blvd, Austin, TX 78703]
 tag = Mexican Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 4aedaea5f964a52021ce21e3
 name = Krispy Kreme Doughnuts
@@ -188,7 +188,7 @@ location = lat = 30.265024245795754, lng = -97.74391685557056
 Address = [217 Congress Ave (at 2nd St), Austin, TX 78701]
 tag = BBQ Joint
 rating = 8.8
-Menu not available
+
 
 id = 4c379ff7ae2da593103bffc5
 name = Korean Grill
@@ -204,7 +204,7 @@ location = lat = 30.24677, lng = -97.756351
 Address = [1816 S 1st St, Austin, TX 78704, Austin, TX 78704]
 tag = Seafood Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 55bad8c5498e994ab72cd2cc
 name = Unit-D Pizzeria
@@ -212,7 +212,7 @@ location = lat = 30.28486005451502, lng = -97.71716924098979
 Address = [2406 Manor Rd, Austin, TX 78722]
 tag = Pizza Place
 rating = 8.8
-Menu not available
+
 
 id = 4bdb8bd0c79cc928017483e9
 name = Snap Kitchen

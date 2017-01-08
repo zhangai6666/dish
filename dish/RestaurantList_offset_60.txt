@@ -4,7 +4,7 @@ location = lat = 30.268586532161734, lng = -97.7275106587042
 Address = [1203 E 11th St, Austin, TX]
 tag = Food Truck
 rating = 9.1
-Menu not available
+
 
 id = 4ebde0756da15b4dde251bc7
 name = Hey!...You Gonna Eat Or What?
@@ -12,7 +12,7 @@ location = lat = 30.263462130165582, lng = -97.76290570985785
 Address = [1720 Barton Springs Rd, Austin, TX 78704]
 tag = Food Truck
 rating = 9.1
-Menu not available
+
 
 id = 54b5dc15498e330dbf54dc33
 name = Ramen Tatsu-ya
@@ -20,7 +20,7 @@ location = lat = 30.25393, lng = -97.7632
 Address = [1234 S Lamar Blvd, Austin, TX 78704]
 tag = Noodle House
 rating = 9.1
-Menu not available
+
 
 id = 40ec8e80f964a5202b0a1fe3
 name = Magnolia Cafe South
@@ -36,7 +36,7 @@ location = lat = 30.330784269280546, lng = -97.74011863748294
 Address = [5520 Burnet Rd (5200 Burnet Rd), Austin, TX 78756]
 tag = Asian Restaurant
 rating = 9.1
-Menu not available
+
 
 id = 5728ef0f498e5d75bbd319e9
 name = Hanabi
@@ -44,7 +44,7 @@ location = lat = 30.386728157906646, lng = -97.74187979694561
 Address = [9503 Research Blvd, Austin, TX]
 tag = Asian Restaurant
 rating = 9.1
-Menu not available
+
 
 id = 42e03700f964a52061261fe3
 name = Chuy's
@@ -60,7 +60,7 @@ location = lat = 30.304733614923446, lng = -97.72657191343201
 Address = [411 E 43rd St (at Duval St.), Austin, TX 78751]
 tag = Bakery
 rating = 9.1
-Menu not available
+
 
 id = 49e32bbaf964a52068621fe3
 name = La Condesa
@@ -76,7 +76,7 @@ location = lat = 30.24947120902162, lng = -97.75498378084995
 Address = [1503 S 1st St (at Monroe), Austin, TX 78704]
 tag = Donut Shop
 rating = 9.1
-Menu not available
+
 
 id = 4a633f72f964a5209fc41fe3
 name = Upper Crust Bakery
@@ -100,7 +100,7 @@ location = lat = 30.399056, lng = -97.725793
 Address = [11228 Domain Drive, Austin, TX 78758]
 tag = Burger Joint
 rating = 9.0
-Menu not available
+
 
 id = 541c43c5498edf1964a50e30
 name = JuiceLand
@@ -108,7 +108,7 @@ location = lat = 30.185288530349204, lng = -97.8472791287291
 Address = [9901 Brodie Ln Ste 110, Austin, TX 78748]
 tag = Vegetarian / Vegan Restaurant
 rating = 9.0
-Menu not available
+
 
 id = 4b7ae3b0f964a520ff432fe3
 name = Chilantro BBQ
@@ -116,7 +116,7 @@ location = lat = 30.250586660373024, lng = -97.78257907215648
 Address = [Austin, TX 78701]
 tag = Food Truck
 rating = 9.0
-Menu not available
+
 
 id = 45fd161af964a52076441fe3
 name = Juan in a Million
@@ -132,7 +132,7 @@ location = lat = 30.252048431036226, lng = -97.72272690109565
 Address = [2115 Holly St, Austin, TX 78702]
 tag = Southern / Soul Food Restaurant
 rating = 9.0
-Menu not available
+
 
 id = 4b5a5b43f964a520a7bf28e3
 name = East Side King
@@ -140,7 +140,7 @@ location = lat = 30.2627538273915, lng = -97.72483765426351
 Address = [1618 1/2 E 6th St, Austin, TX 78702]
 tag = Food Truck
 rating = 9.0
-Menu not available
+
 
 id = 4a5cbc97f964a5207bbc1fe3
 name = Pho Saigon
@@ -156,7 +156,7 @@ location = lat = 30.261606354160733, lng = -97.75858327746391
 Address = [404 S Lamar Blvd (at Barton Springs Rd.), Austin, TX 78704]
 tag = Burger Joint
 rating = 9.0
-Menu not available
+
 
 id = 553c2b4b498e27fbb4043049
 name = Via 313 Pizzeria
@@ -164,7 +164,7 @@ location = lat = 30.232977878358437, lng = -97.86556237064588
 Address = [6705 Highway 290, Austin, TX 78735]
 tag = Pizza Place
 rating = 9.0
-Menu not available
+
 
 id = 4b3b9e1af964a5201a7725e3
 name = Twin Lion Chinese Restaurant
@@ -188,7 +188,7 @@ location = lat = 30.255816491527668, lng = -97.77371556290274
 Address = [Congress Ave (at 4th St), Austin, TX 78701]
 tag = Food Truck
 rating = 9.0
-Menu not available
+
 
 id = 4b734390f964a5201ea52de3
 name = NoRTH
@@ -212,7 +212,7 @@ location = lat = 30.268744762950295, lng = -97.74872327413308
 Address = [500 W 5th St, Austin, TX 78701]
 tag = Restaurant
 rating = 9.0
-Menu not available
+
 
 id = 4ad80264f964a520851021e3
 name = Thundercloud Subs
@@ -236,5 +236,5 @@ location = lat = 30.247585, lng = -97.75563
 Address = [1703 S 1st St, Austin, TX 78704]
 tag = Restaurant
 rating = 9.0
-Menu not available
+
 

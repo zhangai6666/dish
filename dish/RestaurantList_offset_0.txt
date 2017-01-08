@@ -20,7 +20,7 @@ location = lat = 30.249540168503078, lng = -97.74991035461426
 Address = [1400 S Congress Ave (btwn Gibson & Elizabeth), Austin, TX 78704]
 tag = Burger Joint
 rating = 9.5
-Menu not available
+
 
 id = 4d8d295fc1b1721e798b1246
 name = Veracruz All Natural
@@ -28,7 +28,7 @@ location = lat = 30.257706409040974, lng = -97.72564378776447
 Address = [1704 E Cesar Chavez St, Austin, TX 78702]
 tag = Taco Place
 rating = 9.5
-Menu not available
+
 
 id = 574481f8498e2cd16a0911a6
 name = Snooze
@@ -36,7 +36,7 @@ location = lat = 30.25092225708923, lng = -97.76590385867956
 Address = [1700 S Lamar Blvd (Collier), Austin, TX 78704]
 tag = Breakfast Spot
 rating = 9.5
-Menu not available
+
 
 id = 4af0dcebf964a520bcdf21e3
 name = Torchy's Tacos
@@ -52,7 +52,7 @@ location = lat = 30.38766687331474, lng = -97.68406572866184
 Address = [11800 N Lamar Blvd Bldg 1, Austin, TX 78753]
 tag = Greek Restaurant
 rating = 9.4
-Menu not available
+
 
 id = 4c16cd03955976b01a29a5f6
 name = Uchiko
@@ -100,7 +100,7 @@ location = lat = 30.27284792460546, lng = -97.75713264219752
 Address = [1200 W 6th St (Blanco), Austin, TX 78703]
 tag = Seafood Restaurant
 rating = 9.4
-Menu not available
+
 
 id = 49cf0653f964a5209c5a1fe3
 name = Little Deli & Pizzeria
@@ -116,7 +116,7 @@ location = lat = 30.25843392635047, lng = -97.72885250278738
 Address = [1519 E Cesar Chavez St, Austin, TX 78702]
 tag = Pizza Place
 rating = 9.4
-Menu not available
+
 
 id = 518056c3e4b04bf50f1f5c24
 name = Jeffrey's
@@ -124,7 +124,7 @@ location = lat = 30.28042859263038, lng = -97.75914361124003
 Address = [1204 W Lynn St, Austin, TX 78703]
 tag = American Restaurant
 rating = 9.4
-Menu not available
+
 
 id = 49ee1e97f964a52025681fe3
 name = Torchy's Tacos
@@ -140,7 +140,7 @@ location = lat = 30.258438983922478, lng = -97.78764279251158
 Address = [1500B Spyglass Dr (at Barton Skyway), Austin, TX 78746]
 tag = Taco Place
 rating = 9.4
-Menu not available
+
 
 id = 4f985f73e4b07d0a53f8517e
 name = Salty Sow
@@ -148,7 +148,7 @@ location = lat = 30.2838184487371, lng = -97.72131623203063
 Address = [1917 Manor Rd, Austin, TX 78722]
 tag = American Restaurant
 rating = 9.4
-Menu not available
+
 
 id = 4cb890cb7148f04dacf5d0ab
 name = Pueblo Viejo
@@ -156,7 +156,7 @@ location = lat = 30.2622633994213, lng = -97.72460960501517
 Address = [1001 East 6th St, Austin, TX]
 tag = Food Truck
 rating = 9.3
-Menu not available
+
 
 id = 49fa19e5f964a520bd6d1fe3
 name = Bouldin Creek Café
@@ -164,7 +164,7 @@ location = lat = 30.24646314668017, lng = -97.75677680969238
 Address = [1900 S 1st St (at W. Mary St.), Austin, TX 78704]
 tag = Vegetarian / Vegan Restaurant
 rating = 9.3
-Menu not available
+
 
 id = 4d755f73fc766a314d778d1a
 name = Franklin Barbecue
@@ -172,7 +172,7 @@ location = lat = 30.27008515990402, lng = -97.73127436637878
 Address = [900 E 11th St (at Branch St), Austin, TX 78702]
 tag = BBQ Joint
 rating = 9.3
-Menu not available
+
 
 id = 49da5508f964a520765e1fe3
 name = Eddie V's Prime Seafood
@@ -188,7 +188,7 @@ location = lat = 30.288116364967536, lng = -97.74288770921683
 Address = [2405 Nueces St (24th Street), Austin, TX 78705]
 tag = Sandwich Place
 rating = 9.3
-Menu not available
+
 
 id = 509d6eaae4b083e9a4b268ff
 name = La Barbecue Cuisine Texicana
@@ -196,7 +196,7 @@ location = lat = 30.257158996050464, lng = -97.72390955147556
 Address = [1906 E Cesar Chavez St (Chicon), Austin, TX 78702]
 tag = BBQ Joint
 rating = 9.3
-Menu not available
+
 
 id = 5047be93e4b0a21d2fa2e79b
 name = Pinthouse Pizza
@@ -204,7 +204,7 @@ location = lat = 30.318644365168996, lng = -97.73914789672304
 Address = [4729 Burnet Rd, Austin, TX 78756]
 tag = Pizza Place
 rating = 9.3
-Menu not available
+
 
 id = 56a2e11e498e4ab3feb17449
 name = Pho Please
@@ -212,7 +212,7 @@ location = lat = 30.24312668767139, lng = -97.72811528093416
 Address = [1920 E Riverside Dr, Austin, TX 78741]
 tag = Vietnamese Restaurant
 rating = 9.3
-Menu not available
+
 
 id = 4b328d28f964a520650e25e3
 name = Jack Allen's Kitchen
@@ -236,5 +236,5 @@ location = lat = 30.30073176666667, lng = -97.74041533470154
 Address = [616 W 34th St (btwn Guadalupe St. & King St.), Austin, TX 78705]
 tag = Sandwich Place
 rating = 9.3
-Menu not available
+
 

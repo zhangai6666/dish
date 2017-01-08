@@ -4,5 +4,5 @@ location = lat = 30.497677426983714, lng = -97.77378455598712
 Address = [10526 W Parmer Ln Ste 401 Bldg 4 (Avery Ranch Rd), Austin, TX 78717]
 tag = American Restaurant
 rating = 8.7
-Menu not available
+
 

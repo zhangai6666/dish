@@ -12,10 +12,20 @@ public class Restaurant {
     double rating;
     List<Dish> dishes;
     
+    public boolean foundNullDishesList () {
+        return dishes == null;
+    }
     public void addDishes (List<Dish> newDishes) {
-    	if (newDishes == null) return;
     	if (dishes == null) dishes = new ArrayList<>();
+        if (newDishes == null) return;
     	dishes.addAll(newDishes);
+    }
+    
+    public int getDishesCount () {
+        if (dishes == null) {
+            return 0;
+        }
+        return dishes.size();
     }
     
     @Override

@@ -20,7 +20,7 @@ location = lat = 30.25785082615315, lng = -97.73870761980469
 Address = [61 Rainey St, Austin, TX 78701]
 tag = Pizza Place
 rating = 9.0
-Menu not available
+
 
 id = 4b1fe27cf964a5203f2a24e3
 name = Pappadeaux Seafood Kitchen
@@ -36,7 +36,7 @@ location = lat = 30.274588362088448, lng = -97.75223545606858
 Address = [915 N Lamar Blvd (at W 10th St), Austin, TX 78703]
 tag = Mexican Restaurant
 rating = 9.0
-Menu not available
+
 
 id = 51280ef9e4b0e1bb913b8ac6
 name = Valentina's Tex Mex BBQ
@@ -44,7 +44,7 @@ location = lat = 30.206755942769163, lng = -97.83535849974157
 Address = [7612 Brodie Ln, Austin, TX 78745]
 tag = BBQ Joint
 rating = 9.0
-Menu not available
+
 
 id = 522a0ab111d273c5ca809720
 name = Kerlin BBQ
@@ -52,7 +52,7 @@ location = lat = 30.257902374090857, lng = -97.72564378776447
 Address = [1700 E Cesar Chavez St, Austin, TX 78702]
 tag = BBQ Joint
 rating = 9.0
-Menu not available
+
 
 id = 460d9079f964a5200c451fe3
 name = Tomodachi Sushi
@@ -92,7 +92,7 @@ location = lat = 30.247508493036975, lng = -97.77471862283673
 Address = [2310 S Lamar Blvd, Austin, TX 78704]
 tag = Asian Restaurant
 rating = 9.0
-Menu not available
+
 
 id = 4283ee00f964a520b8221fe3
 name = Clay Pit Contemporary Indian Cuisine
@@ -124,7 +124,7 @@ location = lat = 30.400919409314543, lng = -97.73780585639452
 Address = [10850 Stonelake Blvd (N Mopac Expwy), Austin, TX 78759]
 tag = Steakhouse
 rating = 8.9
-Menu not available
+
 
 id = 5525a8e8498eb4818a9ff918
 name = Jack Allens on Capital of TX
@@ -132,7 +132,7 @@ location = lat = 30.33531120407268, lng = -97.8073603305512
 Address = [N Capital of Texas Hwy, Austin, TX 78759]
 tag = American Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 4a99bd43f964a520313020e3
 name = Cabo Bob's
@@ -140,7 +140,7 @@ location = lat = 30.220843, lng = -97.75682508945465
 Address = [500 E Ben White Blvd (Warehouse Row), Austin, TX 78704]
 tag = Burrito Place
 rating = 8.9
-Menu not available
+
 
 id = 4a99ba54f964a520123020e3
 name = P. Terry's Burger Stand
@@ -148,7 +148,7 @@ location = lat = 30.30176068632071, lng = -97.7449482679367
 Address = [3303 N Lamar Blvd (at 32nd St.), Austin, TX 78705]
 tag = Burger Joint
 rating = 8.9
-Menu not available
+
 
 id = 55899f40498e71a37444c306
 name = Eureka!
@@ -156,7 +156,7 @@ location = lat = 30.267768623080553, lng = -97.74132810370347
 Address = [200 E 6th St, Austin, TX 78701]
 tag = Burger Joint
 rating = 8.9
-Menu not available
+
 
 id = 4a490450f964a520e5aa1fe3
 name = Mother's Cafe & Garden
@@ -180,7 +180,7 @@ location = lat = 30.28792632332774, lng = -97.70335654095673
 Address = [2027 Anchor Ln (btwn Manor Rd and Manorwood Rd), Austin, TX 78723]
 tag = American Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 49e8d3ccf964a52099651fe3
 name = House Pizzeria
@@ -196,7 +196,7 @@ location = lat = 30.395688129418872, lng = -97.7471708988494
 Address = [9828 Great Hills Trl Ste 650 (Research Blvd.), Austin, TX 78759]
 tag = French Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 4b0d4880f964a520a24523e3
 name = Al Pastor Taco Truck
@@ -212,7 +212,7 @@ location = lat = 30.29577364723137, lng = -97.74406539339896
 Address = [2828 Rio Grande St (29th), Austin, TX 78705]
 tag = Burrito Place
 rating = 8.9
-Menu not available
+
 
 id = 4d54900b611aa35d362e2b39
 name = Three Little Pigs
@@ -220,7 +220,7 @@ location = lat = 30.340097291426837, lng = -97.73199241184481
 Address = [1209 Rosewood Ave, Austin, TX 78757]
 tag = Food Truck
 rating = 8.9
-Menu not available
+
 
 id = 535880d1498ed28ffac50a4b
 name = Sonora Hot Dogs
@@ -228,5 +228,5 @@ location = lat = 30.336045031256774, lng = -97.7463677697761
 Address = [5715 Burnet Rd (Allandale), Austin, TX 78756]
 tag = Food Truck
 rating = 8.9
-Menu not available
+
 

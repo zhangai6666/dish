@@ -20,7 +20,7 @@ location = lat = 30.24160181192655, lng = -97.78464496135712
 Address = [3103 S Lamar Blvd, Austin, TX 78704]
 tag = Creperie
 rating = 8.7
-Menu not available
+
 
 id = 4b537abcf964a520119f27e3
 name = South Austin Trailer Park & Eatery
@@ -28,7 +28,7 @@ location = lat = 30.250976329215867, lng = -97.75438423368523
 Address = [1311 S 1st St (E Monroe), Austin, TX 78704]
 tag = Restaurant
 rating = 8.7
-Menu not available
+
 
 id = 4b1219b8f964a5200e8923e3
 name = G'Raj Mahal Cafe
@@ -44,7 +44,7 @@ location = lat = 30.35706408636607, lng = -97.78568029403687
 Address = [5204 Ranch Road 2222 (Loop 360), Austin, TX 78731]
 tag = BBQ Joint
 rating = 8.7
-Menu not available
+
 
 id = 49bdd3adf964a5209f541fe3
 name = 1886 Café & Bakery
@@ -76,7 +76,7 @@ location = lat = 30.268253996662406, lng = -97.7268742198643
 Address = [1209 E 11th St (Rosewood), Austin, TX 78702]
 tag = Restaurant
 rating = 8.7
-Menu not available
+
 
 id = 5314b2ba498e32f2d677a739
 name = Dan's Hamburgers
@@ -92,7 +92,7 @@ location = lat = 30.23864997680753, lng = -97.78878418986105
 Address = [3701 S. Lamar Blvd., Austin, TX 78704]
 tag = Burger Joint
 rating = 8.7
-Menu not available
+
 
 id = 4ee9107baa1f29ac63426ab7
 name = Lucy's Fried Chicken
@@ -100,7 +100,7 @@ location = lat = 30.240568341799108, lng = -97.75334358215332
 Address = [2218 College Ave (S. Congress), Austin, TX 78704]
 tag = Fried Chicken Joint
 rating = 8.7
-Menu not available
+
 
 id = 40fb0f00f964a520fc0a1fe3
 name = Stubb's Bar-B-Q
@@ -140,7 +140,7 @@ location = lat = 30.34159496442385, lng = -97.73908424205864
 Address = [6534 Burnet Rd (Twin Oaks), Austin, TX 78757]
 tag = Mexican Restaurant
 rating = 8.6
-Menu not available
+
 
 id = 4adca1aef964a5201c2e21e3
 name = Phoenicia
@@ -156,7 +156,7 @@ location = lat = 30.210854234039832, lng = -97.96817030128283
 Address = [12005 W Highway 290, Austin, TX 78737]
 tag = Pizza Place
 rating = 9.3
-Menu not available
+
 
 id = 4ced7e85f7ac8eec6cb2e61e
 name = Noble Sandwich Co.
@@ -164,7 +164,7 @@ location = lat = 30.461550578776666, lng = -97.81525095712519
 Address = [12223 Ranch Road 620 N Ste 105 (at Lake Creek Pkwy), Austin, TX 78750]
 tag = Sandwich Place
 rating = 9.2
-Menu not available
+
 
 id = 558489cc498e05c7735ca474
 name = Almarah Mediterranean Cuisine
@@ -172,7 +172,7 @@ location = lat = 30.46129988069409, lng = -97.81702992090217
 Address = [12129 Ranch Road 620 N, Austin, TX 78750]
 tag = Mediterranean Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 523c78c611d26ef6f7853637
 name = Thai Lada
@@ -180,7 +180,7 @@ location = lat = 30.467672, lng = -97.76157
 Address = [Jollyville, TX]
 tag = Thai Restaurant
 rating = 8.8
-Menu not available
+
 
 id = 4b58ad82f964a520346528e3
 name = Thundercloud Subs
@@ -212,7 +212,7 @@ location = lat = 30.475654947364124, lng = -97.79894498451942
 Address = [14009 Research Blvd, Austin, TX 78717]
 tag = Pizza Place
 rating = 8.8
-Menu not available
+
 
 id = 4b6ec960f964a5208fca2ce3
 name = Shipley Do-Nuts
@@ -220,7 +220,7 @@ location = lat = 30.48870477424984, lng = -97.77228264484337
 Address = [10019 W Parmer Ln #100, Austin, TX 78717]
 tag = Donut Shop
 rating = 8.8
-Menu not available
+
 
 id = 50c38e59e4b009e3bc1c02c2
 name = Stanley's Farmhouse Pizza
@@ -228,5 +228,5 @@ location = lat = 30.230284897043152, lng = -97.99961221608395
 Address = [13187 Fitzhugh Rd, Austin, TX 78736]
 tag = Pizza Place
 rating = 8.9
-Menu not available
+
 

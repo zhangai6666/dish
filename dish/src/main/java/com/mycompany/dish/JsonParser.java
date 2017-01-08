@@ -12,6 +12,7 @@ import java.util.Scanner;
 
 
 import com.google.gson.Gson;
+import java.util.Collections;
 
 /**
  * Created by liyou on 11/24/16.
@@ -82,9 +83,10 @@ public class JsonParser {
     
     
     public static void main(String[] args) throws IOException{
-    	List<Restaurant> list = null;
+    	List<Restaurant> list = new ArrayList<>();
     	
-    	
+    	int menuNotAvailCount = 0;
+        int totalDishesCount = 0;
 
     	
     	for(int offset = 0; offset < 241; offset += 30) {
@@ -99,16 +101,17 @@ public class JsonParser {
                  
             
             file = String.format("RestaurantList_offset_%d.txt", offset);
-            list = parser.parse(jsonString.toString());
-            int count = list.size();
+            List<Restaurant> cur = parser.parse(jsonString.toString());
+            int count = cur.size();
             PrintWriter out = new PrintWriter(file);  
             
             // Get menus of each restaurant 
-            for (Restaurant r : list) {
+            for (Restaurant r : cur) {
             	if (r.categories[0].name.equals("Fast Food Restaurant")) {
             		count--;
             		continue;
-            	}            	
+            	}
+                list.add(r);
             	
 //            	String menuLink = String.format("https://api.foursquare.com/v2/venues/%s/menu?oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", r.id);
             	String menuFile = "Menu_" + r.name + ".txt";
@@ -121,17 +124,30 @@ public class JsonParser {
             	
             	out.println(r);
             	//System.out.println(r);
+//                System.out.println(r.getDishesCount());
+
+                if (r.foundNullDishesList()) {
+                    System.out.println("Dishes List is NULL!!!");
+                }
+
+                if (r.getDishesCount() == 0) {
+                    menuNotAvailCount++;
+                }
+                totalDishesCount += r.getDishesCount();
             	
             }
             out.close();
         
-            System.out.println(String.format("total %d", count));
+//            System.out.println(String.format("Current size %d", count));
     	}
+        System.out.println(String.format("\nTotal %d restaurants.\n", list.size()));
+        System.out.println(menuNotAvailCount + " restaurants don't menu info.");
+        System.out.println(totalDishesCount + " dishes in total.");
     	
     	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("dishtest", "127.0.0.1");
     	conn.InitOrUpdate(list);
     	conn.close();
-    	
+//    	
     	System.out.println("excution finished" );
         final String dir = System.getProperty("user.dir");
         System.out.println("current dir = " + dir);

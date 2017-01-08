@@ -4,7 +4,7 @@ location = lat = 30.249859913737637, lng = -97.7547436952591
 Address = [1501 S 1st St (at Elizabeth St.), Austin, TX 78704]
 tag = Vietnamese Restaurant
 rating = 9.3
-Menu not available
+
 
 id = 4e1a2449aeb7eb0120dbf401
 name = Hopfields
@@ -12,7 +12,7 @@ location = lat = 30.29854953289032, lng = -97.74098103333333
 Address = [3110 Guadalupe St, Austin, TX 78705]
 tag = Gastropub
 rating = 9.3
-Menu not available
+
 
 id = 50d295bae4b0ec572667df60
 name = Micklethwait Craft Meats
@@ -20,7 +20,7 @@ location = lat = 30.268338963007988, lng = -97.72525663039075
 Address = [1309 Rosewood Ave, Austin, TX 78702]
 tag = Food Truck
 rating = 9.2
-Menu not available
+
 
 id = 562e6fc3498e291ae03ab4be
 name = Pinthouse Pizza
@@ -28,7 +28,7 @@ location = lat = 30.235996, lng = -97.795822
 Address = [4236 S Lamar Blvd, Austin, TX 78704]
 tag = Pizza Place
 rating = 9.2
-Menu not available
+
 
 id = 414f6f00f964a520f61c1fe3
 name = Kerbey Lane Café
@@ -44,7 +44,7 @@ location = lat = 30.25013182832901, lng = -97.75467074231399
 Address = [1417 S 1st St, Austin, TX 78704]
 tag = Thai Restaurant
 rating = 9.2
-Menu not available
+
 
 id = 45730176f964a520833e1fe3
 name = Eddie V's Prime Seafood
@@ -60,7 +60,7 @@ location = lat = 30.361091013273462, lng = -97.71541400260408
 Address = [8557 Research Blvd, #126 (Research & Fairfield), Austin, TX 78758]
 tag = Ramen Restaurant
 rating = 9.2
-Menu not available
+
 
 id = 4ea21bb0b80355a9819d263a
 name = Komé
@@ -68,7 +68,7 @@ location = lat = 30.31089973449707, lng = -97.71525573730469
 Address = [4917 Airport Blvd (50th St.), Austin, TX 78751]
 tag = Japanese Restaurant
 rating = 9.2
-Menu not available
+
 
 id = 4a252eadf964a5204b7e1fe3
 name = Rudy's Country Store & Bar-B-Q
@@ -108,7 +108,7 @@ location = lat = 30.348647501929037, lng = -97.73508472268611
 Address = [7301 Burnet Rd, Austin, TX 78757]
 tag = Taco Place
 rating = 9.2
-Menu not available
+
 
 id = 56e9f8b1498ee6b25cb6f12d
 name = True Food Kitchen
@@ -116,7 +116,7 @@ location = lat = 30.267080103344313, lng = -97.75239462253566
 Address = [Seaholm (West), Austin, TX 78701]
 tag = New American Restaurant
 rating = 9.2
-Menu not available
+
 
 id = 49e4db85f964a5205e631fe3
 name = Casa de Luz
@@ -124,7 +124,7 @@ location = lat = 30.264154405152166, lng = -97.761717098496
 Address = [1701 Toomey Rd, Austin, TX 78704]
 tag = Vegetarian / Vegan Restaurant
 rating = 9.2
-Menu not available
+
 
 id = 4bb3d8d72397b713efb438b3
 name = Tacodeli
@@ -132,7 +132,7 @@ location = lat = 30.31045831660211, lng = -97.7400290966034
 Address = [4200 N Lamar Blvd (42nd St.), Austin, TX 78756]
 tag = Taco Place
 rating = 9.2
-Menu not available
+
 
 id = 49f13134f964a52099691fe3
 name = Perla's Seafood and Oyster Bar
@@ -156,7 +156,7 @@ location = lat = 30.26716630942506, lng = -97.7457046508789
 Address = [407 Lavaca St, Austin, TX 78701]
 tag = Cajun / Creole Restaurant
 rating = 9.2
-Menu not available
+
 
 id = 49cabe31f964a520db581fe3
 name = Fonda San Miguel
@@ -188,7 +188,7 @@ location = lat = 30.357627000110735, lng = -97.7329683580584
 Address = [2438 Anderson Ln. A (Burnet), Austin, TX 78757]
 tag = Burger Joint
 rating = 9.1
-Menu not available
+
 
 id = 49ce6931f964a5203a5a1fe3
 name = South Congress Cafe
@@ -212,7 +212,7 @@ location = lat = 30.2806875542641, lng = -97.75903749006913
 Address = [1601 Waterston Ave (at W Lynn St), Austin, TX 78703]
 tag = Bakery
 rating = 9.1
-Menu not available
+
 
 id = 49c120a2f964a52083551fe3
 name = Blue Dahlia Bistro
@@ -228,7 +228,7 @@ location = lat = 30.24903969561206, lng = -97.74960994720459
 Address = [1415 S Congress Ave (Gibson St. E.), Austin, TX 78704]
 tag = Pizza Place
 rating = 9.1
-Menu not available
+
 
 id = 54b495ab498ebacc93b337bf
 name = Chi'lantro
@@ -236,5 +236,5 @@ location = lat = 30.252155651245186, lng = -97.76417393780224
 Address = [1509 S Lamar Blvd, Austin, TX 78704]
 tag = Korean Restaurant
 rating = 9.1
-Menu not available
+
 

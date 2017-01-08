@@ -4,7 +4,7 @@ location = lat = 30.21303959487059, lng = -97.83047714376887
 Address = [3421 W William Cannon Dr, Austin, TX 78745]
 tag = Mediterranean Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 53a100c2498e37cf410b74fc
 name = Veracruz All Natural
@@ -12,7 +12,7 @@ location = lat = 30.231547, lng = -97.78795
 Address = [4204 Manchaca Rd (Fort View), Austin, TX 78704]
 tag = Taco Place
 rating = 8.9
-Menu not available
+
 
 id = 4c60432213791b8d5e154faf
 name = Maggiano's Little Italy
@@ -36,7 +36,7 @@ location = lat = 30.26853565772465, lng = -97.74798053903727
 Address = [500 W 5th St (5th & San Antonio), Austin, TX 78701]
 tag = Chinese Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 4a36f17df964a520089e1fe3
 name = Phó Vân
@@ -44,7 +44,7 @@ location = lat = 30.361209755124445, lng = -97.71545112199546
 Address = [8557 Research Blvd (at Fairfield Drive), Austin, TX 78758]
 tag = Vietnamese Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 4bf2e58794af2d7f14e13872
 name = Bartlett's
@@ -52,7 +52,7 @@ location = lat = 30.356818700786526, lng = -97.73139306027873
 Address = [2408 W Anderson Ln (at Burnet Rd.), Austin, TX 78757]
 tag = Steakhouse
 rating = 8.9
-Menu not available
+
 
 id = 4c583b1c30d82d7ff28fdb62
 name = Kerbey Lane Cafe
@@ -68,7 +68,7 @@ location = lat = 30.264657548585003, lng = -97.72824787422302
 Address = [1311 E 7th St (Navasota St), Austin, TX 78702]
 tag = Food Truck
 rating = 8.9
-Menu not available
+
 
 id = 4b0c982ff964a520d83f23e3
 name = Taco More
@@ -76,7 +76,7 @@ location = lat = 30.36802628944589, lng = -97.70643698845771
 Address = [9400 Parkfield Dr (Rundberg Ln), Austin, TX 78758]
 tag = Taco Place
 rating = 8.9
-Menu not available
+
 
 id = 49c5058bf964a520dc561fe3
 name = Live Oak Market
@@ -84,7 +84,7 @@ location = lat = 30.229198, lng = -97.789183
 Address = [4410 Manchaca Rd (at W Ben White Blvd), Austin, TX 78745]
 tag = Deli / Bodega
 rating = 8.9
-Menu not available
+
 
 id = 4aa83af3f964a520415020e3
 name = Justine's Brasserie
@@ -100,7 +100,7 @@ location = lat = 30.26449, lng = -97.73079
 Address = [1111 E 6th St (at Waller St), Austin, TX 78702]
 tag = Pizza Place
 rating = 8.9
-Menu not available
+
 
 id = 50b96e3ae4b04809bce92d69
 name = Tommy Want Wingy
@@ -108,7 +108,7 @@ location = lat = 30.256059511220638, lng = -97.73466038382722
 Address = [603 W Live Oak St Austin, TX  78704 (South 1st), Austin, TX 78704]
 tag = Food Truck
 rating = 8.9
-Menu not available
+
 
 id = 5256c1f611d2949f1623a789
 name = Odd Duck
@@ -116,7 +116,7 @@ location = lat = 30.25466116100242, lng = -97.76205669969968
 Address = [1201 S Lamar Blvd (Gibson St W), Austin, TX 78704]
 tag = New American Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 4c7baea1df08a1cd0117e15d
 name = Papalote Taco House
@@ -124,7 +124,7 @@ location = lat = 30.243576020518006, lng = -97.78187313517661
 Address = [2803 S Lamar Blvd (at Barton Skwy.), Austin, TX 78704]
 tag = Taco Place
 rating = 8.9
-Menu not available
+
 
 id = 5468ecfe498e87b191079be1
 name = New Fortune Chinese Seafood Restaurant
@@ -132,7 +132,7 @@ location = lat = 30.377819143102627, lng = -97.68806764570917
 Address = [10901 N Lamar Blvd, Austin, TX 78753]
 tag = Cantonese Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 4ab42d69f964a520447020e3
 name = Texas Chili Parlor
@@ -156,7 +156,7 @@ location = lat = 30.322415140388745, lng = -97.73933172225952
 Address = [5035 Burnet Rd (51 St.), Austin, TX 78756]
 tag = Bakery
 rating = 8.9
-Menu not available
+
 
 id = 4a19dd45f964a520617a1fe3
 name = Sugar Mama's Bakeshop
@@ -164,7 +164,7 @@ location = lat = 30.246179, lng = -97.75643825
 Address = [1905 S 1st St, Austin, TX 78704]
 tag = Bakery
 rating = 8.9
-Menu not available
+
 
 id = 4e1f95f5922e11c00663c2f2
 name = El Alma Cafe y Cantina
@@ -172,7 +172,7 @@ location = lat = 30.260073836146486, lng = -97.75563418865204
 Address = [1025 Barton Springs Rd (at Dawson Rd.), Austin, TX 78704]
 tag = Mexican Restaurant
 rating = 8.9
-Menu not available
+
 
 id = 4a5a4d05f964a5201cba1fe3
 name = Zen Japanese Food Fast
@@ -196,7 +196,7 @@ location = lat = 30.33615328489036, lng = -97.72049423866851
 Address = [Austin, TX 78757]
 tag = Bakery
 rating = 8.8
-Menu not available
+
 
 id = 52b06d4611d2b6f2636eb4f4
 name = Gus's World Famous Fried Chicken
@@ -204,7 +204,7 @@ location = lat = 30.263690858950284, lng = -97.74167291147353
 Address = [117 San Jacinto Blvd (2nd St), Austin, TX 78701]
 tag = Fried Chicken Joint
 rating = 8.8
-Menu not available
+
 
 id = 5231f8b511d2fd69a9006dcb
 name = Slab BBQ
@@ -212,7 +212,7 @@ location = lat = 30.37133263877633, lng = -97.72472097781154
 Address = [9012 Research Blvd (Burnet), Austin, TX 78758]
 tag = BBQ Joint
 rating = 8.8
-Menu not available
+
 
 id = 4a99ec2bf964a520143120e3
 name = Thundercloud Subs
