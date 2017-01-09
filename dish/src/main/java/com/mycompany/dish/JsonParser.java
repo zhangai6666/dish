@@ -92,7 +92,7 @@ public class JsonParser {
     	for(int offset = 0; offset < 241; offset += 30) {
         	JsonParser parser = new JsonParser();
         	StringBuilder jsonString = new StringBuilder();
-        	String file = String.format("RawJsonRestaurants_offset_%d.txt", offset);
+        	String file = String.format("./rawJson/RawJsonRestaurants_offset_%d.txt", offset);
         	
         	// Get Restaurant info from FourSquare API
 //      	String link = String.format("https://api.foursquare.com/v2/venues/explore?near=Austin,TX&section=Food&offset=%d&oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", offset);
@@ -100,7 +100,7 @@ public class JsonParser {
         	parser.readFromFile(file, jsonString);
                  
             
-            file = String.format("RestaurantList_offset_%d.txt", offset);
+            file = String.format("./restaurantList/RestaurantList_offset_%d.txt", offset);
             List<Restaurant> cur = parser.parse(jsonString.toString());
             int count = cur.size();
             PrintWriter out = new PrintWriter(file);  
@@ -114,7 +114,7 @@ public class JsonParser {
                 list.add(r);
             	
 //            	String menuLink = String.format("https://api.foursquare.com/v2/venues/%s/menu?oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", r.id);
-            	String menuFile = "Menu_" + r.name + ".txt";
+            	String menuFile = "./rawJson/Menu_" + r.name + ".txt";
             	StringBuilder jsonMenu = new StringBuilder();
 //            	parser.readFromUrl(menuLink, menuFile, jsonMenu);
             	parser.readFromFile(menuFile, jsonMenu);
@@ -147,7 +147,7 @@ public class JsonParser {
     	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("dishtest", "127.0.0.1");
     	conn.InitOrUpdate(list);
     	conn.close();
-//    	
+    	
     	System.out.println("excution finished" );
         final String dir = System.getProperty("user.dir");
         System.out.println("current dir = " + dir);
