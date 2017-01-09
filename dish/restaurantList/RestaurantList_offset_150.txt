@@ -1,0 +1,240 @@
+id = 4ad77dc2f964a520620b21e3
+name = Tino's Greek Cafe
+location = lat = 30.18481206013106, lng = -97.8475159406662
+Address = [9901 Brodie Ln (at Slaughter Blvd), Austin, TX 78748]
+tag = Greek Restaurant
+rating = 8.8
+
+
+id = 53101130498e3fd9c77d4135
+name = Jacoby's Restaurant & Mercantile
+location = lat = 30.251488203413285, lng = -97.70732244329098
+Address = [3235 E Cesar Chavez St (Tillery), Austin, TX 78702]
+tag = New American Restaurant
+rating = 8.8
+
+
+id = 53406e9d498e4a0797107d03
+name = Picnic Food Trailer Park
+location = lat = 30.263435328090672, lng = -97.76297999873258
+Address = [Austin, TX]
+tag = Food Truck
+rating = 8.8
+
+
+id = 4f5966a7e4b0a5edcfe28de5
+name = Swift's Attic
+location = lat = 30.265698221180912, lng = -97.74339697563687
+Address = [315 Congress Ave, Austin, TX 78701]
+tag = American Restaurant
+rating = 8.8
+
+
+id = 51378945e4b00eec88d3fad2
+name = Slake Cafe & Bar
+location = lat = 30.268749340170604, lng = -97.74124853291926
+Address = [120 E 7th St (Brazos), Austin, TX 78701]
+tag = Café
+rating = 8.8
+
+
+id = 54b4834c498eb7bad65533ab
+name = Lucky's Puccias & Pizzeria
+location = lat = 30.2737403969462, lng = -97.76354778057186
+Address = [1611 W 5th St Ste 175, Austin, TX 78703]
+tag = Italian Restaurant
+rating = 8.8
+
+
+id = 4cbb7b8bdd41a35d3977eea0
+name = East Side Pies
+location = lat = 30.314926625651953, lng = -97.71533446111715
+Address = [5312 Airport Blvd Ste G, Austin, TX 78751]
+tag = Pizza Place
+rating = 8.8
+
+
+id = 54d80fd6498ee14c523472f2
+name = Chipotle Mexican Grill
+location = lat = 30.242087407122362, lng = -97.72739928149166
+Address = [1920 E Riverside Dr (E. Riverside Dr. & Shore District Dr.), Austin, TX 78741]
+tag = Mexican Restaurant
+rating = 8.8
+
+
+id = 52f2671f498e8b61cc7f0ee6
+name = VertsKebap
+location = lat = 30.44554743646855, lng = -97.74412954793499
+Address = [6301 W Parmer Ln (Northwest corner of Parmer Ln. and McNeil Dr.), Austin, TX 78729]
+tag = Mediterranean Restaurant
+rating = 8.8
+
+
+id = 52bde52c498e0bfc6a8e627a
+name = P. Terry's Burger Stand
+location = lat = 30.424921870908882, lng = -97.75192773525092
+Address = [12018 Research Blvd, Austin, TX 78759]
+tag = Burger Joint
+rating = 8.8
+
+
+id = 4c8a26ab1797236a94cc5e88
+name = Paco's Tacos
+location = lat = 30.307403709211854, lng = -97.7058484587861
+Address = [1304 E 51st St, Austin, TX 78723]
+tag = Taco Place
+rating = 8.8
+
+
+id = 52158eae11d2c369416ee7dd
+name = Gourdough's
+location = lat = 30.233877260151864, lng = -97.79690633822
+Address = [6th street and Red River street, Austin, TX 78702]
+tag = Food Truck
+rating = 8.8
+
+
+id = 49c5891ef964a5200c571fe3
+name = Matt's el Rancho
+location = lat = 30.245234673585443, lng = -97.77926176039797
+Address = [2613 S Lamar Blvd, Austin, TX 78704]
+tag = Mexican Restaurant
+rating = 8.8
+
+
+id = 4a3fb7a0f964a520d9a31fe3
+name = Tan My Restaurant
+location = lat = 30.363773578015206, lng = -97.71417846833408
+Address = [1601 Ohlen Rd (Payton Gin), Austin, TX 78758]
+tag = Vietnamese Restaurant
+rating = 8.8
+
+
+id = 4edbef750e61d46ad9e1f6b2
+name = Stiles Switch BBQ & Brew
+location = lat = 30.334530329070258, lng = -97.72134805132167
+Address = [6610 N Lamar Blvd, Austin, TX 78757, Austin, TX 78757]
+tag = BBQ Joint
+rating = 8.8
+
+
+id = 56d4dfc8498e30f5748db0ed
+name = Via 313
+location = lat = 30.297801450355326, lng = -97.7413334084256
+Address = [3016 Guadalupe St, Austin, TX 78705]
+tag = Pizza Place
+rating = 8.8
+
+
+id = 4ac947d0f964a52083bf20e3
+name = Steiner Ranch Steakhouse
+location = lat = 30.390349590179525, lng = -97.87172555923462
+Address = [5424 Steiner Ranch Blvd, Austin, TX 78732]
+tag = Steakhouse
+rating = 8.8
+Toronadas  $0    Kabobs  $0    Slow Roasted Baby Backs  $0    Ahi Tuna  $0    Shrimp Cocktail  $0    She Crab Soup  $0    Snow Crab Claws  $0    Signature Xs Queso  $0    Buffalo Quail Legs  $0    Bacon Artichoke Boule  $0    Beef Tenderloin Fondue  $0    Calamari & Artichokes  $0    Sensation  $0    Spinach  $0    Steiner Greens  $0    Steakhouse Caesar  $0    Tomato and Gorgonzola  $0    Wedge  $0    Cedar Plank Salmon  $0    New Orleans Mahi Mahi  $0    Gulf Coast Shrimp  $0    Chilean Sea Bass  $0    Xs Ranch Ribs  $0    Rack of Lamb  $0    Chicken Fried Elk  $0    Double Bone Pork Chop  $0    Chicken Lago  $0    Baked Penne Vegetarian  $0    Texan Ribeye  $0    Bone-in Tenderloin Filet  $0    Austin Ribeye  $0    Kellys Porterhouse  $0    Filet Mignon  $0    Prime Rib  $0    New York Strip  $0    "Cowboy" Ribeye  $0    Pepper Steak  $0    Tenderloin Medallions  $0    Bobbys House Special  $0    Lobster Butter - Oscar - Scallops  $0    Cream Corn  $0    Sauteed Spinach  $0    Burgundy Mushrooms  $0    Lobster Mac & Cheese  $0    
+
+id = 4a4ba8c7f964a5208eac1fe3
+name = Hoover's Cooking
+location = lat = 30.284357, lng = -97.72039532661438
+Address = [2002 Manor Rd (2002 Manor Road), Austin, TX 78722]
+tag = Fried Chicken Joint
+rating = 8.8
+Aus-Tex Wings  $6.99    Queso & Chips  $5.89    Chipotle Chicken Quesadilla  $8.49    Salsa & Chips  $3.99    Spinach Artichoke Dip  $7.79    Queso & Salsa & Chips  $7.49    The Sandwich Hut  $0    Smoked Elgin Sausage  $8.29    Cajun Ham Po Boy  $7.99    Chipotle Chicken Salad Sandwich  $8.49    New Orleans Muffulleta  $8.99    Bella Muffulleta  $9.99    Catfish Po Boy  $8.99    Red, White, & Bleu Burger  $9.99    Back Yard Burger  $8.99    Greek Salad with Rosemary Chicken  $10.99    Smoked Chicken Caesar  $10.99    Grilled Tuna Caesar  $12.99    Garden Caesar  $10.49    Spinach Salad  $9.49    Pork Ribs  Half Rack  $14.99    Elgin Sausage  $11.49    Half Bbq Chicken  $11.99    Jamaican Jerk Chicken  $14.99    Jamaican Jerk Ribs  $16.49    Create-a-Combo  $6.99    Chicken Fried Steak  $11.99    Fried Catfish  $11.49    Charbroiled Catfish .  $13.99    Meat Loaf  $10.99    Chicken Fried Chicken Breast  $11.49    Ham Steak with Jezebel Sauce  $10.99    Southern Fried Pork Chops  $12.99    Sweet House  $0    
+
+id = 4d71310e783f8cfad6a4e3d6
+name = Hula Hut
+location = lat = 30.2947598765605, lng = -97.78441160917282
+Address = [3825 Lake Austin Blvd, Austin, TX 78703]
+tag = Mexican Restaurant
+rating = 8.8
+
+
+id = 4aedaea5f964a52021ce21e3
+name = Krispy Kreme Doughnuts
+location = lat = 30.429973351774752, lng = -97.76275182600891
+Address = [12586 Research Blvd (Oak Knoll), Austin, TX 78759]
+tag = Donut Shop
+rating = 8.8
+Cinnamon Bun  $0    Glazed Raspberry Filled  $0    Traditional Cake  $0    Chocolate Iced with Sprinkles  $0    Chocolate Iced Kreme Filled  $0    Glazed Cruller  $0    Chocolate Iced Cake  $0    Chocolate Iced Glazed  $0    Glazed Lemon Filled  $0    Glazed Kreme Filled  $0    Glazed Blueberry  $0    Powdered Strawberry Filled  $0    Cinnamon Apple Filled  $0    Chocolate Iced Custard Filled  $0    
+
+id = 4cc056f9b6c4224b5c6ff894
+name = Second Bar + Kitchen
+location = lat = 30.264325153669926, lng = -97.74434655514571
+Address = [200 Congress Ave (2nd Street), Austin, TX 78701]
+tag = New American Restaurant
+rating = 8.8
+Roasted Nuts  $5.00    Buffalo Fried Pickles  $6.00    Blistered Shishito Peppers  $7.00    Chicken Fried Olives  $6.00    Black Truffle Pommes Frites  $8.00    Baked Brie  $11.00    Avocado Fundido  $12.00    Pepperoni Soup  $6.00    Carrot Gazpacho  $8.00    Petite Green Salad  $7.00    Today's Cheese Board  $16.00    House Charcuterie Block  $16.00    Sbk "Club"  $12.00    Caprese Panini  $12.00    Short Rib Sliders  $12.00    Pork Belly Bánh Mì  $12.00    Fried Egg and Avocado  $11.00    Congress Burger  $14.00    Roasted All Natural Chicken  $17.00    Romaine Chopped Salad  $11.00    Roasted Rainbow Trout  $17.00    Raw Kale and Carrot Salad  $15.00    Soba Noodles and Sprouts  $16.00    Smoked and Raw Mushroom Carbonara  $17.00    Grilled Flank Steak  $18.00    Pomodoro  $12.00    Pizza Bianco  $13.00    Black and Bleu  $16.00    Roasted Pulled Chicken  $14.00    Spicy Veggie  $13.00    Cinnamon Roll  $6.00    Grilled Pineapple + Berry Salad  $8.00    House Chorizo Chili Cheese Fries  $10.00    Black Truffle Pomme Frites  $8.00    Buffalo Fried Pickles  $6.00    Chicken Fried Olives  $6.00    Blistered Shishito Peppers  $7.00    Today's Cheese Board  $16.00    Pepperoni Soup  $6.00    Carrot Gazpacho  $8.00    Petite Green Salad  $7.00    Smoked Salmon Rillettes  $16.00    French Toast  $12.00    Two Eggs Your Way  $12.00    Sausage Gravy Benedict  $14.00    Texas Benedict  $16.00    Sbk Benedict  $13.00    Steak and Eggs  $18.00    Raw Kale and Carrot Salad  $15.00    Romaine Chopped Salad  $11.00    Roasted All Natural Chicken  $17.00    Breakfast Club  $12.00    Short Rib Sliders  $12.00    Roasted Rainbow Trout  $17.00    Congress Burger  $14.00    Pomodoro  $12.00    Pizza Bianco  $13.00    Black and Bleu  $16.00    Sbk Home Fries  $5.00    Two Eggs Any Style  $4.00    Smoked Bacon  $3.00    House Pork Sausage  $5.00    Black Truffle Grits  $6.00    Nine Grain Toast  $2.00    Crispy Pork Belly  $5.00    Roasted Nuts  $5.00    Buffalo Fried Pickles  $6.00    Chicken Fried Olives  $6.00    Blistered Shishito Peppers  $7.00    Black Truffle Pommes Frites  $8.00    Today's Cheese Board  $16.00    House Charcuterie Block  $16.00    Veal Meatballs "Arrabiata"  $8.00    Hamachi Crudo  $16.00    Bacon and Eggs  $12.00    Pan Roasted Clams  $16.00    Baked Brie  $11.00    Avocado Fundido  $12.00    Garlic and Chive Gnocchi  $12.00    Pepperoni Soup  $6.00    Carrot Gazpacho  $8.00    Petite Green Salad  $7.00    Raw Kale and Carrot Salad  $11.00    Roasted Beet and Arugula Salad  $10.00    Soba Noodles and Sprouts  $17.00    Braised Beef Short Rib  $24.00    Grilled Heritage Pork Tenderloin  $28.00    Roasted All Natural Chicken Breast  $21.00    Grilled Flank Steak  $21.00    Seared Rainbow Trout  $22.00    Seared Faroe Island Salmon  $24.00    Smoked and Raw Mushroom Carbonara  $17.00    Congress Burger  $14.00    Pomodoro  $12.00    Pizza Bianco  $13.00    Black and Bleublack Truffle  $16.00    Spicy Veggie  $13.00    Roasted Pulled Chicken  $14.00    Warm Potato Salad  $6.00    Brussels Sprouts  $6.00    Black Truffle Grits  $6.00    Sweet Potato Panzanella  $6.00    Zucchini  $6.00    Dulce De Leche Semifreddo  $8.00    German Chocolate Cake  $8.00    The Elvis  $8.00    Blanc Manger  $8.00    Brown Butter Tart  $8.00    Lavender Shortbread  $3.00    Chocolate Moon Pie  $3.00    Peach Bellini Pate De Fruit  $2.50    Key Lime Cannoli  $2.50    Marchesi Di Gresy Moscato D'asti 2012, Piedmont  $7.00    Le Dauphin De Guiraud Sauternes 2006, France  $7.00    Dow's 10 Year Tawny Port, Douro  $11.00    Quinto Do Noval Lbv Port 2007, Douro  $9.00    Congress Gt  $9.00    Americano  $8.00    Floradora  $9.00    Pink Pony Paloma  $9.00    Hotel Naciona  $10.00    Green River  $11.00    Ox Cart  $10.00    Gin + Jam  $9.00    Goldrush Julep  $12.00    London's Culling  $12.00    Imperial Sazerac  $12.00    Hanky Panky  $12.00    Wonderland  $10.00    Proletariat Pinot Gris, Yakima Valley, Washington 2013  $10.00    Chehalem Three Vineyard Pinot Noir, Willamette Valley, Oregon 2011  $14.00    Hahn Winery Gsm Red Blend, Central Coast, California 2012  $8.00    Austin Eastciders Gold Top Cider, Austin, Texas  $6.00    Hofbrau Original Pilzner, Germany  $5.00    8Th Wonder Dome Faux'm Ale, H-Town, Texas  $4.00    Hitachino Nest, White Ale, Japan  $12.00    Revolver Blood and Honey Wheat Ale, Granbury, Texas  $5.00    Live Oak Oaktoberfest, Austin, Texas  $4.00    Austin Beerworks Fire Eagle Ipa, Austin, Texas  $4.00    Thirsty Planet, Thirsty Goat Amber, Austin, Texas  $4.00    Bitburger Premium Pilsner, Germany  $6.00    Carta Blanca Lager, Mexico  $8.00    Ballast Point Sculpin Ipa, California  $7.00    Green's Quest Tripel Blonde Gluten Free, Belgium  $12.00    Pearl Lager, Texas  $3.00    Southern Star Bombshell Blonde Ale, Texas  $6.00    Cooper's, Original Pale Ale, Australia  $6.00    Hitachino Nest, Japanese Classic Ale, Japan  $9.00    Independence Brewing Austin Amber, Texas  $6.00    Cerveza Indio Lager, Mexico  $6.00    Ommegang Abbey Ale, New York  $23.00    Aecht Schlenkerla, Rauchbier Urbock, Germany  $12.00    Samuel Smith Taddy Porter, England  $11.00    Stiegl Grapefruit Radler, Austria  $7.00    Samuel Smith Organic Cider, England  $11.00    Fentiman's Dandelion and Burdock Soda, England  $4.50    Dr. Pepper, North Country, Texas  $3.00    St. Arnold's Root Beer, H-Town, Texas  $4.00    Fever Tree Indian Tonic Water, England  $3.00    Coca Cola, Monterrey, Mexico  $3.00    Diet Coke, Atl, Georgia  $2.00    Sprite, Monterrey, Mexico  $4.00    Jarritos, El Paso, Texas  $2.50    Topo Chico, Mexico  $2.50    Acqua Panna, Italy  $3.00    Espresso  $3.00    Cappuccino  $4.00    Drip Coffee  $2.00    Bocelli Prosecco Doc, Veneto, Italy Nv  $9.00    Adami Giardino Prosecco, Veneto, Italy 2013  $65.00    Delamotte Brut Nv, Champagne, France  $83.00    Michel Fonné Cremant D'alsace Rosé, Alsace, France Nv  $13.00    Argyle Brut Rosé, Willamette, Oregon 2010  $79.00    Ameztoi Txakolina, Basque, Spain 2013  $51.00    Do Ferreiro Albarino, Rias Baixas, Spain 2012  $61.00    Loosen Brothers Dr. L Riesling, Mosel, Germany 2013  $9.00    Weingut Robert Weil Dry Riesling, Rheingau, Germany 2011  $68.00    Pfaffl Zeiseneck Gruner Veltliner, Weinviertel, Austria 2012  $11.00    Loveblock Sauvignon Blanc, Marlborough, New Zealand 2013  $10.00    Galerie Equitem Sauvignon Blanc, Knight's Valley, California 2012  $64.00    Jermann Pinot Grigio, Friuli, Italy 2012  $51.00    Val De Mer Bourgogne Blanc, Burgundy, France 2011  $12.00    Bibi Graetz Casamatta Bianco, Tuscany, Italy 2011  $9.00    Schiopetto Friulano, Friuli, Italy 2010  $65.00    A.a. Badenhorst Secateurs Chenin Blanc 2013 Swartland, South Africa  $10.00    Catena Chardonnay, Mendoza, Argentina 2011  $48.00    Clotilde Davenne Vieilles Vignes, Bourgogne Aligote 2012  $52.00    Baileyana Chardonnay, Firepeak Vineyard, Edna Valley, California 2012  $13.00    Daniel Chardonnay, Sierra Mar Vineyard, Santa Lucia Highlands, 2010  $72.00    Feudi Di San Gregorio, Greco Di Tufo, Campania, Italy 2011  $47.00    Inman Family, Endless Crush Rosé, Russian River Valley, Sonoma, California 2013  $10.00    Chateau Peyrassol, Cotes Du Provence Rosé Provence, France 2013  $72.00    Chateau De La Chaize Brouilly Beaujolais, France 2011  $58.00    Jean-Jacques Girard Savigny-Les-Beaunes, Burgundy, France 2010  $63.00    Rickshaw Pinot Noir, California, a.V.a. 2013  $11.00    Westrey Oracle Vineyard Pinot Noir, Dundee Hills, Willamette Valley, Oregon 2010  $77.00    Inman Pinot Noir, Russian River Valley, California 2011  $68.00    Schiefer Konigsberg Blaufrankisch, Burgenland, Austria 2010  $64.00    Charles Joguet Cuvee Terroir, Cabernet Franc, Chinon, Loire Valley, France 2011  $59.00    Palacios Remondo La Vendimia, Tempranillo Garnacha Blend, Rioja, Spain 2012  $9.00    Decendiente De J Palacios Petalos, Mencia, Bierzo, Spain 2011  $59.00    Douloufakis Dafnios Liatiko, Crete, Greece 2010  $10.00    Elio Altare, Dolcetto D'alba, Piedmont, Italy 2010  $44.00    Fuso Barbera D'alba, Piedmont, Italy 2012  $9.00    Beronia Gran Reserva, Tempranillo, Rioja, Spain 2006  $63.00    Selvapiana Bucerchiale Riserva, Sangiovese, Chianti Rufina, Tuscany, Italy 2009  $71.00    Vall Llach Embruix, Garnacha Blend, Priorat, Spain 2011  $67.00    Arnaldo Caprai Montefalco Rosso, Umbria, Italy 2010  $57.00    Qupe Syrah, Central Coast, California 2012  $11.00    Ojai Vineyards Syrah, Santa Barbara, California 2012  $72.00    Buehler Cabernet Sauvignon, Napa, California 2012  $14.00    Fisher Unity, Proprietary Blend, Napa, California 2012  $90.00    Decero Remolinos Vineyard Malbec, Mendoza, Argentina 2011  $10.00    Pepperbridge Merlot, Walla Walla, Washington 2011  $94.00    Chateau Montelena Cabernet Sauvignon, Napa, California 2011  $98.00    Ladera Cabernet Sauvignon, Napa, California 2010  $88.00    Marchesi Di Gresy La Serra Moscato D'asti, Moscato Bianco, Piedmont, Italy 2013  $7.00    Le Dauphin De Guiraud Sauternes, France 2011  $11.00    Dow's 10 Yr Tawny, Douro, Portugal, Nv  $11.00    Quinta Do Noval Lbv Porto, Douro, Portugal 2007  $9.00    
+
+id = 44c0842ef964a520aa351fe3
+name = Mandola's Italian Market
+location = lat = 30.315932148230964, lng = -97.7337098121643
+Address = [4700 W Guadalupe St Ste 12 (47th St. and Lamar), Austin, TX 78751]
+tag = Italian Restaurant
+rating = 8.8
+Arancini “little Oranges”  $6.00    Bruschetta Alla Checca  $8.00    Traditional Antipasto  $12.00    Fried Mozzarella  $6.50    Calamari & Zucchini Fritti  $8.00    Garlic Fries  $4.00    Minestra Maritata  $3.00    Minestrone  $3.00    Mista  $8.00    Caprese Salad  $9.00    Insalata Cotta E Cruda  $10.00    Chopped Antipasto Salad  $11.00    Sicilian Tomato Salad  $8.00    Mandolas Hero  $9.00    Caprese  $8.50    Muffaletta  $8.50    Italian Steak  $10.75    Italian Sausage & Peppers  $10.00    Vegetariano  $10.00    Roasted Turkey Or Fresh Grilled Chicken  $10.00    Spaghetti & Meatballs Or Italian Sausage  $12.00    Conchiglie (Seashells) with Meat Sauce  $11.00    Spaghetti Carbonara  $11.00    Taglierini Pachino  $10.00    Spaghettini Ortolano  $11.00    Tortellini Moda Mia  $12.00    Eggplant Parmigiana  $12.00    Lasagne  $13.00    Cheese Manicotti  $11.00    Cheese  $11.00    Meat  $12.00    Margherita  $11.00    Meat Lovers  $12.50    Fiorentina  $12.00    Pugliese  $12.00    Parma  $12.00    Diavola  $12.00    Build Your Own  $10.00    Meatballs (3)  $4.00    Sausage (Each Link)  $4.00    Grilled Chicken  $4.00    Small Mista Salad  $4.00    
+
+id = 49d422baf964a520345c1fe3
+name = Andiamo Ristorante Italiano
+location = lat = 30.382709845124108, lng = -97.72330496538892
+Address = [2521 Rutland Dr (Burnet & Rutland), Austin, TX 78758]
+tag = Italian Restaurant
+rating = 8.8
+Profiteroles  $8.00    Zabaglione  $8.00    Tiramisu  $8.00    Cheesecake  $8.00    Bocconotti  $8.00    Espresso  $2.00    Double Espresso  $4.00    Espresso Con Zabaglione  $6.00    Espresso Con Nutella  $6.00    Cappuccino  $3.75    Caffe E Latte  $3.75    Caffe Americano  $2.25    Hot Tea  $2.00    San Pellegrino  $5.00    Zuppa Del Giorno  $5.50    Involtini Di Melanzane  $8.50    Prosciutto E Asparagi  $9.00    Calamari Fritti  $9.00    Prosciutto E Melone  $9.00    Caprese  $7.50    Insalata Di Fagiolini  $7.00    Insalata Innamorata  $7.00    Ravioli Ai Funghi  $12.00    Caccio E Pepe  $12.00    Gnocchi Alla Sorrentina  $12.00    Rigatoni Alla Bolognese  $13.50    Linguine Alle Vongole  $15.50    Salmone Al Forno  $15.50    Pollo Alla Cacciatora  $13.50    Vitello Rosmarino  $14.00    Gamberi Ripieni  $15.00    Mousse Al Cioccolato  $8.00    Zabaglione  $8.00    Tiramisu  $8.00    Bocconotti  $8.00    Cheesecake  $8.00    Sauteed Spinach  $4.00    Asparagus  $4.00    Zucchini  $4.00    Green Beans  $4.00    Green Peas  $4.00    Refill Basket of Bread  $5.00    Loaf of Bread  $7.50    Menu Dello Chef  $70.00    Menu Vegetariano  $60.00    Zuppa Del Giorno  $7.00    Polenta Fritta  $13.50    Calamari Fritti  $14.50    Capesante Dello Chef  $14.50    Involtini Di Melanzane  $12.50    Involtini Di Prosciutto  $14.50    Insalata Di Fagiolini  $10.50    Insalata Di Mele  $10.00    Insalata Di Funghi  $9.50    Insalata Di Finocchio  $11.50    Linguine Alle Vongole  $26.50    Ravioli Ai Funghi  $22.50    Gnocchi Alla Sorrentina  $23.00    Spaghetti Alla Carbonara  $23.50    Fettuccine Al Nero Di Seppia  $24.00    Linguine Luci Johnson  $24.00    Vitello Al Rosmarino  $28.50    Costoletta Di Maiale  $25.50    Filetto Alla Griglia  $32.50    Involtini Di Pollo  $24.00    Trota Ripiena  $25.50    Gamberi Ripieni  $27.50    Sauteed Spinach  $4.00    Grilled Zucchini  $4.00    Grilled Asparagus  $4.00    Green Beans  $4.00    Green Peas  $4.00    Basket of Bread Refill  $5.00    Loaf of Bread  $7.50    
+
+id = 5676037b498e1b7d98c935c7
+name = Cooper's Old Time Pit Bar-B-Que
+location = lat = 30.265024245795754, lng = -97.74391685557056
+Address = [217 Congress Ave (at 2nd St), Austin, TX 78701]
+tag = BBQ Joint
+rating = 8.8
+
+
+id = 4c379ff7ae2da593103bffc5
+name = Korean Grill
+location = lat = 30.3788876, lng = -97.687086
+Address = [10901 N Lamar Blvd #204, Austin, TX 78753]
+tag = Korean Restaurant
+rating = 8.8
+Edamame  $3.95    Gyza ( 6Pcs)  $3.95    Eggroll (2Pcs)  $2.95    Kinchi Pancake  $7.95    Seafood Pancake  $9.95    Vegetable Tempura (7Pcs)  $6.95    Calamari (6Pcs)  $4.95    Shrimp Tempura (6Pcs)  $9.95    Combo Tempura  $10.95    Kimchi Jjigae  $8.95    Bean Paste Jjigae  $8.95    Soft Tofu Jjigae  $8.95    Seafood Soft Tofu Jjigae  $9.95    Seolreongtang  $8.95    Doganitang  $10.95    Doganitang Meat  $24.95    Jjamppong  $10.95    Seafood  $24.95    Kimchi  $22.95    Beef Bulgogi  $9.95    Pork Bulgogi  $9.95    Chicken Bulgogi  $9.95    Seafood Bulgogi  $10.95    Ssambob  $24.95    Beef Japche  $9.95    Seafood Japche  $10.95    Ojingo Bockeum  $10.95    Beebimbop  $8.95    Dolsot Beebimbop  $10.95    Shrimp Udon  $10.95    Udon  $8.95    Jaeyuk Bockeum  $14.95    Grilled Mackerel  $10.95    
+
+id = 5533e1c3498ebecc1985fb38
+name = Alcomar
+location = lat = 30.24677, lng = -97.756351
+Address = [1816 S 1st St, Austin, TX 78704, Austin, TX 78704]
+tag = Seafood Restaurant
+rating = 8.8
+
+
+id = 55bad8c5498e994ab72cd2cc
+name = Unit-D Pizzeria
+location = lat = 30.28486005451502, lng = -97.71716924098979
+Address = [2406 Manor Rd, Austin, TX 78722]
+tag = Pizza Place
+rating = 8.8
+
+
+id = 4bdb8bd0c79cc928017483e9
+name = Snap Kitchen
+location = lat = 30.271924670075304, lng = -97.75472910532551
+Address = [1014 W 6th St (Lamar), Austin, TX 78703]
+tag = American Restaurant
+rating = 8.8
+Crunchy Chopped Veggie Bowl - One Size  $6.25    Salads Tossed to Order  $0    Asian Chicken Salad - One Size  $9.25    Red & Green Salad - One Size  $6.75    Spinach & Goat Cheese Salad - One Size  $8.25    Sushi Grade Ahi Tuna Nicoise Salad - One Size  $10.75    Spicy Jungle Beef Salad - One Size  $10.25    Grilled Scottish Salmon Salad - One Size  $10.25    Deconstructed Bison Cheeseburger Salad - One Size  $8.25    Snap Greek Salad - One Size  $9.75    Snap Caesar Salad - One Size  $6.25    Chimichurri Grilled Chicken  $6.75    Chimichurri Grilled Chicken  $8.25    Chimichurri Grilled Chicken  $9.25    Paleolithic Chicken  $6.50    Paleolithic Chicken  $7.75    Paleolithic Chicken  $9.25    Crispy Chicken  $7.25    Crispy Chicken  $8.75    Crispy Chicken  $10.25    Turkey Meatloaf  $6.50    Turkey Meatloaf  $7.75    Turkey Meatloaf  $9.75    Bbq Pulled Pork  $7.50    Bbq Pulled Pork  $9.50    Bbq Pulled Pork  $11.25    Citrus Grilled Pork Tenderloin  $6.75    Citrus Grilled Pork Tenderloin  $8.25    Citrus Grilled Pork Tenderloin  $10.75    Crispy Scottish Salmon  $7.75    Crispy Scottish Salmon  $10.25    Crispy Scottish Salmon  $12.25    Dill Poached Scottish Salmon  $8.50    Dill Poached Scottish Salmon  $10.75    Chimichurri Grilled Beef  $7.50    Chimichurri Grilled Beef  $9.50    Chimichurri Grilled Beef  $11.25    Paleolithic Beef  $7.50    Paleolithic Beef  $9.50    Paleolithic Beef  $11.25    Bbq Pulled Beef  $7.75    Bbq Pulled Beef  $9.75    Bbq Pulled Beef  $11.50    Meatballs and Peppers  $7.25    Meatballs and Peppers  $9.00    Peanut Butter "Cheesecake" - One Size  $3.75    Key Lime "Pie" - One Size  $3.75    Berry "Cheesecake" - One Size  $3.75    Gluten-Free Brownie - One Size  $2.00    Gluten-Free Chocolate Chip Cookies - One Size  $3.00    Gluten-Free Cinnamon Raisin Cookies - One Size  $3.00    
+
+id = 4a8ad2f5f964a520850a20e3
+name = Amaya's Taco Village
+location = lat = 30.31937744890265, lng = -97.70810008049011
+Address = [5804 N Interstate 35, Austin, TX 78751]
+tag = Mexican Restaurant
+rating = 8.8
+Nachos Compuestos  $8.49    Chicken Quesadillas  $8.49    Nachos  $5.99    Chile Con Queso  $5.39    Chile Con Queso with Taco Meat  $7.79    Chips  $1.75    Taco Salad  $8.99    Guacamole Salad  $6.99    Caldos (Beef)  $8.99    Caldos (Chicken)  $8.99    Caldos (Menudo)  $9.49    Caldos (Tortilla Soup)  $8.99    Fajita Plate (Beef Or Chicken)  $29.99    Fajita Tampiquena (Beef Or Chicken)  $15.89    Ribs Plate Or Rib Tacos (3)  $17.99    Carne Guisada  $11.39    Pollo a La Parrilla  $11.39    Mexican Plate  $10.69    Deluxe Dinner  $11.99    Flautas (Beef Or Chicken)  $12.99    Chalupas  $6.89    Chalupas Compuestas  $9.99    Chalupas Superior  $10.49    Fish Taco Plate  $11.39    Fish Plate  $11.39    Beef Enchiladas  $10.69    Cheese Topped Enchiladas with Beef Sauce  $9.79    Vegetarian Enchiladas  $9.79    Chicken Enchiladas  $10.69    One Enchilada  $6.59    Two Enchiladas  $8.99    Order of Three Village Tacos  $9.87    Order of Three with Rice and Beans  $11.99    Two Tacos with Rice and Beans  $10.69    One Taco with Rice and Beans  $7.99    One Taco  $3.29    Sour Cream  $0.69    Pico De Gallo  $0.59    Jalapeno  $0.39    Onion  $0.39    Lettuce  $0.69    Tomatoes (Extra)  $0.79    Lettuce and Tomatoes  $1.49    Cheese  $1.49    Rice (One Serving)  $1.99    Beans (One Serving)  $1.99    Carne Guisada  $5.29    Barbacoa  $5.29    Picadillo  $5.29    All Other Meats  $5.29    Tamale (1)  $2.29    Cheese Enchilada  $2.29    Beef Or Chicken Enchilada  $2.39    Pancake (1)  $1.69    Egg  $1.29    Bacon Or Sausage  $1.99    Potatoes Or French Fries  $1.29    Guacamole  $1.19    Flour Tortilla  $0.44    Corn Tortilla  $0.44    Flauta (Beef Or Chicken)  $2.79    Domestic Beer  $2.75    Domestic Pitcher  $10.00    Imported Beer  $3.50    Draft (16 Oz)  $3.50    Import Draft (16 Oz)  $4.00    Import Pitcher  $12.00    Frozen Margaritas (12Oz.)  $4.50    Rocks (12Oz.)  $4.50    Coffee  $1.59    Iced Tea  $1.79    Hot Tea  $1.60    Sweet Tea  $1.99    Large Soft Drink  $2.39    Regular Soft Drink  $1.99    Small Soft Drink  $1.79    Milk  $1.79    Bottled Drink  $1.69    Monsters  $2.59    Orange Juice  $1.69    Apple Juice  $2.99    Fruit Punch  $2.09    Hot Cocoa  $1.59    Jarritos  $1.99    Ice Cream Delight  $3.59    Sopapillas (6)  $2.09    Tres Leches  $2.99    Flan  $2.99    One Enchilada, Rice & Beans  $4.15    One Taco, Rice, & Beans  $4.35    Chicken Or Cheese Quesadillas (4)  $3.90    One Enchilada  $2.30    One Taco (Plain)  $2.35    Chicken Nuggets  $4.15    Pancake Special  $3.15    Huevos Rancheros  $5.49    Huevos a La Mexicana  $5.49    Huevos a La Mexicana with Cheese  $6.59    Migas  $5.49    Migas with Cheese  $6.59    Chorizo Con Huevos  $6.89    Ranchero Deluxe  $9.59    Machacado Con Huevos  $9.59    Machacado Con Huevos with Cheese  $10.59    Omelet  $8.99    Pancake Plate  $8.49    Taquitos (Breakfast Tacos)  $1.59    Monday - Friday - Enchiladas  $7.99    Monday - Pollo a La Parrilla ​ (Grilled Boneless Chicken Breast)  $8.79    Tuesday - Carne Guisada Plate  $8.99    Wednesday - Enchiladas Verdes (Green Enchiladas)  $7.99    Thursday - Chile Relleno  $8.99    Friday - Pescado Asado (Grilled Fish Plate)  $8.99    
+
+id = 4a3fd9eef964a520ffa31fe3
+name = Pluckers Wing Bar
+location = lat = 30.28623456373817, lng = -97.74523258209229
+Address = [2222 Rio Grande St (22nd St), Austin, TX 78705]
+tag = Wings Joint
+rating = 8.8
+Grilled Buffalo Chicken Salad  $0    Honey Bbq Chicken  $0    Grilled Chicken Garden Salad  $0    5 Wings Combo  $0    10 Wings Combo  $0    15 Wings Combo  $0    Oredr in Bulk  $0    Spicy Bbq  $0    Honey Bbq  $0    Dr. Pepper  $0    Spicy Ranch  $0    Jamaican Jerk  $0    Fire in the Hole  $0    Cajun  $0    Ranch  $0    Goldrush  $0    Buffalo Mild  $0    Buffalo Hot  $0    Buffalo Medium  $0    The Bypass Burger  $0    Chicken Club  $0    Honey Bbq Burger  $0    The Larry Bird  $0    The Boring Burger  $0    Naked Boneless Wing Basket  $0    Cajun Corn On the Cob  $0    Side Caesar Salad  $0    Side Salad  $0    
+
