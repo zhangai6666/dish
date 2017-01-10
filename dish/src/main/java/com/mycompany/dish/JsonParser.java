@@ -144,8 +144,9 @@ public class JsonParser {
         System.out.println(menuNotAvailCount + " restaurants don't menu info.");
         System.out.println(totalDishesCount + " dishes in total.");
     	
-    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("dishtest", "127.0.0.1");
-    	conn.InitOrUpdate(list);
+    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("dishtest", "127.0.0.1", "austin", false);
+    	conn.cleanup();
+        //conn.InitOrUpdate(list);
     	conn.close();
     	
     	System.out.println("excution finished" );
