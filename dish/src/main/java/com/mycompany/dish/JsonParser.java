@@ -141,10 +141,10 @@ public class JsonParser {
 //            System.out.println(String.format("Current size %d", count));
     	}
         System.out.println(String.format("\nTotal %d restaurants.\n", list.size()));
-        System.out.println(menuNotAvailCount + " restaurants don't menu info.");
+ //       System.out.println(menuNotAvailCount + " restaurants don't menu info.");
         System.out.println(totalDishesCount + " dishes in total.");
     	
-    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("dishtest", "127.0.0.1", "austin", false);
+    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("dishtest", "127.0.0.1", "austin", true);
     	conn.cleanup();
         //conn.InitOrUpdate(list);
     	conn.close();

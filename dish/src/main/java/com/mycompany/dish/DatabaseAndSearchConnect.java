@@ -51,7 +51,7 @@ public class DatabaseAndSearchConnect {
         try {
             session = cluster.connect(myKeyspace);
         } catch (Exception InvalidQueryException) {  
-            System.out.println("keyspace" + myKeyspace + "Doesn't Exist" + InvalidQueryException.toString());
+            System.out.println("Keyspace" + myKeyspace + "Not yet exist");
             System.out.println("Creating Keyspace" + myKeyspace);
             
             Session sessionInit = cluster.connect();
@@ -138,9 +138,11 @@ public class DatabaseAndSearchConnect {
             }
         }
         
+        
         // Print out INFO
         ResultSet allDish = session.execute("SELECT * FROM dish ");
         System.out.println("Dishes inserted into DB:" + allDish.all().size());
+        
 
     }
     
