@@ -51,7 +51,7 @@ public class DatabaseAndSearchConnect {
         try {
             session = cluster.connect(myKeyspace);
         } catch (Exception InvalidQueryException) {  
-            System.out.println("Keyspace" + myKeyspace + "Not yet exist");
+            System.out.println("Keyspace: " + myKeyspace + "  Not yet exist");
             System.out.println("Creating Keyspace" + myKeyspace);
             
             Session sessionInit = cluster.connect();
@@ -86,6 +86,7 @@ public class DatabaseAndSearchConnect {
             String createDishTable = "CREATE TABLE dish( "
                     + "did uuid , "
                     + "rid uuid , "
+                    + "rName text , "
                     + "name text , "
                     + "price double , "
                     + "catergory text , "
@@ -120,8 +121,8 @@ public class DatabaseAndSearchConnect {
                 
                 // Insert dishes into DB
                 for (Dish d : restaurant.dishes) {
-                    String insertDish = "INSERT INTO dish (did, rid, name, price, catergory, description, section)"
-                            + " VALUES( uuid(), " + rUUid.toString() + " , $$" + d.name + "$$, " + Double.parseDouble(d.price) + ", $$"
+                    String insertDish = "INSERT INTO dish (did, rid, rName, name, price, catergory, description, section)"
+                            + " VALUES( uuid(), " + rUUid.toString() + " , $$" + restaurant.name + "$$, $$" + d.name + "$$, " + Double.parseDouble(d.price) + ", $$"
                             + d.category + "$$, $$" + d.description + "$$, $$" + d.section + "$$);";
                     session.execute(insertDish);
                 }
@@ -136,6 +137,9 @@ public class DatabaseAndSearchConnect {
                     client.prepareIndex(myIndex, "dish", dUUid.toString()).setSource(dishJson).get();
                 }
             }
+            
+            
+
         }
         
         

@@ -14,9 +14,7 @@ import java.util.Scanner;
 import com.google.gson.Gson;
 import java.util.Collections;
 
-/**
- * Created by liyou on 11/24/16.
- */
+
 public class JsonParser {
 
     public void readFromUrl (String link, String file, StringBuilder jsonString) throws IOException{
@@ -144,10 +142,18 @@ public class JsonParser {
  //       System.out.println(menuNotAvailCount + " restaurants don't menu info.");
         System.out.println(totalDishesCount + " dishes in total.");
     	
-    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("dishtest", "127.0.0.1", "austin", true);
-    	//conn.cleanup();
-        conn.InitOrUpdate(list);
-    	conn.close();
+        
+        
+        
+        
+        
+    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
+    	conn.cleanup();
+        conn.close();
+        
+        DatabaseAndSearchConnect connet = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
+        connet.InitOrUpdate(list);
+    	connet.close();
     	
     	System.out.println("excution finished" );
         final String dir = System.getProperty("user.dir");

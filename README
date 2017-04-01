@@ -2,14 +2,18 @@
 Things to do
 DONE <1> Get restaurants and dishes informaion
 DONE <2> Setup ElasticSearch and Cassandra
-<3> Setup NodeJS webserver
-<4> Cloud deploy
-<5> Web frontend 
-<6> Android app 
-<7> iOS app 
+DONE <3> ReactJS Frontend
+<4> Main Search Feature Complete
+<5> NodeJS Backend
+<6> Cloud deploy
+<7> Android app 
+<8> iOS app 
 
 UI improve and additional features:
 * user add fav dish
 * user dish share / user timeline
+* historical dish info
+* desired historical dish tracker
+* new dish at selected restaurant push notice 
 * gather pictures for dish
 * machine learning dish recommend
