@@ -36,6 +36,7 @@ class Menus {
                 String section = sections[j].name;
                 SingleDish[] dishes = sections[j].entries.items;
                 for (int k = 0; k < dishes.length; k++) {
+                    dishes[k].uniformNameToLowerCase();
                     ans.add(new Dish(dishes[k], category, section));
                 }
             }

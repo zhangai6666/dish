@@ -13,6 +13,9 @@ import java.util.Scanner;
 
 import com.google.gson.Gson;
 import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.TreeSet;
 
 
 public class JsonParser {
@@ -81,14 +84,17 @@ public class JsonParser {
     
     
     public static void main(String[] args) throws IOException{
-    	List<Restaurant> list = new ArrayList<>();
-    	
+        JsonParser parser = new JsonParser();
+        
+    	List<Restaurant> restaurantList = new ArrayList<>();
+    	HashMap<String, Integer> dishCounter = new HashMap<>();
+               
     	int menuNotAvailCount = 0;
         int totalDishesCount = 0;
 
     	
     	for(int offset = 0; offset < 241; offset += 30) {
-        	JsonParser parser = new JsonParser();
+        	
         	StringBuilder jsonString = new StringBuilder();
         	String file = String.format("./rawJson/RawJsonRestaurants_offset_%d.txt", offset);
         	
@@ -109,7 +115,7 @@ public class JsonParser {
             		count--;
             		continue;
             	}
-                list.add(r);
+                restaurantList.add(r);
             	
 //            	String menuLink = String.format("https://api.foursquare.com/v2/venues/%s/menu?oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", r.id);
             	String menuFile = "./rawJson/Menu_" + r.name + ".txt";
@@ -132,28 +138,40 @@ public class JsonParser {
                     menuNotAvailCount++;
                 }
                 totalDishesCount += r.getDishesCount();
-            	
+                
+                ArrayList<String> dishList = r.getDishNames();
+
+                for (String d : dishList) {
+                    if (!dishCounter.containsKey(d)) {
+                        dishCounter.put(d, 1);
+                    } else {
+                        dishCounter.put(d, dishCounter.get(d) + 1);
+                    }
+                }
             }
             out.close();
         
 //            System.out.println(String.format("Current size %d", count));
     	}
-        System.out.println(String.format("\nTotal %d restaurants.\n", list.size()));
+        System.out.println(String.format("\nTotal %d restaurants.\n", restaurantList.size()));
  //       System.out.println(menuNotAvailCount + " restaurants don't menu info.");
         System.out.println(totalDishesCount + " dishes in total.");
-    	
         
         
-        
-        
-        
-    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
-    	conn.cleanup();
-        conn.close();
-        
-        DatabaseAndSearchConnect connet = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
-        connet.InitOrUpdate(list);
-    	connet.close();
+        System.out.println(dishCounter.keySet().size() + " unique dishes");
+    	PrintWriter out = new PrintWriter("./restaurantList/DishCount.txt");
+        for (String d : dishCounter.keySet()) {
+            out.println(d + ' ' + dishCounter.get(d));
+        }
+        out.close();
+       
+//    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
+//    	conn.cleanup();
+//        conn.close();
+//        
+//        DatabaseAndSearchConnect connet = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
+//        connet.InitOrUpdate(list);
+//    	connet.close();
     	
     	System.out.println("excution finished" );
         final String dir = System.getProperty("user.dir");

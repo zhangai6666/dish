@@ -1,240 +1,1052 @@
-id = 49be75ccf964a520ad541fe3
 name = Torchy's Tacos
-location = lat = 30.250614338307763, lng = -97.75410303190354
-Address = [1311 S 1st St (btwn Elizabeth St W & Gibson St W), Austin, TX 78704]
-tag = Food Truck
-rating = 9.5
-Monk Special  $2.50    Migas  $2.75    The Wrangler  $3.50    Ranch Hand  $3.50    Breakfast Tacos  $2.25    Green Chile Pork  $3.75    Fried Avocado  $3.75    Trailer Park  $3.75    Dirty Sanchez  $3.50    Baja Shrimp  $4.25    Chicken Fajita  $3.50    Beef Fajita  $3.75    The Democrat  $4.00    The Republican  $3.25    The Independent  $3.50    Brushfire  $3.75    Mr. Pink  $4.75    Mr. Orange  $4.75    Crossroads  $4.25    Grande Burrito  $7.50    Street Corn  $3.95    Love Puppies  $2.50    Lil's Nookies  $2.95    Green Chile Queso & Chips  $5.25    Chips & Guacamole  $4.95    Chips & Salsa  $3.50    Roja  $0    Tomatillo  $0    Poblano  $0    Chipotle  $0    Avocado  $0    Diablo  $0    Guacamole  $4.25    Salsa  $2.50    Pico De Gallo  $2.50    Rice  $1.95    Refried Beans (Pinto Or Black)  $1.95    Fountain Soda  $2.25    Bottled Soda  $2.25    Orange Juice  $2.50    Fresh Ground Coffee  $2.00    Iced Tea  $2.25    
+monk special	$2.50	Entree		Main Menu	Breakfast Tacos
+migas	$2.75	Entree		Main Menu	Breakfast Tacos
+the wrangler	$3.50	Entree		Main Menu	Breakfast Tacos
+ranch hand	$3.50	Entree		Main Menu	Breakfast Tacos
+breakfast tacos	$2.25	Entree		Main Menu	Breakfast Tacos
+green chile pork	$3.75	Entree		Main Menu	Torchy's Tacos
+fried avocado	$3.75	Entree		Main Menu	Torchy's Tacos
+trailer park	$3.75	Entree		Main Menu	Torchy's Tacos
+dirty sanchez	$3.50	Entree		Main Menu	Torchy's Tacos
+baja shrimp	$4.25	Entree		Main Menu	Torchy's Tacos
+chicken fajita	$3.50	Entree		Main Menu	Torchy's Tacos
+beef fajita	$3.75	Entree		Main Menu	Torchy's Tacos
+the democrat	$4.00	Entree		Main Menu	Torchy's Tacos
+the republican	$3.25	Entree		Main Menu	Torchy's Tacos
+the independent	$3.50	Entree		Main Menu	Torchy's Tacos
+brushfire	$3.75	Entree		Main Menu	Torchy's Tacos
+mr. pink	$4.75	Entree		Main Menu	Torchy's Tacos
+mr. orange	$4.75	Entree		Main Menu	Torchy's Tacos
+crossroads	$4.25	Entree		Main Menu	Torchy's Tacos
+grande burrito	$7.50	Entree		Main Menu	Eats and Treats
+street corn	$3.95	Entree		Main Menu	Eats and Treats
+love puppies	$2.50	Entree		Main Menu	Eats and Treats
+lil's nookies	$2.95	Entree		Main Menu	Eats and Treats
+green chile queso & chips	$5.25	Entree		Main Menu	Chips and Dips
+chips & guacamole	$4.95	Entree		Main Menu	Chips and Dips
+chips & salsa	$3.50	Entree		Main Menu	Chips and Dips
+roja	$0	Entree		Main Menu	Sauces
+tomatillo	$0	Entree		Main Menu	Sauces
+poblano	$0	Entree		Main Menu	Sauces
+chipotle	$0	Entree		Main Menu	Sauces
+avocado	$0	Entree		Main Menu	Sauces
+diablo	$0	Entree		Main Menu	Sauces
+guacamole	$4.25	Entree		Main Menu	Sides
+salsa	$2.50	Entree		Main Menu	Sides
+pico de gallo	$2.50	Entree		Main Menu	Sides
+rice	$1.95	Entree		Main Menu	Sides
+refried beans (pinto or black)	$1.95	Entree		Main Menu	Sides
+fountain soda	$2.25	Drink		Main Menu	Drinks
+bottled soda	$2.25	Drink		Main Menu	Drinks
+orange juice	$2.50	Drink		Main Menu	Drinks
+fresh ground coffee	$2.00	Drink		Main Menu	Drinks
+iced tea	$2.25	Drink		Main Menu	Drinks
 
-id = 43d1d4e9f964a520072e1fe3
 name = Home Slice Pizza
-location = lat = 30.249132056056872, lng = -97.7496357879637
-Address = [1415 S Congress Ave (Gibson St. E), Austin, TX 78704]
-tag = Pizza Place
-rating = 9.5
-House  $5.50    Greek  $8.25    Pear Gorgonzola  $8.25    Caesar  $7.50    Italian Chef  $8.75    Spinach  $7.50    House  $10.00    Caesar Or Spinach  $13.50    Pear Gorgonzola Or Greek  $15.00    Italian Chef  $16.25    Antipasto  $12.00    Insalata Caprese  $7.50    Garlic Knots 4 & Marinara  $3.50    Additional Knots  $0.75    Meatball  $11.75    Eggplant Parmesan  $11.75    Chicken Parmesan  $11.75    Italian Assorted  $11.75    Turkey  $11.75    Tuna Salad  $11.75    Veggie  $11.75    Chips  $1.75    Calzone  $6.75    Spinach Calzone  $7.25    Meat Calzone (Pepperoni & Sausage)  $7.95    Slices  $3.50    Large Pizza (16)  $14.00    Medium Pizza (14)  $11.75    White Pizza  $2.00    Medium  $1.75    Large  $2.00    Medium  $2.75    Large  $3.00    Margherita  $18.00    White Pie with Spinach  $15.50    Eggplant Pie  $15.50    Spinach, Roasted Red Pepper, Green Olives, Onions  $18.00    Pepperoni & Mushroom  $18.00    Sausage, Ricotta Cheese and Roasted Red Pepper  $18.00    White Clam Pizza  $22.00    Cannoli  $4.50    Ny Cheesecake  $5.75    Tiramisu  $7.50    Rice Krispy Treat  $2.75    Rice Krispy Treat  $3.75    3 Chocolate Chip Cookies & Milk  $3.00    
+house	$5.50	Starter		Main Menu	Salads & Antipasti
+greek	$8.25	Starter		Main Menu	Salads & Antipasti
+pear gorgonzola	$8.25	Starter		Main Menu	Salads & Antipasti
+caesar	$7.50	Starter		Main Menu	Salads & Antipasti
+italian chef	$8.75	Starter		Main Menu	Salads & Antipasti
+spinach	$7.50	Starter		Main Menu	Salads & Antipasti
+house	$10.00	Starter		Main Menu	Salads & Antipasti
+caesar or spinach	$13.50	Starter		Main Menu	Salads & Antipasti
+pear gorgonzola or greek	$15.00	Starter		Main Menu	Salads & Antipasti
+italian chef	$16.25	Starter		Main Menu	Salads & Antipasti
+antipasto	$12.00	Starter		Main Menu	Salads & Antipasti
+insalata caprese	$7.50	Starter		Main Menu	Salads & Antipasti
+garlic knots 4 & marinara	$3.50	Starter		Main Menu	Salads & Antipasti
+additional knots	$0.75	Starter		Main Menu	Salads & Antipasti
+meatball	$11.75	Entree		Main Menu	Sub Sandwiches-Hot Subs
+eggplant parmesan	$11.75	Entree		Main Menu	Sub Sandwiches-Hot Subs
+chicken parmesan	$11.75	Entree		Main Menu	Sub Sandwiches-Hot Subs
+italian assorted	$11.75	Entree		Main Menu	Sub Sandwiches-Cold Subs
+turkey	$11.75	Entree		Main Menu	Sub Sandwiches-Cold Subs
+tuna salad	$11.75	Entree		Main Menu	Sub Sandwiches-Cold Subs
+veggie	$11.75	Entree		Main Menu	Sub Sandwiches-Cold Subs
+chips	$1.75	Entree		Main Menu	Sub Sandwiches-Cold Subs
+calzone	$6.75	Entree		Main Menu	Calzones
+spinach calzone	$7.25	Entree		Main Menu	Calzones
+meat calzone (pepperoni & sausage)	$7.95	Entree		Main Menu	Calzones
+slices	$3.50	Entree		Main Menu	Pizza By the Slice
+large pizza (16)	$14.00	Entree		Main Menu	Pizza
+medium pizza (14)	$11.75	Entree		Main Menu	Pizza
+white pizza	$2.00	Entree		Main Menu	Pizza
+medium	$1.75	Entree		Main Menu	Toppings
+large	$2.00	Entree		Main Menu	Toppings
+medium	$2.75	Entree		Main Menu	Special Toppings
+large	$3.00	Entree		Main Menu	Special Toppings
+margherita	$18.00	Entree		Main Menu	Tried and True
+white pie with spinach	$15.50	Entree		Main Menu	Tried and True
+eggplant pie	$15.50	Entree		Main Menu	Tried and True
+spinach, roasted red pepper, green olives, onions	$18.00	Entree		Main Menu	Tried and True
+pepperoni & mushroom	$18.00	Entree		Main Menu	Tried and True
+sausage, ricotta cheese and roasted red pepper	$18.00	Entree		Main Menu	Tried and True
+white clam pizza	$22.00	Entree		Main Menu	Tried and True
+cannoli	$4.50	Dessert		Main Menu	Dessert
+ny cheesecake	$5.75	Dessert		Main Menu	Dessert
+tiramisu	$7.50	Dessert		Main Menu	Dessert
+rice krispy treat	$2.75	Dessert		Main Menu	Dessert
+rice krispy treat	$3.75	Dessert		Main Menu	Dessert
+3 chocolate chip cookies & milk	$3.00	Dessert		Main Menu	Dessert
 
-id = 4cb5e045e262b60c46cb6ae0
 name = Hopdoddy Burger Bar
-location = lat = 30.249540168503078, lng = -97.74991035461426
-Address = [1400 S Congress Ave (btwn Gibson & Elizabeth), Austin, TX 78704]
-tag = Burger Joint
-rating = 9.5
+Menu not available
 
-
-id = 4d8d295fc1b1721e798b1246
 name = Veracruz All Natural
-location = lat = 30.257706409040974, lng = -97.72564378776447
-Address = [1704 E Cesar Chavez St, Austin, TX 78702]
-tag = Taco Place
-rating = 9.5
+Menu not available
 
-
-id = 574481f8498e2cd16a0911a6
 name = Snooze
-location = lat = 30.25092225708923, lng = -97.76590385867956
-Address = [1700 S Lamar Blvd (Collier), Austin, TX 78704]
-tag = Breakfast Spot
-rating = 9.5
+Menu not available
 
-
-id = 4af0dcebf964a520bcdf21e3
 name = Torchy's Tacos
-location = lat = 30.22235905, lng = -97.840366
-Address = [4301 W William Cannon Dr (S Mopac Expressway), Austin, TX 78749]
-tag = Taco Place
-rating = 9.4
-Monk Special  $2.50    Migas  $2.75    The Wrangler  $3.50    Ranch Hand  $3.50    Breakfast Tacos  $2.25    Green Chile Pork  $3.75    Fried Avocado  $3.75    Trailer Park  $3.75    Dirty Sanchez  $3.50    Baja Shrimp  $4.25    Chicken Fajita  $3.50    Beef Fajita  $3.75    The Democrat  $4.00    The Republican  $3.25    The Independent  $3.50    Brushfire  $3.75    Mr. Pink  $4.75    Mr. Orange  $4.75    Crossroads  $4.25    Grande Burrito  $7.50    Street Corn  $3.95    Love Puppies  $2.50    Lil's Nookies  $2.95    Green Chile Queso & Chips  $5.25    Chips & Guacamole  $4.95    Chips & Salsa  $3.50    Roja  $0    Tomatillo  $0    Poblano  $0    Chipotle  $0    Avocado  $0    Diablo  $0    Guacamole  $4.25    Salsa  $2.50    Pico De Gallo  $2.50    Rice  $1.95    Refried Beans (Pinto Or Black)  $1.95    Fountain Soda  $2.25    Bottled Soda  $2.25    Orange Juice  $2.50    Fresh Ground Coffee  $2.00    Iced Tea  $2.25    
+monk special	$2.50	Entree		Main Menu	Breakfast Tacos
+migas	$2.75	Entree		Main Menu	Breakfast Tacos
+the wrangler	$3.50	Entree		Main Menu	Breakfast Tacos
+ranch hand	$3.50	Entree		Main Menu	Breakfast Tacos
+breakfast tacos	$2.25	Entree		Main Menu	Breakfast Tacos
+green chile pork	$3.75	Entree		Main Menu	Torchy's Tacos
+fried avocado	$3.75	Entree		Main Menu	Torchy's Tacos
+trailer park	$3.75	Entree		Main Menu	Torchy's Tacos
+dirty sanchez	$3.50	Entree		Main Menu	Torchy's Tacos
+baja shrimp	$4.25	Entree		Main Menu	Torchy's Tacos
+chicken fajita	$3.50	Entree		Main Menu	Torchy's Tacos
+beef fajita	$3.75	Entree		Main Menu	Torchy's Tacos
+the democrat	$4.00	Entree		Main Menu	Torchy's Tacos
+the republican	$3.25	Entree		Main Menu	Torchy's Tacos
+the independent	$3.50	Entree		Main Menu	Torchy's Tacos
+brushfire	$3.75	Entree		Main Menu	Torchy's Tacos
+mr. pink	$4.75	Entree		Main Menu	Torchy's Tacos
+mr. orange	$4.75	Entree		Main Menu	Torchy's Tacos
+crossroads	$4.25	Entree		Main Menu	Torchy's Tacos
+grande burrito	$7.50	Entree		Main Menu	Eats and Treats
+street corn	$3.95	Entree		Main Menu	Eats and Treats
+love puppies	$2.50	Entree		Main Menu	Eats and Treats
+lil's nookies	$2.95	Entree		Main Menu	Eats and Treats
+green chile queso & chips	$5.25	Entree		Main Menu	Chips and Dips
+chips & guacamole	$4.95	Entree		Main Menu	Chips and Dips
+chips & salsa	$3.50	Entree		Main Menu	Chips and Dips
+roja	$0	Entree		Main Menu	Sauces
+tomatillo	$0	Entree		Main Menu	Sauces
+poblano	$0	Entree		Main Menu	Sauces
+chipotle	$0	Entree		Main Menu	Sauces
+avocado	$0	Entree		Main Menu	Sauces
+diablo	$0	Entree		Main Menu	Sauces
+guacamole	$4.25	Entree		Main Menu	Sides
+salsa	$2.50	Entree		Main Menu	Sides
+pico de gallo	$2.50	Entree		Main Menu	Sides
+rice	$1.95	Entree		Main Menu	Sides
+refried beans (pinto or black)	$1.95	Entree		Main Menu	Sides
+fountain soda	$2.25	Drink		Main Menu	Drinks
+bottled soda	$2.25	Drink		Main Menu	Drinks
+orange juice	$2.50	Drink		Main Menu	Drinks
+fresh ground coffee	$2.00	Drink		Main Menu	Drinks
+iced tea	$2.25	Drink		Main Menu	Drinks
 
-id = 51106513e4b0480d959befc6
 name = Santorini Cafe
-location = lat = 30.38766687331474, lng = -97.68406572866184
-Address = [11800 N Lamar Blvd Bldg 1, Austin, TX 78753]
-tag = Greek Restaurant
-rating = 9.4
+Menu not available
 
-
-id = 4c16cd03955976b01a29a5f6
 name = Uchiko
-location = lat = 30.310775023080804, lng = -97.73986401566145
-Address = [4200 N Lamar Blvd, Austin, TX 78756]
-tag = Japanese Restaurant
-rating = 9.4
-Koviche*  $6.00    Yokai Berry*  $6.00    Machi Ringo*  $6.00    Gyutan Nigiri (2 Pc.)  $3.00    Avocado Nigiri (2 Pc.)  $3.00    Pork Ribs  $6.00    Bacon  $6.00    Brussels Sprouts  $3.00    Komaki Roll  $6.00    Crunchy Spicy Tuna Hand Roll*  $6.00    P-38 Hand Roll*  $6.00    Okashi  $3.00    Takara Nigori  $3.00    Gekkeikan  $3.00    Asahi Dry (12 Oz. )  $3.00    Boutari "Elios"  $7.00    Atalaya Garnacha  $7.00    Edamame  $5.00    Shishito Yaki  $6.00    Uchi Salad  $8.00    Roasted Golden Beets  $8.00    Branzino*  $18.00    Koviche*  $19.00    Yokai Berry*  $17.00    Maguro Sashimi and Goat Cheese*  $18.50    Hama Chili*  $18.50    Hot Rock*  $17.00    Sakana Mushi  $18.00    Dewbee Chicken  $15.00    Jar Jar Duck  $28.00    Kinoko Nabe  $15.00    Ao Saba  $18.00    Suzuki Yaki  $20.00    Pork Jowl  $22.00    Ninjin Bacon  $18.00    Tempura Nasu  $4.00    Tempura Onion Rings  $4.00    Brussels Sprouts  $6.00    Karaage  $10.00    Shime Saba*  $5.00    Gyutan  $3.00    Gyutan Toro  $3.50    Hotate*  $4.50    Nasu  $2.50    Avocado  $2.50    Boquerones  $4.00    Loup De Mer*  $3.50    Madai*  $4.50    Hamachi*  $5.00    Sake*  $3.50    Sake Toro*  $4.50    Big Eye Tuna*  $4.50    Unagi  $3.00    P-38*  $12.50    Komaki  $9.00    Crunchy Tuna*  $12.00    Tiger Cry  $16.00    Avofry  $10.00    Ham & Eggs  $10.00    Shag  $14.00    Chef's Tasting*  $0    Signature Tasting*  $0    Sweet Corn Sorbet  $9.00    Tobacco Cream  $9.00    Fried Milk  $9.00    Olive Gelato  $9.00    Seasonal Sorbet Selection  $3.00    Marchesi Di Gresy "La Serra" Moscato D'asti 2012 Piedmont  $11.00    Royal Tokaji Late Harvest 2010 Hungary  $11.00    Château D'armajan Des Ormes 2006 Sauternes  $10.00    Rare Wine Co & Barbeito Savannah Verdelho Nv Madeira  $12.00    Fonseca 20 Year Tawny Nv Douro  $13.00    Quinta Do Crasto Lbv Porto 2006 Douro  $11.00    Lustau "San Emilio" Pedro Ximenez Nv Jerez  $12.00    Paulaner Non-Alcoholic  $4.00    Kirin Light  $5.00    Kirin Ichiban  $5.00    Kirin Ichiban Bomber  $8.00    Asahi Dry  $5.00    Sapporo Premium  $5.00    Sapporo Reserve  $6.00    Lagunitas Ipa  $7.00    Asahi Black  $7.00    Brooklyn "Sorachi Ace"  $22.00    Rogue "Dead Guy Ale"  $7.00    Hitachino Rotating Selection  $9.00    Real Ale Devil's Backbone  $6.00    Left Hand Milk Stout Nitro  $8.00    Coke, Diet Coke  $2.00    Iced Tea  $2.00    Ramune  $3.00    Limonata  $3.00    Aranciata  $3.00    Acqua Panna, San Pellegrino  $5.00    Japanese Hot Green Tea  $4.00    French Press Coffee  $4.00    Large French Press Coffee  $12.00    Kiyoshi  $11.00    Kemuri  $9.00    Akirameru  $12.00    Takara Nigori (375Ml)  $4.00    Zero Sen Junmai (720Ml)  $9.00    Yuri Masamune Honjozo (720Ml)  $10.00    Otokoyama Tokubetsu Junmai (720Ml)  $12.00    Yoshi No Gawa "Winter Warrior" Junmai Ginjo (720Ml)  $12.00    Dewatsuru Kimoto Junmai (720Ml)  $14.00    Maboroshi Junmai Ginjo (720Ml)  $15.00    Yuki No Bosha Limited Release Junmai Ginjo (720Ml)  $14.00    Bishonen Junmai Ginjo (720Ml)  $10.00    Rihaku "Dreamy Clouds" Tokubetsu Junmai Nigori (720Ml)  $13.00    Ohyama Tokubetsu Nigori (500Ml)  $60.00    Ichinokura Tokubetsu Junmai Tarusake (500Ml)  $64.00    Wakatake Onikoroshi "Demon Slayer"junmai Daiginjo (720Ml)  $16.00    Chokaisan Junmai Daiginjo (720Ml)  $114.00    Masumi Nanago "Seventh Heaven" Yamahai Junmai Daiginjo (720Ml)  $130.00    Watari Bune Junmai Daiginjo (720Ml)  $205.00    Tentaka Kuni "Hawk in the Heavens" Junmai (300Ml)  $30.00    Konteki "Pearls of Simplicity" Junmai Daiginjo (300Ml)  $43.00    Ginga Shizuku "Divine Droplets" Junmai Daiginjo (300Ml)  $75.00    Tio Pepe Fino En Rama Nv Jerez De La Frontera  $7.00    Lechthaler Pinot Grigio 2012 Trentino  $10.00    Prunotto Arneis 2012 Piedmont  $15.00    Louis Michel Chardonnay 2012 Chablis  $68.00    Hedges Family "Cms White" Sauvignon Blanc 2013 Washington  $12.00    Chanson Viré-Clessé Chardonnay 2012 Macon  $13.00    Four Graces Pinot Gris 2013 Willamette  $12.00    Dog Point Sauvignon Blanc 2013 Marlborough  $52.00    Claude Riffault "Les Boucauds" Sauvignon Blanc 2013 Sancerre  $71.00    Château Bellevue Semillon Sauvignon Blanc 2013 Entre-Deux-Mers  $50.00    Boutari"elios" Mediterranean White 2013 Peloponnese Greece  $9.00    Livio Felluga Friulano 2011 Colli Orientalli Del Friuli  $62.00    Heinrich Mayr Nusserhof "B" Nv Bozen  $65.00    Deinhard Von Winning Riesling 2012 Pfalz  $16.00    Dr. Hermann "Dr. H" Riesling 2012 Mosel  $12.00    Joh. Jos. Christoffel Erben "Ürziger Würzgarten" Riesling Kabinett 2011 Mosel  $67.00    Wirsching "Iphöfer" Scheurebe Kabinett Trocken 2012 Franken  $55.00    Fillaboa Albariño 2012 Rias Baixas  $12.00    Glatzer Grüner Veltliner Kabinett 2013 Carnuntum  $11.00    Louis Guntrum Niersteiner Bergkirche Riesling Kabinett 2011 Rheinhessen  $12.00    Trimbach Pinot Blanc 2012 Alsace  $11.00    Nikolaihof "Hefeabzug" Gruner Veltliner 2012 Wachau  $72.00    J. M. Boillot Montagny 1 Er Cru Chardonnay 2012 Côte Chalonnaise  $76.00    Jean-Michel Gaunoux-Hudelot 1 Er Cru "Les Genèvrieres" Chardonnay 2010 Meursault  $245.00    Domaine Des Baumard "Clos Du Papillon" Chenin Blanc 2009 Savennières  $87.00    Mcpherson Viognier 2013 Texas  $10.00    Trefethen Chardonnay 2012 Oak Knoll District Napa  $16.00    Fel Chardonnay 2012 Alexander Valley  $72.00    Domaine Leflaive "Clavoillon" 1Er Cru 2011Puligny-Montrachet  $385.00    Chappellet Chardonnay 2012 Napa Valley  $72.00    Far Niente Chardonnay 2012 Napa Valley  $98.00    La Stoppa "Ageno" 2008 Emilia  $90.00    Chateau Lamargue "Les Grandes Cabanes" Syrah Grenache 2013 Rhone  $11.00    Robert Sinskey "Vin Gris of Pinot Noir" 2013 Los Carneros  $70.00    Olivares Rosado Monastrell Garnacha 2013Jumilla  $10.00    Cos Frappato 2013 Sicily  $70.00    Planeta Cerasuolo Di Vittoria Nero D'avola Frappato 2012 Sicily  $14.00    Hubert Lamy "La Goujonne" Pinot Noir 2009 Chassagne-Montrachet  $107.00    Mongeard-Mugneret 1 Er Cru "Les Narbantons" Pinot Noir 2011 Savigny-Les-Beaune  $126.00    Felton Road "Calvert" Pinot Noir 2010 Central Otago  $142.00    Domaine Philippe Girard Bourgogne Rouge 2012 Savigny-Les-Beaune  $14.00    Patricia Green Pinot Noir 2011 Ribbon Ridge Willamette Valley  $89.00    Au Bon Climat Pinot Noir 2012 Santa Barbara  $15.00    Siduri Pinot Noir 2012 Sonoma County  $50.00    Patz and Hall Pinot Noir 2012 Sonoma Coast  $95.00    Sea Smoke "Southing" Pinot Noir 2012 Sta Rita Hills  $146.00    Telmo Rodriguez Dehesa Gago Tempranillo 2012 Toro  $12.00    Coto De Imaz Reserva Tempranillo 2008 Rioja  $68.00    Produttori Del Barbaresco Nebbiolo 2010 Barbaresco Piedmont  $76.00    Tommasi Ripasso Corvina Rondinella 2011 Valpolicella Classico Superiore  $62.00    Marcarini "Ciabot Camerano" Barbera D'alba 2011 Piedmont  $13.00    Alain Graillot Syrah 2011 Crozes-Hermitage  $75.00    Domaine "La Garrigue" Cuvee Romaine Grenache Syrah Mourvedre 2011 Vacqueyras  $13.00    Atalaya "Laya" Garnacha Tintorera Monastrell 2013 Almansa Spain  $9.00    Tintonegro Malbec 2012Uco Valley Mendoza  $12.00    Billhook Cabernet Sauvignon 2011 Napa Valley  $19.00    Ladera Cabernet Sauvignon 2011 Napa Valley  $90.00    Finca Decero Remolinos Vineyard Cabernet Sauvignon 2012 Mendoza  $11.00    Casanova Di Neri"cerretalto" Sangiovese2006 Brunello Di Montalcino  $435.00    Ochota "the Green Room" Grenache Syrah 2012 Mclaren Vale  $100.00    Errazuriz "Don Maximiano" Cabernet Blend 2010 Aconcagua Valley  $185.00    Chateau Montelena Cabernet Sauvignon 2011 Napa Valley  $114.00    Staglin Cabernet Sauvignon 2010 Rutherford Napa Valley  $394.00    Shafer "Hillside Select" Cabernet Sauvignon 2009 Stags Leap District  $470.00    Poema Cava Brut Nv Penedès  $9.00    Villa Sandi Prosecco Extra Dry Nv Veneto  $10.00    Bouvet Brut Rosé Nv Loire Valley  $11.00    Schramsberg Blanc De Blancs Brut 2011 North Coast  $15.00    Scarpetta "Timido" Brut Rosé 3Rd Edition Friuli  $14.00    H. Billiot Fils Brut Rosé Nv Ambonnay Champagne  $115.00    Delamotte Brut Nv Les Mesnil-Sur-Oger Champagne  $16.00    Ruinart Blanc De Blancs Brut Nv Champagne  $120.00    Krug Grande Cuvée Brut Mv Reims Champagne  $385.00    
+koviche*	$6.00	Drink		Sake Social Menu	Tastings
+yokai berry*	$6.00	Drink		Sake Social Menu	Tastings
+machi ringo*	$6.00	Drink		Sake Social Menu	Tastings
+gyutan nigiri (2 pc.)	$3.00	Drink		Sake Social Menu	Tastings
+avocado nigiri (2 pc.)	$3.00	Drink		Sake Social Menu	Tastings
+pork ribs	$6.00	Drink		Sake Social Menu	Tastings
+bacon	$6.00	Drink		Sake Social Menu	Tastings
+brussels sprouts	$3.00	Drink		Sake Social Menu	Tastings
+komaki roll	$6.00	Drink		Sake Social Menu	Makimono
+crunchy spicy tuna hand roll*	$6.00	Drink		Sake Social Menu	Makimono
+p-38 hand roll*	$6.00	Drink		Sake Social Menu	Makimono
+okashi	$3.00	Drink		Sake Social Menu	Makimono
+takara nigori	$3.00	Drink		Sake Social Menu	Drinks
+gekkeikan	$3.00	Drink		Sake Social Menu	Drinks
+asahi dry (12 oz. )	$3.00	Drink		Sake Social Menu	Drinks
+boutari "elios"	$7.00	Drink		Sake Social Menu	Drinks
+atalaya garnacha	$7.00	Drink		Sake Social Menu	Drinks
+edamame	$5.00	Entree		Main Menu	Greens
+shishito yaki	$6.00	Entree		Main Menu	Greens
+uchi salad	$8.00	Entree		Main Menu	Greens
+roasted golden beets	$8.00	Entree		Main Menu	Greens
+branzino*	$18.00	Entree		Main Menu	Cool Tastings
+koviche*	$19.00	Entree		Main Menu	Cool Tastings
+yokai berry*	$17.00	Entree		Main Menu	Cool Tastings
+maguro sashimi and goat cheese*	$18.50	Entree		Main Menu	Cool Tastings
+hama chili*	$18.50	Entree		Main Menu	Cool Tastings
+hot rock*	$17.00	Entree		Main Menu	Hot Tastings
+sakana mushi	$18.00	Entree		Main Menu	Hot Tastings
+dewbee chicken	$15.00	Entree		Main Menu	Hot Tastings
+jar jar duck	$28.00	Entree		Main Menu	Hot Tastings
+kinoko nabe	$15.00	Entree		Main Menu	Hot Tastings
+ao saba	$18.00	Entree		Main Menu	Yakimono
+suzuki yaki	$20.00	Entree		Main Menu	Yakimono
+pork jowl	$22.00	Entree		Main Menu	Yakimono
+ninjin bacon	$18.00	Entree		Main Menu	Yakimono
+tempura nasu	$4.00	Entree		Main Menu	Agemono
+tempura onion rings	$4.00	Entree		Main Menu	Agemono
+brussels sprouts	$6.00	Entree		Main Menu	Agemono
+karaage	$10.00	Entree		Main Menu	Agemono
+shime saba*	$5.00	Entree		Main Menu	Sushi and Sashimi
+gyutan	$3.00	Entree		Main Menu	Sushi and Sashimi
+gyutan toro	$3.50	Entree		Main Menu	Sushi and Sashimi
+hotate*	$4.50	Entree		Main Menu	Sushi and Sashimi
+nasu	$2.50	Entree		Main Menu	Sushi and Sashimi
+avocado	$2.50	Entree		Main Menu	Sushi and Sashimi
+boquerones	$4.00	Entree		Main Menu	Sushi and Sashimi
+loup de mer*	$3.50	Entree		Main Menu	Sushi and Sashimi
+madai*	$4.50	Entree		Main Menu	Sushi and Sashimi
+hamachi*	$5.00	Entree		Main Menu	Sushi and Sashimi
+sake*	$3.50	Entree		Main Menu	Sushi and Sashimi
+sake toro*	$4.50	Entree		Main Menu	Sushi and Sashimi
+big eye tuna*	$4.50	Entree		Main Menu	Sushi and Sashimi
+unagi	$3.00	Entree		Main Menu	Sushi and Sashimi
+p-38*	$12.50	Entree		Main Menu	Makimono
+komaki	$9.00	Entree		Main Menu	Makimono
+crunchy tuna*	$12.00	Entree		Main Menu	Makimono
+tiger cry	$16.00	Entree		Main Menu	Makimono
+avofry	$10.00	Entree		Main Menu	Makimono
+ham & eggs	$10.00	Entree		Main Menu	Makimono
+shag	$14.00	Entree		Main Menu	Makimono
+chef's tasting*	$0	Entree		Main Menu	Omakase
+signature tasting*	$0	Entree		Main Menu	Omakase
+sweet corn sorbet	$9.00	Dessert		Main Menu	Desserts
+tobacco cream	$9.00	Dessert		Main Menu	Desserts
+fried milk	$9.00	Dessert		Main Menu	Desserts
+olive gelato	$9.00	Dessert		Main Menu	Desserts
+seasonal sorbet selection	$3.00	Dessert		Main Menu	Desserts
+marchesi di gresy "la serra" moscato d'asti 2012 piedmont	$11.00	Dessert		Drink Menu	Dessert Wine
+royal tokaji late harvest 2010 hungary	$11.00	Dessert		Drink Menu	Dessert Wine
+château d'armajan des ormes 2006 sauternes	$10.00	Dessert		Drink Menu	Dessert Wine
+rare wine co & barbeito savannah verdelho nv madeira	$12.00	Dessert		Drink Menu	Dessert Wine
+fonseca 20 year tawny nv douro	$13.00	Dessert		Drink Menu	Dessert Wine
+quinta do crasto lbv porto 2006 douro	$11.00	Dessert		Drink Menu	Dessert Wine
+lustau "san emilio" pedro ximenez nv jerez	$12.00	Dessert		Drink Menu	Dessert Wine
+paulaner non-alcoholic	$4.00	Drink		Drink Menu	Beer
+kirin light	$5.00	Drink		Drink Menu	Beer
+kirin ichiban	$5.00	Drink		Drink Menu	Beer
+kirin ichiban bomber	$8.00	Drink		Drink Menu	Beer
+asahi dry	$5.00	Drink		Drink Menu	Beer
+sapporo premium	$5.00	Drink		Drink Menu	Beer
+sapporo reserve	$6.00	Drink		Drink Menu	Beer
+lagunitas ipa	$7.00	Drink		Drink Menu	Beer
+asahi black	$7.00	Drink		Drink Menu	Beer
+brooklyn "sorachi ace"	$22.00	Drink		Drink Menu	Beer
+rogue "dead guy ale"	$7.00	Drink		Drink Menu	Beer
+hitachino rotating selection	$9.00	Drink		Drink Menu	Beer
+real ale devil's backbone	$6.00	Drink		Drink Menu	Beer
+left hand milk stout nitro	$8.00	Drink		Drink Menu	Beer
+coke, diet coke	$2.00	Drink		Drink Menu	Beverages
+iced tea	$2.00	Drink		Drink Menu	Beverages
+ramune	$3.00	Drink		Drink Menu	Beverages
+limonata	$3.00	Drink		Drink Menu	Beverages
+aranciata	$3.00	Drink		Drink Menu	Beverages
+acqua panna, san pellegrino	$5.00	Drink		Drink Menu	Beverages
+japanese hot green tea	$4.00	Drink		Drink Menu	Beverages
+french press coffee	$4.00	Drink		Drink Menu	Beverages
+large french press coffee	$12.00	Drink		Drink Menu	Beverages
+kiyoshi	$11.00	Drink		Drink Menu	Cocktails
+kemuri	$9.00	Drink		Drink Menu	Cocktails
+akirameru	$12.00	Drink		Drink Menu	Cocktails
+takara nigori (375ml)	$4.00	Drink		Drink Menu	Sake
+zero sen junmai (720ml)	$9.00	Drink		Drink Menu	Sake
+yuri masamune honjozo (720ml)	$10.00	Drink		Drink Menu	Sake
+otokoyama tokubetsu junmai (720ml)	$12.00	Drink		Drink Menu	Sake
+yoshi no gawa "winter warrior" junmai ginjo (720ml)	$12.00	Drink		Drink Menu	Sake
+dewatsuru kimoto junmai (720ml)	$14.00	Drink		Drink Menu	Sake
+maboroshi junmai ginjo (720ml)	$15.00	Drink		Drink Menu	Sake
+yuki no bosha limited release junmai ginjo (720ml)	$14.00	Drink		Drink Menu	Sake
+bishonen junmai ginjo (720ml)	$10.00	Drink		Drink Menu	Sake
+rihaku "dreamy clouds" tokubetsu junmai nigori (720ml)	$13.00	Drink		Drink Menu	Sake
+ohyama tokubetsu nigori (500ml)	$60.00	Drink		Drink Menu	Sake
+ichinokura tokubetsu junmai tarusake (500ml)	$64.00	Drink		Drink Menu	Sake
+wakatake onikoroshi "demon slayer"junmai daiginjo (720ml)	$16.00	Drink		Drink Menu	Sake
+chokaisan junmai daiginjo (720ml)	$114.00	Drink		Drink Menu	Sake
+masumi nanago "seventh heaven" yamahai junmai daiginjo (720ml)	$130.00	Drink		Drink Menu	Sake
+watari bune junmai daiginjo (720ml)	$205.00	Drink		Drink Menu	Sake
+tentaka kuni "hawk in the heavens" junmai (300ml)	$30.00	Drink		Drink Menu	Jizake
+konteki "pearls of simplicity" junmai daiginjo (300ml)	$43.00	Drink		Drink Menu	Jizake
+ginga shizuku "divine droplets" junmai daiginjo (300ml)	$75.00	Drink		Drink Menu	Jizake
+tio pepe fino en rama nv jerez de la frontera	$7.00	Drink		Drink Menu	White
+lechthaler pinot grigio 2012 trentino	$10.00	Drink		Drink Menu	White
+prunotto arneis 2012 piedmont	$15.00	Drink		Drink Menu	White
+louis michel chardonnay 2012 chablis	$68.00	Drink		Drink Menu	White
+hedges family "cms white" sauvignon blanc 2013 washington	$12.00	Drink		Drink Menu	White
+chanson viré-clessé chardonnay 2012 macon	$13.00	Drink		Drink Menu	White
+four graces pinot gris 2013 willamette	$12.00	Drink		Drink Menu	White
+dog point sauvignon blanc 2013 marlborough	$52.00	Drink		Drink Menu	White
+claude riffault "les boucauds" sauvignon blanc 2013 sancerre	$71.00	Drink		Drink Menu	White
+château bellevue semillon sauvignon blanc 2013 entre-deux-mers	$50.00	Drink		Drink Menu	White
+boutari"elios" mediterranean white 2013 peloponnese greece	$9.00	Drink		Drink Menu	White
+livio felluga friulano 2011 colli orientalli del friuli	$62.00	Drink		Drink Menu	White
+heinrich mayr nusserhof "b" nv bozen	$65.00	Drink		Drink Menu	White
+deinhard von winning riesling 2012 pfalz	$16.00	Drink		Drink Menu	White
+dr. hermann "dr. h" riesling 2012 mosel	$12.00	Drink		Drink Menu	White
+joh. jos. christoffel erben "ürziger würzgarten" riesling kabinett 2011 mosel	$67.00	Drink		Drink Menu	White
+wirsching "iphöfer" scheurebe kabinett trocken 2012 franken	$55.00	Drink		Drink Menu	White
+fillaboa albariño 2012 rias baixas	$12.00	Drink		Drink Menu	White
+glatzer grüner veltliner kabinett 2013 carnuntum	$11.00	Drink		Drink Menu	White
+louis guntrum niersteiner bergkirche riesling kabinett 2011 rheinhessen	$12.00	Drink		Drink Menu	White
+trimbach pinot blanc 2012 alsace	$11.00	Drink		Drink Menu	White
+nikolaihof "hefeabzug" gruner veltliner 2012 wachau	$72.00	Drink		Drink Menu	White
+j. m. boillot montagny 1 er cru chardonnay 2012 côte chalonnaise	$76.00	Drink		Drink Menu	White
+jean-michel gaunoux-hudelot 1 er cru "les genèvrieres" chardonnay 2010 meursault	$245.00	Drink		Drink Menu	White
+domaine des baumard "clos du papillon" chenin blanc 2009 savennières	$87.00	Drink		Drink Menu	White
+mcpherson viognier 2013 texas	$10.00	Drink		Drink Menu	White
+trefethen chardonnay 2012 oak knoll district napa	$16.00	Drink		Drink Menu	White
+fel chardonnay 2012 alexander valley	$72.00	Drink		Drink Menu	White
+domaine leflaive "clavoillon" 1er cru 2011puligny-montrachet	$385.00	Drink		Drink Menu	White
+chappellet chardonnay 2012 napa valley	$72.00	Drink		Drink Menu	White
+far niente chardonnay 2012 napa valley	$98.00	Drink		Drink Menu	White
+la stoppa "ageno" 2008 emilia	$90.00	Drink		Drink Menu	White
+chateau lamargue "les grandes cabanes" syrah grenache 2013 rhone	$11.00	Drink		Drink Menu	Rosé
+robert sinskey "vin gris of pinot noir" 2013 los carneros	$70.00	Drink		Drink Menu	Rosé
+olivares rosado monastrell garnacha 2013jumilla	$10.00	Drink		Drink Menu	Rosé
+cos frappato 2013 sicily	$70.00	Drink		Drink Menu	Red
+planeta cerasuolo di vittoria nero d'avola frappato 2012 sicily	$14.00	Drink		Drink Menu	Red
+hubert lamy "la goujonne" pinot noir 2009 chassagne-montrachet	$107.00	Drink		Drink Menu	Red
+mongeard-mugneret 1 er cru "les narbantons" pinot noir 2011 savigny-les-beaune	$126.00	Drink		Drink Menu	Red
+felton road "calvert" pinot noir 2010 central otago	$142.00	Drink		Drink Menu	Red
+domaine philippe girard bourgogne rouge 2012 savigny-les-beaune	$14.00	Drink		Drink Menu	Red
+patricia green pinot noir 2011 ribbon ridge willamette valley	$89.00	Drink		Drink Menu	Red
+au bon climat pinot noir 2012 santa barbara	$15.00	Drink		Drink Menu	Red
+siduri pinot noir 2012 sonoma county	$50.00	Drink		Drink Menu	Red
+patz and hall pinot noir 2012 sonoma coast	$95.00	Drink		Drink Menu	Red
+sea smoke "southing" pinot noir 2012 sta rita hills	$146.00	Drink		Drink Menu	Red
+telmo rodriguez dehesa gago tempranillo 2012 toro	$12.00	Drink		Drink Menu	Red
+coto de imaz reserva tempranillo 2008 rioja	$68.00	Drink		Drink Menu	Red
+produttori del barbaresco nebbiolo 2010 barbaresco piedmont	$76.00	Drink		Drink Menu	Red
+tommasi ripasso corvina rondinella 2011 valpolicella classico superiore	$62.00	Drink		Drink Menu	Red
+marcarini "ciabot camerano" barbera d'alba 2011 piedmont	$13.00	Drink		Drink Menu	Red
+alain graillot syrah 2011 crozes-hermitage	$75.00	Drink		Drink Menu	Red
+domaine "la garrigue" cuvee romaine grenache syrah mourvedre 2011 vacqueyras	$13.00	Drink		Drink Menu	Red
+atalaya "laya" garnacha tintorera monastrell 2013 almansa spain	$9.00	Drink		Drink Menu	Red
+tintonegro malbec 2012uco valley mendoza	$12.00	Drink		Drink Menu	Red
+billhook cabernet sauvignon 2011 napa valley	$19.00	Drink		Drink Menu	Red
+ladera cabernet sauvignon 2011 napa valley	$90.00	Drink		Drink Menu	Red
+finca decero remolinos vineyard cabernet sauvignon 2012 mendoza	$11.00	Drink		Drink Menu	Red
+casanova di neri"cerretalto" sangiovese2006 brunello di montalcino	$435.00	Drink		Drink Menu	Red
+ochota "the green room" grenache syrah 2012 mclaren vale	$100.00	Drink		Drink Menu	Red
+errazuriz "don maximiano" cabernet blend 2010 aconcagua valley	$185.00	Drink		Drink Menu	Red
+chateau montelena cabernet sauvignon 2011 napa valley	$114.00	Drink		Drink Menu	Red
+staglin cabernet sauvignon 2010 rutherford napa valley	$394.00	Drink		Drink Menu	Red
+shafer "hillside select" cabernet sauvignon 2009 stags leap district	$470.00	Drink		Drink Menu	Red
+poema cava brut nv penedès	$9.00	Drink		Drink Menu	Sparkling
+villa sandi prosecco extra dry nv veneto	$10.00	Drink		Drink Menu	Sparkling
+bouvet brut rosé nv loire valley	$11.00	Drink		Drink Menu	Sparkling
+schramsberg blanc de blancs brut 2011 north coast	$15.00	Drink		Drink Menu	Sparkling
+scarpetta "timido" brut rosé 3rd edition friuli	$14.00	Drink		Drink Menu	Sparkling
+h. billiot fils brut rosé nv ambonnay champagne	$115.00	Drink		Drink Menu	Sparkling
+delamotte brut nv les mesnil-sur-oger champagne	$16.00	Drink		Drink Menu	Sparkling
+ruinart blanc de blancs brut nv champagne	$120.00	Drink		Drink Menu	Sparkling
+krug grande cuvée brut mv reims champagne	$385.00	Drink		Drink Menu	Sparkling
 
-id = 450142e8f964a520bf381fe3
 name = Rudy's Country Store & Bar-B-Q
-location = lat = 30.41414279294669, lng = -97.74679362773895
-Address = [11570 Research Blvd (Duval Rd), Austin, TX 78759]
-tag = BBQ Joint
-rating = 9.4
-Brisket (1 Lb.)  $0    Turkey (1 Lb.)  $0    Chopped Beef (1 Lb.)  $0    Pork Ribs (1 Lb.)  $0    Baby Back Ribs (1 Lb.)  $0    Half Chicken  $0    Sausage (Whole Link)  $0    Sausage (Half Link)  $0    Potato Salad  $0    Rudy's Beans  $0    Cream Corn  $0    Cole Slaw  $0    Peach Cobbler  $0    
+brisket (1 lb.)	$0	Entree		Main Menu	Meat
+turkey (1 lb.)	$0	Entree		Main Menu	Meat
+chopped beef (1 lb.)	$0	Entree		Main Menu	Meat
+pork ribs (1 lb.)	$0	Entree		Main Menu	Meat
+baby back ribs (1 lb.)	$0	Entree		Main Menu	Meat
+half chicken	$0	Entree		Main Menu	Meat
+sausage (whole link)	$0	Entree		Main Menu	Meat
+sausage (half link)	$0	Entree		Main Menu	Meat
+potato salad	$0	Entree		Main Menu	Sides
+rudy's beans	$0	Entree		Main Menu	Sides
+cream corn	$0	Entree		Main Menu	Sides
+cole slaw	$0	Entree		Main Menu	Sides
+peach cobbler	$0	Entree		Main Menu	Sides
 
-id = 4ac3ac02f964a5204f9c20e3
 name = Rudy's Country Store & Bar-B-Q
-location = lat = 30.26358944099115, lng = -97.81556010246277
-Address = [2451 S Capital of Texas Hwy (at Stoneridge Rd), Austin, TX 78746]
-tag = BBQ Joint
-rating = 9.4
-Brisket (1 Lb.)  $0    Turkey (1 Lb.)  $0    Chopped Beef (1 Lb.)  $0    Pork Ribs (1 Lb.)  $0    Baby Back Ribs (1 Lb.)  $0    Half Chicken  $0    Sausage (Whole Link)  $0    Sausage (Half Link)  $0    Potato Salad  $0    Rudy's Beans  $0    Cream Corn  $0    Cole Slaw  $0    Peach Cobbler  $0    
+brisket (1 lb.)	$0	Entree		Main Menu	Meat
+turkey (1 lb.)	$0	Entree		Main Menu	Meat
+chopped beef (1 lb.)	$0	Entree		Main Menu	Meat
+pork ribs (1 lb.)	$0	Entree		Main Menu	Meat
+baby back ribs (1 lb.)	$0	Entree		Main Menu	Meat
+half chicken	$0	Entree		Main Menu	Meat
+sausage (whole link)	$0	Entree		Main Menu	Meat
+sausage (half link)	$0	Entree		Main Menu	Meat
+potato salad	$0	Entree		Main Menu	Sides
+rudy's beans	$0	Entree		Main Menu	Sides
+cream corn	$0	Entree		Main Menu	Sides
+cole slaw	$0	Entree		Main Menu	Sides
+peach cobbler	$0	Entree		Main Menu	Sides
 
-id = 4a402fe5f964a52064a41fe3
 name = Walton's Fancy and Staple
-location = lat = 30.269649654388424, lng = -97.74898767471313
-Address = [609 W 6th St (Nueces St.), Austin, TX 78701]
-tag = Deli / Bodega
-rating = 9.4
-Bibb Salad  $7.00    Spinach, Arugula Salad  $7.50    The Local  $7.00    Seasonal Salad  $0    Soup Du Jour  $2.50    French Onion Soup  $2.50    The Picnic Trio  $8.75    Fruit Salad  $0    Seasonal Salads  $0    Tuna Salad  $0    Tarragon Egg Salad  $0    Veggie Pasta Salad  $0    Spicy Potato Salad  $0    Organic Chicken Salad  $0    Green Chile Chicken Salad  $0    Ham On Pretzel  $8.00    Caprese  $8.25    Turkey Sweet  $8.00    Bft  $8.00    The Gobble  $8.50    Garden  $8.00    Picnic Salad Sandwich  $8.50    Roast Beef Bleu  $9.00    Pastrami  $8.25    Freebird Chicken  $9.00    Reuben  $8.25    Staple Combo  $2.75    The Fancy Lunch  $9.25    Multigrain  $0    Caraway Rye  $0    Pan Au Levain  $0    Baguette  $0    Country French White  $0    Challah  $0    Pretzel Roll  $0    Scones  $0    Croissant  $0    Danish  $0    Muffins  $0    Cinnamon Buns  $0    Coffee Cake  $0    Kolache (Sausage)  $0    Parisian Macarons  $0    Lonestar Whoopie Pies  $0    Coconut Sarahs  $0    Texas Cream Puffs  $0    Chocolate Mousse Tower  $0    Lemon Tart  $0    Fresh Berry Tarts  $0    Tarts  $0    Flourless Chocolate Hearts  $0    Golden Egg  $0    Breakfast Breads  $0    Citrus Pound Cake  $0    Cheesecakes  $0    Honey Bee Cake  $0    Mini Germans Chocolate Cake  $0    Cupcakes  $0    Specialty Cakes  $0    Chocolate Chunk Cookie  $0    Peanut Butter Cookie  $0    Ginger Cookie  $0    Salty Oats Cookie  $0    Iced Lemon Sugar Cookie  $0    Almond Glazed Shortbread Cookie  $0    Seasonal Cookie  $0    Walton’s Brownie  $0    Oat Bar  $0    Lemon Bar  $0    
+bibb salad	$7.00	Starter		Main Menu	Salads & Soups
+spinach, arugula salad	$7.50	Starter		Main Menu	Salads & Soups
+the local	$7.00	Starter		Main Menu	Salads & Soups
+seasonal salad	$0	Starter		Main Menu	Salads & Soups
+soup du jour	$2.50	Starter		Main Menu	Salads & Soups
+french onion soup	$2.50	Starter		Main Menu	Salads & Soups
+the picnic trio	$8.75	Starter		Main Menu	Salads & Soups
+fruit salad	$0	Starter		Main Menu	Composed Salads
+seasonal salads	$0	Starter		Main Menu	Composed Salads
+tuna salad	$0	Starter		Main Menu	Composed Salads
+tarragon egg salad	$0	Starter		Main Menu	Composed Salads
+veggie pasta salad	$0	Starter		Main Menu	Composed Salads
+spicy potato salad	$0	Starter		Main Menu	Composed Salads
+organic chicken salad	$0	Starter		Main Menu	Composed Salads
+green chile chicken salad	$0	Starter		Main Menu	Composed Salads
+ham on pretzel	$8.00	Entree		Main Menu	Sandwiches - Cold Sandwiches
+caprese	$8.25	Entree		Main Menu	Sandwiches - Cold Sandwiches
+turkey sweet	$8.00	Entree		Main Menu	Sandwiches - Cold Sandwiches
+bft	$8.00	Entree		Main Menu	Sandwiches - Cold Sandwiches
+the gobble	$8.50	Entree		Main Menu	Sandwiches - Cold Sandwiches
+garden	$8.00	Entree		Main Menu	Sandwiches - Cold Sandwiches
+picnic salad sandwich	$8.50	Entree		Main Menu	Sandwiches - Cold Sandwiches
+roast beef bleu	$9.00	Entree		Main Menu	Sandwiches - Toasted & Pressed Sandwiches
+pastrami	$8.25	Entree		Main Menu	Sandwiches - Toasted & Pressed Sandwiches
+freebird chicken	$9.00	Entree		Main Menu	Sandwiches - Toasted & Pressed Sandwiches
+reuben	$8.25	Entree		Main Menu	Sandwiches - Toasted & Pressed Sandwiches
+staple combo	$2.75	Entree		Main Menu	Sandwiches - Toasted & Pressed Sandwiches
+the fancy lunch	$9.25	Entree		Main Menu	Sandwiches - Toasted & Pressed Sandwiches
+multigrain	$0	Entree		Main Menu	Daily Breads
+caraway rye	$0	Entree		Main Menu	Daily Breads
+pan au levain	$0	Entree		Main Menu	Daily Breads
+baguette	$0	Entree		Main Menu	Daily Breads
+country french white	$0	Entree		Main Menu	Daily Breads
+challah	$0	Entree		Main Menu	Daily Breads
+pretzel roll	$0	Entree		Main Menu	Daily Breads
+scones	$0	Entree		Main Menu	Pastries
+croissant	$0	Entree		Main Menu	Pastries
+danish	$0	Entree		Main Menu	Pastries
+muffins	$0	Entree		Main Menu	Pastries
+cinnamon buns	$0	Entree		Main Menu	Pastries
+coffee cake	$0	Entree		Main Menu	Pastries
+kolache (sausage)	$0	Entree		Main Menu	Pastries
+parisian macarons	$0	Dessert		Main Menu	Sweet Fetishes
+lonestar whoopie pies	$0	Dessert		Main Menu	Sweet Fetishes
+coconut sarahs	$0	Dessert		Main Menu	Sweet Fetishes
+texas cream puffs	$0	Dessert		Main Menu	Sweet Fetishes
+chocolate mousse tower	$0	Dessert		Main Menu	Sweet Fetishes
+lemon tart	$0	Dessert		Main Menu	Sweet Fetishes
+fresh berry tarts	$0	Dessert		Main Menu	Sweet Fetishes
+tarts	$0	Dessert		Main Menu	Sweet Fetishes
+flourless chocolate hearts	$0	Dessert		Main Menu	Sweet Fetishes
+golden egg	$0	Dessert		Main Menu	Sweet Fetishes
+breakfast breads	$0	Dessert		Main Menu	Sweet Fetishes
+citrus pound cake	$0	Dessert		Main Menu	Sweet Fetishes
+cheesecakes	$0	Dessert		Main Menu	Sweet Fetishes
+honey bee cake	$0	Dessert		Main Menu	Sweet Fetishes
+mini germans chocolate cake	$0	Dessert		Main Menu	Sweet Fetishes
+cupcakes	$0	Dessert		Main Menu	Sweet Fetishes
+specialty cakes	$0	Dessert		Main Menu	Sweet Fetishes
+chocolate chunk cookie	$0	Entree		Main Menu	The Cookie Jar
+peanut butter cookie	$0	Entree		Main Menu	The Cookie Jar
+ginger cookie	$0	Entree		Main Menu	The Cookie Jar
+salty oats cookie	$0	Entree		Main Menu	The Cookie Jar
+iced lemon sugar cookie	$0	Entree		Main Menu	The Cookie Jar
+almond glazed shortbread cookie	$0	Entree		Main Menu	The Cookie Jar
+seasonal cookie	$0	Entree		Main Menu	The Cookie Jar
+walton’s brownie	$0	Entree		Main Menu	The Cookie Jar
+oat bar	$0	Entree		Main Menu	The Cookie Jar
+lemon bar	$0	Entree		Main Menu	The Cookie Jar
 
-id = 4aef46a0f964a52025d721e3
 name = Uchi
-location = lat = 30.25756523398937, lng = -97.75984401497084
-Address = [801 S Lamar Blvd, Austin, TX 78704]
-tag = Japanese Restaurant
-rating = 9.4
-Hirame Usuzukuri*  $18.00    Machi Cure*  $18.00    Hama Chili*  $18.50    Akami Te*  $18.50    Uchiviche*  $12.50    Umi Masu*  $16.00    Saba*  $14.50    Walu Walu  $16.50    Hot Rock  $17.00    Hamachi Nabe  $17.50    Kinoko Nabe  $18.50    Bacon Steakie  $18.00    Sasami Yaki  $13.00    Gyutoro Yaki  $22.00    Sakana Mushi  $19.00    Ocha Zuke  $13.50    Edamame  $4.50    Shishito  $6.50    Broccolini  $9.00    Uchi Salad  $8.00    Ebi  $6.00    Kabocha  $2.50    Onion  $5.00    Karaage  $10.50    Brussels Sprouts  $7.50    Tomato Katsu  $6.00    Hana  $5.00    Akami*  $5.00    Sake*  $3.50    Sake Toro*  $4.50    Hamachi*  $5.00    Hirame*  $4.00    Madai*  $4.50    Boquerones  $4.00    Shime Saba*  $5.00    Taraba  $8.00    Avocado  $2.50    Namahotate*  $5.50    Nasu  $3.00    Unagi  $3.50    Gyutoro  $10.00    Foie Gras  $9.50    Chef's Selection Nigiri*  $0    Chef's Selection Sashimi*  $0    Biendo  $13.00    Zero Sen*  $12.50    Shag  $12.50    Avokatsu  $9.50    Ham and Eggs  $9.50    Spicy Crunchy Tuna*  $12.00    Gyumaki  $12.50    Chef's Tasting  $0    Signature Tasting  $0    Vegetarian Tasting  $0    Jizake Creme Caramel  $9.00    Chocolate Cherry  $9.00    Peanut Butter Semifreddo  $9.00    Lemon Gelato  $9.00    Seasonal Sorbets  $9.00    Marchesi Di Gresy, "La Serra" Moscato D'asti 2012 Piedmont  $11.00    Royal Tokaji, "Late Harvest" 2010 Hungary  $11.00    Château D'armajan Des Ormes, 2006 Sauternes  $10.00    Rare Wine Co & Barbeito, Savannah Verdelho Nv Madeira  $12.00    Fonseca, 20-Yeartawny Porto Nv Douro  $13.00    Lustau, "San Emilio" Pedro Ximenez Nv Jerez  $12.00    Paulaner Non-Alcoholic (12 Oz)  $4.00    Kirin Light (12Oz)  $5.00    Kirin Ichiban (12Oz)  $5.00    Kirin Ichiban Bomber (22Oz)  $8.00    Asahi Super Dry (12Oz)  $5.00    Sapporo Premium (12Oz  $5.00    Sapporo Reserve (12Oz)  $5.00    Staropramen (11. 2Oz)  $6.00    Lagunitas Ipa (12Oz)  $7.00    Rogue Dead Guy Ale (12Oz)  $7.00    Asahi Kuronama (11. 3Oz)  $7.00    Brooklyn Sorachi Ace (750Ml)  $22.00    Duchesse De Bourgogne (750Ml)  $30.00    Hitachino Rotating Selection (11. 2Oz)  $9.00    Left Hand Milk Stout Nitro (12Oz)  $8.00    Real Ale Devil's Backbone (12Oz)  $6.00    Coke, Diet Coke  $2.00    Iced Tea  $2.00    Ramune  $3.00    Aranciata  $3.00    Limonata  $3.00    Japanese Hot Green Tea  $4.00    French Press Coffee  $4.00    Large French Press Coffee  $12.00    Takara Nigori  $15.00    Zero Sen, Junmai  $9.00    Eiko Fuji, "Ban Ryu" Honjozo  $10.00    Seikyo, "Takehara" Junmai  $12.00    Otokoyama, Tokubetsu Junma  $12.00    Dewatsuru, Kimoto Junma  $14.00    Yuki No Bosha, "Limited Release" Junmai Ginjo  $14.00    Kanbara, "Bride of the Fox" Junmai Ginjo  $15.00    Bishonen, Junmai Ginjo  $10.00    Hanahato, "Densho"junmai Ginjo  $60.00    Ichinokura, Tokubetsu Junmai Tarusake  $64.00    Rihaku, "Dreamy Clouds" Tokubetsu Junmai Nigori  $74.00    Masumi, "Karakuchi Ki-Ippon" Junmai Ginjo  $88.00    Wakatake Onikoroshi, "Demon Slayer" Junmai Daiginjo  $16.00    Chokaisan, Junmai Daiginjo  $114.00    Watari Bune, Junmai Daiginjo  $205.00    Tentaka Kuni, "Hawk in the Heavens" Junmai  $30.00    Konteki, "Pearls of Simplicity" Junmai Daiginjo  $43.00    Fukucho, "Moon On the Water" Junmai Ginjo  $55.00    Ginga Shizuku, "Divine Droplets" Junmai Daiginjo  $75.00    Lechthaler, Pinot Grigio 2012 Trentino  $10.00    Prunotto, Arneis 2012 Piedmont  $15.00    Louis Michel, Chardonnay 2012 Chablis  $68.00    Hedges Family, "Cms White" Sauvignon Blanc 2013 Washington  $12.00    Château Bellevue, Semillonsauvignon Blanc 2013 Entre-Deux-Mers  $50.00    Chanson, Viré-Clessé Chardonnay 2012 Mâcon  $13.00    Four Graces, Pinot Gris 2013 Willamette Valley  $12.00    Dog Point, Sauvignon Blanc 2013 Marlborough  $52.00    Domaine Claude Riffault, "Les Boucauds" Sauvignon Blanc 2013 Sancerre  $71.00    Paul Blanck, "Classique" Riesling 2012 Alsace  $60.00    Boutari, "Elios" Mediterranean White 2010 Peloponnese  $9.00    Livio Felluga, Friulano 2011 Colli Orientalli Del Friuli  $62.00    Von Winning, Riesling 2012 Pfalz  $16.00    Dr. Hermann, "Dr. H" Riesling 2012 Mosel  $12.00    Joh. Jos. Christoffel Erben, Ürziger Würzgarten Riesling Kabinett 2012 Mosel  $67.00    Fillaboa, Albariño 2012 Rias Baixas  $12.00    Schwarzböck, "Vier Gärten" Grüner Veltliner 2013 Weinvierta  $14.00    Trimbach, Pinot Blanc 2012 Alsace  $11.00    Nikolaihof, "Hefeabzug" Grüner Veltliner 2012 Wachau  $72.00    Bonny Doon, "Le Cigar Blanc" Grenache Blanc Rousanne 2011 Santa Cruz Mountains  $52.00    Domaine Des Baumard, "Clos Du Papillon" Chenin Blanc 2009 Savennières  $76.00    Mcpherson Cellars, Viognier 2013 Texas  $10.00    Domaine Leflaive, Sous Le Dos D'âne 1 Er Cru Chardonnay 2011 Meursault  $325.00    Trefethen, Chardonnay 2012 Napa Valley  $16.00    Jordan, Chardonnay 2012 Russian River Valley  $88.00    Domaine Leflaive, Le Clavoillon 1 Er Cru Chardonnay 2012 Puligny-Montrache  $385.00    Far Niente, Chardonnay 2012 Napa Valley  $98.00    Château Lamargue, "Les Grandes Cabanes" Syrah Grenache 2013 Southern Rhône Valley  $11.00    Antinori, "Scalabrone" Cabernet Blend 2013 Tuscany  $12.00    Poema, Cava Brut Nv Penedès  $9.00    Villa Sandi, Prosecco Extra Dry Nv Veneto  $10.00    Bouvet, Brut Rosé Nv Loire Valley  $11.00    Argyle, Vintage Brut 2010 Willamette Valley  $50.00    Schramsberg, Blanc De Blancs 2011 Napa Valley  $15.00    Scarpetta, "Timido" Brut Rosé 4Th Edition Friuli  $14.00    Delamotte, Brut Nv Les-Mesnil-Sur-Oger Champagne  $16.00    H. Billiot Fils, Brut Rosé Nv Ambonnay Champagne  $115.00    André Jacquart, Brut Blanc De Blancs 1 Er Cru Nv Champagne  $125.00    Stéphane Aviron, Beaujolais-Villages Gamay 2012 Beaujolais  $11.00    Planeta, Cerasuolo Di Vittoria Nero D'avola Frappato 2012 Sicily  $14.00    Domaine Philippe Girard, Bourgogne Rouge Pinot Noir 2012 Burgundy  $14.00    Mongeard-Mugneret, Les Narbantons 1 Er Cru Pinot Noir 2011 Savigny-Lès-Beaune  $126.00    Maison L'envoyé, "Two Messengers" Pinot Noir 2012 Willamette Valley  $80.00    Laetitia, Pinot Noir 2013 Arroyo Grande Valley  $15.00    Siduri, Pinot Noir 2012 Sonoma Valley  $50.00    Patz & Hall, Pinot Noir 2012 Sonoma Valley  $95.00    Telmo Rodriguez, "Dehesa Gago"tempranillo 2012 Toro  $12.00    Coto De Imaz, Tempranillo Reserva 2008 Rioja  $68.00    Marcarini, "Ciabot Camerano" Barbera D'alba 2011 Piedmont  $13.00    Domaine La Garrique, "Cuvée Romaine" Grenache Mourvedre Syrah 2011 Côtes Du Rhône  $13.00    Produttori Del Barbaresco, Nebbiolo 2010 Piedmont  $76.00    Alain Graillot, Syrah 2011 Crozes-Hermitage  $75.00    Atalaya, "Laya" Garnacha Monastrell 2013 Almansa  $9.00    Tintonegro, Malbec 2012 Mendoza  $12.00    Billhook, Cabernet Sauvignon 2011 Napa Valley  $19.00    Ladera, Cabernet Sauvignon 2011 Napa Valley  $90.00    Finca Decero, Remolinos Vineyard Cabernet Sauvignon 2012 Mendoza  $43.00    Marco Abella, "Loidana" Garnacha Carignan 2009 Priorat  $80.00    Casanova Di Neri, "Cerretalto" Sangiovese 2006 Brunello Di Montalcino  $435.00    Château Lasségue, Grand Cru Merlot Blend 2007 Saint-Émilion  $105.00    Errazuriz, "Don Maximiano" Cabernet Blend 2009 Aconcagua Valley  $185.00    Chateau Montelena, Cabernet Sauvignon 2012 Napa Valley  $114.00    Opus One, Cabernet Blend 2011 Napa Valley  $405.00    Staglin, Cabernet Sauvignon 2010 Napa Valley  $394.00    Negihama Roll*  $6.00    Crunchy Tuna Roll*  $6.00    Shag Roll  $6.00    Bond  $4.00    Takara Nigori  $3.00    Gekkeikan  $3.00    Asahi Super Dry  $3.00    Laya  $7.00    Elios  $7.00    Uchiviche*  $6.00    Machi Cure*  $6.00    Hama Chili*  $6.00    Bacon Steakie  $6.00    Kyou No Sakana  $0    Walu Walu  $6.00    Muru Kai  $9.00    Shiki  $4.00    Okashi  $5.00    
+hirame usuzukuri*	$18.00	Entree		Main Menu	Cool Tastings
+machi cure*	$18.00	Entree		Main Menu	Cool Tastings
+hama chili*	$18.50	Entree		Main Menu	Cool Tastings
+akami te*	$18.50	Entree		Main Menu	Cool Tastings
+uchiviche*	$12.50	Entree		Main Menu	Cool Tastings
+umi masu*	$16.00	Entree		Main Menu	Cool Tastings
+saba*	$14.50	Entree		Main Menu	Cool Tastings
+walu walu	$16.50	Entree		Main Menu	Hot Tastings
+hot rock	$17.00	Entree		Main Menu	Hot Tastings
+hamachi nabe	$17.50	Entree		Main Menu	Hot Tastings
+kinoko nabe	$18.50	Entree		Main Menu	Hot Tastings
+bacon steakie	$18.00	Entree		Main Menu	Hot Tastings
+sasami yaki	$13.00	Entree		Main Menu	Hot Tastings
+gyutoro yaki	$22.00	Entree		Main Menu	Hot Tastings
+sakana mushi	$19.00	Entree		Main Menu	Hot Tastings
+ocha zuke	$13.50	Entree		Main Menu	Hot Tastings
+edamame	$4.50	Entree		Main Menu	Yasaimono
+shishito	$6.50	Entree		Main Menu	Yasaimono
+broccolini	$9.00	Entree		Main Menu	Yasaimono
+uchi salad	$8.00	Entree		Main Menu	Yasaimono
+ebi	$6.00	Entree		Main Menu	Agemono
+kabocha	$2.50	Entree		Main Menu	Agemono
+onion	$5.00	Entree		Main Menu	Agemono
+karaage	$10.50	Entree		Main Menu	Agemono
+brussels sprouts	$7.50	Entree		Main Menu	Agemono
+tomato katsu	$6.00	Entree		Main Menu	Agemono
+hana	$5.00	Entree		Main Menu	Agemono
+akami*	$5.00	Entree		Main Menu	Sushi & Sashimi
+sake*	$3.50	Entree		Main Menu	Sushi & Sashimi
+sake toro*	$4.50	Entree		Main Menu	Sushi & Sashimi
+hamachi*	$5.00	Entree		Main Menu	Sushi & Sashimi
+hirame*	$4.00	Entree		Main Menu	Sushi & Sashimi
+madai*	$4.50	Entree		Main Menu	Sushi & Sashimi
+boquerones	$4.00	Entree		Main Menu	Sushi & Sashimi
+shime saba*	$5.00	Entree		Main Menu	Sushi & Sashimi
+taraba	$8.00	Entree		Main Menu	Sushi & Sashimi
+avocado	$2.50	Entree		Main Menu	Sushi & Sashimi
+namahotate*	$5.50	Entree		Main Menu	Sushi & Sashimi
+nasu	$3.00	Entree		Main Menu	Sushi & Sashimi
+unagi	$3.50	Entree		Main Menu	Sushi & Sashimi
+gyutoro	$10.00	Entree		Main Menu	Sushi & Sashimi
+foie gras	$9.50	Entree		Main Menu	Sushi & Sashimi
+chef's selection nigiri*	$0	Entree		Main Menu	Chef's Selection
+chef's selection sashimi*	$0	Entree		Main Menu	Chef's Selection
+biendo	$13.00	Entree		Main Menu	Makimono
+zero sen*	$12.50	Entree		Main Menu	Makimono
+shag	$12.50	Entree		Main Menu	Makimono
+avokatsu	$9.50	Entree		Main Menu	Makimono
+ham and eggs	$9.50	Entree		Main Menu	Makimono
+spicy crunchy tuna*	$12.00	Entree		Main Menu	Makimono
+gyumaki	$12.50	Entree		Main Menu	Makimono
+chef's tasting	$0	Entree		Main Menu	Omakase*
+signature tasting	$0	Entree		Main Menu	Omakase*
+vegetarian tasting	$0	Entree		Main Menu	Omakase*
+jizake creme caramel	$9.00	Dessert		Main Menu	Dessert
+chocolate cherry	$9.00	Dessert		Main Menu	Dessert
+peanut butter semifreddo	$9.00	Dessert		Main Menu	Dessert
+lemon gelato	$9.00	Dessert		Main Menu	Dessert
+seasonal sorbets	$9.00	Dessert		Main Menu	Dessert
+marchesi di gresy, "la serra" moscato d'asti 2012 piedmont	$11.00	Dessert		Drink Menu	Dessert Wine
+royal tokaji, "late harvest" 2010 hungary	$11.00	Dessert		Drink Menu	Dessert Wine
+château d'armajan des ormes, 2006 sauternes	$10.00	Dessert		Drink Menu	Dessert Wine
+rare wine co & barbeito, savannah verdelho nv madeira	$12.00	Dessert		Drink Menu	Dessert Wine
+fonseca, 20-yeartawny porto nv douro	$13.00	Dessert		Drink Menu	Dessert Wine
+lustau, "san emilio" pedro ximenez nv jerez	$12.00	Dessert		Drink Menu	Dessert Wine
+paulaner non-alcoholic (12 oz)	$4.00	Drink		Drink Menu	Beer
+kirin light (12oz)	$5.00	Drink		Drink Menu	Beer
+kirin ichiban (12oz)	$5.00	Drink		Drink Menu	Beer
+kirin ichiban bomber (22oz)	$8.00	Drink		Drink Menu	Beer
+asahi super dry (12oz)	$5.00	Drink		Drink Menu	Beer
+sapporo premium (12oz	$5.00	Drink		Drink Menu	Beer
+sapporo reserve (12oz)	$5.00	Drink		Drink Menu	Beer
+staropramen (11. 2oz)	$6.00	Drink		Drink Menu	Beer
+lagunitas ipa (12oz)	$7.00	Drink		Drink Menu	Beer
+rogue dead guy ale (12oz)	$7.00	Drink		Drink Menu	Beer
+asahi kuronama (11. 3oz)	$7.00	Drink		Drink Menu	Beer
+brooklyn sorachi ace (750ml)	$22.00	Drink		Drink Menu	Beer
+duchesse de bourgogne (750ml)	$30.00	Drink		Drink Menu	Beer
+hitachino rotating selection (11. 2oz)	$9.00	Drink		Drink Menu	Beer
+left hand milk stout nitro (12oz)	$8.00	Drink		Drink Menu	Beer
+real ale devil's backbone (12oz)	$6.00	Drink		Drink Menu	Beer
+coke, diet coke	$2.00	Drink		Drink Menu	Beverages
+iced tea	$2.00	Drink		Drink Menu	Beverages
+ramune	$3.00	Drink		Drink Menu	Beverages
+aranciata	$3.00	Drink		Drink Menu	Beverages
+limonata	$3.00	Drink		Drink Menu	Beverages
+japanese hot green tea	$4.00	Drink		Drink Menu	Beverages
+french press coffee	$4.00	Drink		Drink Menu	Beverages
+large french press coffee	$12.00	Drink		Drink Menu	Beverages
+takara nigori	$15.00	Drink		Drink Menu	Sake
+zero sen, junmai	$9.00	Drink		Drink Menu	Sake
+eiko fuji, "ban ryu" honjozo	$10.00	Drink		Drink Menu	Sake
+seikyo, "takehara" junmai	$12.00	Drink		Drink Menu	Sake
+otokoyama, tokubetsu junma	$12.00	Drink		Drink Menu	Sake
+dewatsuru, kimoto junma	$14.00	Drink		Drink Menu	Sake
+yuki no bosha, "limited release" junmai ginjo	$14.00	Drink		Drink Menu	Sake
+kanbara, "bride of the fox" junmai ginjo	$15.00	Drink		Drink Menu	Sake
+bishonen, junmai ginjo	$10.00	Drink		Drink Menu	Sake
+hanahato, "densho"junmai ginjo	$60.00	Drink		Drink Menu	Sake
+ichinokura, tokubetsu junmai tarusake	$64.00	Drink		Drink Menu	Sake
+rihaku, "dreamy clouds" tokubetsu junmai nigori	$74.00	Drink		Drink Menu	Sake
+masumi, "karakuchi ki-ippon" junmai ginjo	$88.00	Drink		Drink Menu	Sake
+wakatake onikoroshi, "demon slayer" junmai daiginjo	$16.00	Drink		Drink Menu	Sake
+chokaisan, junmai daiginjo	$114.00	Drink		Drink Menu	Sake
+watari bune, junmai daiginjo	$205.00	Drink		Drink Menu	Sake
+tentaka kuni, "hawk in the heavens" junmai	$30.00	Drink		Drink Menu	Jizake
+konteki, "pearls of simplicity" junmai daiginjo	$43.00	Drink		Drink Menu	Jizake
+fukucho, "moon on the water" junmai ginjo	$55.00	Drink		Drink Menu	Jizake
+ginga shizuku, "divine droplets" junmai daiginjo	$75.00	Drink		Drink Menu	Jizake
+lechthaler, pinot grigio 2012 trentino	$10.00	Drink		Drink Menu	White
+prunotto, arneis 2012 piedmont	$15.00	Drink		Drink Menu	White
+louis michel, chardonnay 2012 chablis	$68.00	Drink		Drink Menu	White
+hedges family, "cms white" sauvignon blanc 2013 washington	$12.00	Drink		Drink Menu	White
+château bellevue, semillonsauvignon blanc 2013 entre-deux-mers	$50.00	Drink		Drink Menu	White
+chanson, viré-clessé chardonnay 2012 mâcon	$13.00	Drink		Drink Menu	White
+four graces, pinot gris 2013 willamette valley	$12.00	Drink		Drink Menu	White
+dog point, sauvignon blanc 2013 marlborough	$52.00	Drink		Drink Menu	White
+domaine claude riffault, "les boucauds" sauvignon blanc 2013 sancerre	$71.00	Drink		Drink Menu	White
+paul blanck, "classique" riesling 2012 alsace	$60.00	Drink		Drink Menu	White
+boutari, "elios" mediterranean white 2010 peloponnese	$9.00	Drink		Drink Menu	White
+livio felluga, friulano 2011 colli orientalli del friuli	$62.00	Drink		Drink Menu	White
+von winning, riesling 2012 pfalz	$16.00	Drink		Drink Menu	White
+dr. hermann, "dr. h" riesling 2012 mosel	$12.00	Drink		Drink Menu	White
+joh. jos. christoffel erben, ürziger würzgarten riesling kabinett 2012 mosel	$67.00	Drink		Drink Menu	White
+fillaboa, albariño 2012 rias baixas	$12.00	Drink		Drink Menu	White
+schwarzböck, "vier gärten" grüner veltliner 2013 weinvierta	$14.00	Drink		Drink Menu	White
+trimbach, pinot blanc 2012 alsace	$11.00	Drink		Drink Menu	White
+nikolaihof, "hefeabzug" grüner veltliner 2012 wachau	$72.00	Drink		Drink Menu	White
+bonny doon, "le cigar blanc" grenache blanc rousanne 2011 santa cruz mountains	$52.00	Drink		Drink Menu	White
+domaine des baumard, "clos du papillon" chenin blanc 2009 savennières	$76.00	Drink		Drink Menu	White
+mcpherson cellars, viognier 2013 texas	$10.00	Drink		Drink Menu	White
+domaine leflaive, sous le dos d'âne 1 er cru chardonnay 2011 meursault	$325.00	Drink		Drink Menu	White
+trefethen, chardonnay 2012 napa valley	$16.00	Drink		Drink Menu	White
+jordan, chardonnay 2012 russian river valley	$88.00	Drink		Drink Menu	White
+domaine leflaive, le clavoillon 1 er cru chardonnay 2012 puligny-montrache	$385.00	Drink		Drink Menu	White
+far niente, chardonnay 2012 napa valley	$98.00	Drink		Drink Menu	White
+château lamargue, "les grandes cabanes" syrah grenache 2013 southern rhône valley	$11.00	Drink		Drink Menu	Rosé
+antinori, "scalabrone" cabernet blend 2013 tuscany	$12.00	Drink		Drink Menu	Rosé
+poema, cava brut nv penedès	$9.00	Drink		Drink Menu	Sparkling
+villa sandi, prosecco extra dry nv veneto	$10.00	Drink		Drink Menu	Sparkling
+bouvet, brut rosé nv loire valley	$11.00	Drink		Drink Menu	Sparkling
+argyle, vintage brut 2010 willamette valley	$50.00	Drink		Drink Menu	Sparkling
+schramsberg, blanc de blancs 2011 napa valley	$15.00	Drink		Drink Menu	Sparkling
+scarpetta, "timido" brut rosé 4th edition friuli	$14.00	Drink		Drink Menu	Sparkling
+delamotte, brut nv les-mesnil-sur-oger champagne	$16.00	Drink		Drink Menu	Sparkling
+h. billiot fils, brut rosé nv ambonnay champagne	$115.00	Drink		Drink Menu	Sparkling
+andré jacquart, brut blanc de blancs 1 er cru nv champagne	$125.00	Drink		Drink Menu	Sparkling
+stéphane aviron, beaujolais-villages gamay 2012 beaujolais	$11.00	Drink		Drink Menu	Red
+planeta, cerasuolo di vittoria nero d'avola frappato 2012 sicily	$14.00	Drink		Drink Menu	Red
+domaine philippe girard, bourgogne rouge pinot noir 2012 burgundy	$14.00	Drink		Drink Menu	Red
+mongeard-mugneret, les narbantons 1 er cru pinot noir 2011 savigny-lès-beaune	$126.00	Drink		Drink Menu	Red
+maison l'envoyé, "two messengers" pinot noir 2012 willamette valley	$80.00	Drink		Drink Menu	Red
+laetitia, pinot noir 2013 arroyo grande valley	$15.00	Drink		Drink Menu	Red
+siduri, pinot noir 2012 sonoma valley	$50.00	Drink		Drink Menu	Red
+patz & hall, pinot noir 2012 sonoma valley	$95.00	Drink		Drink Menu	Red
+telmo rodriguez, "dehesa gago"tempranillo 2012 toro	$12.00	Drink		Drink Menu	Red
+coto de imaz, tempranillo reserva 2008 rioja	$68.00	Drink		Drink Menu	Red
+marcarini, "ciabot camerano" barbera d'alba 2011 piedmont	$13.00	Drink		Drink Menu	Red
+domaine la garrique, "cuvée romaine" grenache mourvedre syrah 2011 côtes du rhône	$13.00	Drink		Drink Menu	Red
+produttori del barbaresco, nebbiolo 2010 piedmont	$76.00	Drink		Drink Menu	Red
+alain graillot, syrah 2011 crozes-hermitage	$75.00	Drink		Drink Menu	Red
+atalaya, "laya" garnacha monastrell 2013 almansa	$9.00	Drink		Drink Menu	Red
+tintonegro, malbec 2012 mendoza	$12.00	Drink		Drink Menu	Red
+billhook, cabernet sauvignon 2011 napa valley	$19.00	Drink		Drink Menu	Red
+ladera, cabernet sauvignon 2011 napa valley	$90.00	Drink		Drink Menu	Red
+finca decero, remolinos vineyard cabernet sauvignon 2012 mendoza	$43.00	Drink		Drink Menu	Red
+marco abella, "loidana" garnacha carignan 2009 priorat	$80.00	Drink		Drink Menu	Red
+casanova di neri, "cerretalto" sangiovese 2006 brunello di montalcino	$435.00	Drink		Drink Menu	Red
+château lasségue, grand cru merlot blend 2007 saint-émilion	$105.00	Drink		Drink Menu	Red
+errazuriz, "don maximiano" cabernet blend 2009 aconcagua valley	$185.00	Drink		Drink Menu	Red
+chateau montelena, cabernet sauvignon 2012 napa valley	$114.00	Drink		Drink Menu	Red
+opus one, cabernet blend 2011 napa valley	$405.00	Drink		Drink Menu	Red
+staglin, cabernet sauvignon 2010 napa valley	$394.00	Drink		Drink Menu	Red
+negihama roll*	$6.00	Drink		Sake Socials Menu	Makimono / Sushi Rolls
+crunchy tuna roll*	$6.00	Drink		Sake Socials Menu	Makimono / Sushi Rolls
+shag roll	$6.00	Drink		Sake Socials Menu	Makimono / Sushi Rolls
+bond	$4.00	Drink		Sake Socials Menu	Makimono / Sushi Rolls
+takara nigori	$3.00	Drink		Sake Socials Menu	Drinks
+gekkeikan	$3.00	Drink		Sake Socials Menu	Drinks
+asahi super dry	$3.00	Drink		Sake Socials Menu	Drinks
+laya	$7.00	Drink		Sake Socials Menu	Drinks
+elios	$7.00	Drink		Sake Socials Menu	Drinks
+uchiviche*	$6.00	Drink		Sake Socials Menu	Tastings
+machi cure*	$6.00	Drink		Sake Socials Menu	Tastings
+hama chili*	$6.00	Drink		Sake Socials Menu	Tastings
+bacon steakie	$6.00	Drink		Sake Socials Menu	Tastings
+kyou no sakana	$0	Drink		Sake Socials Menu	Tastings
+walu walu	$6.00	Drink		Sake Socials Menu	Tastings
+muru kai	$9.00	Drink		Sake Socials Menu	Tastings
+shiki	$4.00	Drink		Sake Socials Menu	Tastings
+okashi	$5.00	Dessert		Sake Socials Menu	Dessert
 
-id = 5076fd1c498e7be11efe3a80
 name = Clark's Oyster Bar
-location = lat = 30.27284792460546, lng = -97.75713264219752
-Address = [1200 W 6th St (Blanco), Austin, TX 78703]
-tag = Seafood Restaurant
-rating = 9.4
+Menu not available
 
-
-id = 49cf0653f964a5209c5a1fe3
 name = Little Deli & Pizzeria
-location = lat = 30.34266177476388, lng = -97.72558014531012
-Address = [7101-A Woodrow Ave (at W St Johns Ave), Austin, TX 78757]
-tag = Pizza Place
-rating = 9.4
-Soup of the Day  $3.49    Garden Salad  $2.99    Greek Salad  $3.75    Chef Salad  $7.29    Chicken Salad-Salad  $7.29    Tuna Salad-Salad  $7.29    Blt  $8.49    Club Sandwich  $8.49    Roast Beef & Cheddar  $7.49    Muffalatta  $6.79    Turkey & Mozzarella  $6.99    Harrys Perfect Pastrami  $10.49    Reuben  $8.49    Classic Pastrami Sandwich  $8.29    Little Deli Cheeseburger  $5.25    Gardenburger  $6.49    Grilled Cheese  $3.49    By the Slice  $3.00    Pizza  $11.75    Toppings  $1.75    Meat Combo  $20.60    Vegi  $21.00    Pepperoni & Mushroom  $19.40    Pizza Margherita  $20.75    Italian  $20.60    Bacon Blue  $21.00    The #7  $20.60    Spicy Hawaiian  $20.50    Special White Pizza  $21.00    Mediterranean  $22.00    Bag of Potato Chips  $1.25    Side of Jalapenos  $0.50    Side of Pepperoncini Peppers  $0.50    Side of Anchovies  $2.75    Deviled Eggs (1)  $1.00    Add Bacon  $1.00    Add Avocado  $1.00    Add Cheese  $1.00    Large Side of Dressing  $0.40    Small Side of Dressing  $0.25    Brownies  $2.00    Peanut Butter Cookies  $1.39    Chocolate Chip Cookies  $1.39    Chewy Chocolate Cookies  $1.65    
+soup of the day	$3.49	Entree		Main Menu	Soup
+garden salad	$2.99	Starter		Main Menu	Salads
+greek salad	$3.75	Starter		Main Menu	Salads
+chef salad	$7.29	Starter		Main Menu	Salads
+chicken salad-salad	$7.29	Starter		Main Menu	Salads
+tuna salad-salad	$7.29	Starter		Main Menu	Salads
+blt	$8.49	Entree		Main Menu	Cold Sandwiches
+club sandwich	$8.49	Entree		Main Menu	Cold Sandwiches
+roast beef & cheddar	$7.49	Entree		Main Menu	Cold Sandwiches
+muffalatta	$6.79	Entree		Main Menu	Cold Sandwiches
+turkey & mozzarella	$6.99	Entree		Main Menu	Cold Sandwiches
+harrys perfect pastrami	$10.49	Entree		Main Menu	Hot Sandwiches
+reuben	$8.49	Entree		Main Menu	Hot Sandwiches
+classic pastrami sandwich	$8.29	Entree		Main Menu	Hot Sandwiches
+little deli cheeseburger	$5.25	Entree		Main Menu	Hot Sandwiches
+gardenburger	$6.49	Entree		Main Menu	Hot Sandwiches
+grilled cheese	$3.49	Entree		Main Menu	Hot Sandwiches
+by the slice	$3.00	Entree		Main Menu	Pizza
+pizza	$11.75	Entree		Main Menu	Pizza
+toppings	$1.75	Entree		Main Menu	Pizza
+meat combo	$20.60	Entree		Main Menu	Specialty Pies
+vegi	$21.00	Entree		Main Menu	Specialty Pies
+pepperoni & mushroom	$19.40	Entree		Main Menu	Specialty Pies
+pizza margherita	$20.75	Entree		Main Menu	Specialty Pies
+italian	$20.60	Entree		Main Menu	Specialty Pies
+bacon blue	$21.00	Entree		Main Menu	Specialty Pies
+the #7	$20.60	Entree		Main Menu	Specialty Pies
+spicy hawaiian	$20.50	Entree		Main Menu	Specialty Pies
+special white pizza	$21.00	Entree		Main Menu	Specialty Pies
+mediterranean	$22.00	Entree		Main Menu	Specialty Pies
+bag of potato chips	$1.25	Entree		Main Menu	Sides & Extras
+side of jalapenos	$0.50	Entree		Main Menu	Sides & Extras
+side of pepperoncini peppers	$0.50	Entree		Main Menu	Sides & Extras
+side of anchovies	$2.75	Entree		Main Menu	Sides & Extras
+deviled eggs (1)	$1.00	Entree		Main Menu	Sides & Extras
+add bacon	$1.00	Entree		Main Menu	Sides & Extras
+add avocado	$1.00	Entree		Main Menu	Sides & Extras
+add cheese	$1.00	Entree		Main Menu	Sides & Extras
+large side of dressing	$0.40	Entree		Main Menu	Sides & Extras
+small side of dressing	$0.25	Entree		Main Menu	Sides & Extras
+brownies	$2.00	Dessert		Main Menu	Desserts
+peanut butter cookies	$1.39	Dessert		Main Menu	Desserts
+chocolate chip cookies	$1.39	Dessert		Main Menu	Desserts
+chewy chocolate cookies	$1.65	Dessert		Main Menu	Desserts
 
-id = 51c5e288498ef321136d7614
 name = Bufalina
-location = lat = 30.25843392635047, lng = -97.72885250278738
-Address = [1519 E Cesar Chavez St, Austin, TX 78702]
-tag = Pizza Place
-rating = 9.4
+Menu not available
 
-
-id = 518056c3e4b04bf50f1f5c24
 name = Jeffrey's
-location = lat = 30.28042859263038, lng = -97.75914361124003
-Address = [1204 W Lynn St, Austin, TX 78703]
-tag = American Restaurant
-rating = 9.4
+Menu not available
 
-
-id = 49ee1e97f964a52025681fe3
 name = Torchy's Tacos
-location = lat = 30.236775274442003, lng = -97.76275182600891
-Address = [2809 S 1st St (at El Paso St), Austin, TX 78704]
-tag = Taco Place
-rating = 9.4
-Monk Special  $2.50    Migas  $2.75    The Wrangler  $3.50    Ranch Hand  $3.50    Breakfast Tacos  $2.25    Green Chile Pork  $3.75    Fried Avocado  $3.75    Trailer Park  $3.75    Dirty Sanchez  $3.50    Baja Shrimp  $4.25    Chicken Fajita  $3.50    Beef Fajita  $3.75    The Democrat  $4.00    The Republican  $3.25    The Independent  $3.50    Brushfire  $3.75    Mr. Pink  $4.75    Mr. Orange  $4.75    Crossroads  $4.25    Grande Burrito  $7.50    Street Corn  $3.95    Love Puppies  $2.50    Lil's Nookies  $2.95    Green Chile Queso & Chips  $5.25    Chips & Guacamole  $4.95    Chips & Salsa  $3.50    Roja  $0    Tomatillo  $0    Poblano  $0    Chipotle  $0    Avocado  $0    Diablo  $0    Guacamole  $4.25    Salsa  $2.50    Pico De Gallo  $2.50    Rice  $1.95    Refried Beans (Pinto Or Black)  $1.95    Fountain Soda  $2.25    Bottled Soda  $2.25    Orange Juice  $2.50    Fresh Ground Coffee  $2.00    Iced Tea  $2.25    
+monk special	$2.50	Entree		Main Menu	Breakfast Tacos
+migas	$2.75	Entree		Main Menu	Breakfast Tacos
+the wrangler	$3.50	Entree		Main Menu	Breakfast Tacos
+ranch hand	$3.50	Entree		Main Menu	Breakfast Tacos
+breakfast tacos	$2.25	Entree		Main Menu	Breakfast Tacos
+green chile pork	$3.75	Entree		Main Menu	Torchy's Tacos
+fried avocado	$3.75	Entree		Main Menu	Torchy's Tacos
+trailer park	$3.75	Entree		Main Menu	Torchy's Tacos
+dirty sanchez	$3.50	Entree		Main Menu	Torchy's Tacos
+baja shrimp	$4.25	Entree		Main Menu	Torchy's Tacos
+chicken fajita	$3.50	Entree		Main Menu	Torchy's Tacos
+beef fajita	$3.75	Entree		Main Menu	Torchy's Tacos
+the democrat	$4.00	Entree		Main Menu	Torchy's Tacos
+the republican	$3.25	Entree		Main Menu	Torchy's Tacos
+the independent	$3.50	Entree		Main Menu	Torchy's Tacos
+brushfire	$3.75	Entree		Main Menu	Torchy's Tacos
+mr. pink	$4.75	Entree		Main Menu	Torchy's Tacos
+mr. orange	$4.75	Entree		Main Menu	Torchy's Tacos
+crossroads	$4.25	Entree		Main Menu	Torchy's Tacos
+grande burrito	$7.50	Entree		Main Menu	Eats and Treats
+street corn	$3.95	Entree		Main Menu	Eats and Treats
+love puppies	$2.50	Entree		Main Menu	Eats and Treats
+lil's nookies	$2.95	Entree		Main Menu	Eats and Treats
+green chile queso & chips	$5.25	Entree		Main Menu	Chips and Dips
+chips & guacamole	$4.95	Entree		Main Menu	Chips and Dips
+chips & salsa	$3.50	Entree		Main Menu	Chips and Dips
+roja	$0	Entree		Main Menu	Sauces
+tomatillo	$0	Entree		Main Menu	Sauces
+poblano	$0	Entree		Main Menu	Sauces
+chipotle	$0	Entree		Main Menu	Sauces
+avocado	$0	Entree		Main Menu	Sauces
+diablo	$0	Entree		Main Menu	Sauces
+guacamole	$4.25	Entree		Main Menu	Sides
+salsa	$2.50	Entree		Main Menu	Sides
+pico de gallo	$2.50	Entree		Main Menu	Sides
+rice	$1.95	Entree		Main Menu	Sides
+refried beans (pinto or black)	$1.95	Entree		Main Menu	Sides
+fountain soda	$2.25	Drink		Main Menu	Drinks
+bottled soda	$2.25	Drink		Main Menu	Drinks
+orange juice	$2.50	Drink		Main Menu	Drinks
+fresh ground coffee	$2.00	Drink		Main Menu	Drinks
+iced tea	$2.25	Drink		Main Menu	Drinks
 
-id = 412bd680f964a520b50c1fe3
 name = Tacodeli
-location = lat = 30.258438983922478, lng = -97.78764279251158
-Address = [1500B Spyglass Dr (at Barton Skyway), Austin, TX 78746]
-tag = Taco Place
-rating = 9.4
+Menu not available
 
-
-id = 4f985f73e4b07d0a53f8517e
 name = Salty Sow
-location = lat = 30.2838184487371, lng = -97.72131623203063
-Address = [1917 Manor Rd, Austin, TX 78722]
-tag = American Restaurant
-rating = 9.4
+Menu not available
 
-
-id = 4cb890cb7148f04dacf5d0ab
 name = Pueblo Viejo
-location = lat = 30.2622633994213, lng = -97.72460960501517
-Address = [1001 East 6th St, Austin, TX]
-tag = Food Truck
-rating = 9.3
+Menu not available
 
-
-id = 49fa19e5f964a520bd6d1fe3
 name = Bouldin Creek Café
-location = lat = 30.24646314668017, lng = -97.75677680969238
-Address = [1900 S 1st St (at W. Mary St.), Austin, TX 78704]
-tag = Vegetarian / Vegan Restaurant
-rating = 9.3
+Menu not available
 
-
-id = 4d755f73fc766a314d778d1a
 name = Franklin Barbecue
-location = lat = 30.27008515990402, lng = -97.73127436637878
-Address = [900 E 11th St (at Branch St), Austin, TX 78702]
-tag = BBQ Joint
-rating = 9.3
+Menu not available
 
-
-id = 49da5508f964a520765e1fe3
 name = Eddie V's Prime Seafood
-location = lat = 30.38960921, lng = -97.75304317
-Address = [9400B Arboretum Blvd, Austin, TX 78759]
-tag = Seafood Restaurant
-rating = 9.3
-$1 Louisiana Oysters*  $0    Chilled Gulf Shrimp  $0    Pot Stickers  $0    Jumbo Lump Crab Cake  $0    Batterfried Oysters  $0    Steak and Lobster Tartare*  $0    Point Judith Calamari  $0    Tartare of Pacific Ahi Tuna*  $0    Lemon Drop  $0    Cosmopolitan  $0    Green Apple  $0    Classic Martini  $0    The Original Bacardi Mojito  $0    El Jimador Traditional Margarita  $0    La Marca, Prosecco  $0    Indaba, Chardonnay  $0    Lorenza, Rosé  $0    Giacato, Pinot Grigio  $0    Macedon, Pinot Noir  $0    Louis Martini, Cabernet Sauvignon  $0    Francis Ford Coppola, Merlot  $0    Market Oysters*  $0    Hawaiian Yellowtail Sashimi*  $0    Jumbo Lump Crab  $0    Chilled Gulf Shrimp  $0    Tartare of Pacific Ahi Tuna*  $0    Chilled Shellfish Tower*  $0    Maine Lobster Tacos  $0    Point Judith Calamari  $0    Jumbo Lump Crab Cake  $0    Pot Stickers  $0    Batterfried Oysters  $0    Steak and Lobster Tartare*  $0    Cold Water Lobster Tail*  $0    Maine Lobster and Shrimp Bisque  $0    Crab and Corn Chowder  $0    Wild Mushroom Salad  $0    Iceberg Blt  $0    Fuji Apple Salad  $0    Classic Caesar Salad  $0    Heirloom Tomato Salad  $0    Shrimp and Crab Chopped Salad  $0    Halibut Filet  $0    North Atlantic Lemon Sole  $0    Chilean Sea Bass  $0    Scottish Salmon*  $0    Pacific Ahi Tuna*  $0    Swordfish Steak*  $0    Florida Grouper  $0    Georges Bank Scallops*  $0    Jumbo Gulf Shrimp  $0    Sauteed Red Fish  $0    Market Fresh Fish  $0    Cold Water Lobster Tails  $0    Roasted Double Breast of Chicken  $0    Fresh Market Vegetables  $0    8 Oz Center Cut Filet Mignon*  $0    22 Oz Usda Prime Bone-in Ribeye*  $0    12 Oz Center Cut Filet Mignon*  $0    16 Oz Usda Prime New York Strip*  $0    8 Oz Filet Mignon, Roasted and Sliced*  $0    16 Oz Usda Prime New York Strip Au Poivre*  $0    8 Oz Filet Mignon and Broiled Cold Water Lobster Tail*  $0    Au Gratin Potatoes  $0    Broccolini with Lemon and Garlic  $0    Sautéed Monterrey Style Sweet Corn  $0    Twice Baked Potato with Bacon and Chives  $0    Parmesan and Chive French Fries  $0    Truffled Macaroni and Cheese  $0    Sugar Snap Peas with Portobellos  $0    Steamed Asparagus  $0    Roasted Baby Beets and Candied Walnuts  $0    Sautéed Spinach with Garlic and Parmesan  $0    Brussels Sprouts, Bacon and Shallots  $0    Crab Fried Rice with Mushrooms and Scallions  $0    Dark Chocolate and Crushed Toffee S'mores  $0    Hot "Bananas Foster" Butter Cake  $0    Hot Blackberry Cobbler  $0    Butterscotch Panna Cotta  $0    Hot Chocolate Godiva Cake*  $0    Creme Brulee  $0    Fresh Seasonal Berries  $0    Sorbet and Ice Cream  $0    Espresso  $0    Cappuccino  $0    Latte  $0    Pot Stickers  $0    Tartare of Pacific Ahi Tuna  $0    Jumbo Lump Crab Cake  $0    Point Judith Calamari  $0    Batterfried Oysters  $0    Maine Lobster Tacos  $0    Charred Prime Steak Carpaccio  $0    Maine Lobster and Shrimp Bisque  $0    Crab and Corn Chowder  $0    Wild Mushroom Salad  $0    Fuji Apple Salad  $0    Baby Iceberg Blt  $0    Classic Caesar Salad  $0    Heirloom Tomato Salad  $0    Seafood Chopped Salad  $0    Louisiana Red Fish  $0    Scottish Salmon  $0    Pacific Ahi Tuna  $0    Pacific Swordfish  $0    North Atlantic Lemon Sole  $0    Florida Grouper  $0    Georges Bank Scallops  $0    Jumbo Gulf Shrimp  $0    Chilean Sea Bass  $0    Market Fresh Fish  $0    Cold Water Lobster  $0    8 Oz Center Cut Filet Mignon  $0    22 Oz Usda Prime Bone-in Ribeye  $0    12 Oz Center Cut Filet Mignon  $0    16 Oz Usda Prime New York Strip  $0    16 Oz Prime New York Strip Au Poivre  $0    8 Oz Filet Mignon and Broiled Cold Water Lobster Tail  $0    Roasted Double Breast of Chicken  $0    Oscar Style  $0    Carpet Bag  $0    Hollandaise Or Béarnaise  $0    Louisiana Oysters  $0    Market Oysters  $0    Yellowtai L Sashimi  $0    Chi Lled Gul F Shrimp  $0    Jumbo Lump Crab  $0    Shell Fish Tower  $0    Broccolini with Lemon and Garlic  $0    Brussel Sprouts, Bacon and Shallots  $0    Sautéed Monterrey Style Sweet Corn  $0    Twice Baked Potato  $0    Crab Fried Rice with Mushrooms  $0    Truffled Macaroni and Cheese  $0    Heirloom Tomato Greek Salad  $0    Parmesan and Chive French Fries  $0    Sautéed Spinach  $0    Sugar Snaps with Portabellas  $0    Steamed Asparagus  $0    Au Gratin Potatoes  $0    Roasted Baby Beets and Candied Walnuts  $0    
+$1 louisiana oysters*	$0	Starter		Happy Hour Menu	Appetizers
+chilled gulf shrimp	$0	Starter		Happy Hour Menu	Appetizers
+pot stickers	$0	Starter		Happy Hour Menu	Appetizers
+jumbo lump crab cake	$0	Starter		Happy Hour Menu	Appetizers
+batterfried oysters	$0	Starter		Happy Hour Menu	Appetizers
+steak and lobster tartare*	$0	Starter		Happy Hour Menu	Appetizers
+point judith calamari	$0	Starter		Happy Hour Menu	Appetizers
+tartare of pacific ahi tuna*	$0	Starter		Happy Hour Menu	Appetizers
+lemon drop	$0	Drink		Happy Hour Menu	Premium Cocktails
+cosmopolitan	$0	Drink		Happy Hour Menu	Premium Cocktails
+green apple	$0	Drink		Happy Hour Menu	Premium Cocktails
+classic martini	$0	Drink		Happy Hour Menu	Premium Cocktails
+the original bacardi mojito	$0	Drink		Happy Hour Menu	Premium Cocktails
+el jimador traditional margarita	$0	Drink		Happy Hour Menu	Premium Cocktails
+la marca, prosecco	$0	Drink		Happy Hour Menu	Wines By the Glass
+indaba, chardonnay	$0	Drink		Happy Hour Menu	Wines By the Glass
+lorenza, rosé	$0	Drink		Happy Hour Menu	Wines By the Glass
+giacato, pinot grigio	$0	Drink		Happy Hour Menu	Wines By the Glass
+macedon, pinot noir	$0	Drink		Happy Hour Menu	Wines By the Glass
+louis martini, cabernet sauvignon	$0	Drink		Happy Hour Menu	Wines By the Glass
+francis ford coppola, merlot	$0	Drink		Happy Hour Menu	Wines By the Glass
+market oysters*	$0	Entree		Dinner Menu	Eddie V's Oyster Bar
+hawaiian yellowtail sashimi*	$0	Entree		Dinner Menu	Eddie V's Oyster Bar
+jumbo lump crab	$0	Entree		Dinner Menu	Eddie V's Oyster Bar
+chilled gulf shrimp	$0	Entree		Dinner Menu	Eddie V's Oyster Bar
+tartare of pacific ahi tuna*	$0	Entree		Dinner Menu	Eddie V's Oyster Bar
+chilled shellfish tower*	$0	Entree		Dinner Menu	Eddie V's Oyster Bar
+maine lobster tacos	$0	Starter		Dinner Menu	Appetizers
+point judith calamari	$0	Starter		Dinner Menu	Appetizers
+jumbo lump crab cake	$0	Starter		Dinner Menu	Appetizers
+pot stickers	$0	Starter		Dinner Menu	Appetizers
+batterfried oysters	$0	Starter		Dinner Menu	Appetizers
+steak and lobster tartare*	$0	Starter		Dinner Menu	Appetizers
+cold water lobster tail*	$0	Starter		Dinner Menu	Appetizers
+maine lobster and shrimp bisque	$0	Entree		Dinner Menu	Second Course
+crab and corn chowder	$0	Entree		Dinner Menu	Second Course
+wild mushroom salad	$0	Entree		Dinner Menu	Second Course
+iceberg blt	$0	Entree		Dinner Menu	Second Course
+fuji apple salad	$0	Entree		Dinner Menu	Second Course
+classic caesar salad	$0	Entree		Dinner Menu	Second Course
+heirloom tomato salad	$0	Entree		Dinner Menu	Second Course
+shrimp and crab chopped salad	$0	Entree		Dinner Menu	Second Course
+halibut filet	$0	Entree		Dinner Menu	Prime Seafood
+north atlantic lemon sole	$0	Entree		Dinner Menu	Prime Seafood
+chilean sea bass	$0	Entree		Dinner Menu	Prime Seafood
+scottish salmon*	$0	Entree		Dinner Menu	Prime Seafood
+pacific ahi tuna*	$0	Entree		Dinner Menu	Prime Seafood
+swordfish steak*	$0	Entree		Dinner Menu	Prime Seafood
+florida grouper	$0	Entree		Dinner Menu	Prime Seafood
+georges bank scallops*	$0	Entree		Dinner Menu	Prime Seafood
+jumbo gulf shrimp	$0	Entree		Dinner Menu	Prime Seafood
+sauteed red fish	$0	Entree		Dinner Menu	Prime Seafood
+market fresh fish	$0	Entree		Dinner Menu	Prime Seafood
+cold water lobster tails	$0	Entree		Dinner Menu	Prime Seafood
+roasted double breast of chicken	$0	Entree		Dinner Menu	Additional Entrées
+fresh market vegetables	$0	Entree		Dinner Menu	Additional Entrées
+8 oz center cut filet mignon*	$0	Entree		Dinner Menu	Premium Hand Cut Steaks
+22 oz usda prime bone-in ribeye*	$0	Entree		Dinner Menu	Premium Hand Cut Steaks
+12 oz center cut filet mignon*	$0	Entree		Dinner Menu	Premium Hand Cut Steaks
+16 oz usda prime new york strip*	$0	Entree		Dinner Menu	Premium Hand Cut Steaks
+8 oz filet mignon, roasted and sliced*	$0	Entree		Dinner Menu	Premium Hand Cut Steaks
+16 oz usda prime new york strip au poivre*	$0	Entree		Dinner Menu	Premium Hand Cut Steaks
+8 oz filet mignon and broiled cold water lobster tail*	$0	Entree		Dinner Menu	Premium Hand Cut Steaks
+au gratin potatoes	$0	Entree		Dinner Menu	Side Dishes
+broccolini with lemon and garlic	$0	Entree		Dinner Menu	Side Dishes
+sautéed monterrey style sweet corn	$0	Entree		Dinner Menu	Side Dishes
+twice baked potato with bacon and chives	$0	Entree		Dinner Menu	Side Dishes
+parmesan and chive french fries	$0	Entree		Dinner Menu	Side Dishes
+truffled macaroni and cheese	$0	Entree		Dinner Menu	Side Dishes
+sugar snap peas with portobellos	$0	Entree		Dinner Menu	Side Dishes
+steamed asparagus	$0	Entree		Dinner Menu	Side Dishes
+roasted baby beets and candied walnuts	$0	Entree		Dinner Menu	Side Dishes
+sautéed spinach with garlic and parmesan	$0	Entree		Dinner Menu	Side Dishes
+brussels sprouts, bacon and shallots	$0	Entree		Dinner Menu	Side Dishes
+crab fried rice with mushrooms and scallions	$0	Entree		Dinner Menu	Side Dishes
+dark chocolate and crushed toffee s'mores	$0	Dessert		Dessert Menu	House Made Desserts
+hot "bananas foster" butter cake	$0	Dessert		Dessert Menu	House Made Desserts
+hot blackberry cobbler	$0	Dessert		Dessert Menu	House Made Desserts
+butterscotch panna cotta	$0	Dessert		Dessert Menu	House Made Desserts
+hot chocolate godiva cake*	$0	Dessert		Dessert Menu	House Made Desserts
+creme brulee	$0	Dessert		Dessert Menu	House Made Desserts
+fresh seasonal berries	$0	Dessert		Dessert Menu	House Made Desserts
+sorbet and ice cream	$0	Dessert		Dessert Menu	House Made Desserts
+espresso	$0	Dessert		Dessert Menu	Dark Italian Roast
+cappuccino	$0	Dessert		Dessert Menu	Dark Italian Roast
+latte	$0	Dessert		Dessert Menu	Dark Italian Roast
+pot stickers	$0	Starter		Main Menu	Appetizers
+tartare of pacific ahi tuna	$0	Starter		Main Menu	Appetizers
+jumbo lump crab cake	$0	Starter		Main Menu	Appetizers
+point judith calamari	$0	Starter		Main Menu	Appetizers
+batterfried oysters	$0	Starter		Main Menu	Appetizers
+maine lobster tacos	$0	Starter		Main Menu	Appetizers
+charred prime steak carpaccio	$0	Starter		Main Menu	Appetizers
+maine lobster and shrimp bisque	$0	Entree		Main Menu	Second Course
+crab and corn chowder	$0	Entree		Main Menu	Second Course
+wild mushroom salad	$0	Entree		Main Menu	Second Course
+fuji apple salad	$0	Entree		Main Menu	Second Course
+baby iceberg blt	$0	Entree		Main Menu	Second Course
+classic caesar salad	$0	Entree		Main Menu	Second Course
+heirloom tomato salad	$0	Entree		Main Menu	Second Course
+seafood chopped salad	$0	Entree		Main Menu	Prime Seafood
+louisiana red fish	$0	Entree		Main Menu	Prime Seafood
+scottish salmon	$0	Entree		Main Menu	Prime Seafood
+pacific ahi tuna	$0	Entree		Main Menu	Prime Seafood
+pacific swordfish	$0	Entree		Main Menu	Prime Seafood
+north atlantic lemon sole	$0	Entree		Main Menu	Prime Seafood
+florida grouper	$0	Entree		Main Menu	Prime Seafood
+georges bank scallops	$0	Entree		Main Menu	Prime Seafood
+jumbo gulf shrimp	$0	Entree		Main Menu	Prime Seafood
+chilean sea bass	$0	Entree		Main Menu	Prime Seafood
+market fresh fish	$0	Entree		Main Menu	Prime Seafood
+cold water lobster	$0	Entree		Main Menu	Prime Seafood
+8 oz center cut filet mignon	$0	Entree		Main Menu	Premium Black Angus Steaks
+22 oz usda prime bone-in ribeye	$0	Entree		Main Menu	Premium Black Angus Steaks
+12 oz center cut filet mignon	$0	Entree		Main Menu	Premium Black Angus Steaks
+16 oz usda prime new york strip	$0	Entree		Main Menu	Premium Black Angus Steaks
+16 oz prime new york strip au poivre	$0	Entree		Main Menu	Premium Black Angus Steaks
+8 oz filet mignon and broiled cold water lobster tail	$0	Entree		Main Menu	Premium Black Angus Steaks
+roasted double breast of chicken	$0	Entree		Main Menu	Premium Black Angus Steaks
+oscar style	$0	Entree		Main Menu	Premium Black Angus Steaks - Add Ones
+carpet bag	$0	Entree		Main Menu	Premium Black Angus Steaks - Add Ones
+hollandaise or béarnaise	$0	Entree		Main Menu	Premium Black Angus Steaks - Add Ones
+louisiana oysters	$0	Entree		Main Menu	Ice-Cold Shellfish
+market oysters	$0	Entree		Main Menu	Ice-Cold Shellfish
+yellowtai l sashimi	$0	Entree		Main Menu	Ice-Cold Shellfish
+chi lled gul f shrimp	$0	Entree		Main Menu	Ice-Cold Shellfish
+jumbo lump crab	$0	Entree		Main Menu	Ice-Cold Shellfish
+shell fish tower	$0	Entree		Main Menu	Ice-Cold Shellfish
+broccolini with lemon and garlic	$0	Entree		Main Menu	Side Dishes
+brussel sprouts, bacon and shallots	$0	Entree		Main Menu	Side Dishes
+sautéed monterrey style sweet corn	$0	Entree		Main Menu	Side Dishes
+twice baked potato	$0	Entree		Main Menu	Side Dishes
+crab fried rice with mushrooms	$0	Entree		Main Menu	Side Dishes
+truffled macaroni and cheese	$0	Entree		Main Menu	Side Dishes
+heirloom tomato greek salad	$0	Entree		Main Menu	Side Dishes
+parmesan and chive french fries	$0	Entree		Main Menu	Side Dishes
+sautéed spinach	$0	Entree		Main Menu	Side Dishes
+sugar snaps with portabellas	$0	Entree		Main Menu	Side Dishes
+steamed asparagus	$0	Entree		Main Menu	Side Dishes
+au gratin potatoes	$0	Entree		Main Menu	Side Dishes
+roasted baby beets and candied walnuts	$0	Entree		Main Menu	Side Dishes
 
-id = 4e9ddbb461af4feab65a22a0
 name = Fricano's Deli & Catering
-location = lat = 30.288116364967536, lng = -97.74288770921683
-Address = [2405 Nueces St (24th Street), Austin, TX 78705]
-tag = Sandwich Place
-rating = 9.3
+Menu not available
 
-
-id = 509d6eaae4b083e9a4b268ff
 name = La Barbecue Cuisine Texicana
-location = lat = 30.257158996050464, lng = -97.72390955147556
-Address = [1906 E Cesar Chavez St (Chicon), Austin, TX 78702]
-tag = BBQ Joint
-rating = 9.3
+Menu not available
 
-
-id = 5047be93e4b0a21d2fa2e79b
 name = Pinthouse Pizza
-location = lat = 30.318644365168996, lng = -97.73914789672304
-Address = [4729 Burnet Rd, Austin, TX 78756]
-tag = Pizza Place
-rating = 9.3
+Menu not available
 
-
-id = 56a2e11e498e4ab3feb17449
 name = Pho Please
-location = lat = 30.24312668767139, lng = -97.72811528093416
-Address = [1920 E Riverside Dr, Austin, TX 78741]
-tag = Vietnamese Restaurant
-rating = 9.3
+Menu not available
 
-
-id = 4b328d28f964a520650e25e3
 name = Jack Allen's Kitchen
-location = lat = 30.243571399790277, lng = -97.8826904296875
-Address = [7720 W Highway 71, Austin, TX 78735]
-tag = American Restaurant
-rating = 9.3
-House Made Pimiento Cheese  $6.99    Chicken Nachitos  $8.99    Crunchy Catfish & Slaw  $11.99    Blt Sliders  $10.99    Red Chile Fries  $7.99    Spinach Gorgonzola Ravioli  $11.99    Bacon Wrapped Texas Quail  $15.99    Carl Miller's Layered Chunky Queso  $8.99    Smashed Guacamole  $8.99    Smoked Beef Rib Quesadilla  $8.99    Barbacoa Stackers  $9.99    Blue Crab Gratin  $10.99    Chips & Salsa  $2.99    Today's Soup  $3.99    Country Club Fancy Chicken Salad  $12.99    Buttermilk Fried Chicken Salad  $11.99    Twisted Cobb Salad  $12.99    "Wedgies" Salad  $8.99    Steak Salad  $15.99    Tom's House Salad  $3.99    Caesar Salad  $6.99    Grilled, Then Pickled Jalapeños  $0    Any House Made Salad Dressing  $0    Pimiento Cheese  $0    Pickled Beets  $0    Pumpkin Seed Pesto Marinated Chicken Breast  $13.99    Grilled Ruby Trout  $15.99    Baja Style Fish Tacos  $12.99    5 Cheese Macaroni and Chicken  $14.99    Grilled New York Strip*  $26.99    13 Spiced Chicken Pasta  $14.99    Crispy Salmon*  $18.99    Chorizo Stuffed Pork Tenderloin Medallions  $17.99    New York Strip*  $13.99    Chicken Breast  $11.99    Pork Chop  $13.99    Beef Ribs  $14.99    Green Chile Pork Tacos  $10.99    Premium Steak Tacos*  $15.99    Chile Mango Shrimp Tacos  $12.99    Slow Roasted Chicken Tinga  $10.99    Grilled Farm Fresh Veggies Plus Portobellas  $9.99    Killer Cheese Burger*  $10.99    Fat Jack Burger*  $10.99    Green Chile Cheese Burger*  $10.99    Sloppy Jack  $10.99    Gerald's Hippie Turkey Burger  $10.99    Grilled Veggie Sandwich  $9.99    House Frozen Margarita  $7.00    Jack's Signature House Rocks  $7.00    Flavored Frozen Margarita  $7.50    Ruta Rita  $7.50    Austin Rita  $7.50    Pomegranate Sage Rita  $8.00    Tom's Favorite  $8.50    Agave "Skinny" Cocktail  $9.00    Cucumber Jalapeño Rita  $9.00    Mango-Habanero Rita  $9.00    Ancho in the Morning  $9.50    Jack's Mexican Martini  $9.50    Moscow Mule  $7.50    Tito's Sage & Grapefruit Splash  $7.50    360 Twisted Tea  $7.50    Pomegranate and Basil Martini  $8.00    Round Rock Bee Keeper  $8.00    Deep Eddy Grapefruit Cooler  $8.00    Cruzan Black Cherry Mojito  $7.50    Prickly Pear Mojito  $7.50    Texas Sling  $8.00    Red Handed Smash N' Grab  $8.00    Eagle Rare Manhattan  $10.50    Circle Alibi Blonde  $0    Thirsty Goat Amber  $0    Stash I.P.a.  $0    (512) Pecan Porter  $0    Live Oak Hefeweizen  $0    Seasonal Draft  $0    Austin Beerworks Pearl-Snap  $0    Hops & Grain "Zoe"  $0    Fireman's 4  $0    Lone Star  $0    Shiner Bock  $0    Austin Eastciders Dry Cider  $0    Blue Moon  $0    Bud Light  $0    Coors Light  $0    Michelob Ultra  $0    Miller Lite  $0    Omission Pale Ale  $0    Corona Light  $0    Dos Equis Lager  $0    Stella Artois  $0    St. Pauli Girl N/a  $0    
+house made pimiento cheese	$6.99	Starter		Lunch & Dinner Menu	Starters
+chicken nachitos	$8.99	Starter		Lunch & Dinner Menu	Starters
+crunchy catfish & slaw	$11.99	Starter		Lunch & Dinner Menu	Starters
+blt sliders	$10.99	Starter		Lunch & Dinner Menu	Starters
+red chile fries	$7.99	Starter		Lunch & Dinner Menu	Starters
+spinach gorgonzola ravioli	$11.99	Starter		Lunch & Dinner Menu	Starters
+bacon wrapped texas quail	$15.99	Starter		Lunch & Dinner Menu	Starters
+carl miller's layered chunky queso	$8.99	Starter		Lunch & Dinner Menu	Starters
+smashed guacamole	$8.99	Starter		Lunch & Dinner Menu	Starters
+smoked beef rib quesadilla	$8.99	Starter		Lunch & Dinner Menu	Starters
+barbacoa stackers	$9.99	Starter		Lunch & Dinner Menu	Starters
+blue crab gratin	$10.99	Starter		Lunch & Dinner Menu	Starters
+chips & salsa	$2.99	Starter		Lunch & Dinner Menu	Starters
+today's soup	$3.99	Starter		Lunch & Dinner Menu	Starters
+country club fancy chicken salad	$12.99	Entree		Lunch & Dinner Menu	Git Yer Greens
+buttermilk fried chicken salad	$11.99	Entree		Lunch & Dinner Menu	Git Yer Greens
+twisted cobb salad	$12.99	Entree		Lunch & Dinner Menu	Git Yer Greens
+"wedgies" salad	$8.99	Entree		Lunch & Dinner Menu	Git Yer Greens
+steak salad	$15.99	Entree		Lunch & Dinner Menu	Git Yer Greens
+tom's house salad	$3.99	Entree		Lunch & Dinner Menu	Git Yer Greens
+caesar salad	$6.99	Entree		Lunch & Dinner Menu	Git Yer Greens
+grilled, then pickled jalapeños	$0	Entree		Lunch & Dinner Menu	Ice Cold Mason Jars
+any house made salad dressing	$0	Entree		Lunch & Dinner Menu	Ice Cold Mason Jars
+pimiento cheese	$0	Entree		Lunch & Dinner Menu	Ice Cold Mason Jars
+pickled beets	$0	Entree		Lunch & Dinner Menu	Ice Cold Mason Jars
+pumpkin seed pesto marinated chicken breast	$13.99	Entree		Lunch & Dinner Menu	Grillin's
+grilled ruby trout	$15.99	Entree		Lunch & Dinner Menu	Grillin's
+baja style fish tacos	$12.99	Entree		Lunch & Dinner Menu	Grillin's
+5 cheese macaroni and chicken	$14.99	Entree		Lunch & Dinner Menu	Grillin's
+grilled new york strip*	$26.99	Entree		Lunch & Dinner Menu	Grillin's
+13 spiced chicken pasta	$14.99	Entree		Lunch & Dinner Menu	Grillin's
+crispy salmon*	$18.99	Entree		Lunch & Dinner Menu	Grillin's
+chorizo stuffed pork tenderloin medallions	$17.99	Entree		Lunch & Dinner Menu	Grillin's
+new york strip*	$13.99	Entree		Lunch & Dinner Menu	Chicken Fried Anything
+chicken breast	$11.99	Entree		Lunch & Dinner Menu	Chicken Fried Anything
+pork chop	$13.99	Entree		Lunch & Dinner Menu	Chicken Fried Anything
+beef ribs	$14.99	Entree		Lunch & Dinner Menu	Chicken Fried Anything
+green chile pork tacos	$10.99	Entree		Lunch & Dinner Menu	South Texas Taco Platters
+premium steak tacos*	$15.99	Entree		Lunch & Dinner Menu	South Texas Taco Platters
+chile mango shrimp tacos	$12.99	Entree		Lunch & Dinner Menu	South Texas Taco Platters
+slow roasted chicken tinga	$10.99	Entree		Lunch & Dinner Menu	South Texas Taco Platters
+grilled farm fresh veggies plus portobellas	$9.99	Entree		Lunch & Dinner Menu	South Texas Taco Platters
+killer cheese burger*	$10.99	Entree		Lunch & Dinner Menu	In the Bun
+fat jack burger*	$10.99	Entree		Lunch & Dinner Menu	In the Bun
+green chile cheese burger*	$10.99	Entree		Lunch & Dinner Menu	In the Bun
+sloppy jack	$10.99	Entree		Lunch & Dinner Menu	In the Bun
+gerald's hippie turkey burger	$10.99	Entree		Lunch & Dinner Menu	In the Bun
+grilled veggie sandwich	$9.99	Entree		Lunch & Dinner Menu	In the Bun
+house frozen margarita	$7.00	Entree		Lunch & Dinner Menu	Margaritas
+jack's signature house rocks	$7.00	Entree		Lunch & Dinner Menu	Margaritas
+flavored frozen margarita	$7.50	Entree		Lunch & Dinner Menu	Margaritas
+ruta rita	$7.50	Entree		Lunch & Dinner Menu	Margaritas
+austin rita	$7.50	Entree		Lunch & Dinner Menu	Margaritas
+pomegranate sage rita	$8.00	Entree		Lunch & Dinner Menu	Margaritas
+tom's favorite	$8.50	Entree		Lunch & Dinner Menu	Margaritas
+agave "skinny" cocktail	$9.00	Entree		Lunch & Dinner Menu	Margaritas
+cucumber jalapeño rita	$9.00	Entree		Lunch & Dinner Menu	Margaritas
+mango-habanero rita	$9.00	Entree		Lunch & Dinner Menu	Margaritas
+ancho in the morning	$9.50	Entree		Lunch & Dinner Menu	Margaritas
+jack's mexican martini	$9.50	Entree		Lunch & Dinner Menu	Margaritas
+moscow mule	$7.50	Entree		Lunch & Dinner Menu	Homegrown Favorites
+tito's sage & grapefruit splash	$7.50	Entree		Lunch & Dinner Menu	Homegrown Favorites
+360 twisted tea	$7.50	Entree		Lunch & Dinner Menu	Homegrown Favorites
+pomegranate and basil martini	$8.00	Entree		Lunch & Dinner Menu	Homegrown Favorites
+round rock bee keeper	$8.00	Entree		Lunch & Dinner Menu	Homegrown Favorites
+deep eddy grapefruit cooler	$8.00	Entree		Lunch & Dinner Menu	Homegrown Favorites
+cruzan black cherry mojito	$7.50	Entree		Lunch & Dinner Menu	Sippin' Sauce
+prickly pear mojito	$7.50	Entree		Lunch & Dinner Menu	Sippin' Sauce
+texas sling	$8.00	Entree		Lunch & Dinner Menu	Sippin' Sauce
+red handed smash n' grab	$8.00	Entree		Lunch & Dinner Menu	Sippin' Sauce
+eagle rare manhattan	$10.50	Entree		Lunch & Dinner Menu	Sippin' Sauce
+circle alibi blonde	$0	Entree		Lunch & Dinner Menu	Texas On Tap
+thirsty goat amber	$0	Entree		Lunch & Dinner Menu	Texas On Tap
+stash i.p.a.	$0	Entree		Lunch & Dinner Menu	Texas On Tap
+(512) pecan porter	$0	Entree		Lunch & Dinner Menu	Texas On Tap
+live oak hefeweizen	$0	Entree		Lunch & Dinner Menu	Texas On Tap
+seasonal draft	$0	Entree		Lunch & Dinner Menu	Texas On Tap
+austin beerworks pearl-snap	$0	Entree		Lunch & Dinner Menu	Texas
+hops & grain "zoe"	$0	Entree		Lunch & Dinner Menu	Texas
+fireman's 4	$0	Entree		Lunch & Dinner Menu	Texas
+lone star	$0	Entree		Lunch & Dinner Menu	Texas
+shiner bock	$0	Entree		Lunch & Dinner Menu	Texas
+austin eastciders dry cider	$0	Entree		Lunch & Dinner Menu	Texas
+blue moon	$0	Entree		Lunch & Dinner Menu	Domestic
+bud light	$0	Entree		Lunch & Dinner Menu	Domestic
+coors light	$0	Entree		Lunch & Dinner Menu	Domestic
+michelob ultra	$0	Entree		Lunch & Dinner Menu	Domestic
+miller lite	$0	Entree		Lunch & Dinner Menu	Domestic
+omission pale ale	$0	Entree		Lunch & Dinner Menu	Domestic
+corona light	$0	Entree		Lunch & Dinner Menu	Imports
+dos equis lager	$0	Entree		Lunch & Dinner Menu	Imports
+stella artois	$0	Entree		Lunch & Dinner Menu	Imports
+st. pauli girl n/a	$0	Entree		Lunch & Dinner Menu	Imports
 
-id = 43598100f964a520eb281fe3
 name = Moonshine Patio Bar & Grill
-location = lat = 30.26393650574683, lng = -97.73804986182492
-Address = [303 Red River St (at E 3rd St), Austin, TX 78701]
-tag = American Restaurant
-rating = 9.3
-Old Fashioned  $6.50    Hard Lemonade  $7.50    Silvermoon Margarita  $7.50    Ruby Slipper Martini  $7.50    The Waterloo  $8.00    White Lightning  $5.00    Moonshine Corn Dog Shrimp  $10.95    Homemade Potato Chips  $6.95    Roasted Garlic Bulbs  $8.95    Beer Battered Asparagus  $9.95    Warm Brie  $9.95    Crispy Calamari  $11.95    Spinach & Artichoke Fondue  $9.95    Chicken Tortilla Soup  $3.50    Cornflake Fried Chicken Salad  $12.95    Fajita Steak Salad  $13.95    Waldorf Salad  $10.95    Berkeley House Salad  $5.95    Seasonal Spinach Salad  $6.95    Classic Caesar Salad  $5.50    Pecan Crusted Catfish  $18.95    Broiled Rainbow Trout  $22.95    Horseradish Crusted Salmon  $20.95    Smoked Half Chicken  $14.95    Pan-Fried Chicken Almondine  $14.95    Buffalo Meatloaf  $15.95    Molasses & Chile Cured Pork Chop  $20.95    Chicken Fried Steak  $16.95    Jalapeno Hanger Steak  $21.95    Texas Flat Iron Steak  $22.95    Green Chile Macaroni  $14.95    Southern Fried Chicken & Waffles  $12.95    Backyard Chicken Sandwich  $12.95    Turkey Melt Sandwich  $10.95    Big Reds Blt  $10.95    Cheeseburger  $11.95    The Bohemian  $10.95    Hand-Cut Steak Fries  $3.95    Mashed Potatoes  $3.95    Baked Macaroni  $3.95    Red Beans & Rice  $3.95    Roasted Sweet Potatoes  $3.95    Green Chile Cheddar Grits  $3.95    White Chocolate Bread Pudding  $9.95    Peanut Butter Mousse Pie  $9.95    Fudge Stout Brownie  $9.95    Signature Skillet Apple Pie  $11.95    
+old fashioned	$6.50	Drink		Dinner Menu	Patio Cocktails
+hard lemonade	$7.50	Drink		Dinner Menu	Patio Cocktails
+silvermoon margarita	$7.50	Drink		Dinner Menu	Patio Cocktails
+ruby slipper martini	$7.50	Drink		Dinner Menu	Patio Cocktails
+the waterloo	$8.00	Drink		Dinner Menu	Patio Cocktails
+white lightning	$5.00	Drink		Dinner Menu	Patio Cocktails
+moonshine corn dog shrimp	$10.95	Starter		Dinner Menu	Starters
+homemade potato chips	$6.95	Starter		Dinner Menu	Starters
+roasted garlic bulbs	$8.95	Starter		Dinner Menu	Starters
+beer battered asparagus	$9.95	Starter		Dinner Menu	Starters
+warm brie	$9.95	Starter		Dinner Menu	Starters
+crispy calamari	$11.95	Starter		Dinner Menu	Starters
+spinach & artichoke fondue	$9.95	Starter		Dinner Menu	Starters
+chicken tortilla soup	$3.50	Starter		Dinner Menu	Starters
+cornflake fried chicken salad	$12.95	Starter		Dinner Menu	Salads
+fajita steak salad	$13.95	Starter		Dinner Menu	Salads
+waldorf salad	$10.95	Starter		Dinner Menu	Salads
+berkeley house salad	$5.95	Starter		Dinner Menu	Salads
+seasonal spinach salad	$6.95	Starter		Dinner Menu	Salads
+classic caesar salad	$5.50	Starter		Dinner Menu	Salads
+pecan crusted catfish	$18.95	Entree		Dinner Menu	Platters
+broiled rainbow trout	$22.95	Entree		Dinner Menu	Platters
+horseradish crusted salmon	$20.95	Entree		Dinner Menu	Platters
+smoked half chicken	$14.95	Entree		Dinner Menu	Platters
+pan-fried chicken almondine	$14.95	Entree		Dinner Menu	Platters
+buffalo meatloaf	$15.95	Entree		Dinner Menu	Platters
+molasses & chile cured pork chop	$20.95	Entree		Dinner Menu	Platters
+chicken fried steak	$16.95	Entree		Dinner Menu	Platters
+jalapeno hanger steak	$21.95	Entree		Dinner Menu	Platters
+texas flat iron steak	$22.95	Entree		Dinner Menu	Platters
+green chile macaroni	$14.95	Entree		Dinner Menu	Platters
+southern fried chicken & waffles	$12.95	Entree		Dinner Menu	Platters
+backyard chicken sandwich	$12.95	Entree		Dinner Menu	Sandwiches
+turkey melt sandwich	$10.95	Entree		Dinner Menu	Sandwiches
+big reds blt	$10.95	Entree		Dinner Menu	Sandwiches
+cheeseburger	$11.95	Entree		Dinner Menu	Sandwiches
+the bohemian	$10.95	Entree		Dinner Menu	Sandwiches
+hand-cut steak fries	$3.95	Entree		Dinner Menu	Sides
+mashed potatoes	$3.95	Entree		Dinner Menu	Sides
+baked macaroni	$3.95	Entree		Dinner Menu	Sides
+red beans & rice	$3.95	Entree		Dinner Menu	Sides
+roasted sweet potatoes	$3.95	Entree		Dinner Menu	Sides
+green chile cheddar grits	$3.95	Entree		Dinner Menu	Sides
+white chocolate bread pudding	$9.95	Dessert		Dinner Menu	Sweets
+peanut butter mousse pie	$9.95	Dessert		Dinner Menu	Sweets
+fudge stout brownie	$9.95	Dessert		Dinner Menu	Sweets
+signature skillet apple pie	$11.95	Dessert		Dinner Menu	Sweets
 
-id = 4a06e4cbf964a52009731fe3
 name = FoodHeads
-location = lat = 30.30073176666667, lng = -97.74041533470154
-Address = [616 W 34th St (btwn Guadalupe St. & King St.), Austin, TX 78705]
-tag = Sandwich Place
-rating = 9.3
-
+Menu not available
 

@@ -1,240 +1,1724 @@
-id = 5653d9bb498e337169c18222
 name = Paperboy
-location = lat = 30.268586532161734, lng = -97.7275106587042
-Address = [1203 E 11th St, Austin, TX]
-tag = Food Truck
-rating = 9.1
+Menu not available
 
-
-id = 4ebde0756da15b4dde251bc7
 name = Hey!...You Gonna Eat Or What?
-location = lat = 30.263462130165582, lng = -97.76290570985785
-Address = [1720 Barton Springs Rd, Austin, TX 78704]
-tag = Food Truck
-rating = 9.1
+Menu not available
 
-
-id = 54b5dc15498e330dbf54dc33
 name = Ramen Tatsu-ya
-location = lat = 30.25393, lng = -97.7632
-Address = [1234 S Lamar Blvd, Austin, TX 78704]
-tag = Noodle House
-rating = 9.1
+Menu not available
 
-
-id = 40ec8e80f964a5202b0a1fe3
 name = Magnolia Cafe South
-location = lat = 30.24449825100856, lng = -97.75188446044922
-Address = [1920 S Congress Ave (at E. Mary St.), Austin, TX 78704]
-tag = Diner
-rating = 9.1
-Chips & Salsa  $3.75    Chips & Queso & Salsa  $7.25    Mag Queso, Chips & Salsa  $8.75    Mag Mud, Chips & Salsa  $8.95    Sonora Queso, Chips & Salsa  $8.95    Super Nachos  $6.95    Super Deluxe Nachos*  $7.95    Spinach Artichoke Dip  $8.95    Wine  $0    Beer & Mimosas  $0    Cheese Quesadillas  $6.95    Flamingo Quesadillas  $7.50    Chicken Quesadillas  $7.75    Sonora Quesadillas  $7.75    Popeye Quesadillas  $7.75    Martian Landscape  $5.95    Neptunian Landscape  $6.95    Saturnine Landscape  $6.95    Dinner Salad  $3.75    Chef Salad  $9.95    Greek Salad  $9.50    Tuna Pecan Salad  $10.50    Baton Rouge Salad  $10.95    California Salad  $10.95    Hummus and Tabouli Plate  $9.75    Soups  $3.50    Alfredo Pasta  $11.25    Carbonara Pasta  $13.00    Pasta Caspian  $13.00    Love Veggies  $10.25    Mac & Cheese  $9.50    Black Bean Entree  $8.25    Magnolia Stir Fry  $10.25    Cabo San Lucas  $11.95    Chicken Fajitas  $11.50    Tropical Turkey Taco  $6.95    Sonora Taco  $6.95    Bbq Chicken Taco  $9.50    Chicken Taco  $6.95    Fish Taco  $7.25    Veggie Taco  $6.95    Cheese Enchiladas  $7.95    Chicken Enchiladas  $9.95    Sonora Enchiladas  $9.95    Magnolia Enchiladas  $9.95    Garden Enchiladas  $9.95    Bbq Chicken Enchiladas  $9.95    The Club  $9.95    Tuna Melt  $9.50    Magna Cristo  $10.50    Flamingo  $7.50    Turkey Reuben  $9.50    Veggie Reuben  $8.50    Turkey Melt  $9.50    Hummus Veggie Wrap  $8.95    Grilled Chicken*  $8.50    Voodoo Chicken*  $8.50    Newport Chicken* Club  $10.25    Tony Chicken* Sandwich  $9.25    Swiss, Cheddar/jack Or Blue Cheese  $1.00    1/4 Avocado  $1.95    2 Bacon Strips*  $2.00    Tony Mix  $0.75    Jalapeños Or Green Chilis  $0.75    Regular Burger*  $7.75    Cheeseburger*  $8.75    Jalapeño Cheese Burger*  $8.95    Bacon* Swiss Burger*  $9.50    Mushroom Swiss Burger*  $8.95    Voodoo Blue Cheese Burger*  $8.95    Tony Burger*  $9.75    Magnolia Brownie  $3.95    Chocolate Chip Pancake (One)  $4.45    A La Mode  $2.50    French Toast a La Mode (4 Triangles)  $6.75    Mocha Float  $4.95    Root Beer Float  $4.25    Chips & Salsa  $3.75    Chips & Queso & Salsa  $7.25    Mag Queso, Chips & Salsa  $8.75    Mag Mud, Chips & Salsa  $8.95    Sonora Queso, Chips & Salsa  $8.95    Super Deluxe Nachos  $7.95    Martian Landscape  $5.95    Saturnine Landscape  $6.95    Chef Salad  $9.95    Greek Salad  $9.50    Tuna Pecan Salad  $10.50    Baton Rouge Salad  $10.95    California Salad  $10.95    Hummus and Tabouli Plate  $9.75    Magnolia Stir Fry  $10.25    Love Veggies  $10.25    Tropical Turkey Taco  $6.95    Sonora Taco  $6.95    Chicken Taco  $6.95    Fish Taco  $7.25    Veggie Taco  $6.50    Chicken Fajitas  $11.50    Cheese Enchiladas  $7.95    Magnolia Enchiladas  $9.95    Chicken Enchiladas  $9.95    Sonora Enchiladas  $9.95    Eggs* Benedict  $9.95    Eggs* Florentine  $9.95    Alaskan Benedict  $10.95    Texas Benedict  $9.95    Sour Cream and Broccoli Frittata  $8.95    Mimosa  $4.25    Magmosa  $4.25    Magnolia Bellini  $4.25    Pure Vermont Maple Syrup  $2.75    Kid Breakfast  $4.25    Kid French Toast  $4.00    Kid Burger  $5.25    Mac & Cheese  $5.00    Kid Grilled Cheese  $3.50    Kid Nachos  $3.00    Kid Quesadilla  $3.25    Hummus and Tabouli  $0    Hummus Veggie Wrap  $0    Greek Salad  $0    Black Bean Entrée  $0    Veggie Taco  $0    Black Beans  $0    Chef Salad  $0    California Salad  $0    Stir Fry  $0    Love Veggies  $0    Oatmeal  $0    Toast  $0    Veggie Ruben  $0    Flamingo Sandwich  $0    Side Steamed Vegetables  $0    Side Raw Vegetables  $0    Side Avocado  $0    Fresh Fruit  $0    Spanish Rice  $0    Brown Rice  $0    Entrée Salad  $0    Dinner Salad  $0    Tofu - Steamed Or Pan-Fried in Oil  $0    Pico De Gallo  $0    Hummus  $0    Quinoa Tabouli  $0    Lime Cilantro Vinaigrette (Contains Refined Sugar)  $0    Vinaigrette  $0    Olive Oil and Balsamic Vinegar  $0    Hot Sauce  $0    Chipotle Sauce  $0    Heinz Ketchup  $0    Cholula Sauce  $0    Soy Sauce  $0    Pork Dumplings  $8.00    Kale Salad  $11.00    Noodle Salad  $11.00    The Big Tender  $15.00    Diablo Chops  $15.50    The Lawyer's Lunch  $15.50    Mariner's Ravioli  $16.00    Shrimp and Grits  $14.00    From Salmon with Love  $15.00    Texas Trout  $15.00    Chicken Piccata  $13.00    Shepherds Pie  $13.00    Paul's Acorn Squash  $13.00    Love Spinach  $0    Brussel Sprout Hash  $0    Garlic Mashed Potatoes  $0    Garlic and Ginger Roasted Beets & Carrots  $0    Spiced Sweet Potato Home Fries  $0    Grilled Vegetable Medley  $0    Big Dipper  $10.00    Edwards Queso  $9.00    Pork Dumplings  $8.00    Burrito Supreme  $9.00    Steak & Eggs  $11.50    Sloppy Burger  $10.75    Philly Cheesesteak  $10.00    Fried Egg Sandwich  $7.25    The Alien  $8.00    Late-Night Breakfast Tacos  $8.00    Late-Night Omelette  $9.00    Late-Night Cakes  $7.25    
+chips & salsa	$3.75	Starter		Main Menu	Appetizers
+chips & queso & salsa	$7.25	Starter		Main Menu	Appetizers
+mag queso, chips & salsa	$8.75	Starter		Main Menu	Appetizers
+mag mud, chips & salsa	$8.95	Starter		Main Menu	Appetizers
+sonora queso, chips & salsa	$8.95	Starter		Main Menu	Appetizers
+super nachos	$6.95	Starter		Main Menu	Appetizers
+super deluxe nachos*	$7.95	Starter		Main Menu	Appetizers
+spinach artichoke dip	$8.95	Entree		Main Menu	Featured Item
+wine	$0	Drink		Main Menu	Featured Drinks
+beer & mimosas	$0	Drink		Main Menu	Featured Drinks
+cheese quesadillas	$6.95	Entree		Main Menu	Quesadillas
+flamingo quesadillas	$7.50	Entree		Main Menu	Quesadillas
+chicken quesadillas	$7.75	Entree		Main Menu	Quesadillas
+sonora quesadillas	$7.75	Entree		Main Menu	Quesadillas
+popeye quesadillas	$7.75	Entree		Main Menu	Quesadillas
+martian landscape	$5.95	Entree		Main Menu	Landscapes
+neptunian landscape	$6.95	Entree		Main Menu	Landscapes
+saturnine landscape	$6.95	Entree		Main Menu	Landscapes
+dinner salad	$3.75	Starter		Main Menu	Salads
+chef salad	$9.95	Starter		Main Menu	Salads
+greek salad	$9.50	Starter		Main Menu	Salads
+tuna pecan salad	$10.50	Starter		Main Menu	Salads
+baton rouge salad	$10.95	Starter		Main Menu	Salads
+california salad	$10.95	Starter		Main Menu	Salads
+hummus and tabouli plate	$9.75	Starter		Main Menu	Salads
+soups	$3.50	Starter		Main Menu	Soups
+alfredo pasta	$11.25	Entree		Main Menu	House Specials
+carbonara pasta	$13.00	Entree		Main Menu	House Specials
+pasta caspian	$13.00	Entree		Main Menu	House Specials
+love veggies	$10.25	Entree		Main Menu	House Specials
+mac & cheese	$9.50	Entree		Main Menu	House Specials
+black bean entree	$8.25	Entree		Main Menu	House Specials
+magnolia stir fry	$10.25	Entree		Main Menu	House Specials
+cabo san lucas	$11.95	Entree		Main Menu	House Specials
+chicken fajitas	$11.50	Entree		Main Menu	House Specials
+tropical turkey taco	$6.95	Entree		Main Menu	Tacos
+sonora taco	$6.95	Entree		Main Menu	Tacos
+bbq chicken taco	$9.50	Entree		Main Menu	Tacos
+chicken taco	$6.95	Entree		Main Menu	Tacos
+fish taco	$7.25	Entree		Main Menu	Tacos
+veggie taco	$6.95	Entree		Main Menu	Tacos
+cheese enchiladas	$7.95	Entree		Main Menu	Enchiladas
+chicken enchiladas	$9.95	Entree		Main Menu	Enchiladas
+sonora enchiladas	$9.95	Entree		Main Menu	Enchiladas
+magnolia enchiladas	$9.95	Entree		Main Menu	Enchiladas
+garden enchiladas	$9.95	Entree		Main Menu	Enchiladas
+bbq chicken enchiladas	$9.95	Entree		Main Menu	Enchiladas
+the club	$9.95	Entree		Main Menu	Sandwiches
+tuna melt	$9.50	Entree		Main Menu	Sandwiches
+magna cristo	$10.50	Entree		Main Menu	Sandwiches
+flamingo	$7.50	Entree		Main Menu	Sandwiches
+turkey reuben	$9.50	Entree		Main Menu	Sandwiches
+veggie reuben	$8.50	Entree		Main Menu	Sandwiches
+turkey melt	$9.50	Entree		Main Menu	Sandwiches
+hummus veggie wrap	$8.95	Entree		Main Menu	Sandwiches
+grilled chicken*	$8.50	Entree		Main Menu	Chicken Sandwiches
+voodoo chicken*	$8.50	Entree		Main Menu	Chicken Sandwiches
+newport chicken* club	$10.25	Entree		Main Menu	Chicken Sandwiches
+tony chicken* sandwich	$9.25	Entree		Main Menu	Chicken Sandwiches
+swiss, cheddar/jack or blue cheese	$1.00	Entree		Main Menu	To Any Sandwich Or Burger Add
+1/4 avocado	$1.95	Entree		Main Menu	To Any Sandwich Or Burger Add
+2 bacon strips*	$2.00	Entree		Main Menu	To Any Sandwich Or Burger Add
+tony mix	$0.75	Entree		Main Menu	To Any Sandwich Or Burger Add
+jalapeños or green chilis	$0.75	Entree		Main Menu	To Any Sandwich Or Burger Add
+regular burger*	$7.75	Entree		Main Menu	Burgers Beef, Garden, Or Bison
+cheeseburger*	$8.75	Entree		Main Menu	Burgers Beef, Garden, Or Bison
+jalapeño cheese burger*	$8.95	Entree		Main Menu	Burgers Beef, Garden, Or Bison
+bacon* swiss burger*	$9.50	Entree		Main Menu	Burgers Beef, Garden, Or Bison
+mushroom swiss burger*	$8.95	Entree		Main Menu	Burgers Beef, Garden, Or Bison
+voodoo blue cheese burger*	$8.95	Entree		Main Menu	Burgers Beef, Garden, Or Bison
+tony burger*	$9.75	Entree		Main Menu	Burgers Beef, Garden, Or Bison
+magnolia brownie	$3.95	Dessert		Main Menu	Desserts
+chocolate chip pancake (one)	$4.45	Dessert		Main Menu	Desserts
+a la mode	$2.50	Dessert		Main Menu	Desserts
+french toast a la mode (4 triangles)	$6.75	Dessert		Main Menu	Desserts
+mocha float	$4.95	Dessert		Main Menu	Desserts
+root beer float	$4.25	Dessert		Main Menu	Desserts
+chips & salsa	$3.75	Starter		Gluten Free	Appetizers
+chips & queso & salsa	$7.25	Starter		Gluten Free	Appetizers
+mag queso, chips & salsa	$8.75	Starter		Gluten Free	Appetizers
+mag mud, chips & salsa	$8.95	Starter		Gluten Free	Appetizers
+sonora queso, chips & salsa	$8.95	Starter		Gluten Free	Appetizers
+super deluxe nachos	$7.95	Starter		Gluten Free	Appetizers
+martian landscape	$5.95	Starter		Gluten Free	Appetizers
+saturnine landscape	$6.95	Starter		Gluten Free	Appetizers
+chef salad	$9.95	Starter		Gluten Free	Salads
+greek salad	$9.50	Starter		Gluten Free	Salads
+tuna pecan salad	$10.50	Starter		Gluten Free	Salads
+baton rouge salad	$10.95	Starter		Gluten Free	Salads
+california salad	$10.95	Starter		Gluten Free	Salads
+hummus and tabouli plate	$9.75	Starter		Gluten Free	Salads
+magnolia stir fry	$10.25	Entree		Gluten Free	House Specialties
+love veggies	$10.25	Entree		Gluten Free	House Specialties
+tropical turkey taco	$6.95	Entree		Gluten Free	Tex-Mex
+sonora taco	$6.95	Entree		Gluten Free	Tex-Mex
+chicken taco	$6.95	Entree		Gluten Free	Tex-Mex
+fish taco	$7.25	Entree		Gluten Free	Tex-Mex
+veggie taco	$6.50	Entree		Gluten Free	Tex-Mex
+chicken fajitas	$11.50	Entree		Gluten Free	Tex-Mex
+cheese enchiladas	$7.95	Entree		Gluten Free	Tex-Mex
+magnolia enchiladas	$9.95	Entree		Gluten Free	Tex-Mex
+chicken enchiladas	$9.95	Entree		Gluten Free	Tex-Mex
+sonora enchiladas	$9.95	Entree		Gluten Free	Tex-Mex
+eggs* benedict	$9.95	Entree		Brunch	Main
+eggs* florentine	$9.95	Entree		Brunch	Main
+alaskan benedict	$10.95	Entree		Brunch	Main
+texas benedict	$9.95	Entree		Brunch	Main
+sour cream and broccoli frittata	$8.95	Entree		Brunch	Main
+mimosa	$4.25	Entree		Brunch	Main
+magmosa	$4.25	Entree		Brunch	Main
+magnolia bellini	$4.25	Entree		Brunch	Main
+pure vermont maple syrup	$2.75	Entree		Brunch	Main
+kid breakfast	$4.25	Kids		Kids	Main
+kid french toast	$4.00	Kids		Kids	Main
+kid burger	$5.25	Kids		Kids	Main
+mac & cheese	$5.00	Kids		Kids	Main
+kid grilled cheese	$3.50	Kids		Kids	Main
+kid nachos	$3.00	Kids		Kids	Main
+kid quesadilla	$3.25	Kids		Kids	Main
+hummus and tabouli	$0	Vegtarian		Vegan	Main
+hummus veggie wrap	$0	Vegtarian		Vegan	Main
+greek salad	$0	Vegtarian		Vegan	Featured Items
+black bean entrée	$0	Vegtarian		Vegan	Featured Items
+veggie taco	$0	Vegtarian		Vegan	Featured Items
+black beans	$0	Vegtarian		Vegan	Featured Items
+chef salad	$0	Vegtarian		Vegan	Featured Items
+california salad	$0	Vegtarian		Vegan	Featured Items
+stir fry	$0	Vegtarian		Vegan	Featured Items
+love veggies	$0	Vegtarian		Vegan	Featured Items
+oatmeal	$0	Vegtarian		Vegan	Featured Items
+toast	$0	Vegtarian		Vegan	Featured Items
+veggie ruben	$0	Vegtarian		Vegan	Featured Items
+flamingo sandwich	$0	Vegtarian		Vegan	Featured Items
+side steamed vegetables	$0	Vegtarian		Vegan	A La Carte
+side raw vegetables	$0	Vegtarian		Vegan	A La Carte
+side avocado	$0	Vegtarian		Vegan	A La Carte
+fresh fruit	$0	Vegtarian		Vegan	A La Carte
+spanish rice	$0	Vegtarian		Vegan	A La Carte
+brown rice	$0	Vegtarian		Vegan	A La Carte
+entrée salad	$0	Vegtarian		Vegan	A La Carte
+dinner salad	$0	Vegtarian		Vegan	A La Carte
+tofu - steamed or pan-fried in oil	$0	Vegtarian		Vegan	A La Carte
+pico de gallo	$0	Vegtarian		Vegan	A La Carte
+hummus	$0	Vegtarian		Vegan	A La Carte
+quinoa tabouli	$0	Vegtarian		Vegan	A La Carte
+lime cilantro vinaigrette (contains refined sugar)	$0	Vegtarian		Vegan	Sauces and Dressings
+vinaigrette	$0	Vegtarian		Vegan	Sauces and Dressings
+olive oil and balsamic vinegar	$0	Vegtarian		Vegan	Sauces and Dressings
+hot sauce	$0	Vegtarian		Vegan	Sauces and Dressings
+chipotle sauce	$0	Vegtarian		Vegan	Sauces and Dressings
+heinz ketchup	$0	Vegtarian		Vegan	Sauces and Dressings
+cholula sauce	$0	Vegtarian		Vegan	Sauces and Dressings
+soy sauce	$0	Vegtarian		Vegan	Sauces and Dressings
+pork dumplings	$8.00	Entree		Dinnertime	To Start with
+kale salad	$11.00	Entree		Dinnertime	To Start with
+noodle salad	$11.00	Entree		Dinnertime	To Start with
+the big tender	$15.00	Entree		Dinnertime	From the Land
+diablo chops	$15.50	Entree		Dinnertime	From the Land
+the lawyer's lunch	$15.50	Entree		Dinnertime	From the Land
+mariner's ravioli	$16.00	Entree		Dinnertime	From the Water
+shrimp and grits	$14.00	Entree		Dinnertime	From the Water
+from salmon with love	$15.00	Entree		Dinnertime	From the Water
+texas trout	$15.00	Entree		Dinnertime	From the Water
+chicken piccata	$13.00	Entree		Dinnertime	Local Favorites
+shepherds pie	$13.00	Entree		Dinnertime	Local Favorites
+paul's acorn squash	$13.00	Entree		Dinnertime	Local Favorites
+love spinach	$0	Entree		Dinnertime	A Quick Aside
+brussel sprout hash	$0	Entree		Dinnertime	A Quick Aside
+garlic mashed potatoes	$0	Entree		Dinnertime	A Quick Aside
+garlic and ginger roasted beets & carrots	$0	Entree		Dinnertime	A Quick Aside
+spiced sweet potato home fries	$0	Entree		Dinnertime	A Quick Aside
+grilled vegetable medley	$0	Entree		Dinnertime	A Quick Aside
+big dipper	$10.00	Starter		Late Night	Appetizers
+edwards queso	$9.00	Starter		Late Night	Appetizers
+pork dumplings	$8.00	Starter		Late Night	Appetizers
+burrito supreme	$9.00	Entree		Late Night	Main Courses
+steak & eggs	$11.50	Entree		Late Night	Main Courses
+sloppy burger	$10.75	Entree		Late Night	Sandwiches
+philly cheesesteak	$10.00	Entree		Late Night	Sandwiches
+fried egg sandwich	$7.25	Entree		Late Night	Sandwiches
+the alien	$8.00	Entree		Late Night	Breakfast
+late-night breakfast tacos	$8.00	Entree		Late Night	Breakfast
+late-night omelette	$9.00	Entree		Late Night	Breakfast
+late-night cakes	$7.25	Entree		Late Night	Breakfast
 
-id = 4cfb052934c1a09356f5430e
 name = The Peached Tortilla
-location = lat = 30.330784269280546, lng = -97.74011863748294
-Address = [5520 Burnet Rd (5200 Burnet Rd), Austin, TX 78756]
-tag = Asian Restaurant
-rating = 9.1
+Menu not available
 
-
-id = 5728ef0f498e5d75bbd319e9
 name = Hanabi
-location = lat = 30.386728157906646, lng = -97.74187979694561
-Address = [9503 Research Blvd, Austin, TX]
-tag = Asian Restaurant
-rating = 9.1
+Menu not available
 
-
-id = 42e03700f964a52061261fe3
 name = Chuy's
-location = lat = 30.26389362903769, lng = -97.76326123589521
-Address = [1728 Barton Springs Rd (Sterzing St.), Austin, TX 78704]
-tag = Mexican Restaurant
-rating = 9.1
-Rice  $1.39    Beans  $1.39    Salsa Fresca  $2.69    Creamy Jalapeno  $3.59    Sauces  $3.49    Tortillas  $1.50    The Big Daddio  $13.99    The Mamacita  $10.99    Peace, Love & Enchiladas  $9.29    The Chiquito Burrito  $7.69    Taco Salad  $8.99    Mexi-Cobb Salad  $9.49    Chile Con Queso  $6.59    Guacamole  $5.99    Chicken Flautas  $12.29    Quesadillas  $20.99    Deluxe Quesadillas  $24.69    Iced Tea  $8.49    Tex-Mex  $0    Ranchero  $0    Tomatillo  $0    Deluxe Tomatillo  $0    Green Chile  $0    Hatch Green Chile  $0    Chile Con Queso  $6.79    Queso Compuesto  $7.29    Guacamole*  $5.99    Nachos*  $7.29    Special Nachos*  $8.59    Panchos  $9.59    Quesadillas*  $7.49    Deluxe Quesadillas  $8.79    Appetizer Plate  $9.99    Taco Salad  $8.99    Grilled Chicken Salad  $9.49    Mexi-Cobb Salad  $9.49    Large Dinner Salad  $4.99    Tortilla Soup  $4.49    Tex-Mex Salad Combinations  $8.99    Soft Tacos  $8.69    Crispy Tacos  $8.49    Tacos Al Carbon  $10.29    Baja Tacos  $9.69    Bean and Cheese*  $8.69    Seasoned Ground Sirloin  $8.99    Fresh, Oven-Roasted Chicken  $9.79    Fajita Chicken Or Fajita Beef  $10.49    Chuychanga  $10.29    Steak Burrito  $10.89    Chicken Flautas  $8.49    Elvis Green Chile Fried Chicken  $9.99    Cheese*  $9.59    Seasoned Ground Sirloin  $9.79    Fresh, Oven-Roasted Chicken & Cheese  $9.89    Shrimp & Cheese  $9.99    Stacked Enchiladas  $9.49    Classic Tex-Mex  $8.89    Chicka-Chicka Boom-Boom  $10.69    Veggie*  $8.69    Deluxe Chicken  $9.49    Southwestern  $9.69    Custom Enchiladas  $9.49    Beef  $14.49    Chicken  $13.49    Combo  $13.99    Comida Deluxe  $10.99    The Elvis Presley Memorial Combo  $11.49    Taco and Enchilada  $8.79    Relleno and Enchilada  $9.29    Chalupa and Enchilada  $8.89    Enchilada, Taco and Chalupa  $9.99    Vegetarian Combo  $8.99    Chuy's Lite Plate  $6.69    Chicken Combo  $7.99    Tex-Mex  $0    Ranchero  $0    Hatch Green Chile  $0    Green Chile  $0    Tomatillo  $0    Deluxe Tomatillo  $0    Creamy Jalapeño  $0    Kick It Up a Notch, Chuy's Style!  $0    Kid Cheese Dillas  $4.89    Kid Cheeseburger  $4.89    Mini Kid Burrito  $4.89    Chicken Nuggets  $4.89    Mini Crispy Tacos  $4.89    Kid Enchilada  $4.89    Sopapillas  $3.69    Tres Leches  $5.69    Flan  $3.99    Chuy's Famous Ritas  $6.25    Father Agave  $9.25    Grand Ma's Rockin' Rita  $9.50    The Perfect Pomegranate Rita  $9.50    Top - Shelf Skinny Rita  $9.25    Flavored Rocks Ritas  $7.95    Floaters  $0    The Original  $9.25    New Mexican  $9.50    Spicy Cucumber  $9.95    Strawberry  $12.95    Step 1: Choose Your Tequila  $0    Step 2: Add Cointreau, Grand Marnier Or Patrón Citrónge  $0    Step 3: Have Fun!  $0    Spoil Yourself "Chuy's Style"  $12.95    La Piña Colada  $8.50    Sangria  $6.25    Tito's Bloody Mary  $5.75    The Classic  $6.95    Tex-Mex Style  $7.50    Strawberry  $7.50    Canyon Road Chardonnay  $6.50    Canyon Road Pinot Noir  $6.50    Ecco Domani Pinot Grigio  $7.50    Dark House Cabernet Sauvignon  $7.50    Budweiser - Bud Light  $0    Coors Light - Michelob, Ultra  $0    Miler Lite - O' Doul's N/a  $0    Corona Extra - Corona Light  $0    Dos Xx Ambar - Dos Xx Lager  $0    Modelo Especial - Negra Modelo  $0    Pacifico - Shiner Bock - Tecate  $0    The King's Punch  $9.25    Chuy's Brew  $8.75    Grandaddy's Brew  $10.50    Chuy's Vice  $10.50    House Ritas  $4.50    Domestic Beers  $3.00    House Tx Tinis  $8.25    Green Chile Pork Tamales  $10.59    Green Chile Chicken Taquitos  $8.79    Chicken Enchiladas with Green Chile Avocado Sauce  $10.49    Fat Daddy Enchiladas  $10.69    Hatch Chicken Enchiladas  $9.19    Pork Tacos  $8.69    Macho Burrito  $9.79    Carne Guisada Tacos  $8.69    Carne Guisada Burrito  $9.69    Rio Grande Enchiladas  $8.99    Stuffed Avocado  $10.29    
+rice	$1.39	Entree		Party to Go	Sides
+beans	$1.39	Entree		Party to Go	Sides
+salsa fresca	$2.69	Entree		Party to Go	Sides
+creamy jalapeno	$3.59	Entree		Party to Go	Sides
+sauces	$3.49	Entree		Party to Go	Sides
+tortillas	$1.50	Entree		Party to Go	Sides
+the big daddio	$13.99	Entree		Party to Go	Packages
+the mamacita	$10.99	Entree		Party to Go	Packages
+peace, love & enchiladas	$9.29	Entree		Party to Go	Packages
+the chiquito burrito	$7.69	Entree		Party to Go	Packages
+taco salad	$8.99	Entree		Party to Go	Packages
+mexi-cobb salad	$9.49	Entree		Party to Go	Packages
+chile con queso	$6.59	Starter		Party to Go	Appetizers
+guacamole	$5.99	Starter		Party to Go	Appetizers
+chicken flautas	$12.29	Starter		Party to Go	Appetizers
+quesadillas	$20.99	Starter		Party to Go	Appetizers
+deluxe quesadillas	$24.69	Starter		Party to Go	Appetizers
+iced tea	$8.49	Drink		Party to Go	Beverages
+tex-mex	$0	Entree		Party to Go	About Our Sauces
+ranchero	$0	Entree		Party to Go	About Our Sauces
+tomatillo	$0	Entree		Party to Go	About Our Sauces
+deluxe tomatillo	$0	Entree		Party to Go	About Our Sauces
+green chile	$0	Entree		Party to Go	About Our Sauces
+hatch green chile	$0	Entree		Party to Go	About Our Sauces
+chile con queso	$6.79	Starter		Main Menu	Appetizers
+queso compuesto	$7.29	Starter		Main Menu	Appetizers
+guacamole*	$5.99	Starter		Main Menu	Appetizers
+nachos*	$7.29	Starter		Main Menu	Appetizers
+special nachos*	$8.59	Starter		Main Menu	Appetizers
+panchos	$9.59	Starter		Main Menu	Appetizers
+quesadillas*	$7.49	Starter		Main Menu	Appetizers
+deluxe quesadillas	$8.79	Starter		Main Menu	Appetizers
+appetizer plate	$9.99	Starter		Main Menu	Appetizers
+taco salad	$8.99	Starter		Main Menu	Salads and Soups
+grilled chicken salad	$9.49	Starter		Main Menu	Salads and Soups
+mexi-cobb salad	$9.49	Starter		Main Menu	Salads and Soups
+large dinner salad	$4.99	Starter		Main Menu	Salads and Soups
+tortilla soup	$4.49	Starter		Main Menu	Salads and Soups
+tex-mex salad combinations	$8.99	Starter		Main Menu	Salads and Soups
+soft tacos	$8.69	Entree		Main Menu	Tacos
+crispy tacos	$8.49	Entree		Main Menu	Tacos
+tacos al carbon	$10.29	Entree		Main Menu	Tacos
+baja tacos	$9.69	Entree		Main Menu	Tacos
+bean and cheese*	$8.69	Entree		Main Menu	Famous Burritos 'Big As Yo Face'
+seasoned ground sirloin	$8.99	Entree		Main Menu	Famous Burritos 'Big As Yo Face'
+fresh, oven-roasted chicken	$9.79	Entree		Main Menu	Famous Burritos 'Big As Yo Face'
+fajita chicken or fajita beef	$10.49	Entree		Main Menu	Famous Burritos 'Big As Yo Face'
+chuychanga	$10.29	Entree		Main Menu	House Specialties
+steak burrito	$10.89	Entree		Main Menu	House Specialties
+chicken flautas	$8.49	Entree		Main Menu	House Specialties
+elvis green chile fried chicken	$9.99	Entree		Main Menu	House Specialties
+cheese*	$9.59	Entree		Main Menu	Chile Rellenos
+seasoned ground sirloin	$9.79	Entree		Main Menu	Chile Rellenos
+fresh, oven-roasted chicken & cheese	$9.89	Entree		Main Menu	Chile Rellenos
+shrimp & cheese	$9.99	Entree		Main Menu	Chile Rellenos
+stacked enchiladas	$9.49	Entree		Main Menu	Enchiladas Recommended House Favorites
+classic tex-mex	$8.89	Entree		Main Menu	Enchiladas Recommended House Favorites
+chicka-chicka boom-boom	$10.69	Entree		Main Menu	Enchiladas Recommended House Favorites
+veggie*	$8.69	Entree		Main Menu	Enchiladas Recommended House Favorites
+deluxe chicken	$9.49	Entree		Main Menu	Enchiladas Recommended House Favorites
+southwestern	$9.69	Entree		Main Menu	Enchiladas Recommended House Favorites
+custom enchiladas	$9.49	Entree		Main Menu	Enchiladas Recommended House Favorites
+beef	$14.49	Entree		Main Menu	Fajitas
+chicken	$13.49	Entree		Main Menu	Fajitas
+combo	$13.99	Entree		Main Menu	Fajitas
+comida deluxe	$10.99	Entree		Main Menu	Combinations
+the elvis presley memorial combo	$11.49	Entree		Main Menu	Combinations
+taco and enchilada	$8.79	Entree		Main Menu	Combinations
+relleno and enchilada	$9.29	Entree		Main Menu	Combinations
+chalupa and enchilada	$8.89	Entree		Main Menu	Combinations
+enchilada, taco and chalupa	$9.99	Entree		Main Menu	Combinations
+vegetarian combo	$8.99	Entree		Main Menu	Combinations
+chuy's lite plate	$6.69	Entree		Main Menu	Lite Combos
+chicken combo	$7.99	Entree		Main Menu	Lite Combos
+tex-mex	$0	Entree		Main Menu	Signature Sauces
+ranchero	$0	Entree		Main Menu	Signature Sauces
+hatch green chile	$0	Entree		Main Menu	Signature Sauces
+green chile	$0	Entree		Main Menu	Signature Sauces
+tomatillo	$0	Entree		Main Menu	Signature Sauces
+deluxe tomatillo	$0	Entree		Main Menu	Signature Sauces
+creamy jalapeño	$0	Entree		Main Menu	Signature Sauces
+kick it up a notch, chuy's style!	$0	Entree		Main Menu	Signature Sauces
+kid cheese dillas	$4.89	Kids		Kids Menu	Main
+kid cheeseburger	$4.89	Kids		Kids Menu	Main
+mini kid burrito	$4.89	Kids		Kids Menu	Main
+chicken nuggets	$4.89	Kids		Kids Menu	Main
+mini crispy tacos	$4.89	Kids		Kids Menu	Main
+kid enchilada	$4.89	Kids		Kids Menu	Main
+sopapillas	$3.69	Dessert		Dessert	Dessert
+tres leches	$5.69	Dessert		Dessert	Dessert
+flan	$3.99	Dessert		Dessert	Dessert
+chuy's famous ritas	$6.25	Drink		Drink Menu	Signature Margaritas
+father agave	$9.25	Drink		Drink Menu	Signature Margaritas
+grand ma's rockin' rita	$9.50	Drink		Drink Menu	Signature Margaritas
+the perfect pomegranate rita	$9.50	Drink		Drink Menu	Signature Margaritas
+top - shelf skinny rita	$9.25	Drink		Drink Menu	Signature Margaritas
+flavored rocks ritas	$7.95	Drink		Drink Menu	Signature Margaritas
+floaters	$0	Drink		Drink Menu	Floaters
+the original	$9.25	Drink		Drink Menu	Texas Martinis
+new mexican	$9.50	Drink		Drink Menu	Texas Martinis
+spicy cucumber	$9.95	Drink		Drink Menu	Texas Martinis
+strawberry	$12.95	Drink		Drink Menu	Texas Martinis
+step 1: choose your tequila	$0	Drink		Drink Menu	Build Your Own
+step 2: add cointreau, grand marnier or patrón citrónge	$0	Drink		Drink Menu	Build Your Own
+step 3: have fun!	$0	Drink		Drink Menu	Build Your Own
+spoil yourself "chuy's style"	$12.95	Drink		Drink Menu	Premium - Roca Patrón Silver for Sipping
+la piña colada	$8.50	Drink		Drink Menu	Classics
+sangria	$6.25	Drink		Drink Menu	Classics
+tito's bloody mary	$5.75	Drink		Drink Menu	Classics
+the classic	$6.95	Drink		Drink Menu	Mojitos
+tex-mex style	$7.50	Drink		Drink Menu	Mojitos
+strawberry	$7.50	Drink		Drink Menu	Mojitos
+canyon road chardonnay	$6.50	Drink		Drink Menu	Wine
+canyon road pinot noir	$6.50	Drink		Drink Menu	Wine
+ecco domani pinot grigio	$7.50	Drink		Drink Menu	Wine
+dark house cabernet sauvignon	$7.50	Drink		Drink Menu	Wine
+budweiser - bud light	$0	Drink		Drink Menu	Domestics
+coors light - michelob, ultra	$0	Drink		Drink Menu	Domestics
+miler lite - o' doul's n/a	$0	Drink		Drink Menu	Domestics
+corona extra - corona light	$0	Drink		Drink Menu	Premiums
+dos xx ambar - dos xx lager	$0	Drink		Drink Menu	Premiums
+modelo especial - negra modelo	$0	Drink		Drink Menu	Premiums
+pacifico - shiner bock - tecate	$0	Drink		Drink Menu	Premiums
+the king's punch	$9.25	Drink		Drink Menu	Texas Sized - Drinks
+chuy's brew	$8.75	Drink		Drink Menu	Texas Sized - Drinks
+grandaddy's brew	$10.50	Drink		Drink Menu	Texas Sized - Drinks
+chuy's vice	$10.50	Drink		Drink Menu	Texas Sized - Drinks
+house ritas	$4.50	Drink		Drink Menu	Texas Sized - Happy Hour
+domestic beers	$3.00	Drink		Drink Menu	Texas Sized - Happy Hour
+house tx tinis	$8.25	Drink		Drink Menu	Texas Sized - Happy Hour
+green chile pork tamales	$10.59	Entree		Daily Specials	Monday
+green chile chicken taquitos	$8.79	Entree		Daily Specials	Tuesday
+chicken enchiladas with green chile avocado sauce	$10.49	Entree		Daily Specials	Wednesday
+fat daddy enchiladas	$10.69	Entree		Daily Specials	Thursday
+hatch chicken enchiladas	$9.19	Entree		Daily Specials	Friday
+pork tacos	$8.69	Entree		Daily Specials	Saturday & Sunday
+macho burrito	$9.79	Entree		Daily Specials	Saturday & Sunday
+carne guisada tacos	$8.69	Entree		Daily Specials	Served Daily
+carne guisada burrito	$9.69	Entree		Daily Specials	Served Daily
+rio grande enchiladas	$8.99	Entree		Daily Specials	Served Daily
+stuffed avocado	$10.29	Entree		Daily Specials	Served Daily
 
-id = 41293380f964a520640c1fe3
 name = Quack's 43rd St Bakery
-location = lat = 30.304733614923446, lng = -97.72657191343201
-Address = [411 E 43rd St (at Duval St.), Austin, TX 78751]
-tag = Bakery
-rating = 9.1
+Menu not available
 
-
-id = 49e32bbaf964a52068621fe3
 name = La Condesa
-location = lat = 30.26538404031054, lng = -97.74770997319702
-Address = [400 W 2nd St (Guadalupe St.), Austin, TX 78701]
-tag = Mexican Restaurant
-rating = 9.1
-Flan  $9.00    Dulce De Leche  $9.00    Boca Negra  $9.00    Plato De Galletas  $6.00    Helados De La Casa  $2.00    Vida De Camarón  $14.00    Acapulco*  $15.00    Veracruzana  $15.00    Flautas De Pollo  $12.00    Zanahoria  $12.00    Mixta Con Pollo Rostizado  $14.00    Sopa De Tortilla  $9.00    Huevos Condesa*  $15.00    Bistec Milanesa*  $20.00    Huevos Rancheros*  $12.00    Chilaquiles*  $13.00    Atole Con Huevo*  $12.00    Tacos Del Día  $13.00    Hamburguesa*  $16.00    Aguacate  $12.00    Cubanita  $14.00    Torta Al Pastor  $13.00    Ahogada  $14.00    Margarita La Clásica  $10.00    Día De Los Muertos #2  $10.00    Mojito  $10.00    Pisco Sour  $10.00    Margarita La Condesa  $12.00    Watermelon-Elderflower Martini  $12.00    La Barca  $12.00    Alma Blanca  $12.00    El Cúbico  $12.00    Spicy Paloma  $12.00    Salsas  $5.00    Guacamole  $12.00    Guacamole Tasting  $18.00    Acapulco*  $15.00    Vida De Camarón  $14.00    Tostadas De Atún*  $14.00    Hongos Y Huitlacoche  $16.00    Mixta Con Pollo Rostizado  $14.00    Zanahoria  $12.00    Sopa De Tortilla  $9.00    Aguacate  $12.00    Cubanita  $14.00    Ahogada  $14.00    Hamburguesa*  $16.00    Milanesa De Pollo  $14.00    Al Pastor  $13.00    Acelgas  $11.00    Pollo Rostizado  $13.00    Cochinita Pibil  $13.00    Pescado  $14.00    Alambre  $13.00    Salsas  $5.00    Guacamole  $12.00    Guacamole Tasting  $18.00    Mixta  $12.00    Zanahoria  $11.00    Sopa De Tortilla  $9.00    Acapulco  $15.00    Huachinango  $16.00    Hamachi  $16.00    Vida De Camarón  $14.00    Huarache De Hongos Y Huitlacoche  $16.00    Veracruzana  $15.00    Tostadas De Atún  $14.00    Pâté  $12.00    Mole Dominguero  $23.00    Mero  $25.00    Coliflor a La Plancha  $18.00    Chile Relleno  $19.00    Bistec Asado  $25.00    Mollejas  $22.00    Chuleta  $24.00    Cochinita Pibil  $12.00    Pollo Rostizado  $10.00    Arábicos  $16.00    El Califa  $15.00    Pescado  $13.00    Elotes  $6.00    Coles De Bruselas  $8.00    Acelgas  $7.00    Queso Flameado  $10.00    Ensalada De La Casa  $7.00    
+flan	$9.00	Entree		Postre Menu	Main
+dulce de leche	$9.00	Entree		Postre Menu	Main
+boca negra	$9.00	Entree		Postre Menu	Main
+plato de galletas	$6.00	Entree		Postre Menu	Main
+helados de la casa	$2.00	Entree		Postre Menu	Main
+vida de camarón	$14.00	Entree		Brunch Menu	Botanas
+acapulco*	$15.00	Entree		Brunch Menu	Botanas
+veracruzana	$15.00	Entree		Brunch Menu	Botanas
+flautas de pollo	$12.00	Entree		Brunch Menu	Botanas
+zanahoria	$12.00	Entree		Brunch Menu	Botanas
+mixta con pollo rostizado	$14.00	Entree		Brunch Menu	Botanas
+sopa de tortilla	$9.00	Entree		Brunch Menu	Botanas
+huevos condesa*	$15.00	Entree		Brunch Menu	Huevos Y Mas
+bistec milanesa*	$20.00	Entree		Brunch Menu	Huevos Y Mas
+huevos rancheros*	$12.00	Entree		Brunch Menu	Huevos Y Mas
+chilaquiles*	$13.00	Entree		Brunch Menu	Huevos Y Mas
+atole con huevo*	$12.00	Entree		Brunch Menu	Huevos Y Mas
+tacos del día	$13.00	Entree		Brunch Menu	Huevos Y Mas
+hamburguesa*	$16.00	Entree		Brunch Menu	Huevos Y Mas
+aguacate	$12.00	Entree		Brunch Menu	Huevos Y Mas
+cubanita	$14.00	Entree		Brunch Menu	Huevos Y Mas
+torta al pastor	$13.00	Entree		Brunch Menu	Huevos Y Mas
+ahogada	$14.00	Entree		Brunch Menu	Huevos Y Mas
+margarita la clásica	$10.00	Drink		Cocktails Menu	The Classics
+día de los muertos #2	$10.00	Drink		Cocktails Menu	The Classics
+mojito	$10.00	Drink		Cocktails Menu	The Classics
+pisco sour	$10.00	Drink		Cocktails Menu	The Classics
+margarita la condesa	$12.00	Drink		Cocktails Menu	Signature Cocktails
+watermelon-elderflower martini	$12.00	Drink		Cocktails Menu	Signature Cocktails
+la barca	$12.00	Drink		Cocktails Menu	Signature Cocktails
+alma blanca	$12.00	Drink		Cocktails Menu	Signature Cocktails
+el cúbico	$12.00	Drink		Cocktails Menu	Signature Cocktails
+spicy paloma	$12.00	Drink		Cocktails Menu	Signature Cocktails
+salsas	$5.00	Entree		Lunch Menu	Guacamoles Y Salsas
+guacamole	$12.00	Entree		Lunch Menu	Guacamoles Y Salsas
+guacamole tasting	$18.00	Entree		Lunch Menu	Guacamoles Y Salsas
+acapulco*	$15.00	Entree		Lunch Menu	Ceviches
+vida de camarón	$14.00	Entree		Lunch Menu	Ceviches
+tostadas de atún*	$14.00	Entree		Lunch Menu	Masa
+hongos y huitlacoche	$16.00	Entree		Lunch Menu	Masa
+mixta con pollo rostizado	$14.00	Entree		Lunch Menu	Ensaladas Y Sopas
+zanahoria	$12.00	Entree		Lunch Menu	Ensaladas Y Sopas
+sopa de tortilla	$9.00	Entree		Lunch Menu	Ensaladas Y Sopas
+aguacate	$12.00	Entree		Lunch Menu	Tortas
+cubanita	$14.00	Entree		Lunch Menu	Tortas
+ahogada	$14.00	Entree		Lunch Menu	Tortas
+hamburguesa*	$16.00	Entree		Lunch Menu	Tortas
+milanesa de pollo	$14.00	Entree		Lunch Menu	Tortas
+al pastor	$13.00	Entree		Lunch Menu	Tortas
+acelgas	$11.00	Entree		Lunch Menu	Tacos
+pollo rostizado	$13.00	Entree		Lunch Menu	Tacos
+cochinita pibil	$13.00	Entree		Lunch Menu	Tacos
+pescado	$14.00	Entree		Lunch Menu	Tacos
+alambre	$13.00	Entree		Lunch Menu	Tacos
+salsas	$5.00	Entree		Dinner Menu	Guacamoles Y Salsas
+guacamole	$12.00	Entree		Dinner Menu	Guacamoles Y Salsas
+guacamole tasting	$18.00	Entree		Dinner Menu	Guacamoles Y Salsas
+mixta	$12.00	Entree		Dinner Menu	Ensaladas Y Sopas
+zanahoria	$11.00	Entree		Dinner Menu	Ensaladas Y Sopas
+sopa de tortilla	$9.00	Entree		Dinner Menu	Ensaladas Y Sopas
+acapulco	$15.00	Entree		Dinner Menu	Ceviches
+huachinango	$16.00	Entree		Dinner Menu	Ceviches
+hamachi	$16.00	Entree		Dinner Menu	Ceviches
+vida de camarón	$14.00	Entree		Dinner Menu	Ceviches
+huarache de hongos y huitlacoche	$16.00	Entree		Dinner Menu	Masa
+veracruzana	$15.00	Entree		Dinner Menu	Masa
+tostadas de atún	$14.00	Entree		Dinner Menu	Masa
+pâté	$12.00	Entree		Dinner Menu	Masa
+mole dominguero	$23.00	Entree		Dinner Menu	Platos Fuertes
+mero	$25.00	Entree		Dinner Menu	Platos Fuertes
+coliflor a la plancha	$18.00	Entree		Dinner Menu	Platos Fuertes
+chile relleno	$19.00	Entree		Dinner Menu	Platos Fuertes
+bistec asado	$25.00	Entree		Dinner Menu	From Our Wood-Fired Grill
+mollejas	$22.00	Entree		Dinner Menu	From Our Wood-Fired Grill
+chuleta	$24.00	Entree		Dinner Menu	From Our Wood-Fired Grill
+cochinita pibil	$12.00	Entree		Dinner Menu	Taquitos & Small Tacos
+pollo rostizado	$10.00	Entree		Dinner Menu	Taquitos & Small Tacos
+arábicos	$16.00	Entree		Dinner Menu	Taquitos & Small Tacos
+el califa	$15.00	Entree		Dinner Menu	Taquitos & Small Tacos
+pescado	$13.00	Entree		Dinner Menu	Taquitos & Small Tacos
+elotes	$6.00	Entree		Dinner Menu	Para Acompanar
+coles de bruselas	$8.00	Entree		Dinner Menu	Para Acompanar
+acelgas	$7.00	Entree		Dinner Menu	Para Acompanar
+queso flameado	$10.00	Entree		Dinner Menu	Para Acompanar
+ensalada de la casa	$7.00	Entree		Dinner Menu	Para Acompanar
 
-id = 4f0680e7a69ddfbc9c2d475c
 name = Gourdough's
-location = lat = 30.24947120902162, lng = -97.75498378084995
-Address = [1503 S 1st St (at Monroe), Austin, TX 78704]
-tag = Donut Shop
-rating = 9.1
+Menu not available
 
-
-id = 4a633f72f964a5209fc41fe3
 name = Upper Crust Bakery
-location = lat = 30.31578004360199, lng = -97.74160087108612
-Address = [4508 Burnet Rd (45th), Austin, TX 78756]
-tag = Bakery
-rating = 9.1
-6 Inch Round (5 Servings)  $20.00    9 Inch Round (12 Servings)  $30.00    10 Inch Round (18 Servings)  $36.00    12 Inch Round (25-30 Servings)  $60.00    14 Inch Round (35-45 Servings)  $85.00    16 Inch Round (50-60 Servings)  $110.00    18 Inch Round (65-80 Servings)  $135.00    20 Inch Round (85-100 Servings)  $170.00    13X9 Inch Sheet (30 Servings)  $36.00    16X12 Inch Sheet (48 Servings)  $62.00    6 Inch Round (5 Servings)  $20.00    9 Inch Round (12 Servings)  $30.00    10 Inch Round (18 Servings)  $36.00    12 Inch Round (25-30 Servings)  $60.00    14 Inch Round (35-45 Servings)  $85.00    16 Inch Round (50-60 Servings)  $110.00    18 Inch Round (65-80 Servings)  $135.00    20 Inch Round (85-100 Servings)  $170.00    13X9 Inch Sheet (30 Servings)  $36.00    16X12 Inch Sheet (48 Servings)  $62.00    6 Inch Round (5 Servings)  $20.00    9 Inch Round (12 Servings)  $30.00    10 Inch Round (18 Servings)  $36.00    12 Inch Round (25-30 Servings)  $60.00    14 Inch Round (35-45 Servings)  $85.00    16 Inch Round (50-60 Servings)  $110.00    18 Inch Round (65-80 Servings)  $135.00    20 Inch Round (85-100 Servings)  $170.00    13X9 Inch Sheet (30 Servings)  $36.00    16X12 Inch Sheet (48 Servings)  $62.00    6 Inch Round (5 Servings)  $20.00    9 Inch Round (12 Servings)  $30.00    10 Inch Round (18 Servings)  $36.00    12 Inch Round (25-30 Servings)  $60.00    14 Inch Round (35-45 Servings)  $85.00    16 Inch Round (50-60 Servings)  $110.00    18 Inch Round (65-80 Servings)  $135.00    20 Inch Round (85-100 Servings)  $170.00    13X9 Inch Sheet (30 Servings)  $36.00    16X12 Inch Sheet (48 Servings)  $62.00    9 Inch Round (12 Servings)  $28.00    6 Inch Round (5 Servings)  $24.00    9 Inch Round (12 Servings)  $36.00    10 Inch Round (18 Servings)  $44.00    12 Inch Round (25-30 Servings)  $72.00    14 Inch Round (35-45 Servings)  $96.00    16 Inch Round (50-60 Servings)  $120.00    18 Inch Round (65-80 Servings)  $150.00    20 Inch Round (85-100 Servings)  $190.00    13X9 Inch Sheet (30 Servings)  $42.00    16X12 Inch Sheet (48 Servings)  $74.00    6 Inch Round (5 Servings)  $20.00    9 Inch Round (12 Servings)  $30.00    10 Inch Round (18 Servings)  $36.00    12 Inch Round (25-30 Servings)  $60.00    14 Inch Round (35-45 Servings)  $85.00    16 Inch Round (50-60 Servings)  $110.00    18 Inch Round (65-80 Servings)  $135.00    20 Inch Round (85-100 Servings)  $170.00    13X9 Inch Sheet (30 Servings)  $36.00    16X12 Inch Sheet (48 Servings)  $62.00    6 Inch Round (5 Servings)  $24.00    9 Inch Round (12 Servings)  $36.00    10 Inch Round (18 Servings)  $44.00    12 Inch Round (25-30 Servings)  $72.00    14 Inch Round (35-45 Servings)  $96.00    16 Inch Round (50-60 Servings)  $120.00    18 Inch Round (65-80 Servings)  $150.00    20 Inch Round (85-100 Servings)  $190.00    13X9 Inch Sheet (30 Servings)  $42.00    16X12 Inch Sheet (48 Servings)  $74.00    9 Inch Round (12 Servings)  $36.00    10 Inch Round (18 Servings)  $44.00    12 Inch Round (25-30 Servings)  $72.00    14 Inch Round (35-45 Servings)  $96.00    6 Inch Round (5 Servings)  $24.00    9 Inch Round (12 Servings)  $36.00    10 Inch Round (18 Servings)  $44.00    12 Inch Round (25-30 Servings)  $72.00    14 Inch Round (35-45 Servings)  $96.00    16 Inch Round (50-60 Servings)  $120.00    18 Inch Round (65-80 Servings)  $150.00    20 Inch Round (85-100 Servings)  $190.00    13X9 Inch Sheet (30 Servings)  $42.00    16X12 Inch Sheet (48 Servings)  $74.00    6 Inch Round (5 Servings)  $24.00    9 Inch Round (12 Servings)  $36.00    10 Inch Round (18 Servings)  $44.00    12 Inch Round (25-30 Servings)  $72.00    14 Inch Round (35-45 Servings)  $96.00    16 Inch Round (50-60 Servings)  $120.00    18 Inch Round (65-80 Servings)  $150.00    20 Inch Round (85-100 Servings)  $190.00    13X9 Inch Sheet (30 Servings)  $42.00    16X12 Inch Sheet (48 Servings)  $74.00    Pecan  $17.00    Dutch Apple  $16.00    Pumpkin  $15.00    Cranberry Apple  $16.00    Strawberry Rhubarb  $18.00    Blueberry  $23.00    Coconut Cream  $18.00    Brownies  $1.95    Cream Puffs  $2.25    Chocolate Covered Strawberries  $1.75    Eclairs  $2.50    Lemon Squares  $1.25    Chocolate Mousse Parfait  $3.25    Choose Any of Our Cake Flavors:  $1.95    Marble Cupcake  $1.95    Italian Dream Cupcake  $2.50    Chocolate Peanut Butter  $2.50    Fresh Fruit Tarts  $3.50    Black Gold  $2.25    Chocolate Chip  $1.50    Gingerbread Men  $1.25    Oatmeal Raisin  $1.50    Peanut Butter  $1.50    Peanut Butter-Oatmeal-Chocolate Chip  $1.50    Raspberry Heart  $1.95    Sugar Cookie  $0.95    Sand Tarts  $0.95    Plain  $1.50    Apricot Cream Cheese  $1.95    Cheese  $1.95    Cinnamon Almond  $2.25    Marzipan  $2.25    Petit Pain Au Chocolat  $2.25    Raspberry Cream Cheese  $1.95    Strawberry Cream Cheese  $1.95    Texas  $1.95    Ham & Cheese  $3.25    Turkey & Provolone W/ Dijon  $3.25    Breakfast Croissant Sandwich  $3.75    Vegetarian  $3.50    Apple  $2.10    Blueberry  $2.10    Cream Cheese  $2.10    Kiwi  $2.10    Strawberry  $2.10    Blueberry  $1.35    Bran  $1.35    Oatmeal  $1.35    Cheese  $1.35    Currant  $1.35    Black Gold  $2.25    Chocolate Chip  $1.50    Gingerbread Men  $1.25    Oatmeal Raisin  $1.50    Peanut Butter  $1.50    Peanut Butter-Oatmeal-Chocolate Chip  $1.50    Raspberry Heart  $1.95    Sugar Cookie  $0.95    Sand Tarts  $0.95    Tea Breads  $1.50    Cinnamon Rolls  $2.10    Bear Claw  $2.10    Elephant Ears  $1.75    Fruit & Nut Ring  $2.15    Marzipan Pocket  $2.50    Paraguayan Cornbread  $1.35    Philadelphia Sticky Buns  $2.15    Sausage Puffs  $2.75    Schnecken  $2.50    Spinach Ricotta Rounds  $1.65    Turnovers (Apple & Blueberry)  $2.25    Chocolate & Raspberry  $3.95    Cheese  $3.75    Ham & Cheese  $3.95    Rolls  $0.50    Challah (Friday)  $3.85    Baguette  $2.00    Round  $2.00    Sandwich  $2.75    Rolls  $0.45    Baguette  $2.00    Round  $2.00    Sandwich  $2.75    Rolls  $0.45    Sandwich  $3.00    Sandwich  $3.25    Rolls  $0.45    Sandwich  $3.95    Sandwich  $3.25    Round  $3.75    
+6 inch round (5 servings)	$20.00	Entree		Main Menu	Italian Cream
+9 inch round (12 servings)	$30.00	Entree		Main Menu	Italian Cream
+10 inch round (18 servings)	$36.00	Entree		Main Menu	Italian Cream
+12 inch round (25-30 servings)	$60.00	Entree		Main Menu	Italian Cream
+14 inch round (35-45 servings)	$85.00	Entree		Main Menu	Italian Cream
+16 inch round (50-60 servings)	$110.00	Entree		Main Menu	Italian Cream
+18 inch round (65-80 servings)	$135.00	Entree		Main Menu	Italian Cream
+20 inch round (85-100 servings)	$170.00	Entree		Main Menu	Italian Cream
+13x9 inch sheet (30 servings)	$36.00	Entree		Main Menu	Italian Cream
+16x12 inch sheet (48 servings)	$62.00	Entree		Main Menu	Italian Cream
+6 inch round (5 servings)	$20.00	Entree		Main Menu	Chocolate Italian Cream
+9 inch round (12 servings)	$30.00	Entree		Main Menu	Chocolate Italian Cream
+10 inch round (18 servings)	$36.00	Entree		Main Menu	Chocolate Italian Cream
+12 inch round (25-30 servings)	$60.00	Entree		Main Menu	Chocolate Italian Cream
+14 inch round (35-45 servings)	$85.00	Entree		Main Menu	Chocolate Italian Cream
+16 inch round (50-60 servings)	$110.00	Entree		Main Menu	Chocolate Italian Cream
+18 inch round (65-80 servings)	$135.00	Entree		Main Menu	Chocolate Italian Cream
+20 inch round (85-100 servings)	$170.00	Entree		Main Menu	Chocolate Italian Cream
+13x9 inch sheet (30 servings)	$36.00	Entree		Main Menu	Chocolate Italian Cream
+16x12 inch sheet (48 servings)	$62.00	Entree		Main Menu	Chocolate Italian Cream
+6 inch round (5 servings)	$20.00	Entree		Main Menu	Mocha Almond
+9 inch round (12 servings)	$30.00	Entree		Main Menu	Mocha Almond
+10 inch round (18 servings)	$36.00	Entree		Main Menu	Mocha Almond
+12 inch round (25-30 servings)	$60.00	Entree		Main Menu	Mocha Almond
+14 inch round (35-45 servings)	$85.00	Entree		Main Menu	Mocha Almond
+16 inch round (50-60 servings)	$110.00	Entree		Main Menu	Mocha Almond
+18 inch round (65-80 servings)	$135.00	Entree		Main Menu	Mocha Almond
+20 inch round (85-100 servings)	$170.00	Entree		Main Menu	Mocha Almond
+13x9 inch sheet (30 servings)	$36.00	Entree		Main Menu	Mocha Almond
+16x12 inch sheet (48 servings)	$62.00	Entree		Main Menu	Mocha Almond
+6 inch round (5 servings)	$20.00	Entree		Main Menu	Carrot
+9 inch round (12 servings)	$30.00	Entree		Main Menu	Carrot
+10 inch round (18 servings)	$36.00	Entree		Main Menu	Carrot
+12 inch round (25-30 servings)	$60.00	Entree		Main Menu	Carrot
+14 inch round (35-45 servings)	$85.00	Entree		Main Menu	Carrot
+16 inch round (50-60 servings)	$110.00	Entree		Main Menu	Carrot
+18 inch round (65-80 servings)	$135.00	Entree		Main Menu	Carrot
+20 inch round (85-100 servings)	$170.00	Entree		Main Menu	Carrot
+13x9 inch sheet (30 servings)	$36.00	Entree		Main Menu	Carrot
+16x12 inch sheet (48 servings)	$62.00	Entree		Main Menu	Carrot
+9 inch round (12 servings)	$28.00	Entree		Main Menu	Cheesecake Chocolate and Plain
+6 inch round (5 servings)	$24.00	Entree		Main Menu	Black Forest
+9 inch round (12 servings)	$36.00	Entree		Main Menu	Black Forest
+10 inch round (18 servings)	$44.00	Entree		Main Menu	Black Forest
+12 inch round (25-30 servings)	$72.00	Entree		Main Menu	Black Forest
+14 inch round (35-45 servings)	$96.00	Entree		Main Menu	Black Forest
+16 inch round (50-60 servings)	$120.00	Entree		Main Menu	Black Forest
+18 inch round (65-80 servings)	$150.00	Entree		Main Menu	Black Forest
+20 inch round (85-100 servings)	$190.00	Entree		Main Menu	Black Forest
+13x9 inch sheet (30 servings)	$42.00	Entree		Main Menu	Black Forest
+16x12 inch sheet (48 servings)	$74.00	Entree		Main Menu	Black Forest
+6 inch round (5 servings)	$20.00	Entree		Main Menu	Grandma's Chocolate
+9 inch round (12 servings)	$30.00	Entree		Main Menu	Grandma's Chocolate
+10 inch round (18 servings)	$36.00	Entree		Main Menu	Grandma's Chocolate
+12 inch round (25-30 servings)	$60.00	Entree		Main Menu	Grandma's Chocolate
+14 inch round (35-45 servings)	$85.00	Entree		Main Menu	Grandma's Chocolate
+16 inch round (50-60 servings)	$110.00	Entree		Main Menu	Grandma's Chocolate
+18 inch round (65-80 servings)	$135.00	Entree		Main Menu	Grandma's Chocolate
+20 inch round (85-100 servings)	$170.00	Entree		Main Menu	Grandma's Chocolate
+13x9 inch sheet (30 servings)	$36.00	Entree		Main Menu	Grandma's Chocolate
+16x12 inch sheet (48 servings)	$62.00	Entree		Main Menu	Grandma's Chocolate
+6 inch round (5 servings)	$24.00	Entree		Main Menu	Gateau Marisa
+9 inch round (12 servings)	$36.00	Entree		Main Menu	Gateau Marisa
+10 inch round (18 servings)	$44.00	Entree		Main Menu	Gateau Marisa
+12 inch round (25-30 servings)	$72.00	Entree		Main Menu	Gateau Marisa
+14 inch round (35-45 servings)	$96.00	Entree		Main Menu	Gateau Marisa
+16 inch round (50-60 servings)	$120.00	Entree		Main Menu	Gateau Marisa
+18 inch round (65-80 servings)	$150.00	Entree		Main Menu	Gateau Marisa
+20 inch round (85-100 servings)	$190.00	Entree		Main Menu	Gateau Marisa
+13x9 inch sheet (30 servings)	$42.00	Entree		Main Menu	Gateau Marisa
+16x12 inch sheet (48 servings)	$74.00	Entree		Main Menu	Gateau Marisa
+9 inch round (12 servings)	$36.00	Entree		Main Menu	Chocolate Windmill
+10 inch round (18 servings)	$44.00	Entree		Main Menu	Chocolate Windmill
+12 inch round (25-30 servings)	$72.00	Entree		Main Menu	Chocolate Windmill
+14 inch round (35-45 servings)	$96.00	Entree		Main Menu	Chocolate Windmill
+6 inch round (5 servings)	$24.00	Entree		Main Menu	Gateau D Amour
+9 inch round (12 servings)	$36.00	Entree		Main Menu	Gateau D Amour
+10 inch round (18 servings)	$44.00	Entree		Main Menu	Gateau D Amour
+12 inch round (25-30 servings)	$72.00	Entree		Main Menu	Gateau D Amour
+14 inch round (35-45 servings)	$96.00	Entree		Main Menu	Gateau D Amour
+16 inch round (50-60 servings)	$120.00	Entree		Main Menu	Gateau D Amour
+18 inch round (65-80 servings)	$150.00	Entree		Main Menu	Gateau D Amour
+20 inch round (85-100 servings)	$190.00	Entree		Main Menu	Gateau D Amour
+13x9 inch sheet (30 servings)	$42.00	Entree		Main Menu	Gateau D Amour
+16x12 inch sheet (48 servings)	$74.00	Entree		Main Menu	Gateau D Amour
+6 inch round (5 servings)	$24.00	Entree		Main Menu	Red Velvet
+9 inch round (12 servings)	$36.00	Entree		Main Menu	Red Velvet
+10 inch round (18 servings)	$44.00	Entree		Main Menu	Red Velvet
+12 inch round (25-30 servings)	$72.00	Entree		Main Menu	Red Velvet
+14 inch round (35-45 servings)	$96.00	Entree		Main Menu	Red Velvet
+16 inch round (50-60 servings)	$120.00	Entree		Main Menu	Red Velvet
+18 inch round (65-80 servings)	$150.00	Entree		Main Menu	Red Velvet
+20 inch round (85-100 servings)	$190.00	Entree		Main Menu	Red Velvet
+13x9 inch sheet (30 servings)	$42.00	Entree		Main Menu	Red Velvet
+16x12 inch sheet (48 servings)	$74.00	Entree		Main Menu	Red Velvet
+pecan	$17.00	Entree		Main Menu	Pies
+dutch apple	$16.00	Entree		Main Menu	Pies
+pumpkin	$15.00	Entree		Main Menu	Pies
+cranberry apple	$16.00	Entree		Main Menu	Pies
+strawberry rhubarb	$18.00	Entree		Main Menu	Pies
+blueberry	$23.00	Entree		Main Menu	Pies
+coconut cream	$18.00	Entree		Main Menu	Pies
+brownies	$1.95	Dessert		Main Menu	Other Dessert
+cream puffs	$2.25	Dessert		Main Menu	Other Dessert
+chocolate covered strawberries	$1.75	Dessert		Main Menu	Other Dessert
+eclairs	$2.50	Dessert		Main Menu	Other Dessert
+lemon squares	$1.25	Dessert		Main Menu	Other Dessert
+chocolate mousse parfait	$3.25	Dessert		Main Menu	Other Dessert
+choose any of our cake flavors:	$1.95	Entree		Main Menu	Cupcakes
+marble cupcake	$1.95	Entree		Main Menu	Cupcakes
+italian dream cupcake	$2.50	Entree		Main Menu	Cupcakes
+chocolate peanut butter	$2.50	Entree		Main Menu	Cupcakes
+fresh fruit tarts	$3.50	Entree		Main Menu	Fresh Fruit Tarts
+black gold	$2.25	Entree		Main Menu	Cookies
+chocolate chip	$1.50	Entree		Main Menu	Cookies
+gingerbread men	$1.25	Entree		Main Menu	Cookies
+oatmeal raisin	$1.50	Entree		Main Menu	Cookies
+peanut butter	$1.50	Entree		Main Menu	Cookies
+peanut butter-oatmeal-chocolate chip	$1.50	Entree		Main Menu	Cookies
+raspberry heart	$1.95	Entree		Main Menu	Cookies
+sugar cookie	$0.95	Entree		Main Menu	Cookies
+sand tarts	$0.95	Entree		Main Menu	Cookies
+plain	$1.50	Entree		Main Menu	Croissants
+apricot cream cheese	$1.95	Entree		Main Menu	Croissants
+cheese	$1.95	Entree		Main Menu	Croissants
+cinnamon almond	$2.25	Entree		Main Menu	Croissants
+marzipan	$2.25	Entree		Main Menu	Croissants
+petit pain au chocolat	$2.25	Entree		Main Menu	Croissants
+raspberry cream cheese	$1.95	Entree		Main Menu	Croissants
+strawberry cream cheese	$1.95	Entree		Main Menu	Croissants
+texas	$1.95	Entree		Main Menu	Croissants
+ham & cheese	$3.25	Entree		Main Menu	Croissants
+turkey & provolone w/ dijon	$3.25	Entree		Main Menu	Croissants
+breakfast croissant sandwich	$3.75	Entree		Main Menu	Croissants
+vegetarian	$3.50	Entree		Main Menu	Croissants
+apple	$2.10	Entree		Main Menu	Danish
+blueberry	$2.10	Entree		Main Menu	Danish
+cream cheese	$2.10	Entree		Main Menu	Danish
+kiwi	$2.10	Entree		Main Menu	Danish
+strawberry	$2.10	Entree		Main Menu	Danish
+blueberry	$1.35	Entree		Main Menu	Muffins
+bran	$1.35	Entree		Main Menu	Muffins
+oatmeal	$1.35	Entree		Main Menu	Muffins
+cheese	$1.35	Entree		Main Menu	Scones
+currant	$1.35	Entree		Main Menu	Scones
+black gold	$2.25	Entree		Main Menu	Cookies
+chocolate chip	$1.50	Entree		Main Menu	Cookies
+gingerbread men	$1.25	Entree		Main Menu	Cookies
+oatmeal raisin	$1.50	Entree		Main Menu	Cookies
+peanut butter	$1.50	Entree		Main Menu	Cookies
+peanut butter-oatmeal-chocolate chip	$1.50	Entree		Main Menu	Cookies
+raspberry heart	$1.95	Entree		Main Menu	Cookies
+sugar cookie	$0.95	Entree		Main Menu	Cookies
+sand tarts	$0.95	Entree		Main Menu	Cookies
+tea breads	$1.50	Drink		Main Menu	Tea Breads
+cinnamon rolls	$2.10	Entree		Main Menu	Other Pastries
+bear claw	$2.10	Entree		Main Menu	Other Pastries
+elephant ears	$1.75	Entree		Main Menu	Other Pastries
+fruit & nut ring	$2.15	Entree		Main Menu	Other Pastries
+marzipan pocket	$2.50	Entree		Main Menu	Other Pastries
+paraguayan cornbread	$1.35	Entree		Main Menu	Other Pastries
+philadelphia sticky buns	$2.15	Entree		Main Menu	Other Pastries
+sausage puffs	$2.75	Entree		Main Menu	Other Pastries
+schnecken	$2.50	Entree		Main Menu	Other Pastries
+spinach ricotta rounds	$1.65	Entree		Main Menu	Other Pastries
+turnovers (apple & blueberry)	$2.25	Entree		Main Menu	Other Pastries
+chocolate & raspberry	$3.95	Entree		Main Menu	Brioche (Friday, Saturday & Sunday)
+cheese	$3.75	Entree		Main Menu	Brioche (Friday, Saturday & Sunday)
+ham & cheese	$3.95	Entree		Main Menu	Brioche (Friday, Saturday & Sunday)
+rolls	$0.50	Entree		Main Menu	Brioche (Friday, Saturday & Sunday)
+challah (friday)	$3.85	Entree		Main Menu	Brioche (Friday, Saturday & Sunday)
+baguette	$2.00	Entree		Main Menu	French Bread
+round	$2.00	Entree		Main Menu	French Bread
+sandwich	$2.75	Entree		Main Menu	French Bread
+rolls	$0.45	Entree		Main Menu	French Bread
+baguette	$2.00	Entree		Main Menu	Honfleur
+round	$2.00	Entree		Main Menu	Honfleur
+sandwich	$2.75	Entree		Main Menu	Honfleur
+rolls	$0.45	Entree		Main Menu	Honfleur
+sandwich	$3.00	Entree		Main Menu	Rye
+sandwich	$3.25	Entree		Main Menu	Whole Wheat
+rolls	$0.45	Entree		Main Menu	Whole Wheat
+sandwich	$3.95	Entree		Main Menu	9 Grain
+sandwich	$3.25	Entree		Main Menu	Oatmeal
+round	$3.75	Entree		Main Menu	Ricotta Herb
 
-id = 45fbfa6df964a5206c441fe3
 name = Lambert's Downtown BBQ
-location = lat = 30.265319943364748, lng = -97.74763039520637
-Address = [401 W 2nd St (at Guadalupe St), Austin, TX 78701]
-tag = BBQ Joint
-rating = 9.0
-Spicy Deviled Eggs  $9.00    Roasted Green Chili Queso  $8.00    Crispy Wild Boar Ribs  $14.00    Deep Fried Boudin Fritters  $10.00    Achiote Seared Chickpeas and Goat Cheese  $12.00    Housemade Charcuteries and Artisan Cheeses  $22.00    Broiled Gulf Oysters  $16.00    Fried Green Tomatoes  $16.00    Hydroponic Bibb Lettuce & Avocado  $13.00    Grilled Housemade Focaccia Caesar  $10.00    Classic Iceberg Wedge  $12.00    Soup of the Day  $0    Natural Black Angus Brisket  $18.00    Country Style Pork Ribs  $18.00    Housemade Jalapeño Hot Links  $16.00    Half Local Chicken  $18.00    Natural Pulled Pork  $17.00    Cold Smoked Rainbow Trout  $21.00    Whole Black Angus Short Rib  $34.00    Fresh Market Gulf Fish  $32.00    Jumbo Gulf Shrimp & Grits  $28.00    Cold Smoked Lockhart Quail  $24.00    Natural Hanger Steak*  $32.00    House Bacon Wrapped  $42.00    Marinated Colorado Lamb Chops*  $42.00    Mustard and Brown Sugar Crusted Niman Ranch Ribeye*  $39.00    Lamberts Baked Mac and 3 Cheeses  $7.00    Waffle Fries, Smoked Paprika, Herbs  $7.00    Mashed New Potatoes, Crème Fraiche  $7.00    Brussels Sprouts, Lamberts Bacon, Brown Butter  $7.00    Fried Okra with Spicy Remoulade  $7.00    Jalapeño & Garlic Roasted Broccoli  $7.00    Buttermilk New Potato Salad  $7.00    Jicama, Carrot, & Cilantro Slaw  $7.00    Green Chili Cheese Grits  $7.00    Ranch Style Beans with Brisket Ends  $7.00    Smoked Bacon Braised Collard Greens  $7.00    Grilled Sweet Corn, Cotija, Dill Mayonnaise  $7.00    Coconut Cream Pie  $8.00    Vanilla Bean Flan  $8.00    Cranberry Fried Pie  $8.00    German Chocolate Cake  $8.00    Milk Chocolate Bread Pudding  $8.00    Two Scoops of Homemade Ice Cream  $6.00    Coca Cola  $2.50    Sprite  $2.50    Dr. Pepper  $2.50    Diet Coke  $2.50    Mexican Coke  $3.00    Ibc Root Beer  $2.50    Big Red  $2.50    Ginger Ale  $2.50    Topo Chico  $2.50    Panna  $3.00    Pellegrino  $3.00    Dark Roast Coffee  $2.00    Espresso  $2.50    Americano  $2.50    Cappuccino  $3.00    Latte  $3.00    Iced Black Tea  $2.50    Hot Tea  $3.00    Fresh Cut Fruit & Berries  $0    Classic New Potato Salad  $0    Jicama and Cilantro Slaw  $0    Grilled Asparagus  $0    Deviled Eggs with Caviar  $0    House Smoked Gravlox Salmon  $0    Applewood Smoked Bacon  $0    Spicy Breakfast Sausage  $0    Cheddar & Roasted Poblano Grits  $0    New Potato Home Fries  $0    Roasted Garlic & Rosemary Crusted Prime Rib  $0    Brown Sugar & Coffee Rubbed Natural Brisket  $0    Coriander & Maple Crusted Berkshire Pork Ribs  $0    Lamberts Baked Mac and Cheese  $0    Buttermilk Biscuits  $0    2 Eggs  $0    Fines Herb Omelette  $0    Lambo's Benedict  $0    Hanger Steak Benedict  $0    Smoked Brisket Hash  $0    Fried Chicken Thigh On a Biscuit  $0    Breakfast Frito Pie  $0    Brioche French Toastyrup  $0    Dessert Table  $0    Daily Old Fashioned  $0    Sangria Blanco  $0    Vodka Southside  $0    Ruby Red Mule  $0    Sanchez  $0    Perfect Martini  $0    Cucumber Rum Smash  $0    District Daiquiri  $0    Kentucky Club Margarita  $0    Paloma  $0    Ocotillo Bloom  $0    Hesitating Beauty  $0    Brooklyn Cocktail  $0    Spicy Deviled Eggs  $9.00    Roasted Green Chili Queso  $8.00    Crispy Wild Boar Ribs  $14.00    Deep Fried Boudin Fritters  $10.00    Achiote Seared Chickpeas and Goat Cheese  $12.00    Housemade Charcuteries and Artisan Cheeses  $22.00    Broiled Gulf Oysters  $16.00    Iceberg Wedge  $12.00    Bluebonnet Farms Bibb Lettuce & Avocado  $13.00    Fried Green Tomatoes  $16.00    Smoked Brisket Salpicon  $14.00    Grilled Caesar, Achiote Seared Chicken Breast  $16.00    Smoked Natural Chicken Cobb Salad  $16.00    Soup of the Day  $0    Sliced Natural Beef Brisket, Jalapeño Hotlink  $14.00    Wood Grilled House Ground Cheeseburger*  $16.00    Chopped Beef Brisket Sandwich  $12.00    Smoked Chicken Salad Blt  $14.00    Pulled Smoked Pork Cuban  $13.00    Carne Asada Bolillo  $12.00    Cold Smoked Rainbow Trout  $21.00    Oak Grilled Natural Hanger Steak*  $24.00    Mustard and Brown Sugar Crusted Niman Ranch Ribeye*  $39.00    One Bbq Meat  $14.00    Two Bbq Meats  $16.00    Three Bbq Meats  $18.00    Brown Sugar & Coffee Rubbed Natural Brisket  $0    Maple and Coriander Crusted Natural Pork Ribs  $0    Homemade Jalapeño Hot Link  $0    Achiote and Lime Rubbed Natural Chicken  $0    Natural Pulled Pork  $0    Classic New Potato Salad  $0    Baked Mac and Cheese  $0    Ranch Style Baked Beans  $0    Jicama and Carrot Slaw  $0    Herbed Waffle Fries  $0    Smoked Bacon Braised Collards  $0    Coconut Cream Pie  $8.00    Vanilla Bean Flan  $8.00    Cranberry Fried Pie  $8.00    German Chocolate Cake  $8.00    Milk Chocolate Bread Pudding  $8.00    Two Scoops of Homemade Ice Cream  $6.00    Coca Cola  $2.50    Sprite  $2.50    Dr. Pepper  $2.50    Diet Coke  $2.50    Mexican Coke  $3.00    Ibc Root Beer  $2.50    Big Red  $2.50    Ginger Ale  $2.50    Topo Chico  $2.50    Panna  $3.00    Pellegrino  $3.00    Dark Roast Coffee  $2.00    Espresso  $2.50    Americano  $2.50    Cappuccino  $3.00    Latte  $3.00    Iced Black Tea  $2.50    Hot Tea  $3.00    
+spicy deviled eggs	$9.00	Starter		Dinner Menu	Appetizers
+roasted green chili queso	$8.00	Starter		Dinner Menu	Appetizers
+crispy wild boar ribs	$14.00	Starter		Dinner Menu	Appetizers
+deep fried boudin fritters	$10.00	Starter		Dinner Menu	Appetizers
+achiote seared chickpeas and goat cheese	$12.00	Starter		Dinner Menu	Appetizers
+housemade charcuteries and artisan cheeses	$22.00	Starter		Dinner Menu	Appetizers
+broiled gulf oysters	$16.00	Starter		Dinner Menu	Appetizers
+fried green tomatoes	$16.00	Starter		Dinner Menu	Salads and Soup
+hydroponic bibb lettuce & avocado	$13.00	Starter		Dinner Menu	Salads and Soup
+grilled housemade focaccia caesar	$10.00	Starter		Dinner Menu	Salads and Soup
+classic iceberg wedge	$12.00	Starter		Dinner Menu	Salads and Soup
+soup of the day	$0	Starter		Dinner Menu	Salads and Soup
+natural black angus brisket	$18.00	Entree		Dinner Menu	Oak Smoked
+country style pork ribs	$18.00	Entree		Dinner Menu	Oak Smoked
+housemade jalapeño hot links	$16.00	Entree		Dinner Menu	Oak Smoked
+half local chicken	$18.00	Entree		Dinner Menu	Oak Smoked
+natural pulled pork	$17.00	Entree		Dinner Menu	Oak Smoked
+cold smoked rainbow trout	$21.00	Entree		Dinner Menu	Oak Smoked
+whole black angus short rib	$34.00	Entree		Dinner Menu	Oak Smoked
+fresh market gulf fish	$32.00	Entree		Dinner Menu	Oak Grilled
+jumbo gulf shrimp & grits	$28.00	Entree		Dinner Menu	Oak Grilled
+cold smoked lockhart quail	$24.00	Entree		Dinner Menu	Oak Grilled
+natural hanger steak*	$32.00	Entree		Dinner Menu	Oak Grilled
+house bacon wrapped	$42.00	Entree		Dinner Menu	Oak Grilled
+marinated colorado lamb chops*	$42.00	Entree		Dinner Menu	Oak Grilled
+mustard and brown sugar crusted niman ranch ribeye*	$39.00	Entree		Dinner Menu	Oak Grilled
+lamberts baked mac and 3 cheeses	$7.00	Entree		Dinner Menu	Family Style Sides
+waffle fries, smoked paprika, herbs	$7.00	Entree		Dinner Menu	Family Style Sides
+mashed new potatoes, crème fraiche	$7.00	Entree		Dinner Menu	Family Style Sides
+brussels sprouts, lamberts bacon, brown butter	$7.00	Entree		Dinner Menu	Family Style Sides
+fried okra with spicy remoulade	$7.00	Entree		Dinner Menu	Family Style Sides
+jalapeño & garlic roasted broccoli	$7.00	Entree		Dinner Menu	Family Style Sides
+buttermilk new potato salad	$7.00	Entree		Dinner Menu	Family Style Sides
+jicama, carrot, & cilantro slaw	$7.00	Entree		Dinner Menu	Family Style Sides
+green chili cheese grits	$7.00	Entree		Dinner Menu	Family Style Sides
+ranch style beans with brisket ends	$7.00	Entree		Dinner Menu	Family Style Sides
+smoked bacon braised collard greens	$7.00	Entree		Dinner Menu	Family Style Sides
+grilled sweet corn, cotija, dill mayonnaise	$7.00	Entree		Dinner Menu	Family Style Sides
+coconut cream pie	$8.00	Dessert		Dinner Menu	Dessert
+vanilla bean flan	$8.00	Dessert		Dinner Menu	Dessert
+cranberry fried pie	$8.00	Dessert		Dinner Menu	Dessert
+german chocolate cake	$8.00	Dessert		Dinner Menu	Dessert
+milk chocolate bread pudding	$8.00	Dessert		Dinner Menu	Dessert
+two scoops of homemade ice cream	$6.00	Dessert		Dinner Menu	Dessert
+coca cola	$2.50	Entree		Dinner Menu	Fountain
+sprite	$2.50	Entree		Dinner Menu	Fountain
+dr. pepper	$2.50	Entree		Dinner Menu	Fountain
+diet coke	$2.50	Entree		Dinner Menu	Fountain
+mexican coke	$3.00	Entree		Dinner Menu	Bottled
+ibc root beer	$2.50	Entree		Dinner Menu	Bottled
+big red	$2.50	Entree		Dinner Menu	Bottled
+ginger ale	$2.50	Entree		Dinner Menu	Bottled
+topo chico	$2.50	Entree		Dinner Menu	Bottled
+panna	$3.00	Entree		Dinner Menu	Bottled
+pellegrino	$3.00	Entree		Dinner Menu	Bottled
+dark roast coffee	$2.00	Entree		Dinner Menu	Stumptown Coffee
+espresso	$2.50	Entree		Dinner Menu	Stumptown Coffee
+americano	$2.50	Entree		Dinner Menu	Stumptown Coffee
+cappuccino	$3.00	Entree		Dinner Menu	Stumptown Coffee
+latte	$3.00	Entree		Dinner Menu	Stumptown Coffee
+iced black tea	$2.50	Drink		Dinner Menu	The Steeping Room Tea
+hot tea	$3.00	Drink		Dinner Menu	The Steeping Room Tea
+fresh cut fruit & berries	$0	Entree		Sunday Brunch Menu	The Buffet
+classic new potato salad	$0	Entree		Sunday Brunch Menu	The Buffet
+jicama and cilantro slaw	$0	Entree		Sunday Brunch Menu	The Buffet
+grilled asparagus	$0	Entree		Sunday Brunch Menu	The Buffet
+deviled eggs with caviar	$0	Entree		Sunday Brunch Menu	The Buffet
+house smoked gravlox salmon	$0	Entree		Sunday Brunch Menu	The Buffet
+applewood smoked bacon	$0	Entree		Sunday Brunch Menu	The Buffet
+spicy breakfast sausage	$0	Entree		Sunday Brunch Menu	The Buffet
+cheddar & roasted poblano grits	$0	Entree		Sunday Brunch Menu	The Buffet
+new potato home fries	$0	Entree		Sunday Brunch Menu	The Buffet
+roasted garlic & rosemary crusted prime rib	$0	Entree		Sunday Brunch Menu	Butcher Block
+brown sugar & coffee rubbed natural brisket	$0	Entree		Sunday Brunch Menu	Butcher Block
+coriander & maple crusted berkshire pork ribs	$0	Entree		Sunday Brunch Menu	Butcher Block
+lamberts baked mac and cheese	$0	Entree		Sunday Brunch Menu	Butcher Block
+buttermilk biscuits	$0	Entree		Sunday Brunch Menu	Butcher Block
+2 eggs	$0	Entree		Sunday Brunch Menu	Please Order
+fines herb omelette	$0	Entree		Sunday Brunch Menu	Please Order
+lambo's benedict	$0	Entree		Sunday Brunch Menu	Please Order
+hanger steak benedict	$0	Entree		Sunday Brunch Menu	Please Order
+smoked brisket hash	$0	Entree		Sunday Brunch Menu	Please Order
+fried chicken thigh on a biscuit	$0	Entree		Sunday Brunch Menu	Please Order
+breakfast frito pie	$0	Entree		Sunday Brunch Menu	Please Order
+brioche french toastyrup	$0	Entree		Sunday Brunch Menu	Please Order
+dessert table	$0	Entree		Sunday Brunch Menu	Please Order
+daily old fashioned	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+sangria blanco	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+vodka southside	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+ruby red mule	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+sanchez	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+perfect martini	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+cucumber rum smash	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+district daiquiri	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+kentucky club margarita	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+paloma	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+ocotillo bloom	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+hesitating beauty	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+brooklyn cocktail	$0	Drink		Sunday Brunch Menu	Lamberts Favorite Cocktails
+spicy deviled eggs	$9.00	Starter		Lunch Menu	Appetizers
+roasted green chili queso	$8.00	Starter		Lunch Menu	Appetizers
+crispy wild boar ribs	$14.00	Starter		Lunch Menu	Appetizers
+deep fried boudin fritters	$10.00	Starter		Lunch Menu	Appetizers
+achiote seared chickpeas and goat cheese	$12.00	Starter		Lunch Menu	Appetizers
+housemade charcuteries and artisan cheeses	$22.00	Starter		Lunch Menu	Appetizers
+broiled gulf oysters	$16.00	Starter		Lunch Menu	Appetizers
+iceberg wedge	$12.00	Starter		Lunch Menu	Salads and Soup
+bluebonnet farms bibb lettuce & avocado	$13.00	Starter		Lunch Menu	Salads and Soup
+fried green tomatoes	$16.00	Starter		Lunch Menu	Salads and Soup
+smoked brisket salpicon	$14.00	Starter		Lunch Menu	Salads and Soup
+grilled caesar, achiote seared chicken breast	$16.00	Starter		Lunch Menu	Salads and Soup
+smoked natural chicken cobb salad	$16.00	Starter		Lunch Menu	Salads and Soup
+soup of the day	$0	Starter		Lunch Menu	Salads and Soup
+sliced natural beef brisket, jalapeño hotlink	$14.00	Entree		Lunch Menu	Sandwiches
+wood grilled house ground cheeseburger*	$16.00	Entree		Lunch Menu	Sandwiches
+chopped beef brisket sandwich	$12.00	Entree		Lunch Menu	Sandwiches
+smoked chicken salad blt	$14.00	Entree		Lunch Menu	Sandwiches
+pulled smoked pork cuban	$13.00	Entree		Lunch Menu	Sandwiches
+carne asada bolillo	$12.00	Entree		Lunch Menu	Sandwiches
+cold smoked rainbow trout	$21.00	Entree		Lunch Menu	Lunch Plates
+oak grilled natural hanger steak*	$24.00	Entree		Lunch Menu	Lunch Plates
+mustard and brown sugar crusted niman ranch ribeye*	$39.00	Entree		Lunch Menu	Lunch Plates
+one bbq meat	$14.00	Entree		Lunch Menu	Lunch Plates
+two bbq meats	$16.00	Entree		Lunch Menu	Lunch Plates
+three bbq meats	$18.00	Entree		Lunch Menu	Lunch Plates
+brown sugar & coffee rubbed natural brisket	$0	Entree		Lunch Menu	Slow Smoked Meats
+maple and coriander crusted natural pork ribs	$0	Entree		Lunch Menu	Slow Smoked Meats
+homemade jalapeño hot link	$0	Entree		Lunch Menu	Slow Smoked Meats
+achiote and lime rubbed natural chicken	$0	Entree		Lunch Menu	Slow Smoked Meats
+natural pulled pork	$0	Entree		Lunch Menu	Slow Smoked Meats
+classic new potato salad	$0	Entree		Lunch Menu	Housemade Sides
+baked mac and cheese	$0	Entree		Lunch Menu	Housemade Sides
+ranch style baked beans	$0	Entree		Lunch Menu	Housemade Sides
+jicama and carrot slaw	$0	Entree		Lunch Menu	Housemade Sides
+herbed waffle fries	$0	Entree		Lunch Menu	Housemade Sides
+smoked bacon braised collards	$0	Entree		Lunch Menu	Housemade Sides
+coconut cream pie	$8.00	Dessert		Lunch Menu	Dessert
+vanilla bean flan	$8.00	Dessert		Lunch Menu	Dessert
+cranberry fried pie	$8.00	Dessert		Lunch Menu	Dessert
+german chocolate cake	$8.00	Dessert		Lunch Menu	Dessert
+milk chocolate bread pudding	$8.00	Dessert		Lunch Menu	Dessert
+two scoops of homemade ice cream	$6.00	Dessert		Lunch Menu	Dessert
+coca cola	$2.50	Entree		Lunch Menu	Fountain
+sprite	$2.50	Entree		Lunch Menu	Fountain
+dr. pepper	$2.50	Entree		Lunch Menu	Fountain
+diet coke	$2.50	Entree		Lunch Menu	Fountain
+mexican coke	$3.00	Entree		Lunch Menu	Bottled
+ibc root beer	$2.50	Entree		Lunch Menu	Bottled
+big red	$2.50	Entree		Lunch Menu	Bottled
+ginger ale	$2.50	Entree		Lunch Menu	Bottled
+topo chico	$2.50	Entree		Lunch Menu	Bottled
+panna	$3.00	Entree		Lunch Menu	Bottled
+pellegrino	$3.00	Entree		Lunch Menu	Bottled
+dark roast coffee	$2.00	Entree		Lunch Menu	Stumptown Coffee
+espresso	$2.50	Entree		Lunch Menu	Stumptown Coffee
+americano	$2.50	Entree		Lunch Menu	Stumptown Coffee
+cappuccino	$3.00	Entree		Lunch Menu	Stumptown Coffee
+latte	$3.00	Entree		Lunch Menu	Stumptown Coffee
+iced black tea	$2.50	Drink		Lunch Menu	The Steeping Room Tea
+hot tea	$3.00	Drink		Lunch Menu	The Steeping Room Tea
 
-id = 55dca873498eeaf5fd9f4c8e
 name = Shake Shack
-location = lat = 30.399056, lng = -97.725793
-Address = [11228 Domain Drive, Austin, TX 78758]
-tag = Burger Joint
-rating = 9.0
+Menu not available
 
-
-id = 541c43c5498edf1964a50e30
 name = JuiceLand
-location = lat = 30.185288530349204, lng = -97.8472791287291
-Address = [9901 Brodie Ln Ste 110, Austin, TX 78748]
-tag = Vegetarian / Vegan Restaurant
-rating = 9.0
+Menu not available
 
-
-id = 4b7ae3b0f964a520ff432fe3
 name = Chilantro BBQ
-location = lat = 30.250586660373024, lng = -97.78257907215648
-Address = [Austin, TX 78701]
-tag = Food Truck
-rating = 9.0
+Menu not available
 
-
-id = 45fd161af964a52076441fe3
 name = Juan in a Million
-location = lat = 30.25529618, lng = -97.719077
-Address = [2300 E Cesar Chavez St (Mildred St.), Austin, TX 78702]
-tag = Mexican Restaurant
-rating = 9.0
-Nachos  $6.95    Quesadillas  $5.95    Tortillas Chips  $1.75    Guacamole Salad  $7.45    Menudo  $6.95    Caldo De Res  $6.95    Fajitas - Beef Or Chicken  $8.45    Enchiladas - Beef Or Cheese  $8.45    Chicken Enchiladas  $8.45    Flautas - Beef and Chicken  $8.45    Chalupas  $5.95    Single Chalupa  $4.95    Carne Guisada  $8.45    Taco Dinner Chicken Or Beef  $7.25    Rib Steak Dinner  $9.25    Mexican Delite Plate  $5.45    Taco Salad  $6.95    Small Garden Salad  $2.95    Fajita Salad  $7.95    Don Juan- El Taco Grande  $3.95    Fajitas - Beef Or Chicken  $2.80    Beef Or Chicken Taco  $2.40    Carne Guisada  $2.70    Guacamole Taco  $2.40    Rice  $1.60    Beans  $1.60    Flour Tortilla  $0.15    Corn Tortilla  $0.10    Small Guacamole  $4.50    Shredded Cheese  $1.00    Pico De Gallo  $0.75    Sour Cream  $0.75    Single Enchilada - Beef Or Cheese  $2.25    Single Flauta - Beef Or Chicken  $2.25    Fresh Or Pickled Jalapeno  $0.75    Flan  $3.95    Tres Leches Cake  $3.95    
+nachos	$6.95	Starter		Main Menu	Appetizers & Soups
+quesadillas	$5.95	Starter		Main Menu	Appetizers & Soups
+tortillas chips	$1.75	Starter		Main Menu	Appetizers & Soups
+guacamole salad	$7.45	Starter		Main Menu	Appetizers & Soups
+menudo	$6.95	Starter		Main Menu	Appetizers & Soups
+caldo de res	$6.95	Starter		Main Menu	Appetizers & Soups
+fajitas - beef or chicken	$8.45	Entree		Main Menu	Lunches & Dinners
+enchiladas - beef or cheese	$8.45	Entree		Main Menu	Lunches & Dinners
+chicken enchiladas	$8.45	Entree		Main Menu	Lunches & Dinners
+flautas - beef and chicken	$8.45	Entree		Main Menu	Lunches & Dinners
+chalupas	$5.95	Entree		Main Menu	Lunches & Dinners
+single chalupa	$4.95	Entree		Main Menu	Lunches & Dinners
+carne guisada	$8.45	Entree		Main Menu	Lunches & Dinners
+taco dinner chicken or beef	$7.25	Entree		Main Menu	Lunches & Dinners
+rib steak dinner	$9.25	Entree		Main Menu	Lunches & Dinners
+mexican delite plate	$5.45	Entree		Main Menu	Lunches & Dinners
+taco salad	$6.95	Entree		Main Menu	Lunches & Dinners
+small garden salad	$2.95	Entree		Main Menu	Lunches & Dinners
+fajita salad	$7.95	Entree		Main Menu	Lunches & Dinners
+don juan- el taco grande	$3.95	Entree		Main Menu	Legendary Tacos
+fajitas - beef or chicken	$2.80	Entree		Main Menu	Legendary Tacos
+beef or chicken taco	$2.40	Entree		Main Menu	Legendary Tacos
+carne guisada	$2.70	Entree		Main Menu	Legendary Tacos
+guacamole taco	$2.40	Entree		Main Menu	Legendary Tacos
+rice	$1.60	Entree		Main Menu	Sides
+beans	$1.60	Entree		Main Menu	Sides
+flour tortilla	$0.15	Entree		Main Menu	Sides
+corn tortilla	$0.10	Entree		Main Menu	Sides
+small guacamole	$4.50	Entree		Main Menu	Sides
+shredded cheese	$1.00	Entree		Main Menu	Sides
+pico de gallo	$0.75	Entree		Main Menu	Sides
+sour cream	$0.75	Entree		Main Menu	Sides
+single enchilada - beef or cheese	$2.25	Entree		Main Menu	Sides
+single flauta - beef or chicken	$2.25	Entree		Main Menu	Sides
+fresh or pickled jalapeno	$0.75	Entree		Main Menu	Sides
+flan	$3.95	Entree		Main Menu	Sides
+tres leches cake	$3.95	Entree		Main Menu	Sides
 
-id = 54dd57e3498e766ab84999d1
 name = Launderette
-location = lat = 30.252048431036226, lng = -97.72272690109565
-Address = [2115 Holly St, Austin, TX 78702]
-tag = Southern / Soul Food Restaurant
-rating = 9.0
+Menu not available
 
-
-id = 4b5a5b43f964a520a7bf28e3
 name = East Side King
-location = lat = 30.2627538273915, lng = -97.72483765426351
-Address = [1618 1/2 E 6th St, Austin, TX 78702]
-tag = Food Truck
-rating = 9.0
+Menu not available
 
-
-id = 4a5cbc97f964a5207bbc1fe3
 name = Pho Saigon
-location = lat = 30.378094754156002, lng = -97.68717183251346
-Address = [10901 N Lamar Blvd #108 (Chinatown Center), Austin, TX 78753]
-tag = Vietnamese Restaurant
-rating = 9.0
-Cha Gio (Vietnamese Eggroll)  $1.20    Fresh Spring Roll  $1.20    Fresh Vegetarian Spring Roll  $1.20    French Bread  $0.50    Fried Egg  $0.75    Bpwl of Steamed Rice  $0.50    Bowl of Rice Noodles  $0.75    Plate of Eye Round Steak  $2.00    Poh Tai  $5.75    Poh Tai Chin  $5.75    Pho Tai Nam  $4.75    Pho Tai Gan  $4.75    Pho Tai Bo Vien  $4.75    Che Doc Bief  $2.00    Che Dau Trang  $2.00    Chi Dau Do  $2.00    Suang Sa Hot Luu  $2.00    Nhan Nhuc  $1.75    
+cha gio (vietnamese eggroll)	$1.20	Starter		Main Menu	Appetizers
+fresh spring roll	$1.20	Starter		Main Menu	Appetizers
+fresh vegetarian spring roll	$1.20	Starter		Main Menu	Appetizers
+french bread	$0.50	Entree		Main Menu	Side Items (Dine in Only)
+fried egg	$0.75	Entree		Main Menu	Side Items (Dine in Only)
+bpwl of steamed rice	$0.50	Entree		Main Menu	Side Items (Dine in Only)
+bowl of rice noodles	$0.75	Entree		Main Menu	Side Items (Dine in Only)
+plate of eye round steak	$2.00	Entree		Main Menu	Side Items (Dine in Only)
+poh tai	$5.75	Entree		Main Menu	Beef Noodle Soup
+poh tai chin	$5.75	Entree		Main Menu	Beef Noodle Soup
+pho tai nam	$4.75	Entree		Main Menu	Beef Noodle Soup
+pho tai gan	$4.75	Entree		Main Menu	Beef Noodle Soup
+pho tai bo vien	$4.75	Entree		Main Menu	Beef Noodle Soup
+che doc bief	$2.00	Dessert		Main Menu	Dessert
+che dau trang	$2.00	Dessert		Main Menu	Dessert
+chi dau do	$2.00	Dessert		Main Menu	Dessert
+suang sa hot luu	$2.00	Dessert		Main Menu	Dessert
+nhan nhuc	$1.75	Dessert		Main Menu	Dessert
 
-id = 49c3c870f964a52077561fe3
 name = P. Terry's Burger Stand
-location = lat = 30.261606354160733, lng = -97.75858327746391
-Address = [404 S Lamar Blvd (at Barton Springs Rd.), Austin, TX 78704]
-tag = Burger Joint
-rating = 9.0
+Menu not available
 
-
-id = 553c2b4b498e27fbb4043049
 name = Via 313 Pizzeria
-location = lat = 30.232977878358437, lng = -97.86556237064588
-Address = [6705 Highway 290, Austin, TX 78735]
-tag = Pizza Place
-rating = 9.0
+Menu not available
 
-
-id = 4b3b9e1af964a5201a7725e3
 name = Twin Lion Chinese Restaurant
-location = lat = 30.400137234126724, lng = -97.74785851901997
-Address = [4815 W Braker Ln (Jollyville Rd), Austin, TX 78759]
-tag = Chinese Restaurant
-rating = 9.0
-Crab Meat Soup  $5.75    Twin Lion Tofu Soup  $6.50    Seafood Hot & Sour Soup  $6.50    Twin Lion's Siuling Rice Soup  $5.95    Tofu  $5.95    Chicken with Broccoli  $8.75    Chicken with Cashew Nuts  $9.25    Moo Goo Gai Pein  $8.75    Sizzling Rice Chicken Hot Platter  $9.50    Chicken with Black Mushroom  $9.50    Sweet & Sour Pork  $8.75    Twice Cooked Pork*  $8.75    B.B.Q. Pork with Vegetables  $8.75    Mongolian Home Style Pork*  $9.00    Pork Cho Suey Or Chowmein  $8.75    Beef with Broccoli  $9.25    Beef with Vegetables  $9.25    Beef with Snow Peas  $9.50    Walnut Beef  $11.25    Basil Beef*  $10.75    Chicken  $9.50    Pork  $9.50    Beef  $9.95    Shrimp  $9.95    Vegetables  $9.25    
+crab meat soup	$5.75	Starter		Dinner Menu	Soups
+twin lion tofu soup	$6.50	Starter		Dinner Menu	Soups
+seafood hot & sour soup	$6.50	Starter		Dinner Menu	Soups
+twin lion's siuling rice soup	$5.95	Starter		Dinner Menu	Soups
+tofu	$5.95	Starter		Dinner Menu	Soups
+chicken with broccoli	$8.75	Entree		Dinner Menu	Chicken
+chicken with cashew nuts	$9.25	Entree		Dinner Menu	Chicken
+moo goo gai pein	$8.75	Entree		Dinner Menu	Chicken
+sizzling rice chicken hot platter	$9.50	Entree		Dinner Menu	Chicken
+chicken with black mushroom	$9.50	Entree		Dinner Menu	Chicken
+sweet & sour pork	$8.75	Entree		Dinner Menu	Pork
+twice cooked pork*	$8.75	Entree		Dinner Menu	Pork
+b.b.q. pork with vegetables	$8.75	Entree		Dinner Menu	Pork
+mongolian home style pork*	$9.00	Entree		Dinner Menu	Pork
+pork cho suey or chowmein	$8.75	Entree		Dinner Menu	Pork
+beef with broccoli	$9.25	Entree		Dinner Menu	Beef
+beef with vegetables	$9.25	Entree		Dinner Menu	Beef
+beef with snow peas	$9.50	Entree		Dinner Menu	Beef
+walnut beef	$11.25	Entree		Dinner Menu	Beef
+basil beef*	$10.75	Entree		Dinner Menu	Beef
+chicken	$9.50	Entree		Dinner Menu	Pan Fried Crispy Noodles
+pork	$9.50	Entree		Dinner Menu	Pan Fried Crispy Noodles
+beef	$9.95	Entree		Dinner Menu	Pan Fried Crispy Noodles
+shrimp	$9.95	Entree		Dinner Menu	Pan Fried Crispy Noodles
+vegetables	$9.25	Entree		Dinner Menu	Pan Fried Crispy Noodles
 
-id = 4a9ebac6f964a520f63a20e3
 name = 888 Vietnamese Restaurant
-location = lat = 30.229482185091733, lng = -97.73025512695312
-Address = [2400 E Oltorf St, Austin, TX 78741]
-tag = Vietnamese Restaurant
-rating = 9.0
-Egg Rolls  $3.50    Vietnamese Style Eggroll  $4.75    Julienne Pork Spring Roll  $3.50    Imperial Crispy Shrimp  $4.50    Wonton Soup  $2.50    Mixed Royal Dish  $8.95    Large Pt  $6.75    Vegetable Egg Rolls  $3.50    Basil Bangkok Chicken Wing  $4.95    Grilled Squid  $4.95    Sea Food Puffs (6)  $3.50    Shrimp Or Squid Salad Thai Style  $6.95    Small Tom  $6.95    Tom Yum Gai  $0    Wonton Soup  $0    Po Tak Ta-Lay  $0    Po Tak  $0    Tom Kha Gai  $0    Tom Yum Kung  $0    Gang Som  $0    Tom Yum Pak  $0    Rice Noodle Soup with Chicken  $0    Egg Noodle Soup with Vegetable and Tofu - Lunch  $5.25    Rice Noodle Soup with Shrimp - Lunch  $5.95    Rice Noodle Soup with Seafood - Lunch  $6.50    Rice Noodle Soup with Tofu and Vegetable - Lunch  $5.25    Rice Noodle Soup with Combination - Lunch  $5.95    Rice Noodle Soup with Roasted Duck  $0    Egg Noodle Soup with Chicken  $6.25    Egg Noodle Soup and Shrimp - Lunch  $5.95    Egg Noodle Soup with Shrimp  $6.75    Egg Noodle Soup with Seafood  $6.75    Egg Noodle Soup with Vegetable and Tofu  $6.25    Egg Noodle Soup with Combination  $6.75    Rice Noodle Soup with Chicken - Lunch  $5.25    Rice Noodle Soup with Bbq Pork  $6.25    Rice Noodle Soup with Shrimp  $6.75    Rice Noodle Soup with Seafood  $6.75    Rice Noodle Soup with Vegetable and Tofu  $6.25    Rice Noodle Soup with Combination  $6.50    Egg Noodle Soup with Chicken - Lunch  $5.25    Egg Noodle and B. B. Q Pork - Lunch  $5.50    Egg Noodle Soup with Bbq Pork  $6.25    Egg Noodle Soup and Seafood - Lunch  $6.50    Rice and B. B. Q Pork Lunch  $5.25    Egg Noodle Soup and Combination - Lunch  $5.95    Chicken Clay Pot  $7.95    Sausage and B. B. Q Pork Clay Pot  $7.95    Vegetable Hot Pot  $0    Shrimp Hot Pot  $9.95    Seafood Hot Pot  $0    Beef Clay Pot  $7.95    Vegetable Clay Pot  $7.95    Shrimp Clay Pot  $7.95    Seafood Clay Pot  $8.95    Combination Hot Pot  $0    Chicken Rice Noodle - Lunch  $6.95    Beef Rice Noodle Lunch  $6.95    Vegetables and Tofu Rice Noodle Lunch  $6.95    Shrimp Rice Noodle - Lunch  $7.95    Seafood Rice Noodle Lunch  $0    Combo Rice Noodle - Lunch  $7.95    Chicken Egg Noodle Lunch  $6.95    Beef Egg Noodle - Lunch  $6.95    Vegetables and Tofu Egg Noodle - Lunch  $6.95    Shrimp Egg Noodle - Lunch  $7.95    Seafood Egg Noodle Lunch  $8.50    Combo Egg Noodle Lunch  $7.95    Chicken Low Mein  $7.95    Shrimp Low Mein  $8.95    Combo Low Mein  $8.95    Pad Thai Lunch  $7.95    Crispy Pad Thai  $9.75    Crispy Noodle with Chicken  $7.95    Crispy Noodle with Beef  $7.95    Crispy Noodle with Shrimp  $8.95    Crispy Noodle with Seafood  $9.25    Crispy Noodle with Vegetables and Tofu  $7.95    Crispy Noodle Combo  $8.95    Chicken Rice Noodle  $7.95    Beef Rice Noodle  $7.95    Vegetables and Tofu Rice Noodle  $7.95    Shrimp Rice Noodle  $8.95    Seafood Rice Noodle  $9.25    Combo Rice Noodle  $9.25    Chicken Egg Noodle  $7.95    Beef Egg Noodle  $7.95    Vegetable and Tofu Egg Noodle  $7.95    Shrimp Egg Noodle  $8.95    Seafood Egg Noodle  $9.25    Combo Egg Noodle  $8.95    Beef Low Mein  $7.95    Seafood Low Mein  $9.25    Vegetables and Tofu Low Mein  $7.95    Pad Thai  $8.95    Crispy Noodle with Chicken - Lunch  $6.95    Crispy Noodle with Beef Lunch  $6.95    Crispy Noodle with Shrimp Lunch  $7.95    Crispy Noodle with Seafood Lunch  $8.25    Crispy Noodle with Vegetables and Tofu Lunch  $6.95    Crispy Noodle Combo Lunch  $7.95    Grilled Chicken  $7.00    Grilled Sliced Pork - Dinner  $6.95    Grill Pork Chop - Dinner  $6.95    Grilled Shrimp - Dinner  $7.95    Julienne Pork and Grill Pork - Dinner  $7.25    Grilled Shrimp and Sliced Pork - Dinner  $8.25    Pork Chop Wrapped Shrimp  $7.95    Special Combination Plate - Dinner  $7.95    Grilled Sliced Pork  $6.50    Grilled Pork Chop  $6.50    Grilled Shrimp  $8.25    Julienne Pork and Grilled Pork  $6.95    Grilled Shrimp and Sliced Pork  $7.95    Julienne Pork and Grilled Pork Chop  $6.95    Sliced Pork Wrapped Shrimp - Dinner  $7.95    Special Combo Plate  $7.25    Rice Noodle Soup with Vegetables  $5.25    Stir Fried Rice Noodle  $5.25    Vegetable Fried Rice  $6.50    Vermicelli with Tofu Lemongrass  $5.95    Red Curry with Vegetables  $6.95    Egg Noodle Soup with Vegetables  $5.25    Stir-Fried Egg Noodle with Tofu and Vegetables  $5.25    Tofu Delight  $5.25    Two-Yellow-Curry with Vegetables  $6.95    Green Curry with Vegetables  $6.95    Vermicelli with Chicken  $5.95    Vermicelli with Pork Eggroll  $5.95    Vermicelli with Seafood  $6.75    Vermicelli with Combination  $6.25    Vermicelli  $6.95    Vermicelli with Grilled Pork and Imperial Roll  $7.50    Vermicelli with Grilled Pork and Shrimp Lemongrass  $7.95    Vermicelli with Beef  $6.25    Vermicelli with Shrimp  $7.25    Vermicelli with Tofu  $5.50    Vermicelli with Grilled Pork  $6.50    Vermicelli  $6.50    Vermicelli with Montreal Chicken and Shrimp  $7.95    Pho Ga  $6.25    Pho Tai Chin  $6.25    Pho Tai Bo Vien  $6.25    Pho Tai Gan  $6.25    Pho Tai Nam  $6.25    Pho Do Bien  $6.95    Pho Tai  $6.25    Pho Dac Biet  $6.50    Pho Tai Gau  $6.25    Pho Nam  $6.25    Pho Tom  $6.95    Pho Rau Cai  $6.25    Royal Duck Breast with Ginger  $11.95    Sizzling Red Snapper 'Thai Style'  $10.95    Salmon Fillet Grilled in Teriyaki Sauce  $9.95    Salmon Grilled in Green Thai Sauce  $11.95    Beef Flank Steak - Vietnamese Style  $10.95    Seafood Stir Fry Vegetables  $10.95    Roast Duck in 4 Season Fruit Sauce  $11.95    Sizzling Red Snapper 'Thai Style'  $10.95    Salmon Fillet Fried Hot Garlic  $10.95    Beef Flank Steak - Thai Style  $10.95    Imperial Beef Flank Steak  $10.95    Chicken Fried Rice - Lunch  $6.50    Beef Fried Rice  $6.95    Bbq Pork Fried Rice  $6.50    Shrimp Fried Rice  $7.50    Seafood Fried Rice  $7.75    Combo Fried Rice  $7.75    Vegetable Fried Rice  $6.50    Chicken Fried Rice  $6.50    B. B. Q Pork Fried Rice Lunch  $5.95    Shrimp Fried Rice - Lunch  $7.50    Seafood Fried Rice - Lunch  $7.50    Combo Fried Rice - Lunch  $6.95    Vegetable Fried Rice - Lunch  $5.95    Combo Broccoli  $9.25    Shrimp Broccoli  $8.95    Tofu Broccoli  $6.95    Chicken Broccoli  $6.95    Sesame Tofu  $8.50    Orange Chicken  $7.95    Ginger Chicken  $8.25    Kung Pao Chicken  $7.50    Beef Broccoli  $6.95    Chicken Lemongrass  $7.25    Shrimp Lemongrass  $8.75    Tofu Lemongrass  $6.95    Beef Lemongrass Sizzling  $8.95    Green Been with Beef  $7.95    Tofu Lemongrass Sizzling  $8.25    Chicken Delight  $7.25    Shrimp Delight  $8.25    Tofu Vegetable Delight  $7.25    Chicken Salt & Pepper Style  $8.95    Squid Salt & Pepper Style  $9.50    Chicken Vegetable Delight  $6.95    Shrimp Vegetable Delight  $7.95    Chicken Lemongrass  $6.95    Tofu Lemongrass  $6.95    Shrimp Lemongrass Sizzling  $9.50    Mongolian Beef  $7.95    Chicken Broccoli  $7.95    Seafood Broccoli  $9.25    Beef Broccoli  $7.95    Sesame Chicken  $7.25    General Tso Chicken  $7.25    Mogolian Beef  $8.25    Chicken Cashew  $8.25    Kung Pao Beef  $7.50    Kung Pao Seafood  $8.50    Beef Lemongrass  $7.25    Seafood Lemongrass  $9.25    Combo Lemongrass  $8.50    Chicken Lemongrass Sizzling  $8.95    Green Been with Squid  $8.95    Combo Lemongrass Sizzling  $9.50    Beef Delight  $7.25    Seafood Delight  $8.50    Combo Delight  $8.25    Shrimp Salt & Pepper Style  $9.50    Seafood Salt & Pepper Style  $10.25    Seafood Vegetable Delight  $8.25    Combo Vegetable Delight  $7.95    Shrimp Broccoli  $7.95    Combo Lemongrass  $7.95    Seafood Lemongrass Sizzling  $9.95    Chicken Green Curry  $7.50    Flank Steak Green Curry  $8.25    Tofu Green Curry  $6.95    Chicken Red Curry  $7.50    Flank Steak Red Curry  $8.95    Tofu Red Curry  $6.95    Roasted Duck Panang Curry  $9.95    Chicken Yellow Curry  $7.95    Tofu Yellow Curry  $6.95    Chicken Green Curry Lunch  $7.95    Flank Steak Green Curry Lunch  $8.95    Vegetables Green Curry  $7.25    Chicken Red Curry - Lunch  $7.95    Flank Steak Red Curry - Lunch  $7.95    Chicken Panang Curry  $7.50    Shrimp Panang Curry  $8.95    Flank Steak Yellow Curry  $8.95    Vegetables Yellow Curry  $6.95    Creme Brulle  $3.95    Italian Cream  $3.99    Sweet Mango  $3.95    
+egg rolls	$3.50	Starter		Main Menu	Appetizers
+vietnamese style eggroll	$4.75	Starter		Main Menu	Appetizers
+julienne pork spring roll	$3.50	Starter		Main Menu	Appetizers
+imperial crispy shrimp	$4.50	Starter		Main Menu	Appetizers
+wonton soup	$2.50	Starter		Main Menu	Appetizers
+mixed royal dish	$8.95	Starter		Main Menu	Appetizers
+large pt	$6.75	Starter		Main Menu	Appetizers
+vegetable egg rolls	$3.50	Starter		Main Menu	Appetizers
+basil bangkok chicken wing	$4.95	Starter		Main Menu	Appetizers
+grilled squid	$4.95	Starter		Main Menu	Appetizers
+sea food puffs (6)	$3.50	Starter		Main Menu	Appetizers
+shrimp or squid salad thai style	$6.95	Starter		Main Menu	Appetizers
+small tom	$6.95	Starter		Main Menu	Appetizers
+tom yum gai	$0	Entree		Main Menu	Soup
+wonton soup	$0	Entree		Main Menu	Soup
+po tak ta-lay	$0	Entree		Main Menu	Soup
+po tak	$0	Entree		Main Menu	Soup
+tom kha gai	$0	Entree		Main Menu	Soup
+tom yum kung	$0	Entree		Main Menu	Soup
+gang som	$0	Entree		Main Menu	Soup
+tom yum pak	$0	Entree		Main Menu	Soup
+rice noodle soup with chicken	$0	Entree		Main Menu	Noodle Soup
+egg noodle soup with vegetable and tofu - lunch	$5.25	Entree		Main Menu	Noodle Soup
+rice noodle soup with shrimp - lunch	$5.95	Entree		Main Menu	Noodle Soup
+rice noodle soup with seafood - lunch	$6.50	Entree		Main Menu	Noodle Soup
+rice noodle soup with tofu and vegetable - lunch	$5.25	Entree		Main Menu	Noodle Soup
+rice noodle soup with combination - lunch	$5.95	Entree		Main Menu	Noodle Soup
+rice noodle soup with roasted duck	$0	Entree		Main Menu	Noodle Soup
+egg noodle soup with chicken	$6.25	Entree		Main Menu	Noodle Soup
+egg noodle soup and shrimp - lunch	$5.95	Entree		Main Menu	Noodle Soup
+egg noodle soup with shrimp	$6.75	Entree		Main Menu	Noodle Soup
+egg noodle soup with seafood	$6.75	Entree		Main Menu	Noodle Soup
+egg noodle soup with vegetable and tofu	$6.25	Entree		Main Menu	Noodle Soup
+egg noodle soup with combination	$6.75	Entree		Main Menu	Noodle Soup
+rice noodle soup with chicken - lunch	$5.25	Entree		Main Menu	Noodle Soup
+rice noodle soup with bbq pork	$6.25	Entree		Main Menu	Noodle Soup
+rice noodle soup with shrimp	$6.75	Entree		Main Menu	Noodle Soup
+rice noodle soup with seafood	$6.75	Entree		Main Menu	Noodle Soup
+rice noodle soup with vegetable and tofu	$6.25	Entree		Main Menu	Noodle Soup
+rice noodle soup with combination	$6.50	Entree		Main Menu	Noodle Soup
+egg noodle soup with chicken - lunch	$5.25	Entree		Main Menu	Noodle Soup
+egg noodle and b. b. q pork - lunch	$5.50	Entree		Main Menu	Noodle Soup
+egg noodle soup with bbq pork	$6.25	Entree		Main Menu	Noodle Soup
+egg noodle soup and seafood - lunch	$6.50	Entree		Main Menu	Noodle Soup
+rice and b. b. q pork lunch	$5.25	Entree		Main Menu	Noodle Soup
+egg noodle soup and combination - lunch	$5.95	Entree		Main Menu	Noodle Soup
+chicken clay pot	$7.95	Entree		Main Menu	Clay Pot
+sausage and b. b. q pork clay pot	$7.95	Entree		Main Menu	Clay Pot
+vegetable hot pot	$0	Entree		Main Menu	Clay Pot
+shrimp hot pot	$9.95	Entree		Main Menu	Clay Pot
+seafood hot pot	$0	Entree		Main Menu	Clay Pot
+beef clay pot	$7.95	Entree		Main Menu	Clay Pot
+vegetable clay pot	$7.95	Entree		Main Menu	Clay Pot
+shrimp clay pot	$7.95	Entree		Main Menu	Clay Pot
+seafood clay pot	$8.95	Entree		Main Menu	Clay Pot
+combination hot pot	$0	Entree		Main Menu	Clay Pot
+chicken rice noodle - lunch	$6.95	Entree		Main Menu	Noodle Dishes
+beef rice noodle lunch	$6.95	Entree		Main Menu	Noodle Dishes
+vegetables and tofu rice noodle lunch	$6.95	Entree		Main Menu	Noodle Dishes
+shrimp rice noodle - lunch	$7.95	Entree		Main Menu	Noodle Dishes
+seafood rice noodle lunch	$0	Entree		Main Menu	Noodle Dishes
+combo rice noodle - lunch	$7.95	Entree		Main Menu	Noodle Dishes
+chicken egg noodle lunch	$6.95	Entree		Main Menu	Noodle Dishes
+beef egg noodle - lunch	$6.95	Entree		Main Menu	Noodle Dishes
+vegetables and tofu egg noodle - lunch	$6.95	Entree		Main Menu	Noodle Dishes
+shrimp egg noodle - lunch	$7.95	Entree		Main Menu	Noodle Dishes
+seafood egg noodle lunch	$8.50	Entree		Main Menu	Noodle Dishes
+combo egg noodle lunch	$7.95	Entree		Main Menu	Noodle Dishes
+chicken low mein	$7.95	Entree		Main Menu	Noodle Dishes
+shrimp low mein	$8.95	Entree		Main Menu	Noodle Dishes
+combo low mein	$8.95	Entree		Main Menu	Noodle Dishes
+pad thai lunch	$7.95	Entree		Main Menu	Noodle Dishes
+crispy pad thai	$9.75	Entree		Main Menu	Noodle Dishes
+crispy noodle with chicken	$7.95	Entree		Main Menu	Noodle Dishes
+crispy noodle with beef	$7.95	Entree		Main Menu	Noodle Dishes
+crispy noodle with shrimp	$8.95	Entree		Main Menu	Noodle Dishes
+crispy noodle with seafood	$9.25	Entree		Main Menu	Noodle Dishes
+crispy noodle with vegetables and tofu	$7.95	Entree		Main Menu	Noodle Dishes
+crispy noodle combo	$8.95	Entree		Main Menu	Noodle Dishes
+chicken rice noodle	$7.95	Entree		Main Menu	Noodle Dishes
+beef rice noodle	$7.95	Entree		Main Menu	Noodle Dishes
+vegetables and tofu rice noodle	$7.95	Entree		Main Menu	Noodle Dishes
+shrimp rice noodle	$8.95	Entree		Main Menu	Noodle Dishes
+seafood rice noodle	$9.25	Entree		Main Menu	Noodle Dishes
+combo rice noodle	$9.25	Entree		Main Menu	Noodle Dishes
+chicken egg noodle	$7.95	Entree		Main Menu	Noodle Dishes
+beef egg noodle	$7.95	Entree		Main Menu	Noodle Dishes
+vegetable and tofu egg noodle	$7.95	Entree		Main Menu	Noodle Dishes
+shrimp egg noodle	$8.95	Entree		Main Menu	Noodle Dishes
+seafood egg noodle	$9.25	Entree		Main Menu	Noodle Dishes
+combo egg noodle	$8.95	Entree		Main Menu	Noodle Dishes
+beef low mein	$7.95	Entree		Main Menu	Noodle Dishes
+seafood low mein	$9.25	Entree		Main Menu	Noodle Dishes
+vegetables and tofu low mein	$7.95	Entree		Main Menu	Noodle Dishes
+pad thai	$8.95	Entree		Main Menu	Noodle Dishes
+crispy noodle with chicken - lunch	$6.95	Entree		Main Menu	Noodle Dishes
+crispy noodle with beef lunch	$6.95	Entree		Main Menu	Noodle Dishes
+crispy noodle with shrimp lunch	$7.95	Entree		Main Menu	Noodle Dishes
+crispy noodle with seafood lunch	$8.25	Entree		Main Menu	Noodle Dishes
+crispy noodle with vegetables and tofu lunch	$6.95	Entree		Main Menu	Noodle Dishes
+crispy noodle combo lunch	$7.95	Entree		Main Menu	Noodle Dishes
+grilled chicken	$7.00	Entree		Main Menu	Steamed Rice Dishes
+grilled sliced pork - dinner	$6.95	Entree		Main Menu	Steamed Rice Dishes
+grill pork chop - dinner	$6.95	Entree		Main Menu	Steamed Rice Dishes
+grilled shrimp - dinner	$7.95	Entree		Main Menu	Steamed Rice Dishes
+julienne pork and grill pork - dinner	$7.25	Entree		Main Menu	Steamed Rice Dishes
+grilled shrimp and sliced pork - dinner	$8.25	Entree		Main Menu	Steamed Rice Dishes
+pork chop wrapped shrimp	$7.95	Entree		Main Menu	Steamed Rice Dishes
+special combination plate - dinner	$7.95	Entree		Main Menu	Steamed Rice Dishes
+grilled sliced pork	$6.50	Entree		Main Menu	Steamed Rice Dishes
+grilled pork chop	$6.50	Entree		Main Menu	Steamed Rice Dishes
+grilled shrimp	$8.25	Entree		Main Menu	Steamed Rice Dishes
+julienne pork and grilled pork	$6.95	Entree		Main Menu	Steamed Rice Dishes
+grilled shrimp and sliced pork	$7.95	Entree		Main Menu	Steamed Rice Dishes
+julienne pork and grilled pork chop	$6.95	Entree		Main Menu	Steamed Rice Dishes
+sliced pork wrapped shrimp - dinner	$7.95	Entree		Main Menu	Steamed Rice Dishes
+special combo plate	$7.25	Entree		Main Menu	Steamed Rice Dishes
+rice noodle soup with vegetables	$5.25	Vegtarian		Main Menu	Vegetarian Corner
+stir fried rice noodle	$5.25	Vegtarian		Main Menu	Vegetarian Corner
+vegetable fried rice	$6.50	Vegtarian		Main Menu	Vegetarian Corner
+vermicelli with tofu lemongrass	$5.95	Vegtarian		Main Menu	Vegetarian Corner
+red curry with vegetables	$6.95	Vegtarian		Main Menu	Vegetarian Corner
+egg noodle soup with vegetables	$5.25	Vegtarian		Main Menu	Vegetarian Corner
+stir-fried egg noodle with tofu and vegetables	$5.25	Vegtarian		Main Menu	Vegetarian Corner
+tofu delight	$5.25	Vegtarian		Main Menu	Vegetarian Corner
+two-yellow-curry with vegetables	$6.95	Vegtarian		Main Menu	Vegetarian Corner
+green curry with vegetables	$6.95	Vegtarian		Main Menu	Vegetarian Corner
+vermicelli with chicken	$5.95	Entree		Main Menu	Vermicelli
+vermicelli with pork eggroll	$5.95	Entree		Main Menu	Vermicelli
+vermicelli with seafood	$6.75	Entree		Main Menu	Vermicelli
+vermicelli with combination	$6.25	Entree		Main Menu	Vermicelli
+vermicelli	$6.95	Entree		Main Menu	Vermicelli
+vermicelli with grilled pork and imperial roll	$7.50	Entree		Main Menu	Vermicelli
+vermicelli with grilled pork and shrimp lemongrass	$7.95	Entree		Main Menu	Vermicelli
+vermicelli with beef	$6.25	Entree		Main Menu	Vermicelli
+vermicelli with shrimp	$7.25	Entree		Main Menu	Vermicelli
+vermicelli with tofu	$5.50	Entree		Main Menu	Vermicelli
+vermicelli with grilled pork	$6.50	Entree		Main Menu	Vermicelli
+vermicelli	$6.50	Entree		Main Menu	Vermicelli
+vermicelli with montreal chicken and shrimp	$7.95	Entree		Main Menu	Vermicelli
+pho ga	$6.25	Entree		Main Menu	Pho
+pho tai chin	$6.25	Entree		Main Menu	Pho
+pho tai bo vien	$6.25	Entree		Main Menu	Pho
+pho tai gan	$6.25	Entree		Main Menu	Pho
+pho tai nam	$6.25	Entree		Main Menu	Pho
+pho do bien	$6.95	Entree		Main Menu	Pho
+pho tai	$6.25	Entree		Main Menu	Pho
+pho dac biet	$6.50	Entree		Main Menu	Pho
+pho tai gau	$6.25	Entree		Main Menu	Pho
+pho nam	$6.25	Entree		Main Menu	Pho
+pho tom	$6.95	Entree		Main Menu	Pho
+pho rau cai	$6.25	Entree		Main Menu	Pho
+royal duck breast with ginger	$11.95	Entree		Main Menu	Chef's Signature
+sizzling red snapper 'thai style'	$10.95	Entree		Main Menu	Chef's Signature
+salmon fillet grilled in teriyaki sauce	$9.95	Entree		Main Menu	Chef's Signature
+salmon grilled in green thai sauce	$11.95	Entree		Main Menu	Chef's Signature
+beef flank steak - vietnamese style	$10.95	Entree		Main Menu	Chef's Signature
+seafood stir fry vegetables	$10.95	Entree		Main Menu	Chef's Signature
+roast duck in 4 season fruit sauce	$11.95	Entree		Main Menu	Chef's Signature
+sizzling red snapper 'thai style'	$10.95	Entree		Main Menu	Chef's Signature
+salmon fillet fried hot garlic	$10.95	Entree		Main Menu	Chef's Signature
+beef flank steak - thai style	$10.95	Entree		Main Menu	Chef's Signature
+imperial beef flank steak	$10.95	Entree		Main Menu	Chef's Signature
+chicken fried rice - lunch	$6.50	Entree		Main Menu	Fried Rice
+beef fried rice	$6.95	Entree		Main Menu	Fried Rice
+bbq pork fried rice	$6.50	Entree		Main Menu	Fried Rice
+shrimp fried rice	$7.50	Entree		Main Menu	Fried Rice
+seafood fried rice	$7.75	Entree		Main Menu	Fried Rice
+combo fried rice	$7.75	Entree		Main Menu	Fried Rice
+vegetable fried rice	$6.50	Entree		Main Menu	Fried Rice
+chicken fried rice	$6.50	Entree		Main Menu	Fried Rice
+b. b. q pork fried rice lunch	$5.95	Entree		Main Menu	Fried Rice
+shrimp fried rice - lunch	$7.50	Entree		Main Menu	Fried Rice
+seafood fried rice - lunch	$7.50	Entree		Main Menu	Fried Rice
+combo fried rice - lunch	$6.95	Entree		Main Menu	Fried Rice
+vegetable fried rice - lunch	$5.95	Entree		Main Menu	Fried Rice
+combo broccoli	$9.25	Entree		Main Menu	Specialties
+shrimp broccoli	$8.95	Entree		Main Menu	Specialties
+tofu broccoli	$6.95	Entree		Main Menu	Specialties
+chicken broccoli	$6.95	Entree		Main Menu	Specialties
+sesame tofu	$8.50	Entree		Main Menu	Specialties
+orange chicken	$7.95	Entree		Main Menu	Specialties
+ginger chicken	$8.25	Entree		Main Menu	Specialties
+kung pao chicken	$7.50	Entree		Main Menu	Specialties
+beef broccoli	$6.95	Entree		Main Menu	Specialties
+chicken lemongrass	$7.25	Entree		Main Menu	Specialties
+shrimp lemongrass	$8.75	Entree		Main Menu	Specialties
+tofu lemongrass	$6.95	Entree		Main Menu	Specialties
+beef lemongrass sizzling	$8.95	Entree		Main Menu	Specialties
+green been with beef	$7.95	Entree		Main Menu	Specialties
+tofu lemongrass sizzling	$8.25	Entree		Main Menu	Specialties
+chicken delight	$7.25	Entree		Main Menu	Specialties
+shrimp delight	$8.25	Entree		Main Menu	Specialties
+tofu vegetable delight	$7.25	Entree		Main Menu	Specialties
+chicken salt & pepper style	$8.95	Entree		Main Menu	Specialties
+squid salt & pepper style	$9.50	Entree		Main Menu	Specialties
+chicken vegetable delight	$6.95	Entree		Main Menu	Specialties
+shrimp vegetable delight	$7.95	Entree		Main Menu	Specialties
+chicken lemongrass	$6.95	Entree		Main Menu	Specialties
+tofu lemongrass	$6.95	Entree		Main Menu	Specialties
+shrimp lemongrass sizzling	$9.50	Entree		Main Menu	Specialties
+mongolian beef	$7.95	Entree		Main Menu	Specialties
+chicken broccoli	$7.95	Entree		Main Menu	Specialties
+seafood broccoli	$9.25	Entree		Main Menu	Specialties
+beef broccoli	$7.95	Entree		Main Menu	Specialties
+sesame chicken	$7.25	Entree		Main Menu	Specialties
+general tso chicken	$7.25	Entree		Main Menu	Specialties
+mogolian beef	$8.25	Entree		Main Menu	Specialties
+chicken cashew	$8.25	Entree		Main Menu	Specialties
+kung pao beef	$7.50	Entree		Main Menu	Specialties
+kung pao seafood	$8.50	Entree		Main Menu	Specialties
+beef lemongrass	$7.25	Entree		Main Menu	Specialties
+seafood lemongrass	$9.25	Entree		Main Menu	Specialties
+combo lemongrass	$8.50	Entree		Main Menu	Specialties
+chicken lemongrass sizzling	$8.95	Entree		Main Menu	Specialties
+green been with squid	$8.95	Entree		Main Menu	Specialties
+combo lemongrass sizzling	$9.50	Entree		Main Menu	Specialties
+beef delight	$7.25	Entree		Main Menu	Specialties
+seafood delight	$8.50	Entree		Main Menu	Specialties
+combo delight	$8.25	Entree		Main Menu	Specialties
+shrimp salt & pepper style	$9.50	Entree		Main Menu	Specialties
+seafood salt & pepper style	$10.25	Entree		Main Menu	Specialties
+seafood vegetable delight	$8.25	Entree		Main Menu	Specialties
+combo vegetable delight	$7.95	Entree		Main Menu	Specialties
+shrimp broccoli	$7.95	Entree		Main Menu	Specialties
+combo lemongrass	$7.95	Entree		Main Menu	Specialties
+seafood lemongrass sizzling	$9.95	Entree		Main Menu	Specialties
+chicken green curry	$7.50	Entree		Main Menu	Curry House
+flank steak green curry	$8.25	Entree		Main Menu	Curry House
+tofu green curry	$6.95	Entree		Main Menu	Curry House
+chicken red curry	$7.50	Entree		Main Menu	Curry House
+flank steak red curry	$8.95	Entree		Main Menu	Curry House
+tofu red curry	$6.95	Entree		Main Menu	Curry House
+roasted duck panang curry	$9.95	Entree		Main Menu	Curry House
+chicken yellow curry	$7.95	Entree		Main Menu	Curry House
+tofu yellow curry	$6.95	Entree		Main Menu	Curry House
+chicken green curry lunch	$7.95	Entree		Main Menu	Curry House
+flank steak green curry lunch	$8.95	Entree		Main Menu	Curry House
+vegetables green curry	$7.25	Entree		Main Menu	Curry House
+chicken red curry - lunch	$7.95	Entree		Main Menu	Curry House
+flank steak red curry - lunch	$7.95	Entree		Main Menu	Curry House
+chicken panang curry	$7.50	Entree		Main Menu	Curry House
+shrimp panang curry	$8.95	Entree		Main Menu	Curry House
+flank steak yellow curry	$8.95	Entree		Main Menu	Curry House
+vegetables yellow curry	$6.95	Entree		Main Menu	Curry House
+creme brulle	$3.95	Dessert		Main Menu	Desserts
+italian cream	$3.99	Dessert		Main Menu	Desserts
+sweet mango	$3.95	Dessert		Main Menu	Desserts
 
-id = 4b9e434ef964a520d4d536e3
 name = Patika Coffee
-location = lat = 30.255816491527668, lng = -97.77371556290274
-Address = [Congress Ave (at 4th St), Austin, TX 78701]
-tag = Food Truck
-rating = 9.0
+Menu not available
 
-
-id = 4b734390f964a5201ea52de3
 name = NoRTH
-location = lat = 30.40230590763644, lng = -97.72600382566452
-Address = [11506 Century Oaks Ter Ste 124 (Agave Ln.), Austin, TX 78758]
-tag = Italian Restaurant
-rating = 9.0
-The Red Wine  $4.00    The White Wine  $4.00    Sangria  $4.00    All Beers  $4.00    Zucca Chips  $3.00    Bruschetta  $5.00    Pizza  $8.00    Chef's Board  $10.00    Bottle & Board  $20.00    Seasonal Soup  $6.00    Zucca Chips  $6.00    Grilled Artichoke  $12.00    Italian Meatballs  $10.00    Crispy Calamari  $12.00    Chef's Board  $16.00    Wild Mushroom Polenta  $10.00    Prosciutto Bruschetta  $9.00    Arancini  $9.00    Grilled Cauliflower*  $11.00    Black Mediterreanean Mussels  $13.00    White Truffle Garlic Bread  $9.00    Daily Pizza  $0    Margherita  $12.00    Prosciutto  $14.00    Funghi  $13.00    Bacon & Egg*  $13.00    The Pig  $15.00    Grilled Chicken  $11.00    Italian Grinder  $11.00    Our Famous Meatball Sandwich  $12.00    Tuscan Chicken Salad  $11.00    The Burger*  $12.00    Roasted Turkey  $13.00    Seasonal Vegetable  $12.00    Tuscan Kale  $11.00    Chopped Chicken  $13.00    Caesar  $9.00    Italian Farm  $12.00    Spaghetti & Meatballs  $17.00    Squid Ink Mafaldine  $19.00    Short Rib Radiatori  $19.00    Burrata Tortelloni  $17.00    Bolognese (House Specialty)  $18.00    Chicken Pesto  $17.00    Strozzapreti  $18.00    Chicken Parmesan  $20.00    Roasted Salmon*  $20.00    Prosecco  $9.00    Champagne  $14.00    Red Sangria  $8.00    Pinot Grigio, Caposaldo, Veneto  $8.00    Pinot Grigio, Barone Fini, Valdadige  $9.00    Friulano, Tenuta Luisa, Friuli  $8.50    Arneis Roero, Cascina Pioiero, Piedmont  $11.00    Orvieto, Argillae, Umbria  $10.00    Vermentino, Guado Al Tasso, Bolgheri  $15.00    Riesling, Snoqualmie, Columbia Valley  $7.00    Sauvignon Blanc, Vavasour, Awatere Valley, Nz  $9.00    Chardonnay, True Myth, San Luis Obispo County  $8.00    Chardonnay, Sanford "Flor De Campo", Santa Barbara County  $10.00    Chardonnay, Newton "Red Label", Napa Valley  $11.00    Chardonnay, Laguna, Russian River Valley  $13.00    Sangiovese, Il Poggione "Brancato", Tuscany  $11.00    Chianti Superiore, Santa Cristina Antinori, Tuscany  $10.50    Chianti Classico, Cecchi "Storia Di Famiglia", Tuscany  $11.00    Rosso Di Montalcino, Caparzo (Sangiovese Grosso) , Tuscany  $14.00    Montepulciano D'abruzzo, Ausonia, Abruzzo  $12.50    Super Tuscan, Ornellaia "Le Volte", Tuscany  $16.00    Zinfandel, Manifesto, California  $10.50    Pinot Noir, Dutton-Goldfield "Fox Block Ten", Russian River Valley  $15.00    Pinot Nero, Bottega Vinaia, Trentino  $11.00    Valpolicella Ripasso, Remo Farina, Veneto  $12.00    Dolcetto D'alba, Gagliardo, Piedmont  $11.00    Nebbiolo Langhe, Damilano "Marghe", Piedmont  $11.00    Barolo, Reversanti, Piedmont  $16.00    Malbec, Terrazas De Los Andes, Mendoza, Arg  $8.00    Merlot, Columbia Winery, Columbia Valley  $9.00    Cabernet Sauvignon, Eos "Estate", Central Coast  $9.00    Cabernet Sauvignon, Skyfall Vineyards, Columbia Valley  $10.00    Cabernet Sauvignon, Fortnight, Napa Valley  $14.00    Proprietary Red Blend, Delille Cellars "D2", Columbia Valley  $16.50    Salted Caramel Budino  $7.00    Olive Oil Cake  $6.00    Dark Chocolate Tart  $7.00    Tiramisu  $6.00    Affogato  $5.00    Gelato Scoop  $3.00    Drip Coffee  $3.00    Cappuccino  $4.00    Latte  $4.00    Espresso  $3.50    Jump Start  $5.00    Dirty Almond Chai  $5.00    Italian Coffee  $8.00    Seasonal Soup  $6.00    Zucca Chips  $6.00    Grilled Artichoke  $12.00    Italian Meatballs  $10.00    Crispy Calamari  $12.00    Chef's Board  $16.00    Wild Mushroom Polenta  $10.00    Prosciutto Bruschetta  $9.00    Arancini  $9.00    Grilled Cauliflower*  $11.00    Black Mediterreanean Mussels  $13.00    White Truffle Garlic Bread  $9.00    Simple  $7.00    Seasonal Vegetable  $11.00    Heirloom Beet  $11.00    Tuscan Kale  $10.00    Caesar  $8.00    Italian Farm  $12.00    Daily Pizza  $0    Margherita  $12.00    Prosciutto  $14.00    Funghi  $13.00    Bacon & Egg*  $13.00    The Pig  $15.00    Spaghetti & Meatballs  $17.00    Chicken Pesto  $17.00    Burrata Tortelloni  $17.00    Bolognese (House Specialty)  $18.00    Strozzapreti  $18.00    Short Rib Radiatori  $19.00    Squid Ink Mafaldine  $19.00    Grilled Branzino*  $27.00    Red Wine Glazed Short Rib  $26.00    Diver Scallops*  $25.00    Rosemary Chicken  $20.00    Filet of Beef*  $38.00    Roasted Salmon*  $24.00    Chicken Parmesan  $20.00    Prosecco  $9.00    Champagne  $14.00    Red Sangria  $8.00    Pinot Grigio, Caposaldo, Veneto  $8.00    Pinot Grigio, Barone Fini, Valdadige  $9.00    Friulano, Tenuta Luisa, Friuli  $8.50    Arneis Roero, Cascina Pioiero, Piedmont  $11.00    Orvieto, Argillae, Umbria  $10.00    Vermentino, Guado Al Tasso, Bolgheri  $15.00    Riesling, Snoqualmie, Columbia Valley  $7.00    Sauvignon Blanc, Vavasour, Awatere Valley, Nz  $9.00    Chardonnay, True Myth, San Luis Obispo County  $8.00    Chardonnay, Sanford "Flor De Campo", Santa Barbara County  $10.00    Chardonnay, Newton "Red Label", Napa Valley  $11.00    Chardonnay, Laguna, Russian River Valley  $13.00    Sangiovese, Il Poggione "Brancato", Tuscany  $11.00    Chianti Superiore, Santa Cristina Antinori, Tuscany  $10.50    Chianti Classico, Cecchi "Storia Di Famiglia", Tuscany  $11.00    Rosso Di Montalcino, Caparzo (Sangiovese Grosso) , Tuscany  $14.00    Montepulciano D'abruzzo, Ausonia, Abruzzo  $12.50    Super Tuscan, Ornellaia "Le Volte", Tuscany  $16.00    Zinfandel, Manifesto, California  $10.50    Pinot Noir, Dutton-Goldfield "Fox Block Ten", Russian River Valley  $15.00    Pinot Nero, Bottega Vinaia, Trentino  $11.00    Valpolicella Ripasso, Remo Farina, Veneto  $12.00    Dolcetto D'alba, Gagliardo, Piedmont  $11.00    Nebbiolo Langhe, Damilano "Marghe", Piedmont  $11.00    Barolo, Reversanti, Piedmont  $16.00    Malbec, Terrazas De Los Andes, Mendoza, Arg  $8.00    Merlot, Columbia Winery, Columbia Valley  $9.00    Cabernet Sauvignon, Eos "Estate", Central Coast  $9.00    Cabernet Sauvignon, Skyfall Vineyards, Columbia Valley  $10.00    Cabernet Sauvignon, Fortnight, Napa Valley  $14.00    Proprietary Red Blend, Delille Cellars "D2", Columbia Valley  $16.50    Apricot Limonata  $10.00    The I.G.T.  $10.00    Spiced Plum Martini  $11.00    Rosemary & Lime  $11.00    Red Sangria  $8.00    Sicilian Margarita  $10.00    Amaro D'amici  $12.00    Milano Mule  $10.00    Julietta  $10.00    Quiet Italian Gentleman  $11.00    Molto Fresco  $10.00    Apple Bourbon Punch  $11.00    Austin Beerworks, "Fire Eagle Ipa"  $5.75    Oskar Blues, "Dale's Pale Ale"  $5.75    Spoetzl Brewery, "Shiner Bock"  $5.00    Real Ale, "Devil's Backbone Tripel"  $6.00    Austin Beerworks, "Pearl Snap Pils"  $5.25    Indy Brewing, "Austin Amber"  $5.50    Revolver Brewing, "Ironhead Ipa"  $5.75    Oskar Blues, "Mama's Yella Pils"  $5.50    Local Seasonal  $0    Peroni Lager, Italy  $5.75    Guinness, Ireland  $6.50    Dos Xx Lager, Mexico  $5.00    Moretti La Rossa, Italy  $5.50    Miller Lite, Wisconsin  $4.50    Blue Moon, "Belgian White", Colorado  $5.50    Spaghetti  $5.00    Cheese Pizza  $5.00    Grilled Chicken  $6.00    The Kids Cheeseburger  $6.00    Crispy Chicken Strips  $6.00    Grilled Cheese  $5.00    One Cup of Gelato  $2.00    
+the red wine	$4.00	Drink		North Italia: Austin - Happy Hour	Drink
+the white wine	$4.00	Drink		North Italia: Austin - Happy Hour	Drink
+sangria	$4.00	Drink		North Italia: Austin - Happy Hour	Drink
+all beers	$4.00	Drink		North Italia: Austin - Happy Hour	Drink
+zucca chips	$3.00	Entree		North Italia: Austin - Happy Hour	Eat
+bruschetta	$5.00	Entree		North Italia: Austin - Happy Hour	Eat
+pizza	$8.00	Entree		North Italia: Austin - Happy Hour	Eat
+chef's board	$10.00	Entree		North Italia: Austin - Happy Hour	Eat
+bottle & board	$20.00	Entree		North Italia: Austin - Happy Hour	Eat
+seasonal soup	$6.00	Starter		Lunch	Small Plates
+zucca chips	$6.00	Starter		Lunch	Small Plates
+grilled artichoke	$12.00	Starter		Lunch	Small Plates
+italian meatballs	$10.00	Starter		Lunch	Small Plates
+crispy calamari	$12.00	Starter		Lunch	Small Plates
+chef's board	$16.00	Starter		Lunch	Small Plates
+wild mushroom polenta	$10.00	Starter		Lunch	Small Plates
+prosciutto bruschetta	$9.00	Starter		Lunch	Small Plates
+arancini	$9.00	Starter		Lunch	Small Plates
+grilled cauliflower*	$11.00	Starter		Lunch	Small Plates
+black mediterreanean mussels	$13.00	Starter		Lunch	Small Plates
+white truffle garlic bread	$9.00	Starter		Lunch	Small Plates
+daily pizza	$0	Entree		Lunch	Pizzas
+margherita	$12.00	Entree		Lunch	Pizzas
+prosciutto	$14.00	Entree		Lunch	Pizzas
+funghi	$13.00	Entree		Lunch	Pizzas
+bacon & egg*	$13.00	Entree		Lunch	Pizzas
+the pig	$15.00	Entree		Lunch	Pizzas
+grilled chicken	$11.00	Entree		Lunch	Sandwiches
+italian grinder	$11.00	Entree		Lunch	Sandwiches
+our famous meatball sandwich	$12.00	Entree		Lunch	Sandwiches
+tuscan chicken salad	$11.00	Entree		Lunch	Sandwiches
+the burger*	$12.00	Entree		Lunch	Sandwiches
+roasted turkey	$13.00	Starter		Lunch	Salads
+seasonal vegetable	$12.00	Starter		Lunch	Salads
+tuscan kale	$11.00	Starter		Lunch	Salads
+chopped chicken	$13.00	Starter		Lunch	Salads
+caesar	$9.00	Starter		Lunch	Salads
+italian farm	$12.00	Starter		Lunch	Salads
+spaghetti & meatballs	$17.00	Entree		Lunch	Mains
+squid ink mafaldine	$19.00	Entree		Lunch	Mains
+short rib radiatori	$19.00	Entree		Lunch	Mains
+burrata tortelloni	$17.00	Entree		Lunch	Mains
+bolognese (house specialty)	$18.00	Entree		Lunch	Mains
+chicken pesto	$17.00	Entree		Lunch	Mains
+strozzapreti	$18.00	Entree		Lunch	Mains
+chicken parmesan	$20.00	Entree		Lunch	Mains
+roasted salmon*	$20.00	Entree		Lunch	Mains
+prosecco	$9.00	Entree		Lunch	Bubbles & Sangria
+champagne	$14.00	Entree		Lunch	Bubbles & Sangria
+red sangria	$8.00	Entree		Lunch	Bubbles & Sangria
+pinot grigio, caposaldo, veneto	$8.00	Drink		Lunch	White Wine
+pinot grigio, barone fini, valdadige	$9.00	Drink		Lunch	White Wine
+friulano, tenuta luisa, friuli	$8.50	Drink		Lunch	White Wine
+arneis roero, cascina pioiero, piedmont	$11.00	Drink		Lunch	White Wine
+orvieto, argillae, umbria	$10.00	Drink		Lunch	White Wine
+vermentino, guado al tasso, bolgheri	$15.00	Drink		Lunch	White Wine
+riesling, snoqualmie, columbia valley	$7.00	Drink		Lunch	White Wine
+sauvignon blanc, vavasour, awatere valley, nz	$9.00	Drink		Lunch	White Wine
+chardonnay, true myth, san luis obispo county	$8.00	Drink		Lunch	White Wine
+chardonnay, sanford "flor de campo", santa barbara county	$10.00	Drink		Lunch	White Wine
+chardonnay, newton "red label", napa valley	$11.00	Drink		Lunch	White Wine
+chardonnay, laguna, russian river valley	$13.00	Drink		Lunch	White Wine
+sangiovese, il poggione "brancato", tuscany	$11.00	Drink		Lunch	Rosé Wine
+chianti superiore, santa cristina antinori, tuscany	$10.50	Drink		Lunch	Red Wine
+chianti classico, cecchi "storia di famiglia", tuscany	$11.00	Drink		Lunch	Red Wine
+rosso di montalcino, caparzo (sangiovese grosso) , tuscany	$14.00	Drink		Lunch	Red Wine
+montepulciano d'abruzzo, ausonia, abruzzo	$12.50	Drink		Lunch	Red Wine
+super tuscan, ornellaia "le volte", tuscany	$16.00	Drink		Lunch	Red Wine
+zinfandel, manifesto, california	$10.50	Drink		Lunch	Red Wine
+pinot noir, dutton-goldfield "fox block ten", russian river valley	$15.00	Drink		Lunch	Red Wine
+pinot nero, bottega vinaia, trentino	$11.00	Drink		Lunch	Red Wine
+valpolicella ripasso, remo farina, veneto	$12.00	Drink		Lunch	Red Wine
+dolcetto d'alba, gagliardo, piedmont	$11.00	Drink		Lunch	Red Wine
+nebbiolo langhe, damilano "marghe", piedmont	$11.00	Drink		Lunch	Red Wine
+barolo, reversanti, piedmont	$16.00	Drink		Lunch	Red Wine
+malbec, terrazas de los andes, mendoza, arg	$8.00	Drink		Lunch	Red Wine
+merlot, columbia winery, columbia valley	$9.00	Drink		Lunch	Red Wine
+cabernet sauvignon, eos "estate", central coast	$9.00	Drink		Lunch	Red Wine
+cabernet sauvignon, skyfall vineyards, columbia valley	$10.00	Drink		Lunch	Red Wine
+cabernet sauvignon, fortnight, napa valley	$14.00	Drink		Lunch	Red Wine
+proprietary red blend, delille cellars "d2", columbia valley	$16.50	Drink		Lunch	Red Wine
+salted caramel budino	$7.00	Dessert		Dessert	Dessert
+olive oil cake	$6.00	Dessert		Dessert	Dessert
+dark chocolate tart	$7.00	Dessert		Dessert	Dessert
+tiramisu	$6.00	Dessert		Dessert	Dessert
+affogato	$5.00	Dessert		Dessert	Dessert
+gelato scoop	$3.00	Dessert		Dessert	Dessert
+drip coffee	$3.00	Dessert		Dessert	Coffee
+cappuccino	$4.00	Dessert		Dessert	Coffee
+latte	$4.00	Dessert		Dessert	Coffee
+espresso	$3.50	Dessert		Dessert	Coffee
+jump start	$5.00	Dessert		Dessert	Coffee
+dirty almond chai	$5.00	Dessert		Dessert	Coffee
+italian coffee	$8.00	Dessert		Dessert	Coffee
+seasonal soup	$6.00	Starter		Dinner	Small Plates
+zucca chips	$6.00	Starter		Dinner	Small Plates
+grilled artichoke	$12.00	Starter		Dinner	Small Plates
+italian meatballs	$10.00	Starter		Dinner	Small Plates
+crispy calamari	$12.00	Starter		Dinner	Small Plates
+chef's board	$16.00	Starter		Dinner	Small Plates
+wild mushroom polenta	$10.00	Starter		Dinner	Small Plates
+prosciutto bruschetta	$9.00	Starter		Dinner	Small Plates
+arancini	$9.00	Starter		Dinner	Small Plates
+grilled cauliflower*	$11.00	Starter		Dinner	Small Plates
+black mediterreanean mussels	$13.00	Starter		Dinner	Small Plates
+white truffle garlic bread	$9.00	Starter		Dinner	Small Plates
+simple	$7.00	Starter		Dinner	Salads
+seasonal vegetable	$11.00	Starter		Dinner	Salads
+heirloom beet	$11.00	Starter		Dinner	Salads
+tuscan kale	$10.00	Starter		Dinner	Salads
+caesar	$8.00	Starter		Dinner	Salads
+italian farm	$12.00	Starter		Dinner	Salads
+daily pizza	$0	Entree		Dinner	Pizzas
+margherita	$12.00	Entree		Dinner	Pizzas
+prosciutto	$14.00	Entree		Dinner	Pizzas
+funghi	$13.00	Entree		Dinner	Pizzas
+bacon & egg*	$13.00	Entree		Dinner	Pizzas
+the pig	$15.00	Entree		Dinner	Pizzas
+spaghetti & meatballs	$17.00	Entree		Dinner	Pastas
+chicken pesto	$17.00	Entree		Dinner	Pastas
+burrata tortelloni	$17.00	Entree		Dinner	Pastas
+bolognese (house specialty)	$18.00	Entree		Dinner	Pastas
+strozzapreti	$18.00	Entree		Dinner	Pastas
+short rib radiatori	$19.00	Entree		Dinner	Pastas
+squid ink mafaldine	$19.00	Entree		Dinner	Pastas
+grilled branzino*	$27.00	Entree		Dinner	Mains
+red wine glazed short rib	$26.00	Entree		Dinner	Mains
+diver scallops*	$25.00	Entree		Dinner	Mains
+rosemary chicken	$20.00	Entree		Dinner	Mains
+filet of beef*	$38.00	Entree		Dinner	Mains
+roasted salmon*	$24.00	Entree		Dinner	Mains
+chicken parmesan	$20.00	Entree		Dinner	Mains
+prosecco	$9.00	Entree		Dinner	Bubbles & Sangria
+champagne	$14.00	Entree		Dinner	Bubbles & Sangria
+red sangria	$8.00	Entree		Dinner	Bubbles & Sangria
+pinot grigio, caposaldo, veneto	$8.00	Drink		Dinner	White Wine
+pinot grigio, barone fini, valdadige	$9.00	Drink		Dinner	White Wine
+friulano, tenuta luisa, friuli	$8.50	Drink		Dinner	White Wine
+arneis roero, cascina pioiero, piedmont	$11.00	Drink		Dinner	White Wine
+orvieto, argillae, umbria	$10.00	Drink		Dinner	White Wine
+vermentino, guado al tasso, bolgheri	$15.00	Drink		Dinner	White Wine
+riesling, snoqualmie, columbia valley	$7.00	Drink		Dinner	White Wine
+sauvignon blanc, vavasour, awatere valley, nz	$9.00	Drink		Dinner	White Wine
+chardonnay, true myth, san luis obispo county	$8.00	Drink		Dinner	White Wine
+chardonnay, sanford "flor de campo", santa barbara county	$10.00	Drink		Dinner	White Wine
+chardonnay, newton "red label", napa valley	$11.00	Drink		Dinner	White Wine
+chardonnay, laguna, russian river valley	$13.00	Drink		Dinner	White Wine
+sangiovese, il poggione "brancato", tuscany	$11.00	Drink		Dinner	Rosé Wine
+chianti superiore, santa cristina antinori, tuscany	$10.50	Drink		Dinner	Red Wine
+chianti classico, cecchi "storia di famiglia", tuscany	$11.00	Drink		Dinner	Red Wine
+rosso di montalcino, caparzo (sangiovese grosso) , tuscany	$14.00	Drink		Dinner	Red Wine
+montepulciano d'abruzzo, ausonia, abruzzo	$12.50	Drink		Dinner	Red Wine
+super tuscan, ornellaia "le volte", tuscany	$16.00	Drink		Dinner	Red Wine
+zinfandel, manifesto, california	$10.50	Drink		Dinner	Red Wine
+pinot noir, dutton-goldfield "fox block ten", russian river valley	$15.00	Drink		Dinner	Red Wine
+pinot nero, bottega vinaia, trentino	$11.00	Drink		Dinner	Red Wine
+valpolicella ripasso, remo farina, veneto	$12.00	Drink		Dinner	Red Wine
+dolcetto d'alba, gagliardo, piedmont	$11.00	Drink		Dinner	Red Wine
+nebbiolo langhe, damilano "marghe", piedmont	$11.00	Drink		Dinner	Red Wine
+barolo, reversanti, piedmont	$16.00	Drink		Dinner	Red Wine
+malbec, terrazas de los andes, mendoza, arg	$8.00	Drink		Dinner	Red Wine
+merlot, columbia winery, columbia valley	$9.00	Drink		Dinner	Red Wine
+cabernet sauvignon, eos "estate", central coast	$9.00	Drink		Dinner	Red Wine
+cabernet sauvignon, skyfall vineyards, columbia valley	$10.00	Drink		Dinner	Red Wine
+cabernet sauvignon, fortnight, napa valley	$14.00	Drink		Dinner	Red Wine
+proprietary red blend, delille cellars "d2", columbia valley	$16.50	Drink		Dinner	Red Wine
+apricot limonata	$10.00	Drink		Cocktails & Beer	Cocktails
+the i.g.t.	$10.00	Drink		Cocktails & Beer	Cocktails
+spiced plum martini	$11.00	Drink		Cocktails & Beer	Cocktails
+rosemary & lime	$11.00	Drink		Cocktails & Beer	Cocktails
+red sangria	$8.00	Drink		Cocktails & Beer	Cocktails
+sicilian margarita	$10.00	Drink		Cocktails & Beer	Cocktails
+amaro d'amici	$12.00	Drink		Cocktails & Beer	Cocktails
+milano mule	$10.00	Drink		Cocktails & Beer	Cocktails
+julietta	$10.00	Drink		Cocktails & Beer	Cocktails
+quiet italian gentleman	$11.00	Drink		Cocktails & Beer	Cocktails
+molto fresco	$10.00	Drink		Cocktails & Beer	Cocktails
+apple bourbon punch	$11.00	Drink		Cocktails & Beer	Cocktails
+austin beerworks, "fire eagle ipa"	$5.75	Drink		Cocktails & Beer	We Love Local
+oskar blues, "dale's pale ale"	$5.75	Drink		Cocktails & Beer	We Love Local
+spoetzl brewery, "shiner bock"	$5.00	Drink		Cocktails & Beer	We Love Local
+real ale, "devil's backbone tripel"	$6.00	Drink		Cocktails & Beer	We Love Local
+austin beerworks, "pearl snap pils"	$5.25	Drink		Cocktails & Beer	We Love Local
+indy brewing, "austin amber"	$5.50	Drink		Cocktails & Beer	We Love Local
+revolver brewing, "ironhead ipa"	$5.75	Drink		Cocktails & Beer	We Love Local
+oskar blues, "mama's yella pils"	$5.50	Drink		Cocktails & Beer	We Love Local
+local seasonal	$0	Drink		Cocktails & Beer	We Love Local
+peroni lager, italy	$5.75	Drink		Cocktails & Beer	Beer
+guinness, ireland	$6.50	Drink		Cocktails & Beer	Beer
+dos xx lager, mexico	$5.00	Drink		Cocktails & Beer	Beer
+moretti la rossa, italy	$5.50	Drink		Cocktails & Beer	Beer
+miller lite, wisconsin	$4.50	Drink		Cocktails & Beer	Beer
+blue moon, "belgian white", colorado	$5.50	Drink		Cocktails & Beer	Beer
+spaghetti	$5.00	Kids		Kids Menu	Kids
+cheese pizza	$5.00	Kids		Kids Menu	Kids
+grilled chicken	$6.00	Kids		Kids Menu	Kids
+the kids cheeseburger	$6.00	Kids		Kids Menu	Kids
+crispy chicken strips	$6.00	Kids		Kids Menu	Kids
+grilled cheese	$5.00	Kids		Kids Menu	Kids
+one cup of gelato	$2.00	Kids		Kids Menu	Kids
 
-id = 52169f0711d26dd8be94f30a
 name = Winebelly
-location = lat = 30.241409794830442, lng = -97.75900565374899
-Address = [519 W Oltorf St (S. 1st), Austin, TX 78704]
-tag = Tapas Restaurant
-rating = 9.0
-Marinated Olives & Roasted Nuts  $0    Tomato Bread  $0    Cured White Anchovies  $0    Chicken Liver Mousee  $0    Shishito Peppers  $0    Parmesan Truffle Fries  $0    Bravas Fries  $0    Beef Carpaccio  $0    Meat Sampler  $0    Eater National  $0    Eater Heatmap Austin  $0    Eater Austin  $0    Culturemap Austin  $0    Kimya Kavehkar, Austin Monthly  $0    Kate Thornberry, Austin Chronicle  $0    Megan Giller, Zagat.Com  $0    Megan Giller, Zagat.Com  $0    Matthew Odam, Austin360.Com  $0    Meghan Mccarron, Austin.Eater.Com  $0    Virginia B. Wood, Austinchronicle.Com  $0    Billie Holiday  $0    Ella Fitzgerald  $0    Bo Diddley  $0    John Lee Hooker  $0    Patsy Cline  $0    Junior Kimbrough  $0    Buddy Holly  $0    Live Oak Pilz  $4.50    Independence Seasonal  $4.50    Real Ale Seasonal  $4.50    Austin Eastciders "Dry"  $5.00    Real Ale Hans' Pilz  $3.50    Real Ale Lost Gold Ipa  $4.00    Real Ale White  $4.00    Real Ale Firemans 4  $3.50    Real Ale Devils Backbone  $4.00    Independence Austin Amber  $4.00    Karbach Weekend Warrior Pale Ale  $4.00    Lone Star  $2.50    Pearl  $2.50    Marinated Olives & Roasted Nuts  $5.00    Shishito Peppers  $6.00    Tomato Bread  $6.00    Parmesan Truffle Fries  $7.00    Bravas Fries  $6.00    Cured White Anchovies  $5.00    Duck Bruschetta  $10.00    Pumpkin Bruschetta  $9.00    Meat Plate  $13.00    Antonelli's Cheese Plate  $13.00    Chicken Liver Mousse  $6.00    Fall Harvest Salad  $10.00    Roasted Beet Salad  $10.00    Grilled Broccolini  $10.00    Steamed Mussels  $11.00    Blackened Mahi Mahi  $16.00    Roasted Chicken Breast  $15.00    Grilled Sirloin  $16.00    Grilled Lamb Ribs  $16.00    Wagyu Beef Sliders  $12.00    We Take Reservations for  $0    We Need 24 Hours Notice to Reserve Your Table and Do Not Accept Reservations On the Day of  $0    Since We Are a Smaller Space  $0    We Are Able to Hold Your Table for 15 Minutes Past Your Reservation Time  $0    A to Z, Chardonnay, Oregon  $24.00    Domaine Gayda, Viognier, Languedoc  $24.00    Paul Mas, Picpoul De Pinet, Languedoc  $28.00    Mcpherson, Albarino, Texas  $28.00    Guidobono, Arneis, Roero  $30.00    Scarpa Colombi, "Rivaclara" Pinot Grigio, Oltrepo Pavese  $32.00    Chateau Valtice, Rivaner, Moravia  $32.00    Mastroberardino, Lacryma Christi Del Vesuvio, Campania  $32.00    Skylark, "Orsi Vineyard" Pinot Blanc, Mendocino  $32.00    Mcpherson, "Timmons Ranch" Marsanne, Texas  $32.00    Birichino, Malvasia Bianca, Monterey  $34.00    Adelsheim, Pinot Gris, Willamette Valley  $36.00    Domaine Matrot, Chardonnay, Bourgogne  $40.00    Kiralyudvar, Furmint Sec, Tokaji  $40.00    Moltes, Reserve Pinot Blanc, Alsace  $40.00    Halter Ranch, Grenache Blanc, Paso Robles  $40.00    Illahe, Estate Gruner Veltliner, Willamette Valley  $40.00    Pra, "Otto" Garganega Classico, Soave  $40.00    Pierre Le Grand, Marsanne-Roussanne, Crozes Hermitage  $44.00    Etude, Pinot Gris, Carneros  $44.00    Bodega Fefinane, Albarino, Rias Baixas  $44.00    Albert Boxler, Reserve Edelzwicker, Alsace  $44.00    J.Cage, "Mounts Vineyard" Viognier, Dry Creek Valley  $48.00    Guillaume Vrignaud, Chardonnay, Chablis  $48.00    Le Cigare Blanc, Roussanne-Grenache Blanc-Picpoul, Santa Cruz  $48.00    Domaine Eden, Chardonnay, Santa Cruz Mountains  $48.00    Left Coast, White Pinot Noir, Willamette Valley  $50.00    Daniel Chotard, Sauvignon Blanc, Sancerre  $50.00    Domaine Du Bagnol, Clairette-Marsanne-Ugni Blanc, Cassis  $50.00    Amici, "Spring Mountain" Sauvignon Blanc, Napa  $52.00    Esporao, Private Selection Semillon, Alentejo  $52.00    Mouton Noir, "Oregogne" Chardonnay, Willamette Valley  $65.00    Hauts De Milly, "Rully Premier Cru Les Clous" Chardonnay, Borgogne  $68.00    Anne Amie, "Prisme" Pinot Noir Blanc, Yamhill-Carlton  $75.00    Mc Pherson, Cinsault, Texas  $32.00    Znovin Znojmo, St. Laurent, Moravia  $32.00    Figure Libre, Syrah-Grenache-Carignan-Mourvedre, Languedoc  $32.00    Monte Vehlo, Aragonez-Trincadeira-Touriga Nacional-Syrah, Alentejano  $32.00    Field Recordings, "Fiction" Field Blend, Paso Robles  $36.00    Domaine De Fontsainte, Carignane-Grenache-Syrah, Corbieres  $36.00    Ancient Peaks, "Renegade" Syrah-Petit Verdot-Malbec, Paso Robles  $36.00    Tim Smith Wines, "Bugalugs" Grenache, Barossa Valley  $36.00    Peique, "Ramon Valle" Old Vine Mencia, Bierzo  $36.00    Saint Gregory, Pinot Meunier, Mendocino  $36.00    Las Nencias, "Family Selection" Malbec, Mendoza  $40.00    Pojer E Sandri, Pinot Nero, Dolomiti  $40.00    Halter Ranch, "Adelaida District" Syrah-Viognier, Paso Robles  $40.00    Beronia, "Reserva" Tempanillo-Graciano-Mazuelo, Rioja  $40.00    Olivier Ravoire, Syrah, Crozes Hermitage  $44.00    Foradori, Teroldego, Dolomiti  $44.00    Truchard, Cabernet Franc, Carneros-Napa  $44.00    Broc Cellars, Carignan, Alexander Valley  $48.00    Domaine Lavau, Grenache-Syrah-Mourvedre, Vacqeyras  $48.00    Figure Libre, Cabernet Franc, Languedoc  $48.00    Van Duzer, "Estate" Pinot Noir, Willamette Valley  $48.00    Xavier Benier, "Old Vine" Gamay, Beaujolais  $48.00    Roagna Igino, Nebbiolo, Alba  $48.00    Buglioni, "Il Bugiardo" Classico Superiore Ripasso, Valpolicella  $48.00    Arcadian '07 "Sleepy Hollow Vineyard" Syrah, Santa Lucia Highlands  $48.00    Owen Roe, Merlot-Cab Franc-Cab-Malbec, Yakima Valley  $50.00    Gomez Cruzado ʻ08 "Reserva" Tempranillo, Haro  $50.00    Tooth & Nail, "the Possessor", Cab-Syrah-Petit Sirah-Malbec, Paso Robles  $50.00    Tenuta Santa Maria, Ripasso Superiore, Valpolicella  $52.00    Clos Cibonne, "Cuvee Speciale" Tibouren, Provence  $52.00    Llano Estacado 1836 Red, Texas  $52.00    Lopez De Haro '08 Gran Reserva Tempranillo-Graciano, Rioja  $52.00    Broc Cellars, "Vine Starr" Zinfandel, Sonoma  $52.00    Castello Di Bolgheri, "Varvara" Cab-Merlot-Syrah-Petit Verdot, Bolgheri  $52.00    Bergstrom, "Cumberland Reserve" Pinot Noir, Willamette  $52.00    Occhipinti, "Sp68" Nero Dʼavola-Frappato, Sicily  $52.00    Amici Cellars ʻ10 Cabernet Sauvignon, Napa  $56.00    Cesar Pavese ʻ09 Nebbiolo, Barbaresco  $60.00    Halter Ranch "Ancestor", Cabernet-Malbec-Petit Verdot, Paso Robles  $60.00    Hall Wines, Cabernet Sauvignon, Napa  $60.00    Chemin De Moscou, Syrah-Grenache-Cinsault, Languedoc  $60.00    Brooks Note, "Weir Vineyard" Pinot Noir, Yorkville Highlands  $65.00    Vieux Telegramme, Grenache-Syrah-Mourvedre-Cinsault, Chateauneuf Du Pape  $68.00    Quinta Dos Murcas ʻ09 Reserva, Douro  $68.00    Browne Family Vineyards, Merlot, Columbia Valley  $68.00    Bruliam, "Rockpile" Zinfandel, Sonoma  $68.00    Tank Garage, "All Or Nothing" Zinfandel-Petite Sirah-Cab-Carignane, Napa  $72.00    Mouton Noir, "Oregogne" Pinot Noir, Willamette Valley  $72.00    Revolver, "Duplicity" Grenache, Bennett Valley  $72.00    J.Cage, "Nunes Vineyard" Pinot Noir, Russian River Valley  $72.00    Korbin Kameron ʻ09 "Estate" Cabernet, Sonoma  $75.00    Bruliam, "Sangiacomo Vineyard" Pinot Noir, Sonoma  $75.00    Owen Roe, "Chapel Block" Syrah, Yakima  $80.00    A.Rafanelli, Zinfandel, Dry Creek Valley  $85.00    La Rue, "Rice-Spiva Vineyard" Pinot Noir, Sonoma Coast  $85.00    Skylark ʻ09 "Rodgers Creek" Syrah, Sonoma Coast  $85.00    Revolver, "Forsaken" Petit Verdot, Napa Valley  $88.00    Cliff Lede, "Stags Leap District" Cabernet, Napa Valley  $88.00    Tenuta Santa Maria, Amarone Della Valpolicella, Verona  $88.00    Stags Leap, "the Leap" Cabernet Sauvignon, Napa  $95.00    Arista, "Toboni Vineyard" Pinot Noir, Russian River  $95.00    Lan, "a Mano" Limited Edition Tempranillo-Graciano-Mazuelo, Rioja  $99.00    Anomaly, Cabernet Sauvignon, St.Helena  $99.00    Kosta Browne, Pinot Noir, Russian River  $99.00    Ridge '07 "Geyserville" Zin-Carignane-Petite Sirah-Mataro, Sonoma  $99.00    Berardenga ʻ95 "Rancia Reserva" Sangiovese, Chianti Classico  $99.00    Chateau Palmer, "Alter Ego" Merlot-Cabernet, Margaux  $99.00    Naveran, "Vintage Brut" Cava, Spain  $32.00    Tesouo Da Se, "Metodo Classico Brut" Cerceal Branco, Dao  $32.00    La Farra, Prosecco, Valdobbiadene  $32.00    Steorra, "Brut" Chardonnay-Pinot Noir, Russian River Valley  $36.00    Siete Fincas, "Dulce" Torrontes, Mendoza  $36.00    Chateau Villelongue, "Brut" Chardonnay-Chenin Blanc, Limoux  $36.00    Laetitia, "Methode Champenoise Brut", Arroyo Grande Valley  $36.00    Domaine Hautes Gohardes, Cabernet Franc Cremant Rose, Loire  $40.00    Elio Perrone, "Bigaro" Moscato-Brachetto, Asti  $40.00    Pierre Sparr, Brut Rose, Alsace  $40.00    Sassetti, Colle Argento Rose, Pertimali  $40.00    Ruinart, Brut Rose, Champagne  $60.00    G.H. Mumm, Cordon Rouge, Champagne  $60.00    Tattinger, Brut La Francaise, Champagne  $72.00    Mc Pherson, "Les Copains" Cinsault-Grenache-Rolle, Texas  $28.00    Gayda, "La Minuette", Cinsault-Grenache-Mourvedre-Carignan, Languedoc  $28.00    Loimer, Zweigelt, Austria  $32.00    Halter Ranch, Grenache-Syrah-Mourvedre-Picpoul, Paso Robles  $32.00    Elouan, Pinot Noir, Oregon  $32.00    Lorenza, Grenache-Carignan-Mourvedre-Cinsault, California  $36.00    Copain, "Tous Ensemble" Pinot Noir, North Coast  $40.00    Lioco, "Indica" Carignane, Mendocino  $44.00    Gassier, "Le Pas Du Moine" Syrah-Grenache-Cinsault-Rolle-Ugni Blanc, Provence  $44.00    Bruliam, Pinot Noir, Sonoma  $48.00    Chene Bleu, Grenache-Syrah-Cinsault, Vaucluse  $48.00    Domaine Serene "R", Pinot Noir, Oregon  $55.00    Domaine De Terrebrune, Mourvedre-Grenache-Cinsault, Bandol  $60.00    
+marinated olives & roasted nuts	$0	Entree		Specials	Happy Hour Menu
+tomato bread	$0	Entree		Specials	Happy Hour Menu
+cured white anchovies	$0	Entree		Specials	Happy Hour Menu
+chicken liver mousee	$0	Entree		Specials	Happy Hour Menu
+shishito peppers	$0	Entree		Specials	Happy Hour Menu
+parmesan truffle fries	$0	Entree		Specials	Happy Hour Menu
+bravas fries	$0	Entree		Specials	Happy Hour Menu
+beef carpaccio	$0	Entree		Specials	Happy Hour Menu
+meat sampler	$0	Entree		Specials	Happy Hour Menu
+eater national	$0	Entree		Press	Press
+eater heatmap austin	$0	Entree		Press	Press
+eater austin	$0	Entree		Press	Press
+culturemap austin	$0	Entree		Press	Press
+kimya kavehkar, austin monthly	$0	Entree		Press	Press
+kate thornberry, austin chronicle	$0	Entree		Press	Press
+megan giller, zagat.com	$0	Entree		Press	Press
+megan giller, zagat.com	$0	Entree		Press	Press
+matthew odam, austin360.com	$0	Entree		Press	Press
+meghan mccarron, austin.eater.com	$0	Entree		Press	Press
+virginia b. wood, austinchronicle.com	$0	Entree		Press	Press
+billie holiday	$0	Drink		Cocktails & Beer	Cocktails
+ella fitzgerald	$0	Drink		Cocktails & Beer	Cocktails
+bo diddley	$0	Drink		Cocktails & Beer	Cocktails
+john lee hooker	$0	Drink		Cocktails & Beer	Cocktails
+patsy cline	$0	Drink		Cocktails & Beer	Cocktails
+junior kimbrough	$0	Drink		Cocktails & Beer	Cocktails
+buddy holly	$0	Drink		Cocktails & Beer	Cocktails
+live oak pilz	$4.50	Drink		Cocktails & Beer	On Tap
+independence seasonal	$4.50	Drink		Cocktails & Beer	On Tap
+real ale seasonal	$4.50	Drink		Cocktails & Beer	On Tap
+austin eastciders "dry"	$5.00	Drink		Cocktails & Beer	Cans
+real ale hans' pilz	$3.50	Drink		Cocktails & Beer	Cans
+real ale lost gold ipa	$4.00	Drink		Cocktails & Beer	Cans
+real ale white	$4.00	Drink		Cocktails & Beer	Cans
+real ale firemans 4	$3.50	Drink		Cocktails & Beer	Cans
+real ale devils backbone	$4.00	Drink		Cocktails & Beer	Cans
+independence austin amber	$4.00	Drink		Cocktails & Beer	Cans
+karbach weekend warrior pale ale	$4.00	Drink		Cocktails & Beer	Cans
+lone star	$2.50	Drink		Cocktails & Beer	Cans
+pearl	$2.50	Drink		Cocktails & Beer	Cans
+marinated olives & roasted nuts	$5.00	Entree		Tapas	Bar Snacks
+shishito peppers	$6.00	Entree		Tapas	Bar Snacks
+tomato bread	$6.00	Entree		Tapas	Bar Snacks
+parmesan truffle fries	$7.00	Entree		Tapas	Bar Snacks
+bravas fries	$6.00	Entree		Tapas	Bar Snacks
+cured white anchovies	$5.00	Entree		Tapas	Bar Snacks
+duck bruschetta	$10.00	Entree		Tapas	Bar Snacks
+pumpkin bruschetta	$9.00	Entree		Tapas	Bar Snacks
+meat plate	$13.00	Entree		Tapas	Meat & Cheese
+antonelli's cheese plate	$13.00	Entree		Tapas	Meat & Cheese
+chicken liver mousse	$6.00	Entree		Tapas	Meat & Cheese
+fall harvest salad	$10.00	Starter		Tapas	Salads
+roasted beet salad	$10.00	Starter		Tapas	Salads
+grilled broccolini	$10.00	Entree		Tapas	Tapas
+steamed mussels	$11.00	Entree		Tapas	Tapas
+blackened mahi mahi	$16.00	Entree		Tapas	Tapas
+roasted chicken breast	$15.00	Entree		Tapas	Tapas
+grilled sirloin	$16.00	Entree		Tapas	Tapas
+grilled lamb ribs	$16.00	Entree		Tapas	Tapas
+wagyu beef sliders	$12.00	Entree		Tapas	Tapas
+we take reservations for	$0	Entree		Reservations	Info
+we need 24 hours notice to reserve your table and do not accept reservations on the day of	$0	Entree		Reservations	Info
+since we are a smaller space	$0	Entree		Reservations	Info
+we are able to hold your table for 15 minutes past your reservation time	$0	Entree		Reservations	Info
+a to z, chardonnay, oregon	$24.00	Drink		Wine List	White
+domaine gayda, viognier, languedoc	$24.00	Drink		Wine List	White
+paul mas, picpoul de pinet, languedoc	$28.00	Drink		Wine List	White
+mcpherson, albarino, texas	$28.00	Drink		Wine List	White
+guidobono, arneis, roero	$30.00	Drink		Wine List	White
+scarpa colombi, "rivaclara" pinot grigio, oltrepo pavese	$32.00	Drink		Wine List	White
+chateau valtice, rivaner, moravia	$32.00	Drink		Wine List	White
+mastroberardino, lacryma christi del vesuvio, campania	$32.00	Drink		Wine List	White
+skylark, "orsi vineyard" pinot blanc, mendocino	$32.00	Drink		Wine List	White
+mcpherson, "timmons ranch" marsanne, texas	$32.00	Drink		Wine List	White
+birichino, malvasia bianca, monterey	$34.00	Drink		Wine List	White
+adelsheim, pinot gris, willamette valley	$36.00	Drink		Wine List	White
+domaine matrot, chardonnay, bourgogne	$40.00	Drink		Wine List	White
+kiralyudvar, furmint sec, tokaji	$40.00	Drink		Wine List	White
+moltes, reserve pinot blanc, alsace	$40.00	Drink		Wine List	White
+halter ranch, grenache blanc, paso robles	$40.00	Drink		Wine List	White
+illahe, estate gruner veltliner, willamette valley	$40.00	Drink		Wine List	White
+pra, "otto" garganega classico, soave	$40.00	Drink		Wine List	White
+pierre le grand, marsanne-roussanne, crozes hermitage	$44.00	Drink		Wine List	White
+etude, pinot gris, carneros	$44.00	Drink		Wine List	White
+bodega fefinane, albarino, rias baixas	$44.00	Drink		Wine List	White
+albert boxler, reserve edelzwicker, alsace	$44.00	Drink		Wine List	White
+j.cage, "mounts vineyard" viognier, dry creek valley	$48.00	Drink		Wine List	White
+guillaume vrignaud, chardonnay, chablis	$48.00	Drink		Wine List	White
+le cigare blanc, roussanne-grenache blanc-picpoul, santa cruz	$48.00	Drink		Wine List	White
+domaine eden, chardonnay, santa cruz mountains	$48.00	Drink		Wine List	White
+left coast, white pinot noir, willamette valley	$50.00	Drink		Wine List	White
+daniel chotard, sauvignon blanc, sancerre	$50.00	Drink		Wine List	White
+domaine du bagnol, clairette-marsanne-ugni blanc, cassis	$50.00	Drink		Wine List	White
+amici, "spring mountain" sauvignon blanc, napa	$52.00	Drink		Wine List	White
+esporao, private selection semillon, alentejo	$52.00	Drink		Wine List	White
+mouton noir, "oregogne" chardonnay, willamette valley	$65.00	Drink		Wine List	White
+hauts de milly, "rully premier cru les clous" chardonnay, borgogne	$68.00	Drink		Wine List	White
+anne amie, "prisme" pinot noir blanc, yamhill-carlton	$75.00	Drink		Wine List	White
+mc pherson, cinsault, texas	$32.00	Drink		Wine List	Red
+znovin znojmo, st. laurent, moravia	$32.00	Drink		Wine List	Red
+figure libre, syrah-grenache-carignan-mourvedre, languedoc	$32.00	Drink		Wine List	Red
+monte vehlo, aragonez-trincadeira-touriga nacional-syrah, alentejano	$32.00	Drink		Wine List	Red
+field recordings, "fiction" field blend, paso robles	$36.00	Drink		Wine List	Red
+domaine de fontsainte, carignane-grenache-syrah, corbieres	$36.00	Drink		Wine List	Red
+ancient peaks, "renegade" syrah-petit verdot-malbec, paso robles	$36.00	Drink		Wine List	Red
+tim smith wines, "bugalugs" grenache, barossa valley	$36.00	Drink		Wine List	Red
+peique, "ramon valle" old vine mencia, bierzo	$36.00	Drink		Wine List	Red
+saint gregory, pinot meunier, mendocino	$36.00	Drink		Wine List	Red
+las nencias, "family selection" malbec, mendoza	$40.00	Drink		Wine List	Red
+pojer e sandri, pinot nero, dolomiti	$40.00	Drink		Wine List	Red
+halter ranch, "adelaida district" syrah-viognier, paso robles	$40.00	Drink		Wine List	Red
+beronia, "reserva" tempanillo-graciano-mazuelo, rioja	$40.00	Drink		Wine List	Red
+olivier ravoire, syrah, crozes hermitage	$44.00	Drink		Wine List	Red
+foradori, teroldego, dolomiti	$44.00	Drink		Wine List	Red
+truchard, cabernet franc, carneros-napa	$44.00	Drink		Wine List	Red
+broc cellars, carignan, alexander valley	$48.00	Drink		Wine List	Red
+domaine lavau, grenache-syrah-mourvedre, vacqeyras	$48.00	Drink		Wine List	Red
+figure libre, cabernet franc, languedoc	$48.00	Drink		Wine List	Red
+van duzer, "estate" pinot noir, willamette valley	$48.00	Drink		Wine List	Red
+xavier benier, "old vine" gamay, beaujolais	$48.00	Drink		Wine List	Red
+roagna igino, nebbiolo, alba	$48.00	Drink		Wine List	Red
+buglioni, "il bugiardo" classico superiore ripasso, valpolicella	$48.00	Drink		Wine List	Red
+arcadian '07 "sleepy hollow vineyard" syrah, santa lucia highlands	$48.00	Drink		Wine List	Red
+owen roe, merlot-cab franc-cab-malbec, yakima valley	$50.00	Drink		Wine List	Red
+gomez cruzado ʻ08 "reserva" tempranillo, haro	$50.00	Drink		Wine List	Red
+tooth & nail, "the possessor", cab-syrah-petit sirah-malbec, paso robles	$50.00	Drink		Wine List	Red
+tenuta santa maria, ripasso superiore, valpolicella	$52.00	Drink		Wine List	Red
+clos cibonne, "cuvee speciale" tibouren, provence	$52.00	Drink		Wine List	Red
+llano estacado 1836 red, texas	$52.00	Drink		Wine List	Red
+lopez de haro '08 gran reserva tempranillo-graciano, rioja	$52.00	Drink		Wine List	Red
+broc cellars, "vine starr" zinfandel, sonoma	$52.00	Drink		Wine List	Red
+castello di bolgheri, "varvara" cab-merlot-syrah-petit verdot, bolgheri	$52.00	Drink		Wine List	Red
+bergstrom, "cumberland reserve" pinot noir, willamette	$52.00	Drink		Wine List	Red
+occhipinti, "sp68" nero dʼavola-frappato, sicily	$52.00	Drink		Wine List	Red
+amici cellars ʻ10 cabernet sauvignon, napa	$56.00	Drink		Wine List	Red
+cesar pavese ʻ09 nebbiolo, barbaresco	$60.00	Drink		Wine List	Red
+halter ranch "ancestor", cabernet-malbec-petit verdot, paso robles	$60.00	Drink		Wine List	Red
+hall wines, cabernet sauvignon, napa	$60.00	Drink		Wine List	Red
+chemin de moscou, syrah-grenache-cinsault, languedoc	$60.00	Drink		Wine List	Red
+brooks note, "weir vineyard" pinot noir, yorkville highlands	$65.00	Drink		Wine List	Red
+vieux telegramme, grenache-syrah-mourvedre-cinsault, chateauneuf du pape	$68.00	Drink		Wine List	Red
+quinta dos murcas ʻ09 reserva, douro	$68.00	Drink		Wine List	Red
+browne family vineyards, merlot, columbia valley	$68.00	Drink		Wine List	Red
+bruliam, "rockpile" zinfandel, sonoma	$68.00	Drink		Wine List	Red
+tank garage, "all or nothing" zinfandel-petite sirah-cab-carignane, napa	$72.00	Drink		Wine List	Red
+mouton noir, "oregogne" pinot noir, willamette valley	$72.00	Drink		Wine List	Red
+revolver, "duplicity" grenache, bennett valley	$72.00	Drink		Wine List	Red
+j.cage, "nunes vineyard" pinot noir, russian river valley	$72.00	Drink		Wine List	Red
+korbin kameron ʻ09 "estate" cabernet, sonoma	$75.00	Drink		Wine List	Red
+bruliam, "sangiacomo vineyard" pinot noir, sonoma	$75.00	Drink		Wine List	Red
+owen roe, "chapel block" syrah, yakima	$80.00	Drink		Wine List	Red
+a.rafanelli, zinfandel, dry creek valley	$85.00	Drink		Wine List	Red
+la rue, "rice-spiva vineyard" pinot noir, sonoma coast	$85.00	Drink		Wine List	Red
+skylark ʻ09 "rodgers creek" syrah, sonoma coast	$85.00	Drink		Wine List	Red
+revolver, "forsaken" petit verdot, napa valley	$88.00	Drink		Wine List	Red
+cliff lede, "stags leap district" cabernet, napa valley	$88.00	Drink		Wine List	Red
+tenuta santa maria, amarone della valpolicella, verona	$88.00	Drink		Wine List	Red
+stags leap, "the leap" cabernet sauvignon, napa	$95.00	Drink		Wine List	Red
+arista, "toboni vineyard" pinot noir, russian river	$95.00	Drink		Wine List	Red
+lan, "a mano" limited edition tempranillo-graciano-mazuelo, rioja	$99.00	Drink		Wine List	Red
+anomaly, cabernet sauvignon, st.helena	$99.00	Drink		Wine List	Red
+kosta browne, pinot noir, russian river	$99.00	Drink		Wine List	Red
+ridge '07 "geyserville" zin-carignane-petite sirah-mataro, sonoma	$99.00	Drink		Wine List	Red
+berardenga ʻ95 "rancia reserva" sangiovese, chianti classico	$99.00	Drink		Wine List	Red
+chateau palmer, "alter ego" merlot-cabernet, margaux	$99.00	Drink		Wine List	Red
+naveran, "vintage brut" cava, spain	$32.00	Drink		Wine List	Sparkling
+tesouo da se, "metodo classico brut" cerceal branco, dao	$32.00	Drink		Wine List	Sparkling
+la farra, prosecco, valdobbiadene	$32.00	Drink		Wine List	Sparkling
+steorra, "brut" chardonnay-pinot noir, russian river valley	$36.00	Drink		Wine List	Sparkling
+siete fincas, "dulce" torrontes, mendoza	$36.00	Drink		Wine List	Sparkling
+chateau villelongue, "brut" chardonnay-chenin blanc, limoux	$36.00	Drink		Wine List	Sparkling
+laetitia, "methode champenoise brut", arroyo grande valley	$36.00	Drink		Wine List	Sparkling
+domaine hautes gohardes, cabernet franc cremant rose, loire	$40.00	Drink		Wine List	Sparkling
+elio perrone, "bigaro" moscato-brachetto, asti	$40.00	Drink		Wine List	Sparkling
+pierre sparr, brut rose, alsace	$40.00	Drink		Wine List	Sparkling
+sassetti, colle argento rose, pertimali	$40.00	Drink		Wine List	Sparkling
+ruinart, brut rose, champagne	$60.00	Drink		Wine List	Sparkling
+g.h. mumm, cordon rouge, champagne	$60.00	Drink		Wine List	Sparkling
+tattinger, brut la francaise, champagne	$72.00	Drink		Wine List	Sparkling
+mc pherson, "les copains" cinsault-grenache-rolle, texas	$28.00	Drink		Wine List	Rose
+gayda, "la minuette", cinsault-grenache-mourvedre-carignan, languedoc	$28.00	Drink		Wine List	Rose
+loimer, zweigelt, austria	$32.00	Drink		Wine List	Rose
+halter ranch, grenache-syrah-mourvedre-picpoul, paso robles	$32.00	Drink		Wine List	Rose
+elouan, pinot noir, oregon	$32.00	Drink		Wine List	Rose
+lorenza, grenache-carignan-mourvedre-cinsault, california	$36.00	Drink		Wine List	Rose
+copain, "tous ensemble" pinot noir, north coast	$40.00	Drink		Wine List	Rose
+lioco, "indica" carignane, mendocino	$44.00	Drink		Wine List	Rose
+gassier, "le pas du moine" syrah-grenache-cinsault-rolle-ugni blanc, provence	$44.00	Drink		Wine List	Rose
+bruliam, pinot noir, sonoma	$48.00	Drink		Wine List	Rose
+chene bleu, grenache-syrah-cinsault, vaucluse	$48.00	Drink		Wine List	Rose
+domaine serene "r", pinot noir, oregon	$55.00	Drink		Wine List	Rose
+domaine de terrebrune, mourvedre-grenache-cinsault, bandol	$60.00	Drink		Wine List	Rose
 
-id = 548f88e4498ef56ade159270
 name = Fixe Austin
-location = lat = 30.268744762950295, lng = -97.74872327413308
-Address = [500 W 5th St, Austin, TX 78701]
-tag = Restaurant
-rating = 9.0
+Menu not available
 
-
-id = 4ad80264f964a520851021e3
 name = Thundercloud Subs
-location = lat = 30.403071423287773, lng = -97.85487665072147
-Address = [6920 Ranch Road 620 N (FM 2222), Austin, TX 78732]
-tag = Sandwich Place
-rating = 9.0
-Meatball  $4.49    Pastrami  $4.99    Hot Roast Beef  $5.69    Nada Chicken Parmesan  $5.99    Nada Chicken  $5.79    Garden Salad  $3.89    Austin Club Salad  $6.29    Classic Chef Salad  $5.49    Nada Chicken Salad  $5.99    Combo Salad  $5.59    Extra Salad Dressing  $0.50    Turkey  $4.99    Roast Beef  $4.99    Ham  $4.69    Mesquite Smoked Chicken  $4.99    Chicken Salad  $3.99    Egg Salad  $3.99    Hummus  $4.69    Avocado  $5.59    Capicola  $4.69    Genoa Salami  $4.69    Bologna  $3.79    The Club  $5.59    California Club  $4.99    N.Y. Italian  $4.29    T'bird  $5.49    Roast Beef & Avocado  $5.99    The Office Favorite  $4.59    Veggie Delite  $4.99    Texas Tuna  $6.19    Austin Club  $6.49    
+meatball	$4.49	Entree		Main Menu	Hot Subs
+pastrami	$4.99	Entree		Main Menu	Hot Subs
+hot roast beef	$5.69	Entree		Main Menu	Hot Subs
+nada chicken parmesan	$5.99	Entree		Main Menu	Hot Subs
+nada chicken	$5.79	Entree		Main Menu	Hot Subs
+garden salad	$3.89	Starter		Main Menu	Salads
+austin club salad	$6.29	Starter		Main Menu	Salads
+classic chef salad	$5.49	Starter		Main Menu	Salads
+nada chicken salad	$5.99	Starter		Main Menu	Salads
+combo salad	$5.59	Starter		Main Menu	Salads
+extra salad dressing	$0.50	Starter		Main Menu	Salads
+turkey	$4.99	Entree		Main Menu	Classic Subs
+roast beef	$4.99	Entree		Main Menu	Classic Subs
+ham	$4.69	Entree		Main Menu	Classic Subs
+mesquite smoked chicken	$4.99	Entree		Main Menu	Classic Subs
+chicken salad	$3.99	Entree		Main Menu	Classic Subs
+egg salad	$3.99	Entree		Main Menu	Classic Subs
+hummus	$4.69	Entree		Main Menu	Classic Subs
+avocado	$5.59	Entree		Main Menu	Classic Subs
+capicola	$4.69	Entree		Main Menu	Classic Subs
+genoa salami	$4.69	Entree		Main Menu	Classic Subs
+bologna	$3.79	Entree		Main Menu	Classic Subs
+the club	$5.59	Entree		Main Menu	Signature Subs
+california club	$4.99	Entree		Main Menu	Signature Subs
+n.y. italian	$4.29	Entree		Main Menu	Signature Subs
+t'bird	$5.49	Entree		Main Menu	Signature Subs
+roast beef & avocado	$5.99	Entree		Main Menu	Signature Subs
+the office favorite	$4.59	Entree		Main Menu	Signature Subs
+veggie delite	$4.99	Entree		Main Menu	Signature Subs
+texas tuna	$6.19	Entree		Main Menu	Signature Subs
+austin club	$6.49	Entree		Main Menu	Signature Subs
 
-id = 42e03700f964a52060261fe3
 name = Chuy's
-location = lat = 30.418424259791085, lng = -97.74774312973022
-Address = [11680 Research Blvd (at Duval Rd), Austin, TX 78759]
-tag = Mexican Restaurant
-rating = 9.0
-Rice  $1.39    Beans  $1.39    Salsa Fresca  $2.69    Creamy Jalapeno  $3.59    Sauces  $3.49    Tortillas  $1.50    The Big Daddio  $13.99    The Mamacita  $10.99    Peace, Love & Enchiladas  $9.29    The Chiquito Burrito  $7.69    Taco Salad  $8.99    Mexi-Cobb Salad  $9.49    Chile Con Queso  $6.59    Guacamole  $5.99    Chicken Flautas  $12.29    Quesadillas  $20.99    Deluxe Quesadillas  $24.69    Iced Tea  $8.49    Tex-Mex  $0    Ranchero  $0    Tomatillo  $0    Deluxe Tomatillo  $0    Green Chile  $0    Hatch Green Chile  $0    Chile Con Queso  $6.79    Queso Compuesto  $7.29    Guacamole*  $5.99    Nachos*  $7.29    Special Nachos*  $8.59    Panchos  $9.59    Quesadillas*  $7.49    Deluxe Quesadillas  $8.79    Appetizer Plate  $9.99    Taco Salad  $8.99    Grilled Chicken Salad  $9.49    Mexi-Cobb Salad  $9.49    Large Dinner Salad  $4.99    Tortilla Soup  $4.49    Tex-Mex Salad Combinations  $8.99    Soft Tacos  $8.69    Crispy Tacos  $8.49    Tacos Al Carbon  $10.29    Baja Tacos  $9.69    Bean and Cheese*  $8.69    Seasoned Ground Sirloin  $8.99    Fresh, Oven-Roasted Chicken  $9.79    Fajita Chicken Or Fajita Beef  $10.49    Chuychanga  $10.29    Steak Burrito  $10.89    Chicken Flautas  $8.49    Elvis Green Chile Fried Chicken  $9.99    Cheese*  $9.59    Seasoned Ground Sirloin  $9.79    Fresh, Oven-Roasted Chicken & Cheese  $9.89    Shrimp & Cheese  $9.99    Stacked Enchiladas  $9.49    Classic Tex-Mex  $8.89    Chicka-Chicka Boom-Boom  $10.69    Veggie*  $8.69    Deluxe Chicken  $9.49    Southwestern  $9.69    Custom Enchiladas  $9.49    Beef  $14.49    Chicken  $13.49    Combo  $13.99    Comida Deluxe  $10.99    The Elvis Presley Memorial Combo  $11.49    Taco and Enchilada  $8.79    Relleno and Enchilada  $9.29    Chalupa and Enchilada  $8.89    Enchilada, Taco and Chalupa  $9.99    Vegetarian Combo  $8.99    Chuy's Lite Plate  $6.69    Chicken Combo  $7.99    Tex-Mex  $0    Ranchero  $0    Hatch Green Chile  $0    Green Chile  $0    Tomatillo  $0    Deluxe Tomatillo  $0    Creamy Jalapeño  $0    Kick It Up a Notch, Chuy's Style!  $0    Kid Cheese Dillas  $4.89    Kid Cheeseburger  $4.89    Mini Kid Burrito  $4.89    Chicken Nuggets  $4.89    Mini Crispy Tacos  $4.89    Kid Enchilada  $4.89    Sopapillas  $3.69    Tres Leches  $5.69    Flan  $3.99    Chuy's Famous Ritas  $6.25    Father Agave  $9.25    Grand Ma's Rockin' Rita  $9.50    The Perfect Pomegranate Rita  $9.50    Top - Shelf Skinny Rita  $9.25    Flavored Rocks Ritas  $7.95    Floaters  $0    The Original  $9.25    New Mexican  $9.50    Spicy Cucumber  $9.95    Strawberry  $12.95    Step 1: Choose Your Tequila  $0    Step 2: Add Cointreau, Grand Marnier Or Patrón Citrónge  $0    Step 3: Have Fun!  $0    Spoil Yourself "Chuy's Style"  $12.95    La Piña Colada  $8.50    Sangria  $6.25    Tito's Bloody Mary  $5.75    The Classic  $6.95    Tex-Mex Style  $7.50    Strawberry  $7.50    Canyon Road Chardonnay  $6.50    Canyon Road Pinot Noir  $6.50    Ecco Domani Pinot Grigio  $7.50    Dark House Cabernet Sauvignon  $7.50    Budweiser - Bud Light  $0    Coors Light - Michelob, Ultra  $0    Miler Lite - O' Doul's N/a  $0    Corona Extra - Corona Light  $0    Dos Xx Ambar - Dos Xx Lager  $0    Modelo Especial - Negra Modelo  $0    Pacifico - Shiner Bock - Tecate  $0    The King's Punch  $9.25    Chuy's Brew  $8.75    Grandaddy's Brew  $10.50    Chuy's Vice  $10.50    House Ritas  $4.50    Domestic Beers  $3.00    House Tx Tinis  $8.25    Green Chile Pork Tamales  $10.59    Green Chile Chicken Taquitos  $8.79    Chicken Enchiladas with Green Chile Avocado Sauce  $10.49    Fat Daddy Enchiladas  $10.69    Hatch Chicken Enchiladas  $9.19    Pork Tacos  $8.69    Macho Burrito  $9.79    Carne Guisada Tacos  $8.69    Carne Guisada Burrito  $9.69    Rio Grande Enchiladas  $8.99    Stuffed Avocado  $10.29    
+rice	$1.39	Entree		Party to Go	Sides
+beans	$1.39	Entree		Party to Go	Sides
+salsa fresca	$2.69	Entree		Party to Go	Sides
+creamy jalapeno	$3.59	Entree		Party to Go	Sides
+sauces	$3.49	Entree		Party to Go	Sides
+tortillas	$1.50	Entree		Party to Go	Sides
+the big daddio	$13.99	Entree		Party to Go	Packages
+the mamacita	$10.99	Entree		Party to Go	Packages
+peace, love & enchiladas	$9.29	Entree		Party to Go	Packages
+the chiquito burrito	$7.69	Entree		Party to Go	Packages
+taco salad	$8.99	Entree		Party to Go	Packages
+mexi-cobb salad	$9.49	Entree		Party to Go	Packages
+chile con queso	$6.59	Starter		Party to Go	Appetizers
+guacamole	$5.99	Starter		Party to Go	Appetizers
+chicken flautas	$12.29	Starter		Party to Go	Appetizers
+quesadillas	$20.99	Starter		Party to Go	Appetizers
+deluxe quesadillas	$24.69	Starter		Party to Go	Appetizers
+iced tea	$8.49	Drink		Party to Go	Beverages
+tex-mex	$0	Entree		Party to Go	About Our Sauces
+ranchero	$0	Entree		Party to Go	About Our Sauces
+tomatillo	$0	Entree		Party to Go	About Our Sauces
+deluxe tomatillo	$0	Entree		Party to Go	About Our Sauces
+green chile	$0	Entree		Party to Go	About Our Sauces
+hatch green chile	$0	Entree		Party to Go	About Our Sauces
+chile con queso	$6.79	Starter		Main Menu	Appetizers
+queso compuesto	$7.29	Starter		Main Menu	Appetizers
+guacamole*	$5.99	Starter		Main Menu	Appetizers
+nachos*	$7.29	Starter		Main Menu	Appetizers
+special nachos*	$8.59	Starter		Main Menu	Appetizers
+panchos	$9.59	Starter		Main Menu	Appetizers
+quesadillas*	$7.49	Starter		Main Menu	Appetizers
+deluxe quesadillas	$8.79	Starter		Main Menu	Appetizers
+appetizer plate	$9.99	Starter		Main Menu	Appetizers
+taco salad	$8.99	Starter		Main Menu	Salads and Soups
+grilled chicken salad	$9.49	Starter		Main Menu	Salads and Soups
+mexi-cobb salad	$9.49	Starter		Main Menu	Salads and Soups
+large dinner salad	$4.99	Starter		Main Menu	Salads and Soups
+tortilla soup	$4.49	Starter		Main Menu	Salads and Soups
+tex-mex salad combinations	$8.99	Starter		Main Menu	Salads and Soups
+soft tacos	$8.69	Entree		Main Menu	Tacos
+crispy tacos	$8.49	Entree		Main Menu	Tacos
+tacos al carbon	$10.29	Entree		Main Menu	Tacos
+baja tacos	$9.69	Entree		Main Menu	Tacos
+bean and cheese*	$8.69	Entree		Main Menu	Famous Burritos 'Big As Yo Face'
+seasoned ground sirloin	$8.99	Entree		Main Menu	Famous Burritos 'Big As Yo Face'
+fresh, oven-roasted chicken	$9.79	Entree		Main Menu	Famous Burritos 'Big As Yo Face'
+fajita chicken or fajita beef	$10.49	Entree		Main Menu	Famous Burritos 'Big As Yo Face'
+chuychanga	$10.29	Entree		Main Menu	House Specialties
+steak burrito	$10.89	Entree		Main Menu	House Specialties
+chicken flautas	$8.49	Entree		Main Menu	House Specialties
+elvis green chile fried chicken	$9.99	Entree		Main Menu	House Specialties
+cheese*	$9.59	Entree		Main Menu	Chile Rellenos
+seasoned ground sirloin	$9.79	Entree		Main Menu	Chile Rellenos
+fresh, oven-roasted chicken & cheese	$9.89	Entree		Main Menu	Chile Rellenos
+shrimp & cheese	$9.99	Entree		Main Menu	Chile Rellenos
+stacked enchiladas	$9.49	Entree		Main Menu	Enchiladas Recommended House Favorites
+classic tex-mex	$8.89	Entree		Main Menu	Enchiladas Recommended House Favorites
+chicka-chicka boom-boom	$10.69	Entree		Main Menu	Enchiladas Recommended House Favorites
+veggie*	$8.69	Entree		Main Menu	Enchiladas Recommended House Favorites
+deluxe chicken	$9.49	Entree		Main Menu	Enchiladas Recommended House Favorites
+southwestern	$9.69	Entree		Main Menu	Enchiladas Recommended House Favorites
+custom enchiladas	$9.49	Entree		Main Menu	Enchiladas Recommended House Favorites
+beef	$14.49	Entree		Main Menu	Fajitas
+chicken	$13.49	Entree		Main Menu	Fajitas
+combo	$13.99	Entree		Main Menu	Fajitas
+comida deluxe	$10.99	Entree		Main Menu	Combinations
+the elvis presley memorial combo	$11.49	Entree		Main Menu	Combinations
+taco and enchilada	$8.79	Entree		Main Menu	Combinations
+relleno and enchilada	$9.29	Entree		Main Menu	Combinations
+chalupa and enchilada	$8.89	Entree		Main Menu	Combinations
+enchilada, taco and chalupa	$9.99	Entree		Main Menu	Combinations
+vegetarian combo	$8.99	Entree		Main Menu	Combinations
+chuy's lite plate	$6.69	Entree		Main Menu	Lite Combos
+chicken combo	$7.99	Entree		Main Menu	Lite Combos
+tex-mex	$0	Entree		Main Menu	Signature Sauces
+ranchero	$0	Entree		Main Menu	Signature Sauces
+hatch green chile	$0	Entree		Main Menu	Signature Sauces
+green chile	$0	Entree		Main Menu	Signature Sauces
+tomatillo	$0	Entree		Main Menu	Signature Sauces
+deluxe tomatillo	$0	Entree		Main Menu	Signature Sauces
+creamy jalapeño	$0	Entree		Main Menu	Signature Sauces
+kick it up a notch, chuy's style!	$0	Entree		Main Menu	Signature Sauces
+kid cheese dillas	$4.89	Kids		Kids Menu	Main
+kid cheeseburger	$4.89	Kids		Kids Menu	Main
+mini kid burrito	$4.89	Kids		Kids Menu	Main
+chicken nuggets	$4.89	Kids		Kids Menu	Main
+mini crispy tacos	$4.89	Kids		Kids Menu	Main
+kid enchilada	$4.89	Kids		Kids Menu	Main
+sopapillas	$3.69	Dessert		Dessert	Dessert
+tres leches	$5.69	Dessert		Dessert	Dessert
+flan	$3.99	Dessert		Dessert	Dessert
+chuy's famous ritas	$6.25	Drink		Drink Menu	Signature Margaritas
+father agave	$9.25	Drink		Drink Menu	Signature Margaritas
+grand ma's rockin' rita	$9.50	Drink		Drink Menu	Signature Margaritas
+the perfect pomegranate rita	$9.50	Drink		Drink Menu	Signature Margaritas
+top - shelf skinny rita	$9.25	Drink		Drink Menu	Signature Margaritas
+flavored rocks ritas	$7.95	Drink		Drink Menu	Signature Margaritas
+floaters	$0	Drink		Drink Menu	Floaters
+the original	$9.25	Drink		Drink Menu	Texas Martinis
+new mexican	$9.50	Drink		Drink Menu	Texas Martinis
+spicy cucumber	$9.95	Drink		Drink Menu	Texas Martinis
+strawberry	$12.95	Drink		Drink Menu	Texas Martinis
+step 1: choose your tequila	$0	Drink		Drink Menu	Build Your Own
+step 2: add cointreau, grand marnier or patrón citrónge	$0	Drink		Drink Menu	Build Your Own
+step 3: have fun!	$0	Drink		Drink Menu	Build Your Own
+spoil yourself "chuy's style"	$12.95	Drink		Drink Menu	Premium - Roca Patrón Silver for Sipping
+la piña colada	$8.50	Drink		Drink Menu	Classics
+sangria	$6.25	Drink		Drink Menu	Classics
+tito's bloody mary	$5.75	Drink		Drink Menu	Classics
+the classic	$6.95	Drink		Drink Menu	Mojitos
+tex-mex style	$7.50	Drink		Drink Menu	Mojitos
+strawberry	$7.50	Drink		Drink Menu	Mojitos
+canyon road chardonnay	$6.50	Drink		Drink Menu	Wine
+canyon road pinot noir	$6.50	Drink		Drink Menu	Wine
+ecco domani pinot grigio	$7.50	Drink		Drink Menu	Wine
+dark house cabernet sauvignon	$7.50	Drink		Drink Menu	Wine
+budweiser - bud light	$0	Drink		Drink Menu	Domestics
+coors light - michelob, ultra	$0	Drink		Drink Menu	Domestics
+miler lite - o' doul's n/a	$0	Drink		Drink Menu	Domestics
+corona extra - corona light	$0	Drink		Drink Menu	Premiums
+dos xx ambar - dos xx lager	$0	Drink		Drink Menu	Premiums
+modelo especial - negra modelo	$0	Drink		Drink Menu	Premiums
+pacifico - shiner bock - tecate	$0	Drink		Drink Menu	Premiums
+the king's punch	$9.25	Drink		Drink Menu	Texas Sized - Drinks
+chuy's brew	$8.75	Drink		Drink Menu	Texas Sized - Drinks
+grandaddy's brew	$10.50	Drink		Drink Menu	Texas Sized - Drinks
+chuy's vice	$10.50	Drink		Drink Menu	Texas Sized - Drinks
+house ritas	$4.50	Drink		Drink Menu	Texas Sized - Happy Hour
+domestic beers	$3.00	Drink		Drink Menu	Texas Sized - Happy Hour
+house tx tinis	$8.25	Drink		Drink Menu	Texas Sized - Happy Hour
+green chile pork tamales	$10.59	Entree		Daily Specials	Monday
+green chile chicken taquitos	$8.79	Entree		Daily Specials	Tuesday
+chicken enchiladas with green chile avocado sauce	$10.49	Entree		Daily Specials	Wednesday
+fat daddy enchiladas	$10.69	Entree		Daily Specials	Thursday
+hatch chicken enchiladas	$9.19	Entree		Daily Specials	Friday
+pork tacos	$8.69	Entree		Daily Specials	Saturday & Sunday
+macho burrito	$9.79	Entree		Daily Specials	Saturday & Sunday
+carne guisada tacos	$8.69	Entree		Daily Specials	Served Daily
+carne guisada burrito	$9.69	Entree		Daily Specials	Served Daily
+rio grande enchiladas	$8.99	Entree		Daily Specials	Served Daily
+stuffed avocado	$10.29	Entree		Daily Specials	Served Daily
 
-id = 57b0a46c498e7708959987bd
 name = Fresa's Chicken Al Carbon
-location = lat = 30.247585, lng = -97.75563
-Address = [1703 S 1st St, Austin, TX 78704]
-tag = Restaurant
-rating = 9.0
-
+Menu not available
 

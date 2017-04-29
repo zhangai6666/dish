@@ -12,37 +12,63 @@ public class Restaurant {
     double rating;
     List<Dish> dishes;
     
-    public boolean foundNullDishesList () {
+    public String getId() {
+        return id;
+    }
+    
+    public String getName() {
+        return name;
+    }
+    
+    public Location getLocation() {
+        return location;
+    }
+    
+    public boolean foundNullDishesList() {
         return dishes == null;
     }
-    public void addDishes (List<Dish> newDishes) {
+    public void addDishes(List<Dish> newDishes) {
     	if (dishes == null) dishes = new ArrayList<>();
         if (newDishes == null) return;
+        for (Dish d: newDishes) {
+            d.whichRestaurant(this);
+        }
     	dishes.addAll(newDishes);
     }
     
-    public int getDishesCount () {
+    public int getDishesCount() {
         if (dishes == null) {
             return 0;
         }
         return dishes.size();
     }
     
+    public ArrayList<String> getDishNames() {
+        if (dishes == null) {
+            return null;
+        }
+        ArrayList<String> list = new ArrayList<>();
+        for(Dish d : dishes) {
+            list.add(d.getName());
+        }
+        return list;
+    }
+    
     @Override
     public String toString() {
         StringBuilder ans = new StringBuilder();
-        ans.append("id = ").append(id).append('\n');
+//        ans.append("id = ").append(id).append('\n');
         ans.append("name = ").append(name).append('\n');
-        ans.append("location = ").append(location).append('\n');
-        ans.append("tag = ").append(categories[0]).append('\n');
-        ans.append("rating = ").append(rating).append('\n');
-        if (dishes != null) {
-        	for (Dish dish : dishes)
-            	ans.append(dish).append("    ");
+//        ans.append("location = ").append(location).append('\n');
+//        ans.append("tag = ").append(categories[0]).append('\n');
+//        ans.append("rating = ").append(rating).append('\n');
+        if (getDishesCount() != 0) {
+            for (Dish dish : dishes)
+            	ans.append(dish);
         }
-        else
-        	ans.append("Menu not available");
-        ans.append("\n");
+        else {
+            ans.append("Menu not available\n");
+        }
         return ans.toString();
     }
 }
