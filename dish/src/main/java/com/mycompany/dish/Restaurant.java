@@ -43,6 +43,13 @@ public class Restaurant {
         return dishes.size();
     }
     
+    public List<Dish> getDishes() {
+        if (dishes == null) {
+            dishes = new ArrayList<>();
+        }
+        return dishes;
+    }
+    
     public ArrayList<String> getDishNames() {
         if (dishes == null) {
             return null;

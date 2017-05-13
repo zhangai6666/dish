@@ -20,8 +20,15 @@ import java.util.TreeSet;
 
 public class JsonParser {
 
-    public void readFromUrl (String link, String file, StringBuilder jsonString) throws IOException{
+    /*
+    Return JSON response of url and write response to local file for future use
+    @param link URL to get response from
+    @param file Path to write JSON response to
+    @return JSON response
+    */
+    public String readFromUrl (String link, String file) throws IOException {
     	PrintWriter out = null;
+        StringBuilder jsonString = new StringBuilder();
         try {
             URL url = new URL(link);
             //read from the url
@@ -40,10 +47,16 @@ public class JsonParser {
         }
         catch (IOException e) {
         }
+        return jsonString.toString();
     }
 
-    public void readFromFile (String file, StringBuilder jsonString) throws IOException{
+    /*
+    @param file Path to file to be read
+    @return Content read from local file
+    */
+    public String readFromFile (String file) throws IOException{
         BufferedReader br = null;
+        StringBuilder jsonString = new StringBuilder();
         try {
         	br = new BufferedReader(new FileReader(file));
             String line = br.readLine();
@@ -60,12 +73,13 @@ public class JsonParser {
         finally {
             try { br.close();} catch(IOException e) {}
         }
+        return jsonString.toString();
     }
     
-    public List<Restaurant> parse (String jsonString) {
+    public List<Restaurant> parseRestaurant (String jsonString) {
     	Gson gson = new Gson();
-    	Top top = gson.fromJson(jsonString, Top.class);
-    	Group[] buckets = top.response.groups;
+    	RestaurantRaw restaurantRaw = gson.fromJson(jsonString, RestaurantRaw.class);
+    	Group[] buckets = restaurantRaw.response.groups;
     	List<Restaurant> restaurant = new ArrayList<>();
     	for (int i = 0; i < buckets.length; i++) {
     		Item[] item = buckets[i].items;
@@ -78,103 +92,7 @@ public class JsonParser {
     
     public Menus parseMenu (String jsonString) {
     	Gson gson = new Gson();
-    	TopMenu topMenu = gson.fromJson(jsonString, TopMenu.class);
+    	MenuRaw topMenu = gson.fromJson(jsonString, MenuRaw.class);
     	return topMenu.response.menu.menus;
-    }
-    
-    
-    public static void main(String[] args) throws IOException{
-        JsonParser parser = new JsonParser();
-        
-    	List<Restaurant> restaurantList = new ArrayList<>();
-    	HashMap<String, Integer> dishCounter = new HashMap<>();
-               
-    	int menuNotAvailCount = 0;
-        int totalDishesCount = 0;
-
-    	
-    	for(int offset = 0; offset < 241; offset += 30) {
-        	
-        	StringBuilder jsonString = new StringBuilder();
-        	String file = String.format("./rawJson/RawJsonRestaurants_offset_%d.txt", offset);
-        	
-        	// Get Restaurant info from FourSquare API
-//      	String link = String.format("https://api.foursquare.com/v2/venues/explore?near=Austin,TX&section=Food&offset=%d&oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", offset);
-//            parser.readFromUrl(link, file, jsonString);
-        	parser.readFromFile(file, jsonString);
-                 
-            
-            file = String.format("./restaurantList/RestaurantList_offset_%d.txt", offset);
-            List<Restaurant> cur = parser.parse(jsonString.toString());
-            int count = cur.size();
-            PrintWriter out = new PrintWriter(file);  
-            
-            // Get menus of each restaurant 
-            for (Restaurant r : cur) {
-            	if (r.categories[0].name.equals("Fast Food Restaurant")) {
-            		count--;
-            		continue;
-            	}
-                restaurantList.add(r);
-            	
-//            	String menuLink = String.format("https://api.foursquare.com/v2/venues/%s/menu?oauth_token=3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20161230", r.id);
-            	String menuFile = "./rawJson/Menu_" + r.name + ".txt";
-            	StringBuilder jsonMenu = new StringBuilder();
-//            	parser.readFromUrl(menuLink, menuFile, jsonMenu);
-            	parser.readFromFile(menuFile, jsonMenu);
-            	Menus menus = parser.parseMenu(jsonMenu.toString());
-            	
-            	r.addDishes(menus.flaten());
-            	
-            	out.println(r);
-            	//System.out.println(r);
-//                System.out.println(r.getDishesCount());
-
-                if (r.foundNullDishesList()) {
-                    System.out.println("Dishes List is NULL!!!");
-                }
-
-                if (r.getDishesCount() == 0) {
-                    menuNotAvailCount++;
-                }
-                totalDishesCount += r.getDishesCount();
-                
-                ArrayList<String> dishList = r.getDishNames();
-
-                for (String d : dishList) {
-                    if (!dishCounter.containsKey(d)) {
-                        dishCounter.put(d, 1);
-                    } else {
-                        dishCounter.put(d, dishCounter.get(d) + 1);
-                    }
-                }
-            }
-            out.close();
-        
-//            System.out.println(String.format("Current size %d", count));
-    	}
-        System.out.println(String.format("\nTotal %d restaurants.\n", restaurantList.size()));
- //       System.out.println(menuNotAvailCount + " restaurants don't menu info.");
-        System.out.println(totalDishesCount + " dishes in total.");
-        
-        
-        System.out.println(dishCounter.keySet().size() + " unique dishes");
-    	PrintWriter out = new PrintWriter("./restaurantList/DishCount.txt");
-        for (String d : dishCounter.keySet()) {
-            out.println(d + ' ' + dishCounter.get(d));
-        }
-        out.close();
-       
-//    	DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
-//    	conn.cleanup();
-//        conn.close();
-//        
-//        DatabaseAndSearchConnect connet = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
-//        connet.InitOrUpdate(list);
-//    	connet.close();
-    	
-    	System.out.println("excution finished" );
-        final String dir = System.getProperty("user.dir");
-        System.out.println("current dir = " + dir);
     }
 }

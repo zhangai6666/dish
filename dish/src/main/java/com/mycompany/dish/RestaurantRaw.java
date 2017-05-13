@@ -1,6 +1,6 @@
 package dish;
 
-public class Top {
+public class RestaurantRaw {
 	Response response;
 }
 

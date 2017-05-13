@@ -11,21 +11,6 @@ public class Test {
     	Gson gson = new Gson();
     	return gson.fromJson(jsonString, h00.class);
     }
-	
-	
-	public static void main(String[] args) throws IOException{
-		// TODO Auto-generated method stub
-		String file = "test.txt";
-		JsonParser parser = new JsonParser();
-		StringBuilder jsonString = new StringBuilder();
-		parser.readFromFile(file, jsonString);
-		System.out.println(jsonString);
-		Test test = new Test();
-		h00 tmp = test.parse(jsonString.toString());
-		System.out.println(Arrays.toString(tmp.main[0].sA));
-		System.out.println(Arrays.toString(tmp.main[0].iA));
-		System.out.println(Arrays.toString(tmp.main[0].sC));
-	}
 
 }
 

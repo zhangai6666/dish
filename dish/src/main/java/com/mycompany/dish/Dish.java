@@ -1,11 +1,11 @@
 package dish;
 
 enum DishType {
-    Starter,
     Entree,
+    Starter,
     Dessert,
     Drink,
-    Vegtarian,
+    Vegetarian,
     Kids
 }
 
@@ -56,7 +56,7 @@ public class Dish {
                         || section.matches("(.*)Vegan(.*)")
                         || category.matches("(.*)Vegetarian(.*)")
                         || category.matches("(.*)Vegan(.*)")) {
-                    type = DishType.Vegtarian;
+                    type = DishType.Vegetarian;
                 } else if (section.matches("(.*)Kids(.*)")
                         || category.matches("(.*)Kids(.*)")) {
                     type = DishType.Kids;
@@ -65,6 +65,10 @@ public class Dish {
         
         public String getName(){
             return name;
+        }
+        
+        public DishType getType(){
+            return type;
         }
         
         public void whichRestaurant(Restaurant r) {
