@@ -9,13 +9,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
-
 import com.google.gson.Gson;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.TreeSet;
 
 
 public class JsonParser {
