@@ -78,6 +78,7 @@ public class Dish {
         }
        
 	
+        @Override
 	public String toString () {
             return String.format("%s\t$%s\t%s\t\t%s\t%s\n", name, price, type, category, section);
 //            return String.format("%s\t$%s\t%s\t%s\n", name, price, category, section);

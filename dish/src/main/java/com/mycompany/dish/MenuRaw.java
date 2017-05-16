@@ -28,7 +28,7 @@ class Menus {
         if (count == 0) {
             return null;
         }
-        List<Dish> ans = new ArrayList<Dish>();
+        List<Dish> ans = new ArrayList<>();
         for (int i = 0; i < items.length; i++) {
             String category = items[i].name;
             MenuSection[] sections = items[i].entries.items;
@@ -44,6 +44,7 @@ class Menus {
         return ans;
     }
 
+    @Override
     public String toString() {
         if (count == 0) {
             return "Menu not available";
@@ -59,6 +60,7 @@ class MenuCategory {
     String description;
     MenuSections entries;
 
+    @Override
     public String toString() {
         return name + ": \n" + entries;
     }
@@ -69,6 +71,7 @@ class MenuSections {
     int count;
     MenuSection[] items;
 
+    @Override
     public String toString() {
         return Arrays.toString(items) + "\n";
     }
@@ -79,6 +82,7 @@ class MenuSection {
     String name;
     DishGroup entries;
 
+    @Override
     public String toString() {
         return name + ": \n" + entries;
     }
@@ -89,6 +93,7 @@ class DishGroup {
     int count;
     SingleDish[] items;
 
+    @Override
     public String toString() {
         return Arrays.toString(items) + "\n";
     }

@@ -85,6 +85,7 @@ class Location {
 	double lng;
 	String[] formattedAddress;
 	
+        @Override
 	public String toString() {
 		StringBuilder ans = new StringBuilder();
 		ans.append("lat = ").append(lat).append(", ");
@@ -97,6 +98,7 @@ class Location {
 class Categories {
 	String name;
 	
+        @Override
 	public String toString() {
 		return name;
 	}
