@@ -152,13 +152,13 @@ public class TopRun {
 
         System.out.println(sorted.size() + " keys in total.\n");
         
-//        DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
-//        conn.cleanup();
-//        conn.close();
-//
-//        DatabaseAndSearchConnect connet = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
-//        connet.InitOrUpdate(restaurantList);
-//        connet.close();
+        DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
+        conn.cleanup();
+        conn.close();
+
+        DatabaseAndSearchConnect connet = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
+        connet.InitOrUpdate(restaurantList);
+        connet.close();
 
         System.out.println("excution finished");
         final String dir = System.getProperty("user.dir");
