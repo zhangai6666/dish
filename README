@@ -3,11 +3,8 @@ Things to do
 DONE <1> Get restaurants and dishes informaion
 DONE <2> Setup ElasticSearch and Cassandra
 DONE <3> ReactJS Frontend
-<4> Main Search Feature Complete
-<5> NodeJS Backend
-<6> Cloud deploy
-<7> Android app 
-<8> iOS app 
+DONE <4> Main Search with Basic Features
+<5> Cloud deploy
 
 UI improve and additional features:
 * user add fav dish

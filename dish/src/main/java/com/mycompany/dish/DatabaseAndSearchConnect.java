@@ -91,6 +91,8 @@ public class DatabaseAndSearchConnect {
                     + "price double , "
                     + "catergory text , "
                     + "description text , "
+                    + "lat float , "
+                    + "lng float , "
                     + "section text , "
                     + "PRIMARY KEY (did));";
 
@@ -121,9 +123,10 @@ public class DatabaseAndSearchConnect {
                 
                 // Insert dishes into DB
                 for (Dish d : restaurant.dishes) {
-                    String insertDish = "INSERT INTO dish (did, rid, rName, name, price, catergory, description, section)"
+                    String insertDish = "INSERT INTO dish (did, rid, rName, name, price, catergory, description, lat, lng, section)"
                             + " VALUES( uuid(), " + rUUid.toString() + " , $$" + restaurant.name + "$$, $$" + d.name + "$$, " + Double.parseDouble(d.price) + ", $$"
-                            + d.category + "$$, $$" + d.description + "$$, $$" + d.section + "$$);";
+                            + d.category + "$$, $$" + d.description + "$$, " + restaurant.location.lat + ","
+                        + restaurant.location.lng + ", $$" + d.section + "$$);";
                     session.execute(insertDish);
                 }
                 
