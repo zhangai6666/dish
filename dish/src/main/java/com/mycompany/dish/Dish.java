@@ -2,7 +2,6 @@ package dish;
 
 enum DishType {
     Entree,
-    Starter,
     Dessert,
     Drink,
     Vegetarian,
@@ -27,13 +26,7 @@ public class Dish {
 		category = cat;
 		section = sec;
                 type = DishType.Entree;
-                if (section.matches("(.*)Starter(.*)")
-                        || section.matches("(.*)Appetizer(.*)")
-                        || section.matches("(.*)Small Plates(.*)")
-                        || section.matches("(.*)Soups(.*)")
-                        || section.matches("(.*)Salads(.*)")) {
-                    type = DishType.Starter;
-                } else if (section.matches("(.*)Dessert(.*)")
+                if (section.matches("(.*)Dessert(.*)")
                         || category.matches("(.*)Dessert(.*)")
                         || section.matches("(.*)Sweet(.*)")
                         || category.matches("(.*)Sweet(.*)")) {
