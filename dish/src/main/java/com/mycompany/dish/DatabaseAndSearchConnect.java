@@ -93,7 +93,7 @@ public class DatabaseAndSearchConnect {
                     + "description text , "
                     + "lat float , "
                     + "lng float , "
-                    + "section text , "
+                    + "type text , "
                     + "PRIMARY KEY (did));";
 
             String createDishTableIndex = "CREATE INDEX rid ON dish (rid)";
@@ -123,10 +123,10 @@ public class DatabaseAndSearchConnect {
                 
                 // Insert dishes into DB
                 for (Dish d : restaurant.dishes) {
-                    String insertDish = "INSERT INTO dish (did, rid, rName, name, price, catergory, description, lat, lng, section)"
+                    String insertDish = "INSERT INTO dish (did, rid, rName, name, price, catergory, description, lat, lng, type)"
                             + " VALUES( uuid(), " + rUUid.toString() + " , $$" + restaurant.name + "$$, $$" + d.name + "$$, " + Double.parseDouble(d.price) + ", $$"
                             + d.category + "$$, $$" + d.description + "$$, " + restaurant.location.lat + ","
-                        + restaurant.location.lng + ", $$" + d.section + "$$);";
+                        + restaurant.location.lng + ", $$" + d.type + "$$);";
                     session.execute(insertDish);
                 }
                 
