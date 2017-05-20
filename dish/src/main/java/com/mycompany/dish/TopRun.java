@@ -146,11 +146,24 @@ public class TopRun {
         
         Map<String, List<Frequency>> sorted = top.countSummary(counter);
 
+       
         System.out.println(String.format("\nTotal %d restaurants.\n", restaurantList.size()));
 
         System.out.println(counter.size() + " dishes in total.\n");
 
         System.out.println(sorted.size() + " keys in total.\n");
+        
+        
+//        JedisMain test = new JedisMain();
+        
+//        System.out.println("\nRedis build up begins.\n");
+//        test.build(sorted);
+//        System.out.println("Redis build up completes.\n");
+//        String key = "fr";
+//        System.out.println(key + ":");
+//        System.out.println(test.query(key, 10));
+        
+        
         
         DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
         conn.cleanup();
