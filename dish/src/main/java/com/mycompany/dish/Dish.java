@@ -1,4 +1,4 @@
-package dish;
+package com.mycompany.dish;
 
 enum DishType {
     Entree,

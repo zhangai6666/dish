@@ -1,4 +1,4 @@
-package dish;
+package com.mycompany.dish;
 
 import java.util.List;
 

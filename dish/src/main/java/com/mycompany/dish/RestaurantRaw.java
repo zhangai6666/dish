@@ -1,4 +1,4 @@
-package dish;
+package com.mycompany.dish;
 
 public class RestaurantRaw {
 	Response response;
