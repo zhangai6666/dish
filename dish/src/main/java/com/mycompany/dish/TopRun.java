@@ -21,7 +21,7 @@ import java.util.Set;
  */
 public class TopRun {
 
-    String apiToken = "3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20170618";
+    String apiToken = "3HN5ZNTIV4EBCK5SVFJVFCHIJCBVVI4Q5CFJPYIPXLRUW0Y0&v=20170625";
 
     public List<Restaurant> getRestaurantList() throws IOException {
 
@@ -33,8 +33,8 @@ public class TopRun {
             String file = String.format("./rawJson/RawJsonRestaurants_offset_%d.txt", offset);
 
             String link = String.format("https://api.foursquare.com/v2/venues/explore?near=Austin,TX&section=Food&offset=%d&oauth_token=%s", offset, apiToken);
-            String restaurantJSON = parser.readFromUrl(link, file);
-//            String restaurantJSON = parser.readFromFile(file);
+//            String restaurantJSON = parser.readFromUrl(link, file);
+            String restaurantJSON = parser.readFromFile(file);
 
             List<Restaurant> cur = parser.parseRestaurant(restaurantJSON);
 
@@ -60,8 +60,8 @@ public class TopRun {
             String menuLink = String.format("https://api.foursquare.com/v2/venues/%s/menu?oauth_token=%s", cur.id, apiToken);
             String menuFile = "./rawJson/Menu_" + cur.name + ".txt";
 
-            String menuJSON = parser.readFromUrl(menuLink, menuFile);
-//            String menuJSON = parser.readFromFile(menuFile);
+//            String menuJSON = parser.readFromUrl(menuLink, menuFile);
+            String menuJSON = parser.readFromFile(menuFile);
             Menus menus = parser.parseMenu(menuJSON);
 
             List<Dish> dishList = menus.flaten();
