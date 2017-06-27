@@ -58,7 +58,7 @@ public class TopRun {
             Restaurant cur = restaurantList.get(i);
 
             String menuLink = String.format("https://api.foursquare.com/v2/venues/%s/menu?oauth_token=%s", cur.id, apiToken);
-            String menuFile = "./rawJson/Menu_" + cur.name + ".txt";
+            String menuFile = "./rawJson/Menu_" + cur.id + ".txt";
 
 //            String menuJSON = parser.readFromUrl(menuLink, menuFile);
             String menuJSON = parser.readFromFile(menuFile);
