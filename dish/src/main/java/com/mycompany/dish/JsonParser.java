@@ -62,7 +62,7 @@ public class JsonParser {
             }
         }
         catch (IOException e) {
-            System.err.println("File not Found");
+            System.err.println("File not Found" + file);
         }
         finally {
             try { br.close();} catch(IOException e) {}
