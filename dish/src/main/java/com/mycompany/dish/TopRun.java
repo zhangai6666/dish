@@ -159,9 +159,9 @@ public class TopRun {
 
         JedisMain test = new JedisMain();
 
-//        System.out.println("\nRedis build up begins.\n");
-//        test.build(sorted);
-//        System.out.println("Redis build up completes.\n");
+        System.out.println("\nRedis build up begins.\n");
+        test.build(sorted);
+        System.out.println("Redis build up completes.\n");
         String key = "pot";
         System.out.println(key + ":");
         System.out.println(test.query(key, 10));

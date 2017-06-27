@@ -39,6 +39,7 @@ public class JedisMain {
         String key2 = "type";
         String key3 = "count";
         try (Jedis jedis = pool.getResource()) {
+            jedis.flushAll();
             for (String key : summary.keySet()) {
                 List<Frequency> list = summary.get(key);
                 for (int i = 0; i < list.size(); i++) {
