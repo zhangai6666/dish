@@ -8,7 +8,7 @@ sudo tar xzf redis-3.2.9.tar.gz
 cd redis-3.2.9
 sudo make distclean
 sudo make
-sudo yum install -y tcl
+#sudo yum install -y tcl
 sudo mkdir /etc/redis
 sudo mkdir /var/lib/redis
 sudo cp src/redis-server src/redis-cli /usr/local/bin/
@@ -30,3 +30,15 @@ sudo vi /etc/systctl.conf
 ## ensure redis background save issue
 #vm.overcommit_memory = 1
 #systctl vm.overcommit_memory=1
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.0/install.sh | bash
+. ~/.nvm/nvm.sh
+nvm install 6.7
+
+npm install npm@latest -g
+npm install jquery --s
+npm install --save react react-dom
+npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react css-loader style-loader html-webpack-plugin webpack webpack-dev-server
+npm install --save prop-types
+npm install --save axios
+npm install --save react-router-dom
+npm install -g react-native-git-upgrade

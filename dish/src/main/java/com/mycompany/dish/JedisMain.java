@@ -35,33 +35,30 @@ public class JedisMain {
     
     public void build(Map<String, List<Frequency>> summary) {
         //get a jedis connection jedis connection pool
-        String key1 = "dishName";
-        String key2 = "type";
-        String key3 = "count";
+//        String key1 = "dishName";
+//        String key2 = "type";
+//        String key3 = "count";
         try (Jedis jedis = pool.getResource()) {
             jedis.flushAll();
             for (String key : summary.keySet()) {
                 List<Frequency> list = summary.get(key);
                 for (int i = 0; i < list.size(); i++) {
-                    String mediate = key + "[" + i + "]";
+//                    String mediate = key + "[" + i + "]";
                     Frequency cur = list.get(i);
-                    jedis.zadd(key, i, mediate);
-                    jedis.hset(mediate, key1, cur.dishName);
-                    jedis.hset(mediate, key2, cur.type.name());
-                    jedis.hset(mediate, key3, String.valueOf(cur.freq));
+                    jedis.zadd(key, i, cur.toString());
+//                    jedis.hset(mediate, key1, cur.dishName);
+//                    jedis.hset(mediate, key2, cur.type.name());
+//                    jedis.hset(mediate, key3, String.valueOf(cur.freq));
                 }
             }
         }
     }
     
-    public List<Frequency> query(String key, int max) {
-        List<Frequency> ans = new ArrayList<>();
+    public List<String> query(String key, int max) {
+        List<String> ans = new ArrayList<>();
         try(Jedis jedis = pool.getResource()) {
-            Set<String> mediate = jedis.zrange(key, 0, max);
-            for (String m : mediate) {
-                Map<String, String> map = jedis.hgetAll(m);
-                ans.add(new Frequency(map.get("dishName"), Enum.valueOf(DishType.class, map.get("type")), Integer.parseInt(map.get("count"))));
-            }
+            Set<String> values = jedis.zrange(key, 0, max);
+            ans.addAll(values);
         }
         return ans;
     }

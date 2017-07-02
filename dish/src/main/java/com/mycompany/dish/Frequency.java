@@ -24,6 +24,6 @@ public class Frequency {
 
     @Override
     public String toString() {
-        return dishName + ' ' + type + ' ' + freq;
+        return dishName + '#' + type + '#' + freq;
     }
 }
