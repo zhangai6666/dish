@@ -157,24 +157,24 @@ public class TopRun {
         System.out.println(sorted.size() + " keys in total.\n");
 
 
-        JedisMain test = new JedisMain();
-
-        System.out.println("\nRedis build up begins.\n");
-        test.build(sorted);
-        System.out.println("Redis build up completes.\n");
-        String key = "pot";
-        System.out.println(key + ":");
-        System.out.println(test.query(key, 10));
-
-
-
-//        DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
-//        conn.cleanup();
-//        conn.close();
+//        JedisMain test = new JedisMain();
 //
-//        DatabaseAndSearchConnect connet = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
-//        connet.InitOrUpdate(restaurantList);
-//        connet.close();
+//        System.out.println("\nRedis build up begins.\n");
+//        test.build(sorted);
+//        System.out.println("Redis build up completes.\n");
+//        String key = "pot";
+//        System.out.println(key + ":");
+//        System.out.println(test.query(key, 10));
+
+
+
+        DatabaseAndSearchConnect conn = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
+        conn.cleanup();
+        conn.close();
+
+        DatabaseAndSearchConnect connet = new DatabaseAndSearchConnect("test", "127.0.0.1", "austin", true);
+        connet.InitOrUpdate(restaurantList);
+        connet.close();
 
         System.out.println("excution finished");
         final String dir = System.getProperty("user.dir");
