@@ -158,6 +158,8 @@ public class TopRun {
 
 
 //        JedisMain test = new JedisMain();
+
+//
 //        System.out.println("\nRedis build up begins.\n");
 //        test.build(sorted);
 //        System.out.println("Redis build up completes.\n");
@@ -167,13 +169,14 @@ public class TopRun {
 
 
 
-//        DatabaseAndSearchConnect dishConn = new DatabaseAndSearchConnect("dish", "127.0.0.1", "austin", true);
-//        dishConn.cleanup();
-//        dishConn.close();
-//           
-//        DatabaseAndSearchConnect dishCon = new DatabaseAndSearchConnect("dish", "127.0.0.1", "austin", true);
-//        dishCon.dishInitOrUpdate(restaurantList);
-//        dishCon.close();
+
+        DatabaseAndSearchConnect dishConn = new DatabaseAndSearchConnect("dish", "127.0.0.1", "austin", true);
+        dishConn.cleanup();
+        dishConn.close();
+           
+        DatabaseAndSearchConnect dishCon = new DatabaseAndSearchConnect("dish", "127.0.0.1", "austin", true);
+        dishCon.dishInitOrUpdate(restaurantList);
+        dishCon.close();
         
         
         DatabaseAndSearchConnect autoConn = new DatabaseAndSearchConnect("auto", "127.0.0.1", "auto", true);
@@ -183,6 +186,7 @@ public class TopRun {
         DatabaseAndSearchConnect autoCon = new DatabaseAndSearchConnect("auto", "127.0.0.1", "auto", true);
         autoCon.autoInitOrUpdate(sorted);
         autoCon.close();
+
 
         System.out.println("excution finished");
         final String dir = System.getProperty("user.dir");
