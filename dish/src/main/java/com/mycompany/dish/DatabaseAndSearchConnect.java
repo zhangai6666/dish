@@ -1,13 +1,13 @@
 package com.mycompany.dish;
 
-import java.util.List;
-
+import java.util.*;
 import com.datastax.driver.core.Cluster;
 import com.datastax.driver.core.ResultSet;
 import com.datastax.driver.core.Row;
 import com.datastax.driver.core.Session;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
+import java.util.Map;
 import java.util.UUID;
 import org.elasticsearch.action.admin.indices.delete.DeleteIndexRequest;
 import org.elasticsearch.client.Client;
@@ -52,7 +52,7 @@ public class DatabaseAndSearchConnect {
             session = cluster.connect(myKeyspace);
         } catch (Exception InvalidQueryException) {  
             System.out.println("Keyspace: " + myKeyspace + "  Not yet exist");
-            System.out.println("Creating Keyspace" + myKeyspace);
+            System.out.println("Creating Keyspace  " + myKeyspace);
             
             Session sessionInit = cluster.connect();
             String createKeyspace = "CREATE KEYSPACE " + myKeyspace + " WITH replication "
@@ -64,10 +64,8 @@ public class DatabaseAndSearchConnect {
     }
 
     // Initialize or Update DB and Elastic Search
-    public void InitOrUpdate(List<Restaurant> list) {
-
-        if (Init) {
-            
+    public void dishInitOrUpdate(List<Restaurant> list) {
+        if (Init) {           
             // Create Talble restaurant and dish
             String createRestaurantTable = "CREATE TABLE restaurant( "
                     + "rid uuid , "
@@ -139,19 +137,59 @@ public class DatabaseAndSearchConnect {
                     String dishJson = session.execute(getDishJson).one().getString(0);
                     client.prepareIndex(myIndex, "dish", dUUid.toString()).setSource(dishJson).get();
                 }
-            }
-            
-            
-
-        }
-        
-        
+            }         
+        }          
         // Print out INFO
         ResultSet allDish = session.execute("SELECT * FROM dish ");
         System.out.println("Dishes inserted into DB:" + allDish.all().size());
-        
-
     }
+    
+    
+    
+    
+    
+    // Auto complete's Initialize or Update
+    public void autoInitOrUpdate(Map<String, List<Frequency>> summary) {
+        if (Init) {
+            // Create Talble auto
+            String createAutoTable = "CREATE TABLE auto( "
+                    + "input varchar , "
+                    + "suggestions list<text>, "
+                    + "PRIMARY KEY (input));";
+            session.execute(createAutoTable);
+
+            for (String key : summary.keySet()) {
+                //System.out.println("inserting for input:  " + key);
+                List<Frequency> list = summary.get(key);
+                List<String> suggestions = new ArrayList<>();
+                for (int i = 0; i < list.size(); i++) {
+                    Frequency freq = list.get(i);
+                   // System.out.println("adding suggestion:  " + freq.toString());
+                    suggestions.add(freq.toString());
+                }
+
+                // Insert autoFinish into DB 
+//                String insertAuto = "INSERT INTO auto (input, suggestions)"
+//                    + " VALUES( " + key + "$$, $$" + suggestions + "$$);";
+//              
+           
+                session.execute("INSERT INTO auto (input, suggestions) VALUES (?, ?)", key, suggestions);
+
+                // Insert auto into Elastisearch
+                //String getSuggestion = "SELECT * FROM auto WHERE input =" + key;
+                ResultSet insert = session.execute("SELECT json * FROM auto WHERE input = ?", key);
+                String json = insert.one().getString(0);
+               // System.out.println(json);
+                client.prepareIndex(myIndex, "auto", key).setSource(json).get();
+            }
+
+        }
+
+        // Print out INFO
+        ResultSet allAuto = session.execute("SELECT * FROM auto ");
+        System.out.println("Auto completes inserted into DB:" + allAuto.all().size());
+    }
+
     
     
     public void cleanup() {

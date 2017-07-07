@@ -88,7 +88,7 @@ the bayou breakfast {Entree=1}
 loimer, "brut rose" zweigelt-pinot noir-chardonnay, niederosterreich {Drink=1}
 fume blanc {Drink=1}
 cheese omelet* {Entree=1}
-iced tea {Entree=1, Dessert=1, Drink=21}
+iced tea {Drink=21, Dessert=1, Entree=1}
 chocolate covered bacon {Dessert=1}
 cool but rude* {Drink=1}
 taco salad {Entree=7}
@@ -220,7 +220,7 @@ garganelli pomodoro e basilico o bolognese {Entree=1}
 grilled chicken san'wich {Entree=1}
 japanese style fried chicken {Drink=1}
 stuffed french toast {Entree=1}
-latte {Entree=2, Dessert=3, Drink=5}
+latte {Drink=5, Dessert=3, Entree=2}
 grilled watermelon & smoked trout {Entree=2}
 neyers, "vista luna" zinfandel, borden ranch {Drink=1}
 king rex {Drink=1}
@@ -268,7 +268,7 @@ chocolate mousse {Entree=1}
 focaccia {Entree=2}
 malbec 2013, altos las hormigas, uco valley, mendoza {Drink=1}
 independence seasonal {Drink=1}
-blantons {Entree=1, Drink=1}
+blantons {Drink=1, Entree=1}
 broiled rainbow trout {Entree=1}
 ankimo {Entree=1}
 roasted rainbow trout {Entree=2}
@@ -344,9 +344,9 @@ potato salad (small) {Entree=1}
 strozzapreti {Entree=2}
 sushi & sashimi {Entree=2}
 parkside 78* {Drink=1}
-french fries {Entree=8, Drink=2}
+french fries {Drink=2, Entree=8}
 select cocktails {Entree=1}
-hama chili* {Entree=2, Drink=1}
+hama chili* {Drink=1, Entree=2}
 moretti {Drink=2}
 jordan, chardonnay 2012 russian river valley {Drink=1}
 pimento cheese on rustic white sourdough {Entree=1}
@@ -361,7 +361,7 @@ ensalada de espinacas {Entree=1}
 dr. pepper {Entree=3}
 chocolate chip {Entree=2}
 dalmore 12yr {Entree=1}
-bocconotti {Entree=1, Dessert=1}
+bocconotti {Dessert=1, Entree=1}
 grilled veggie burger patty {Entree=2}
 tom yum kung {Entree=1}
 perry's famous pork chop 'bites' {Entree=2}
@@ -600,7 +600,7 @@ tuna maki {Entree=1}
 apricot limonata {Drink=1}
 sartori amarone {Drink=1}
 mr. pink {Entree=1}
-steamed edamame {Entree=1, Drink=1}
+steamed edamame {Drink=1, Entree=1}
 chile con queso with chips {Entree=1}
 a to z, chardonnay, oregon {Drink=1}
 german curry wurst {Entree=1}
@@ -651,11 +651,11 @@ kao soi 360 {Entree=1}
 caravella limoncello {Dessert=1}
 liver pate sandwich {Entree=1}
 lump crab & spinach dip {Entree=2}
-cappuccino {Entree=2, Dessert=4, Drink=6}
+cappuccino {Drink=6, Dessert=4, Entree=2}
 strawberry shortcake {Dessert=1}
 crepas de cajeta {Entree=1}
 louis xiii {Entree=1}
-maine root ginger beer {Entree=1, Drink=1}
+maine root ginger beer {Drink=1, Entree=1}
 fajita chicken or fajita beef* {Entree=4}
 tullamore dew {Entree=1}
 salsa/sauces {Entree=1}
@@ -708,7 +708,7 @@ herradura {Drink=1}
 13x9 inch sheet (30 servings) {Entree=9}
 combination platter {Entree=1}
 strube ranch wagyu sirloin*, truffle fries persillade {Entree=1}
-beef negima {Entree=1, Drink=1}
+beef negima {Drink=1, Entree=1}
 apple {Entree=1}
 glenmorangie 10yr, highland {Drink=1}
 margarita la condesa {Drink=1}
@@ -718,7 +718,7 @@ henry mckenna single barrel {Entree=1}
 chili mayonesa {Entree=1}
 dewars {Drink=1}
 bolognaise {Entree=1}
-lemonade {Entree=1, Dessert=1, Drink=5}
+lemonade {Drink=5, Dessert=1, Entree=1}
 rack of lamb {Entree=1}
 gator bites {Entree=1}
 charbroiled catfish . {Entree=1}
@@ -774,7 +774,7 @@ julienne pork spring roll {Entree=1}
 japanese pickles maki {Entree=1}
 tex-mex salad combinations* {Entree=4}
 smoked brisket salpicon {Entree=1}
-juice {Entree=1, Drink=1}
+juice {Drink=1, Entree=1}
 ebi {Entree=1}
 new orleans bread pudding {Entree=1}
 noodle salad {Entree=2}
@@ -804,7 +804,7 @@ linguine pasta dinners {Entree=1}
 jhinga sholay {Entree=1}
 korma {Entree=1}
 chalco platter {Entree=1}
-diet coke {Entree=4, Drink=3}
+diet coke {Drink=3, Entree=4}
 tabouli salad {Entree=1}
 seasonal spinach salad {Entree=1}
 chorizo/ spicy mexican sausage {Entree=1}
@@ -869,7 +869,7 @@ lone star draft & pabst tall boys {Drink=1}
 william larue weller {Entree=1}
 catfish (fried or grilled) {Entree=1}
 pepper steak {Entree=3}
-sprite {Entree=2, Drink=3}
+sprite {Drink=3, Entree=2}
 poached pears {Dessert=1}
 chef's chicken & roasted carrots {Entree=1}
 spicy pepper {Entree=1}
@@ -921,7 +921,7 @@ beefsteak tomato salad {Entree=3}
 lemon squares {Dessert=1}
 tacoloco {Entree=2}
 peroni {Drink=4}
-uchiviche* {Entree=1, Drink=1}
+uchiviche* {Drink=1, Entree=1}
 greek lamb burger {Entree=4}
 branzino* {Entree=1}
 montepulciano 2015 la valentina, cerasuolo d'abruzzo* {Entree=2}
@@ -1018,7 +1018,7 @@ beef low mein {Entree=1}
 lumberjack wrap {Entree=1}
 pancakes {Kids=4, Entree=1}
 greek sandwich {Entree=3}
-woodford reserve {Entree=2, Drink=1}
+woodford reserve {Drink=1, Entree=2}
 44 farms ny strip {Entree=1}
 apple cobbler {Dessert=1}
 shiny seas, pei {Entree=1}
@@ -1062,7 +1062,7 @@ seasoned ground sirloin {Entree=8}
 katsu don {Entree=1}
 mac-n-cheese {Entree=1}
 brisket & queso burrito {Entree=1}
-san pellegrino {Entree=2, Dessert=1, Drink=1}
+san pellegrino {Drink=1, Dessert=1, Entree=2}
 wagyu beef sliders {Entree=2}
 pork loin or turkey {Entree=1}
 masi masianco, veneto {Drink=1}
@@ -1124,7 +1124,7 @@ ginga shizuku, "divine droplets" junmai daiginjo {Drink=1}
 domaine leflaive, sous le dos d'âne 1 er cru chardonnay 2011 meursault {Drink=1}
 grey goose martini {Drink=1}
 seafood combination pot* {Entree=1}
-zabaglione {Entree=1, Dessert=1}
+zabaglione {Dessert=1, Entree=1}
 vermicelli with montreal chicken and shrimp {Entree=1}
 grilled zucchini {Entree=1}
 signature tasting {Entree=1}
@@ -1257,7 +1257,7 @@ philly cheesesteak {Entree=1}
 creme brulee {Dessert=2}
 terlingua {Entree=1}
 shrimp with hot garlic {Entree=1}
-drinks {Entree=2, Drink=1}
+drinks {Drink=1, Entree=2}
 barbecue new zealand salmon fillet* {Entree=2}
 sapporo premium {Drink=1}
 achiote pulled pork tacos {Entree=4, Vegetarian=4}
@@ -1326,7 +1326,7 @@ salmon shioyaki {Entree=1}
 riesling 2013, hansen-lauer, mosel {Drink=1}
 oven-roasted wings {Entree=1}
 fried tilapia {Kids=1, Entree=1}
-bud light {Entree=1, Drink=10}
+bud light {Drink=10, Entree=1}
 taco & enchilada {Entree=4}
 beef tataki {Entree=1}
 jamon serrano {Entree=1}
@@ -1365,14 +1365,14 @@ english muffin {Entree=8, Vegetarian=4}
 country fried chicken salad {Entree=1}
 jalapeño chicken {Entree=1}
 genuine kona coffee {Entree=1}
-tater tots {Entree=1, Drink=1}
+tater tots {Drink=1, Entree=1}
 warm potato salad {Entree=1}
 h. billiot fils, brut rosé nv ambonnay champagne {Drink=1}
 bouvet, brut rosé nv loire valley {Drink=1}
 qupe syrah, central coast, california 2012 {Drink=1}
 chef's tasting* {Entree=1}
 beanie weenie cup {Entree=1}
-flavored iced tea {Dessert=1, Drink=1}
+flavored iced tea {Drink=1, Dessert=1}
 metaxa '5 stars', samos, aegean sea {Drink=1}
 lagunitas ipa {Drink=1}
 grilled chicken breast dinner {Entree=1}
@@ -1437,7 +1437,7 @@ lentil soup {Entree=1}
 akaushi picadillo {Entree=1}
 fried crawfish po-boy {Entree=1}
 2015 tintonegro malbec, uco valley, mendoza {Drink=1}
-fresh seasonal berries {Entree=3, Dessert=2}
+fresh seasonal berries {Dessert=2, Entree=3}
 darioush caravan, napa {Drink=1}
 stir fried baby bok choy {Entree=1}
 hongos/ mushroom {Entree=1}
@@ -1476,7 +1476,7 @@ stuffed tomato {Entree=1}
 prime rib {Entree=3}
 woodford double oaked {Entree=1}
 bone-in tenderloin filet {Entree=1}
-yokai berry* {Entree=1, Drink=1}
+yokai berry* {Drink=1, Entree=1}
 ice cream floats {Dessert=1}
 virginia b. wood, austinchronicle.com {Entree=1}
 taco blanco {Entree=1}
@@ -1559,7 +1559,7 @@ shishito peppers {Entree=3}
 wakatake onikoroshi "demon slayer"junmai daiginjo (720ml) {Drink=1}
 cucumber blueberry martini {Drink=2}
 2015 hess 'shirtall ranches' chardonnay, california {Drink=1}
-red sangria {Entree=2, Drink=1}
+red sangria {Drink=1, Entree=2}
 taverna beef hash* {Entree=1}
 stubb's minor {Entree=1}
 tartare of pacific ahi tuna {Entree=2}
@@ -1581,7 +1581,7 @@ hennessy vsop {Entree=1}
 ecco domani pinot grigio {Drink=4}
 holy mary {Drink=1}
 pinot grigio, mazzoni, igt, tuscany {Drink=1}
-key lime pie {Dessert=4, Drink=1}
+key lime pie {Drink=1, Dessert=4}
 smoked chicken wings {Entree=1}
 pho nam {Entree=1}
 staglin, cabernet sauvignon 2010 napa valley {Drink=1}
@@ -1679,7 +1679,7 @@ vietti "castiglione" barolo {Drink=1}
 field recordings, "fiction" field blend, paso robles {Drink=1}
 telmo rodriguez, "dehesa gago"tempranillo 2012 toro {Drink=1}
 mustard greens w/pork noodle soup {Entree=1}
-spicy tuna maki {Entree=1, Drink=1}
+spicy tuna maki {Drink=1, Entree=1}
 onion {Entree=2}
 blufeld (medium-sweet) , mosel, germany {Drink=1}
 walt "blue jay", anderson valley {Drink=1}
@@ -1757,7 +1757,7 @@ one cup of gelato {Kids=1}
 shrimp & crawfish fondeaux {Entree=2}
 taylor street baked ziti {Entree=6}
 kentucky club margarita {Drink=1}
-moscow mule {Entree=1, Drink=2}
+moscow mule {Drink=2, Entree=1}
 pacific ahi tuna* {Entree=2}
 sauteed falafel {Vegetarian=1}
 lagunitas ipa (12oz) {Drink=1}
@@ -2045,7 +2045,7 @@ fried eggs {Entree=1}
 pork ribs  half rack {Entree=1}
 moscato di asti batasiolo {Dessert=1}
 spicy octopus {Entree=1}
-mexican martini {Entree=1, Drink=2}
+mexican martini {Drink=2, Entree=1}
 chicken meatball {Entree=2}
 vegetables {Entree=5}
 ginger cookie {Entree=1}
@@ -2377,7 +2377,7 @@ chuy's brew {Drink=4}
 trefethen chardonnay 2012 oak knoll district napa {Drink=1}
 lemon poppy bread & granola parfait {Entree=4}
 grilled bagel with cream cheese {Entree=2}
-spicy salmon maki {Entree=1, Drink=1}
+spicy salmon maki {Drink=1, Entree=1}
 fettuccini primavera {Entree=1}
 strawberry spice mule {Drink=1}
 italian spumoni* {Dessert=2}
@@ -2441,7 +2441,7 @@ hot & spicy jumbo shrimp* {Entree=1}
 prime ribeye** {Entree=2}
 mongeard-mugneret 1 er cru "les narbantons" pinot noir 2011 savigny-les-beaune {Drink=1}
 egg rolls (2 pcs.) {Entree=1}
-jack daniels {Entree=1, Drink=1}
+jack daniels {Drink=1, Entree=1}
 spaghetti alle vongole {Entree=3}
 giant meatball spaghetti {Kids=1}
 1 egg with all the trimmings* {Entree=1}
@@ -2594,7 +2594,7 @@ harrys perfect pastrami {Entree=1}
 wirsching "iphöfer" scheurebe kabinett trocken 2012 franken {Drink=1}
 heinrich mayr nusserhof "b" nv bozen {Drink=1}
 ume shiso maki {Entree=1}
-okashi {Dessert=1, Drink=1}
+okashi {Drink=1, Dessert=1}
 jumbo lump crab meat {Entree=1}
 far niente, chardonnay 2012 napa valley {Drink=1}
 black truffle pomme frites {Entree=1}
@@ -2636,7 +2636,7 @@ shredded potato {Entree=1}
 prime beef carpaccio {Entree=1}
 andouille sausage & seafood gumbo {Entree=2}
 roasted brussels sprouts {Entree=2}
-fresh fruit {Kids=2, Entree=5, Dessert=1, Vegetarian=1}
+fresh fruit {Kids=2, Dessert=1, Entree=5, Vegetarian=1}
 kerbey lane combo {Vegetarian=4}
 pork milanese, arugula. radicchio {Entree=1}
 ancient peaks, "renegade" syrah-zin-petite sirah-petit verdot, paso robles {Drink=1}
@@ -2904,7 +2904,7 @@ deluxe quesadillas {Entree=7}
 simple sauteed broccoli {Entree=1}
 vegetarian on focaccia {Entree=1}
 portobello omelet {Vegetarian=8}
-jalapenos {Entree=1, Drink=1}
+jalapenos {Drink=1, Entree=1}
 kanikam (crabstick) {Entree=1}
 eggs napoleon {Entree=1}
 pho do bien {Entree=1}
@@ -2949,7 +2949,7 @@ chicken tortilla soup {Entree=1}
 n.y. italian {Entree=3}
 p-38 hand roll* {Drink=1}
 french fries large {Entree=1}
-tres leches cake {Entree=2, Dessert=1}
+tres leches cake {Dessert=1, Entree=2}
 pad thai {Entree=3}
 the smoke stack {Entree=1}
 frozen margarita {Drink=1}
@@ -3146,7 +3146,7 @@ white truffle garlic bread {Entree=2}
 fisher unity, proprietary blend, napa, california 2012 {Drink=1}
 pork chop friday lunch {Entree=1}
 surf & turf {Entree=1}
-bacon {Entree=3, Drink=1}
+bacon {Drink=1, Entree=3}
 curry buns (2) {Entree=1}
 chilaquiles con huevos {Entree=1}
 vegetarian enchiladas {Entree=1}
@@ -3188,7 +3188,7 @@ guacamole {Entree=13}
 quinta do noval lbv porto, douro, portugal 2007 {Drink=1}
 smoked elgin sausage {Entree=1}
 fried oysters {Entree=3}
-bacon steakie {Entree=1, Drink=1}
+bacon steakie {Drink=1, Entree=1}
 perry's famous pork chop {Entree=1}
 rice noodle soup with vegetable and tofu {Entree=1}
 bananas foster* {Dessert=1}
@@ -3497,7 +3497,7 @@ rare wine co. 'savannah' verdelho, madeira {Dessert=1}
 tostadas compuestas surtidas {Entree=1}
 asian seared tuna salad {Entree=1}
 r.j. club {Entree=1}
-copper & kings 'immature', louisville {Dessert=1, Drink=1}
+copper & kings 'immature', louisville {Drink=1, Dessert=1}
 yakitori {Entree=1}
 seafood fried rice {Entree=1}
 caldo de borrego {Entree=1}
@@ -3541,7 +3541,7 @@ classic mojito {Drink=4}
 chicken chipotle wrap {Entree=1}
 dogfish 60 minute ipa, maryland {Drink=1}
 seafood pancake {Entree=1}
-tuna with truffle oil {Entree=1, Drink=1}
+tuna with truffle oil {Drink=1, Entree=1}
 tentaka kuni "hawk in the heavens" junmai (300ml) {Drink=1}
 yellowtail {Entree=1}
 clay pit pakoras* {Entree=1}
@@ -3731,7 +3731,7 @@ baja fish tacos {Entree=1}
 shepherds pie {Entree=1}
 stir fried squid w/white sauce {Entree=1}
 bloomsdale spinach {Entree=1}
-san pelligrino {Entree=1, Drink=2}
+san pelligrino {Drink=2, Entree=1}
 specialty tea {Drink=4}
 the gobble {Entree=1}
 roasted mushrooms, parmesan, poached egg {Entree=1}
@@ -3821,7 +3821,7 @@ greek portobello {Vegetarian=4}
 kimchi jjigae {Entree=1}
 flat creek pinot grigio {Drink=1}
 miso soup {Entree=1}
-cheesecake {Entree=1, Dessert=1}
+cheesecake {Dessert=1, Entree=1}
 red beans and rice {Entree=1}
 1 egg any style with ham* {Entree=1}
 green chile pork {Entree=1}
@@ -3897,7 +3897,7 @@ mango cheesecake {Dessert=1}
 prosciutto e asparagi {Entree=1}
 organic brown rice {Kids=1, Entree=1}
 gewürztraminer 2013, handley, anderson valley {Drink=1}
-milk {Entree=1, Drink=7}
+milk {Drink=7, Entree=1}
 salmon egg {Entree=1}
 hanky panky {Drink=1}
 dos xx, lager, monterrey, mexico {Drink=1}
@@ -3970,7 +3970,7 @@ pechuga de pollo marinada {Entree=1}
 4oz catfish fillet {Entree=1}
 cheeseburger, lettuce, tomato, red onion, special sauce {Entree=1}
 veal piccata {Entree=2}
-drip coffee {Dessert=1, Drink=1}
+drip coffee {Drink=1, Dessert=1}
 tom yum pak {Entree=1}
 campfire hash {Entree=1}
 teppan fish fillet* {Entree=1}
@@ -3982,7 +3982,7 @@ mussels dijon {Entree=1}
 g-free portabella mushroom wrap served with a side {Entree=1}
 yuki no bosha limited release junmai ginjo (720ml) {Drink=1}
 coto de imaz reserva tempranillo 2008 rioja {Drink=1}
-pork ribs {Entree=2, Drink=1}
+pork ribs {Drink=1, Entree=2}
 plain naan {Entree=1}
 chicken tenders {Kids=1}
 atlantic salmon alexander* {Entree=2}
@@ -3994,7 +3994,7 @@ the local {Entree=1}
 atlantic salmon yvette* {Entree=2}
 huevos a la mexicana with cheese {Entree=1}
 caraway rye {Entree=1}
-mimosa {Entree=1, Drink=13}
+mimosa {Drink=13, Entree=1}
 chardonnay blend, aimery, crémant de limoux {Drink=1}
 potatoes au gratin {Entree=1}
 maine lobster {Entree=1}
@@ -4021,7 +4021,7 @@ salmon oscar {Entree=2}
 miranda's pecan praline pistolette {Dessert=1}
 veggie reuben {Entree=2}
 boca negra {Entree=1}
-cosmopolitan {Entree=1, Drink=2}
+cosmopolitan {Drink=2, Entree=1}
 fresh or pickled jalapeno {Entree=1}
 thai cashew quinoa {Entree=1}
 pan-seared ahi tuna {Entree=1}
@@ -4066,7 +4066,7 @@ fuji apple salad {Entree=4}
 cruzan black cherry mojito {Entree=1}
 choose any starter or two side salads {Entree=2}
 mango cosmo {Entree=1}
-strawberry muffins {Entree=1, Dessert=1}
+strawberry muffins {Dessert=1, Entree=1}
 vegetarian steamed bun {Vegetarian=1}
 muek yang kao kua {Entree=1}
 muffaletta {Entree=2}
@@ -4100,7 +4100,7 @@ bobs chicken bowl {Entree=1}
 kid quesadilla {Kids=2}
 jarritos {Drink=1}
 marzipan pocket {Entree=1}
-limonata {Entree=2, Drink=2}
+limonata {Drink=2, Entree=2}
 house-made linguini, jbg cherry tomato, scapes, parm, basil {Entree=1}
 fat jack burger* {Entree=1}
 blueberry habañero infused {Drink=1}
@@ -4108,12 +4108,12 @@ brisket {Entree=2}
 mexican coca-cola bottle {Drink=1}
 denver scramble {Entree=1}
 fried chicken sandwich* {Entree=1}
-miller lite {Entree=1, Drink=3}
+miller lite {Drink=3, Entree=1}
 half-off antipasti {Entree=2}
 kuhlman, "alluve" sangiovese-carignan-mourvedre-tempranillo-touriga, texas {Drink=1}
 g-free bleu cheese bacon burger* served with a side {Entree=1}
 chocolate chip cookie {Entree=1}
-cannoli {Entree=1, Dessert=1}
+cannoli {Dessert=1, Entree=1}
 reuben fries {Entree=1}
 smoked ham {Entree=2}
 trailer park {Entree=1}
@@ -4248,7 +4248,7 @@ kampachi {Entree=1}
 vegetariana omelet {Entree=2}
 roast chicken, greens, broccoli, sweet potato, greens {Entree=1}
 sazerac 6yr {Entree=1}
-shiner bock {Entree=1, Drink=12}
+shiner bock {Drink=12, Entree=1}
 rice noodle soup with vegetables {Vegetarian=1}
 fight or flight {Drink=1}
 sweet corn & quinoa {Kids=1, Entree=1}
@@ -4290,7 +4290,7 @@ plain cheese {Entree=1}
 sangria blanco {Drink=1}
 hummus & pita** {Entree=4}
 lone star (tallboy) {Drink=1}
-topo chico {Entree=3, Drink=4}
+topo chico {Drink=4, Entree=3}
 white chocolate cheesecake {Dessert=1}
 green tea tiramisu {Dessert=1}
 glenlivet 12yr, speyside, highlands {Drink=1}
@@ -4410,7 +4410,7 @@ kolache (sausage) {Entree=1}
 graham's 'six grapes' ruby port {Dessert=1}
 baja ceviche {Entree=1}
 etude, pinot gris, carneros {Drink=1}
-remy martin xo {Entree=1, Drink=1}
+remy martin xo {Drink=1, Entree=1}
 tofu {Entree=1}
 tagliata di manzo* {Entree=3}
 salmon greek salad {Entree=1}
@@ -4480,7 +4480,7 @@ chicken lemongrass {Entree=2}
 pan fried tofu* {Entree=1}
 cream of potato & sunchoke {Entree=3}
 robert mondavi "p.s.", north coast {Drink=1}
-koviche* {Entree=1, Drink=1}
+koviche* {Drink=1, Entree=1}
 white peach saketini {Drink=1}
 halter ranch, "adelaida district" syrah-viognier, paso robles {Drink=1}
 antonelli's meat and cheese board* {Entree=1}
@@ -4649,7 +4649,7 @@ quiche & soup combo {Entree=1}
 dr. hermann "dr. h" riesling 2012 mosel {Drink=1}
 skylark, "orsi vineyard" pinot blanc, mendocino {Drink=1}
 jambalaya {Entree=4}
-tiramisu {Entree=2, Dessert=9}
+tiramisu {Dessert=9, Entree=2}
 seasonal sorbet selection {Dessert=1}
 alambre de camaron y pollo {Entree=1}
 southside gourmet italian {Entree=1}
@@ -4702,14 +4702,14 @@ quinto do noval lbv port 2007, douro {Drink=1}
 macallan 12 year old {Entree=1}
 bodega fefinane, albarino, rias baixas {Drink=1}
 perrin reserve cotes du rhone, france {Drink=1}
-stella artois {Entree=1, Drink=5}
+stella artois {Drink=5, Entree=1}
 inman pinot noir, russian river valley, california 2011 {Drink=1}
 stuffed crab {Entree=3}
 sauteed summer vegetables {Entree=1}
 dr pepper {Drink=3}
 vegetarian combo** {Entree=4}
 cured white anchovies {Entree=3}
-strawberry {Entree=1, Drink=4}
+strawberry {Drink=4, Entree=1}
 cazadores silver tequila {Drink=1}
 filet perry* {Entree=1}
 sambuca {Drink=1}
@@ -4721,7 +4721,7 @@ butternut squash risotto {Entree=1}
 cheese pizza {Kids=1}
 green chile {Entree=3}
 grilled wings {Entree=1}
-german chocolate cake {Entree=1, Dessert=2}
+german chocolate cake {Dessert=2, Entree=1}
 flat creek sangiovese blend {Drink=1}
 jalapeño philly cheesesteak - steak or chicken {Entree=1}
 billhook, napa valley {Drink=1}
@@ -4858,7 +4858,7 @@ tooth & nail, "the possessor" cab-malbec-petit sirah, paso robles {Drink=1}
 eater austin {Entree=1}
 molasses & chile cured pork chop {Entree=1}
 zucchini {Entree=2}
-machi cure* {Entree=1, Drink=1}
+machi cure* {Drink=1, Entree=1}
 basic banana {Drink=1}
 orvieto, argillae, umbria {Drink=2}
 vermicelli with pork eggroll {Entree=1}
@@ -4873,18 +4873,18 @@ pure vermont maple syrup {Entree=1}
 mv castello del poggio moscato, italy {Drink=2}
 left hand milk stout nitro {Drink=1}
 cornmeal fried oysters {Entree=1}
-dinner salad {Entree=2, Vegetarian=1, Drink=1}
+dinner salad {Drink=1, Entree=2, Vegetarian=1}
 special combination plate - dinner {Entree=1}
 vegan queso {Vegetarian=4}
 clydebank courage {Drink=1}
 espinacas / spinach {Entree=1}
 spaghetti aglio e olio {Entree=1}
-lone star {Entree=1, Drink=6}
+lone star {Drink=6, Entree=1}
 ahogada {Entree=2}
 vitello rosmarino {Entree=1}
 mini germans chocolate cake {Dessert=1}
 llano poblano {Entree=1}
-prosecco {Entree=2, Drink=1}
+prosecco {Drink=1, Entree=2}
 carne asada bolillo {Entree=1}
 the royale with cheese {Entree=1}
 blanc manger {Entree=1}
@@ -4952,7 +4952,7 @@ johnny's carbonara** {Entree=2}
 chardonnay, true myth, san luis obispo county {Drink=2}
 biscuits, eggs, gravy & all-natural sausage {Entree=4}
 22 oz usda prime bone-in ribeye* {Entree=2}
-classic caesar salad {Entree=6, Drink=1}
+classic caesar salad {Drink=1, Entree=6}
 disaronno amaretto {Drink=1}
 2015 two hands 'angel's share', australia {Drink=1}
 macallan edition no. 1 {Entree=1}
@@ -5068,14 +5068,14 @@ baingan bartha {Vegetarian=1}
 seasonal salads {Entree=1}
 two enchiladas {Entree=1}
 neptunian landscape {Entree=2}
-fireman's 4 {Entree=1, Drink=3}
+fireman's 4 {Drink=3, Entree=1}
 bbq pork fried rice {Entree=1}
 2012 jordan, alexander valley {Drink=1}
 taylor fladgate tawny port 30 yr. {Dessert=1}
 2011 marchesi di barolo, piedmont, italy {Drink=1}
 blueberry {Entree=3}
 camarones a la diabla {Entree=1}
-fried okra {Entree=4, Drink=1}
+fried okra {Drink=1, Entree=4}
 smashed guacamole {Entree=1}
 pho tai bo vien {Entree=2}
 decendiente de j palacios petalos, mencia, bierzo, spain 2011 {Drink=1}
@@ -5151,7 +5151,7 @@ texas sling {Entree=1}
 the alien {Entree=1}
 escargot, garlic herb butter, toasted breadcrumbs {Entree=1}
 popeye {Entree=2}
-christian brothers vs, san joaquin valley {Dessert=1, Drink=1}
+christian brothers vs, san joaquin valley {Drink=1, Dessert=1}
 nada chicken {Entree=3}
 jean-jacques girard savigny-les-beaunes, burgundy, france 2010 {Drink=1}
 breaded fish filet {Entree=1}
@@ -5223,7 +5223,7 @@ olivier ravoire, syrah, crozes hermitage {Drink=1}
 meghan mccarron, austin.eater.com {Entree=1}
 austin amber {Drink=2}
 grand marnier {Drink=1}
-chips {Entree=4, Drink=1}
+chips {Drink=1, Entree=4}
 mustard greens {Entree=2}
 hot smoked salmon* {Entree=2}
 cab sauv 2013, ladera, napa valley {Drink=1}
@@ -5281,7 +5281,7 @@ vegetable delight {Entree=1}
 onion & cilantro naan {Entree=1}
 cole slaw (small) {Entree=1}
 bernheim wheat {Entree=1}
-americano {Entree=2, Drink=2}
+americano {Drink=2, Entree=2}
 fleming's potatoes {Entree=2}
 combo lemongrass {Entree=2}
 blue {Entree=1}
@@ -5317,14 +5317,14 @@ green chile stew {Entree=3}
 pahlmeyer jayson, north coast california {Drink=1}
 salt and pepper calamari {Entree=1}
 birichino, malvasia bianca, monterey {Drink=1}
-orange juice {Entree=1, Drink=2}
+orange juice {Drink=2, Entree=1}
 vermicelli with tofu {Entree=1}
 hangover burger* {Entree=3}
 felton road "calvert" pinot noir 2010 central otago {Drink=1}
 potato-egg-bean* {Entree=1}
 austin rita {Entree=1}
 mushroom stroganoff {Entree=1}
-hot tea {Dessert=2, Drink=7}
+hot tea {Drink=7, Dessert=2}
 chile relleno {Entree=2}
 brazos huevos rancheros {Entree=1}
 ladera cabernet sauvignon 2011 napa valley {Drink=1}
@@ -5340,7 +5340,7 @@ hibachi combinations {Entree=1}
 fennel bisque {Entree=1}
 tobiko (flying fish roe) {Entree=1}
 mixta con pollo rostizado {Entree=2}
-coffee {Entree=1, Drink=6}
+coffee {Drink=6, Entree=1}
 kobe beef maki {Entree=1}
 veggies {Entree=2}
 quesadillas** {Entree=4}
@@ -5364,7 +5364,7 @@ valpolicella ripasso, remo farina, veneto {Drink=2}
 single chalupa {Entree=1}
 hartford court, russian river valley {Drink=1}
 blackened redfish tacos* {Entree=1}
-michelob ultra {Entree=1, Drink=3}
+michelob ultra {Drink=3, Entree=1}
 le cirque grenache gris, cotes catalanes, france {Drink=1}
 green tea or red bean ice cream {Dessert=1}
 by the slice {Entree=1}
@@ -5440,7 +5440,7 @@ coconut curry {Entree=2}
 cornmeal fried oysters with chili morita & slaw {Entree=2}
 chardonnay blend, louis roederer, champagne {Drink=1}
 black bean salad {Entree=1}
-fountain soda {Entree=1, Drink=2}
+fountain soda {Drink=2, Entree=1}
 lobster & shrimp bisque {Entree=1}
 fruit {Entree=4}
 1/2 rack crispy baby back ribs with sweet & spicy asian bbq sauce {Entree=1}
@@ -5507,7 +5507,7 @@ eggs benedict* ^ {Entree=1}
 tampiquena {Entree=1}
 bhindi masala {Vegetarian=1}
 far niente chardonnay 2012 napa valley {Drink=1}
-espresso {Entree=2, Dessert=4, Drink=7}
+espresso {Drink=7, Dessert=4, Entree=2}
 manhattan {Drink=1}
 2013 nxnw, columbia valley, washington {Drink=1}
 southern fried chicken & waffles {Entree=1}
@@ -5555,7 +5555,7 @@ chewy chocolate cookies {Dessert=1}
 columbia crest two vines, washington {Drink=1}
 batata cham {Entree=1}
 barbacoa stackers {Entree=1}
-mexican coke {Entree=4, Drink=1}
+mexican coke {Drink=1, Entree=4}
 bacon gorgonzola {Entree=1}
 prime beef carpaccio* {Entree=1}
 the king's punch {Drink=4}
@@ -5606,7 +5606,7 @@ heirloom tomato tart {Entree=1}
 breakfast breads {Dessert=1}
 ahi tuna & jumbo crab {Entree=2}
 the lafayette {Entree=1}
-philadelphia maki {Entree=1, Drink=1}
+philadelphia maki {Drink=1, Entree=1}
 tim smith wines, "bugalugs" grenache, barossa valley {Drink=1}
 crawfish linguine {Entree=1}
 jumbo shrimp w/hot chili* {Entree=2}
@@ -5706,7 +5706,7 @@ mollejas {Entree=1}
 prosciutto bruschetta {Entree=2}
 pinot noir, bottega vinaia, trentino {Drink=1}
 alexandro pedro ximenez {Entree=1}
-courvoisier vsop, cognac {Dessert=1, Drink=1}
+courvoisier vsop, cognac {Drink=1, Dessert=1}
 insalata di funghi {Entree=1}
 mole sirloin (grilled steak) {Entree=1}
 2014 enroute pinot noir, russian river valley {Drink=1}
@@ -5757,7 +5757,7 @@ pfaffl zeiseneck gruner veltliner, weinviertel, austria 2012 {Drink=1}
 pesto alfredo {Entree=1}
 bluebonnet farms baby lettuces {Entree=1}
 hops & grain, "the one they call zoe" {Drink=1}
-aqua panna {Entree=3, Drink=2}
+aqua panna {Drink=2, Entree=3}
 pork spare ribs (1/2 lb.) {Entree=1}
 naked boneless wing basket {Entree=1}
 glenlivet 18yr, speyside, highlands {Drink=1}
@@ -5808,7 +5808,7 @@ sweet tea {Drink=1}
 kobai plum wine {Drink=1}
 shrimp lemongrass {Entree=1}
 billie holiday {Drink=1}
-brussels sprouts {Entree=3, Drink=1}
+brussels sprouts {Drink=1, Entree=3}
 oysters contraband {Entree=1}
 betsy's  veggie {Entree=1}
 aloo naan {Entree=2}
@@ -5827,7 +5827,7 @@ insalata innamorata {Entree=1}
 sam adams nitro coffee stout {Drink=1}
 arista, "toboni vineyard" pinot noir, russian river {Drink=1}
 risotto del'orto {Entree=1}
-fried egg sandwich {Entree=1, Drink=1}
+fried egg sandwich {Drink=1, Entree=1}
 pho tai {Entree=1}
 chicken bulgogi {Entree=1}
 maiale saltimbocca {Entree=1}
@@ -5913,14 +5913,14 @@ paulaner hefeweizen {Drink=1}
 larb sake {Entree=1}
 chardonnay, laguna, russian river valley {Drink=2}
 cordero {Entree=1}
-knob creek {Entree=2, Drink=1}
+knob creek {Drink=1, Entree=2}
 basil hayden {Drink=1}
 sonoma greens salad {Entree=1}
 mushroom ravioli al forno {Entree=6}
 kashmiri {Entree=1}
-crispy calamari {Entree=6, Drink=1}
+crispy calamari {Drink=1, Entree=6}
 malai kofta* {Vegetarian=1}
-don julio 1942 {Entree=1, Drink=1}
+don julio 1942 {Drink=1, Entree=1}
 mcpherson cellars, viognier 2013 texas {Drink=1}
 owen roe, merlot-cab franc-cabernet, yakima valley {Drink=1}
 eggroll (2pcs) {Entree=1}
@@ -6210,7 +6210,7 @@ good seed veggie burger** {Entree=4}
 all-natural ham* steak {Entree=4}
 cutty sark prohibition {Entree=1}
 tagliatelle con funghi {Entree=1}
-raspberry lemonade {Dessert=1, Drink=1}
+raspberry lemonade {Drink=1, Dessert=1}
 asian ahi tuna tartare {Entree=1}
 granola, yogurt, fresh fruit {Entree=1}
 berardenga ʻ95 "rancia reserva" sangiovese, chianti classico {Drink=1}
@@ -6432,7 +6432,7 @@ bowmore 12 year old {Entree=1}
 paris texas platter** {Entree=4}
 beef flank steak - thai style {Entree=1}
 bacon wrapped shrimp {Entree=4}
-cookies {Entree=1, Dessert=1}
+cookies {Dessert=1, Entree=1}
 salasa fresca {Entree=1}
 lemon pepper grilled shrimp {Entree=1}
 pork belly {Entree=2}
@@ -6489,7 +6489,7 @@ masaman curry {Entree=1}
 double-cut lamb chops* {Entree=1}
 lustau, "san emilio" pedro ximenez nv jerez {Dessert=1}
 orange peel chicken {Entree=1}
-hennessy xo, cognac {Dessert=1, Drink=1}
+hennessy xo, cognac {Drink=1, Dessert=1}
 soy milk {Entree=1}
 combo fried rice - lunch {Entree=1}
 elio altare, dolcetto d'alba, piedmont, italy 2010 {Drink=1}
@@ -6538,7 +6538,7 @@ draft beers {Drink=1}
 hot chocolate {Drink=2}
 austin eastciders hopped cider (tallboy) {Drink=1}
 risotto al parmigiano con salsa tartufata {Entree=5}
-frangelico {Entree=1, Drink=1}
+frangelico {Drink=1, Entree=1}
 charro beans {Entree=1}
 pork with garlic sauce {Entree=1}
 fritto misto {Entree=4}
@@ -6679,7 +6679,7 @@ loose leaf hot tea {Drink=1}
 brooklyn lager {Drink=1}
 baked potato omelet {Entree=4, Vegetarian=4}
 old overholt rye {Entree=1}
-coors light {Entree=1, Drink=3}
+coors light {Drink=3, Entree=1}
 fountain drink {Drink=1}
 château bellevue, semillonsauvignon blanc 2013 entre-deux-mers {Drink=1}
 caramelized flan {Dessert=1}
@@ -6700,7 +6700,7 @@ sugar snaps with portabellas {Entree=2}
 calabacitas rellenas {Entree=1}
 malabar {Entree=1}
 sobieski martini {Drink=1}
-caesar {Entree=6, Drink=1}
+caesar {Drink=1, Entree=6}
 chenin blanc 2013, domaine des baumard, savennières {Drink=1}
 rocks (12oz.) {Entree=1}
 rice paper rolls {Entree=1}
@@ -6930,9 +6930,9 @@ spicy beans (small) {Entree=1}
 jim beam black {Entree=1}
 we take reservations for {Entree=1}
 buttermilk pancakes {Kids=1, Entree=3}
-walu walu {Entree=1, Drink=1}
+walu walu {Drink=1, Entree=1}
 lamb kebab platter {Entree=1}
-corona light {Entree=1, Drink=4}
+corona light {Drink=4, Entree=1}
 onx, "indie" tempranillo, paso robles {Drink=1}
 shrimp enchiladas {Entree=2}
 bread pudding with bourbon sauce {Entree=1}
@@ -6987,7 +6987,7 @@ tagliata di manzo {Entree=3}
 peach cobbler {Dessert=1}
 chopped antipasto salad {Entree=1}
 grilled chicken breast sandwich {Entree=1}
-flan {Entree=2, Dessert=6}
+flan {Dessert=6, Entree=2}
 chicken & dumplings special {Entree=1}
 featured oyster (6) {Entree=1}
 comida deluxe {Entree=4}
