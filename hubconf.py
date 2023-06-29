@@ -17,7 +17,7 @@ def mgd(dataset:str, pretrained: bool =True, **kwargs) -> UNet2DConditionModel:
     unet = UNet2DConditionModel.from_config(config)
     
     if pretrained:
-        checkpoint = f"https://github.com/Dennisboyangzhang/dish/tree/master/assets/{dataset}.pth"
+        checkpoint = f"https://github.com/Dennisboyangzhang/dish/releases/download/1.0.0/{dataset}.pth"
         unet.load_state_dict(torch.hub.load_state_dict_from_url(checkpoint, progress=True))
     
     return unet
